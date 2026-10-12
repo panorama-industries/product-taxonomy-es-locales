@@ -4347,16 +4347,34 @@ es-AR:
       name: "Redes y blancos de pase para fútbol americano"
     sg-1-1-6:
       name: "Pelotas de fútbol americano"
+    sg-1-10-1-2:
+      name: "Guantes y puños de esgrima"
     sg-1-10-1-3:
       name: "Chaquetillas y camperas eléctricas para esgrima"
     sg-1-10-1-3-2:
       name: "Camperas de esgrima"
+    sg-1-10-3-1:
+      name: "Cables de cuerpo de esgrima"
+    sg-1-10-3-5:
+      name: "Entrenadores de estocada de esgrima"
+    sg-1-10-4-2:
+      name: "Hojas de florete para esgrima"
+    sg-1-11:
+      name: "Hockey sobre césped y lacrosse"
+    sg-1-11-1:
+      name: "Equipamiento de protección para hockey sobre césped y lacrosse"
+    sg-1-11-1-1:
+      name: "Guantes para hockey sobre césped y lacrosse"
     sg-1-11-1-1-2:
       name: "Guantes de arquero de hockey sobre césped"
+    sg-1-11-1-2:
+      name: "Cascos para hockey sobre césped y lacrosse"
     sg-1-11-1-3:
       name: "Máscaras y anteojos protectores para hockey sobre hierba y lacrosse"
     sg-1-11-1-3-2:
       name: "Anteojos para lacrosse y hockey sobre césped"
+    sg-1-11-1-4:
+      name: "Protectores para lacrosse y hockey sobre césped"
     sg-1-11-1-4-3:
       name: "Guardas de arquero y kickers"
     sg-1-11-1-4-4:
@@ -4365,16 +4383,44 @@ es-AR:
       name: "Pantalones y shorts de arquero para lacrosse y hockey sobre césped"
     sg-1-11-10-1:
       name: "Palos de arquero de lacrosse"
+    sg-1-11-11-1:
+      name: "Entrenadores de rebote para lacrosse"
+    sg-1-11-11-3:
+      name: "Dianas de tiro para lacrosse"
+    sg-1-11-12:
+      name: "Calzado de lacrosse y hockey sobre césped"
+    sg-1-11-12-2:
+      name: "Botines para lacrosse"
+    sg-1-11-2:
+      name: "Pelotas de hockey sobre césped"
     sg-1-11-3:
       name: "Arcos de hockey sobre hierba"
+    sg-1-11-4:
+      name: "Palos de hockey sobre césped"
     sg-1-11-4-1:
       name: "Palos de hockey sobre césped para arquero"
+    sg-1-11-5:
+      name: "Ayudas para el entrenamiento de hockey sobre césped"
     sg-1-11-5-1:
       name: "Ayudas para el entrenamiento de arqueros de hockey sobre hierba"
+    sg-1-11-5-2:
+      name: "Potenciadores de agarre de hockey sobre césped"
+    sg-1-11-5-3:
+      name: "Tablas de rebote de hockey sobre césped"
+    sg-1-11-5-4:
+      name: "Dianas de tiro para hockey sobre césped"
+    sg-1-11-5-5:
+      name: "Mochilas de entrenamiento de hockey sobre césped"
     sg-1-11-5-5-1:
       name: "Bolsos para arquero de hockey sobre césped"
     sg-1-11-8:
       name: "Arcos de lacrosse"
+    sg-1-12-1-7:
+      name: "Colchonetas de entrenamiento para patinaje artístico y hockey"
+    sg-1-12-1-8:
+      name: "Entrenadores de salto de patinaje artístico"
+    sg-1-12-1-9:
+      name: "Entrenadores de giro de patinaje artístico"
     sg-1-12-3:
       name: "Arcos de hockey"
     sg-1-12-3-1:
@@ -4389,6 +4435,8 @@ es-AR:
       name: "Conjuntos de equipamiento para arqueros de hockey"
     sg-1-12-4-5-2:
       name: "Pantalones de arquero de hockey"
+    sg-1-12-4-6:
+      name: "Canilleras y protectores de piernas para hockey"
     sg-1-12-4-6-1:
       name: "Forros y mangas para canilleras"
     sg-1-12-4-6-3:
@@ -4399,6 +4447,8 @@ es-AR:
       name: "Protectores de rodilla para arquero de hockey"
     sg-1-12-4-8:
       name: "Cinturones y tiradores para hockey"
+    sg-1-12-6-6:
+      name: "Soportes para palos de hockey"
     sg-1-12-9-2-3:
       name: "Cuchillas para patines de arquero"
     sg-1-13-15:
@@ -4511,6 +4561,8 @@ es-AR:
       name: "Equipo de protección para handball"
     sg-1-2-1:
       name: "Bases de béisbol y sóftbol"
+    sg-1-2-19:
+      name: "Accesorios para máquinas de lanzamiento"
     sg-1-2-2:
       name: "Guantes para batear de béisbol y sóftbol"
     sg-1-2-3:
@@ -4521,8 +4573,20 @@ es-AR:
       name: "Cascos de béisbol y sóftbol"
     sg-1-2-8-10:
       name: "Accesorios para canilleras"
+    sg-1-2-8-2-1:
+      name: "Protectores de pecho para receptores"
     sg-1-2-8-3:
       name: "Canilleras para béisbol y sóftbol"
+    sg-1-2-8-3-2:
+      name: "Protectores de piernas para receptores"
+    sg-1-2-8-5-1:
+      name: "Cascos para receptores"
+    sg-1-2-8-5-4:
+      name: "Máscaras faciales para receptores"
+    sg-1-2-9:
+      name: "Ayudas para el entrenamiento de béisbol y sóftbol"
+    sg-1-2-9-13:
+      name: "Piezas de repuesto de pantallas de lanzamiento para béisbol y sóftbol"
     sg-1-2-9-2:
       name: "Tees de bateo de béisbol y sóftbol"
     sg-1-20-3:
@@ -4573,18 +4637,72 @@ es-AR:
       name: "Zapatillas de salto de básquet"
     sg-1-3-3-4:
       name: "Ayudas para tiro de básquet"
+    sg-1-3-3-4-4:
+      name: "Blancos y reductores de aro para básquetbol"
+    sg-1-3-3-5:
+      name: "Marcadores de piso y alfombras de entrenamiento para básquetbol"
+    sg-1-3-3-7:
+      name: "Blancos de pase para básquetbol"
     sg-1-3-4:
       name: "Pelotas de básquet"
     sg-1-3-5:
       name: "Calzado de básquet"
+    sg-1-4-1-4-1:
+      name: "Guantes para saco de boxeo"
+    sg-1-4-1-4-4:
+      name: "Guantes de sparring"
+    sg-1-4-1-6:
+      name: "Canilleras para artes marciales mixtas"
+    sg-1-4-2-1:
+      name: "Manoplas de foco para boxeo y artes marciales mixtas"
+    sg-1-4-2-5:
+      name: "Escudos de golpeo"
     sg-1-4-3-9:
       name: "Almohadones y protectores de esquina para ring de boxeo"
+    sg-1-5-1:
+      name: "Pelotas para Broomball"
+    sg-1-5-3:
+      name: "Arcos para Broomball"
+    sg-1-6-3:
+      name: "Megáfonos de animadoras"
+    sg-1-6-4:
+      name: "Zapatillas de animadoras"
+    sg-1-6-5:
+      name: "Uniformes de animadoras"
+    sg-1-6-6:
+      name: "Lazos para el cabello de animadoras"
+    sg-1-6-7:
+      name: "Artículos de entrenamiento para animadoras"
+    sg-1-7-2:
+      name: "Marcadores de límites para canchas y campos"
+    sg-1-7-5:
+      name: "Tarjetas y banderas de penalización"
+    sg-1-7-6:
+      name: "Contadores de lanzamientos"
     sg-1-7-8:
       name: "Billeteras para árbitros"
+    sg-1-7-9:
+      name: "Marcadores"
+    sg-1-8:
+      name: "Críquet"
+    sg-1-8-1:
+      name: "Pelotas de críquet"
     sg-1-8-2-8:
       name: "Calcomanías y stickers para bates de críquet"
+    sg-1-8-3:
+      name: "Bates de críquet"
+    sg-1-8-5-2:
+      name: "Cascos de críquet"
     sg-1-8-7-1:
       name: "Tees de bateo de críquet"
+    sg-1-8-7-5:
+      name: "Ayudas para fildeo de críquet"
+    sg-1-8-7-7:
+      name: "Alfombras para canchas de críquet"
+    sg-1-8-7-9:
+      name: "Blancos de stumps para críquet"
+    sg-1-8-8:
+      name: "Calzado de críquet"
     sg-2-15:
       name: "Pelotas medicinales"
     sg-2-15-1:
