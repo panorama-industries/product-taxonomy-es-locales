@@ -204,7 +204,7 @@ terms:
     use: birome(s) / lapicera(s)
   - match: [coche, coches]
     use: auto(s)
-    note: "Baby stroller → cochecito; keep 'coche' in 'coche cama'."
+    note: "Baby stroller → cochecito; keep railway car sense (coche cama, coche cabina, coche salón)."
   - match: [aparcamiento, aparcar]
     use: estacionamiento / estacionar
   - match: [tirita, tiritas]
@@ -216,7 +216,7 @@ terms:
     note: "Vulgar in AR; never use."
   - match: [lavadora, lavadoras]
     use: lavarropas
-    note: "fem → masc (invariable): lavadora-secadora → lavasecarropas. Pressure washer (hidrolavadora) stays."
+    note: "fem → masc (invariable): lavadora-secadora → lavasecarropas. Pressure washer (hidrolavadora) and machines washing non-laundry items (food, plates, carpets) stay."
   - match: [congelador, congeladores]
     use: freezer(s)
     note: "Appliance and fridge compartment (compartimento congelador → freezer)."
@@ -478,7 +478,7 @@ terms:
     note: "masc → fem"
   - match: [tarta, tartas]
     use: torta(s)
-    note: "Sweet cake → torta; savory pie → tarta stays."
+    note: "Sweet cake → torta; pies, tarts, quiche and pie crust/pans (tarta) stay."
   - match: [gamba, gambas]
     use: langostino(s) / camarón(es)
   - match: [mantequilla, mantequillas]
@@ -550,7 +550,7 @@ terms:
     note: "Food sense only (starters)."
   - match: [batido, batidos]
     use: licuado(s)
-    note: "Smoothies/milkshakes → licuados. Protein/meal shakes → batido(s) or shake(s) stay."
+    note: "Smoothies/milkshakes → licuados. Protein/meal shakes → batido(s) or shake(s) stay. Keep adjective sense (whipped/churned)."
   - match: [refresco, refrescos]
     use: gaseosa(s)
     note: "masc → fem. Soft drink sense."

@@ -1290,6 +1290,8 @@ es-AR:
       description: "Especifica la variedad natural o la forma del grano de maíz para pochoclo."
     pork_rind_form:
       description: "Clasifica la forma física o el estilo de los snacks de chicharrón de cerdo (por ejemplo, tipo corteza, crujiente, inflado, tipo pellet, etc.)."
+    portability_frame_type:
+      description: "Si las campanas tubulares de orquesta son portátiles o con bastidor de campo, o bien fijas o con bastidor de concierto."
     potato_intended_use:
       description: "Diferencia las papas destinadas al consumo inmediato de aquellas destinadas a la siembra o al consumo de productos congelados procesados."
     potato_variety:
