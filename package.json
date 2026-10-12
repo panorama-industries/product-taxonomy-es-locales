@@ -1,0 +1,26 @@
+{
+  "name": "product-taxonomy-es-locales",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "packageManager": "pnpm@12.6.0",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "sync": "node scripts/sync.ts",
+    "check": "node scripts/check.ts",
+    "pending": "node scripts/pending.ts",
+    "mark-reviewed": "node scripts/mark-reviewed.ts",
+    "build": "node scripts/build.ts",
+    "stage": "node scripts/stage.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "js-yaml": "^5.4.3"
+  }
+}

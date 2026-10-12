@@ -1,0 +1,2 @@
+# locale: { base: <upstream locale or another locale here> }
+es-AR: { base: es }

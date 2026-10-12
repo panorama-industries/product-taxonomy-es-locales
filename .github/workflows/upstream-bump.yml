@@ -1,0 +1,56 @@
+name: Upstream bump
+
+# Opens a PR when Shopify publishes a new stable taxonomy release.
+# Requires Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests".
+# PRs opened with GITHUB_TOKEN don't trigger CI; close/reopen the PR (or use a PAT/App token) to run it.
+on:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find latest Shopify release
+        id: latest
+        run: |
+          latest="$(gh release view -R Shopify/product-taxonomy --json tagName -q .tagName)"
+          branch="upstream/$latest"
+          echo "tag=$latest" >> "$GITHUB_OUTPUT"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          if [[ "$latest" == "$(cat UPSTREAM_VERSION)" ]] || git ls-remote --exit-code --heads origin "$branch" >/dev/null; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.latest.outputs.skip != 'true'
+        run: echo "${{ steps.latest.outputs.tag }}" > UPSTREAM_VERSION
+      - if: steps.latest.outputs.skip != 'true'
+        uses: ./.github/actions/setup
+      - if: steps.latest.outputs.skip != 'true'
+        name: Check overrides against new release
+        run: |
+          {
+            echo "Bumps Shopify/product-taxonomy to [${{ steps.latest.outputs.tag }}](https://github.com/Shopify/product-taxonomy/releases/tag/${{ steps.latest.outputs.tag }})."
+            echo
+            echo "Removed keys were dropped with \`pnpm check --fix\`. Review stale and unreviewed keys with \`pnpm pending\`."
+            echo
+            pnpm --silent check --fix || true
+          } > "$RUNNER_TEMP/report.md"
+          cat "$RUNNER_TEMP/report.md"
+      - if: steps.latest.outputs.skip != 'true'
+        name: Open PR
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898900+github-actions[bot]@users.noreply.github.com"
+          git switch -c "${{ steps.latest.outputs.branch }}"
+          git add UPSTREAM_VERSION overrides
+          git commit -m "Bump upstream to ${{ steps.latest.outputs.tag }}"
+          git push origin "${{ steps.latest.outputs.branch }}"
+          gh pr create --title "Bump upstream to ${{ steps.latest.outputs.tag }}" --body-file "$RUNNER_TEMP/report.md"
