@@ -2799,8 +2799,18 @@ es-AR:
       name: "Almohadones de rollo lumbar"
     hb-3-1-1-2:
       name: "Almohadones de soporte de asiento y coxis"
+    hb-3-10-11-1-2:
+      name: "Alfileres"
+    hb-3-10-11-3:
+      name: "Accesorios para planchitas de pelo"
+    hb-3-10-11-7:
+      name: "Alfombras y soportes térmicos"
+    hb-3-10-12-11:
+      name: "Planchitas onduladoras"
     hb-3-10-12-3:
       name: "Bucleras"
+    hb-3-10-12-7:
+      name: "Planchitas de pelo"
     hb-3-10-13:
       name: "Shampoo y acondicionador"
     hb-3-10-13-2:
@@ -2819,10 +2829,24 @@ es-AR:
       name: "Almohadones de asiento de masaje"
     hb-3-12-1:
       name: "Sprays para el aliento"
+    hb-3-12-12:
+      name: "Estuches para aparatos de ortodoncia"
+    hb-3-12-12-1:
+      name: "Estuches rígidos para aparatos de ortodoncia"
+    hb-3-12-12-2:
+      name: "Estuches blandos para aparatos de ortodoncia"
     hb-3-12-14-7:
       name: "Lapiceras blanqueadoras"
+    hb-3-12-18:
+      name: "Dispensadores y exprimidores de pasta dental"
+    hb-3-12-19:
+      name: "Pasta dental"
+    hb-3-12-20:
+      name: "Escarbadientes"
     hb-3-12-21:
       name: "Porta escarbadientes y estuches"
+    hb-3-12-4:
+      name: "Cabezales de repuesto para irrigadores dentales"
     hb-3-14-18:
       name: "Shampoo y lavado de barba"
     hb-3-14-4-1:
@@ -2871,18 +2895,40 @@ es-AR:
       name: "Separadores de manicuría y pedicuría"
     hb-3-2-5-2-4:
       name: "Juegos de útiles para manicuría"
+    hb-3-2-5-2-8:
+      name: "Pulidoras de uñas"
+    hb-3-2-5-3:
+      name: "Herramientas para el cuidado de la piel"
+    hb-3-2-6-3-4:
+      name: "Delineadores de ojos"
+    hb-3-2-6-3-8:
+      name: "Máscaras de pestañas"
     hb-3-2-6-4-1:
       name: "Rubores y polvos bronceadores"
+    hb-3-2-6-5-6:
+      name: "Labiales"
     hb-3-2-6-6:
       name: "Sprays fijadores de maquillaje"
+    hb-3-2-8-3:
+      name: "Eau de parfum"
+    hb-3-2-8-4:
+      name: "Eau de toilette"
+    hb-3-2-9-17-2:
+      name: "Tónicos"
     hb-3-2-9-5:
       name: "Máscaras faciales comprimidas"
     hb-3-2-9-9-3:
       name: "Máscaras labiales"
+    hb-3-3:
+      name: "Bolitas de algodón"
     hb-3-4:
       name: "Hisopos de algodón"
+    hb-3-8:
+      name: "Productos de higiene femenina"
     hb-3-8-4:
       name: "Toallitas y protectores femeninos"
+    hb-3-8-4-1:
+      name: "Protectores y apósitos de maternidad"
     hb-3-8-4-2:
       name: "Toallitas y protectores menstruales"
     hb-3-8-4-3:
@@ -2891,6 +2937,8 @@ es-AR:
       name: "Protectores diarios"
     hb-3-8-4-5:
       name: "Toallitas y protectores normales"
+    hb-3-9-12:
+      name: "Kits de pedicuría"
     hb-3-9-9:
       name: "Máscaras y peelings para pies"
     hg-1-1:
