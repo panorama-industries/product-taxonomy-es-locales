@@ -5,21 +5,22 @@
   "license": "MIT",
   "packageManager": "pnpm@12.6.0",
   "engines": {
-    "node": ">=24"
+    "node": ">=20"
   },
   "scripts": {
-    "sync": "node scripts/sync.ts",
-    "check": "node scripts/check.ts",
-    "vocab": "node scripts/vocab.ts",
-    "pending": "node scripts/pending.ts",
-    "apply": "node scripts/apply.ts",
-    "mark-reviewed": "node scripts/mark-reviewed.ts",
-    "build": "node scripts/build.ts",
-    "stage": "node scripts/stage.ts",
+    "sync": "tsx scripts/sync.ts",
+    "check": "tsx scripts/check.ts",
+    "vocab": "tsx scripts/vocab.ts",
+    "pending": "tsx scripts/pending.ts",
+    "apply": "tsx scripts/apply.ts",
+    "mark-reviewed": "tsx scripts/mark-reviewed.ts",
+    "build": "tsx scripts/build.ts",
+    "stage": "tsx scripts/stage.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
   "dependencies": {
