@@ -4451,10 +4451,18 @@ es-AR:
       name: "Soportes para palos de hockey"
     sg-1-12-9-2-3:
       name: "Cuchillas para patines de arquero"
+    sg-1-13-13:
+      name: "Megáfonos deportivos"
+    sg-1-13-14:
+      name: "Protectores bucales para deporte"
     sg-1-13-15:
       name: "Asientos y almohadones para estadios"
     sg-1-13-15-1:
       name: "Almohadones para estadios"
+    sg-1-13-16:
+      name: "Pecheras de entrenamiento"
+    sg-1-13-23:
+      name: "Accesorios para coquillas para atletismo"
     sg-1-13-4:
       name: "Accesorios para infladores de pelotas"
     sg-1-13-4-1:
@@ -4467,20 +4475,46 @@ es-AR:
       name: "Mangueras para infladores de pelotas"
     sg-1-13-5:
       name: "Infladores para pelotas"
+    sg-1-13-6-1:
+      name: "Jaulas de almacenamiento para colchonetas para gimnasia y ejercicio"
+    sg-1-13-7:
+      name: "Bolsas de tiza para agarre"
     sg-1-13-8:
       name: "Magnesio para escalar en polvo o spray"
+    sg-1-13-9-2:
+      name: "Baldosas de gimnasio encastrables"
+    sg-1-14-1:
+      name: "Barras y vigas de equilibrio para gimnasia"
+    sg-1-14-5-1:
+      name: "Almohadillas para vigas de gimnasia"
     sg-1-14-5-2:
       name: "Zapatillas de piso para gimnasia"
+    sg-1-14-5-4:
+      name: "Entrenadores de caballo con arcos para gimnasia"
+    sg-1-14-5-5:
+      name: "Bloques de asistencia para gimnasia"
+    sg-1-14-5-7:
+      name: "Entrenadores de salto para gimnasia"
+    sg-1-14-6:
+      name: "Caballos con arcos de gimnasia"
+    sg-1-15-3:
+      name: "Guantes para ráquetbol y squash"
     sg-1-15-4-8:
       name: "Anteojos de entrenamiento de ráquetbol y squash"
+    sg-1-15-9:
+      name: "Accesorios de limpieza para ráquetbol y squash"
     sg-1-16-3-1:
       name: "Tees de bateo de rounders"
     sg-1-17-1:
       name: "Pelotas de rugby"
     sg-1-17-4-4:
       name: "Shorts protectores y musleras de rugby"
+    sg-1-17-4-5:
+      name: "Protectores corporales y hombreras de rugby"
     sg-1-17-5-1:
       name: "Tees de pateo de rugby"
+    sg-1-17-5-2:
+      name: "Bolsas de tackle para rugby"
     sg-1-18-1:
       name: "Pelotas de fútbol"
     sg-1-18-3:
@@ -4589,24 +4623,58 @@ es-AR:
       name: "Piezas de repuesto de pantallas de lanzamiento para béisbol y sóftbol"
     sg-1-2-9-2:
       name: "Tees de bateo de béisbol y sóftbol"
+    sg-1-20-2:
+      name: "Lanzadores de pelotas de tenis"
     sg-1-20-3:
       name: "Conservadores de pelotas de tenis"
+    sg-1-20-8-2:
+      name: "Entrenadores de juego de pies para tenis"
+    sg-1-20-8-3:
+      name: "Entrenadores de agarre para tenis"
+    sg-1-20-8-5:
+      name: "Entrenadores de objetivos para tenis"
+    sg-1-21-10-3:
+      name: "Balas de atletismo"
+    sg-1-21-12:
+      name: "Zapatillas de atletismo con clavos"
+    sg-1-21-14:
+      name: "Garrochas"
+    sg-1-21-5:
+      name: "Colchonetas de salto con garrocha"
+    sg-1-21-6:
+      name: "Testimonios"
+    sg-1-21-7:
+      name: "Balas para lanzamiento de bala"
+    sg-1-22:
+      name: "Voleibol"
     sg-1-22-2-6:
       name: "Shorts protectores de voleibol"
+    sg-1-22-7:
+      name: "Accesorios para redes de voleibol"
+    sg-1-23-1:
+      name: "Pelotas de wallyball"
     sg-1-24-1:
       name: "Pelotas de waterpolo"
     sg-1-24-3:
       name: "Arcos de waterpolo"
     sg-1-24-4-1:
       name: "Ayudas para el entrenamiento de arqueros"
+    sg-1-24-4-2:
+      name: "Equipo de fitness para waterpolo"
     sg-1-24-5:
       name: "Accesorios para arcos de waterpolo"
+    sg-1-24-6:
+      name: "Mallas para waterpolo"
     sg-1-25-1-5:
       name: "Canilleras de lucha libre"
     sg-1-25-2-11:
       name: "Calzas de lucha libre"
+    sg-1-25-2-2:
+      name: "Entrenadores de agarre para lucha libre"
     sg-1-25-2-6:
       name: "Mallas enterizas de lucha libre"
+    sg-1-26:
+      name: "Curling"
     sg-1-27-2-1:
       name: "Pelotas de fútbol gaélico"
     sg-1-3:
@@ -4735,12 +4803,20 @@ es-AR:
       name: "Bañaderas de inmersión en frío y baños de hielo"
     sg-2-3-2:
       name: "Discos de equilibrio"
+    sg-2-4-1-1-2:
+      name: "Soportes de tablet para bicicletas elípticas"
     sg-2-4-1-2-2:
       name: "Computadoras para bicicletas estáticas"
     sg-2-4-1-2-4:
       name: "Almohadones para bicicletas estáticas"
+    sg-2-4-1-3-2:
+      name: "Soportes de tablet para máquinas de remo"
     sg-2-4-1-3-3:
       name: "Almohadones para máquinas de remo"
+    sg-2-4-1-4-2:
+      name: "Soportes de tablet para stepper y máquina de subir escalones"
+    sg-2-4-1-5-1:
+      name: "Bandas para cintas de correr"
     sg-2-4-1-5-11-1:
       name: "Rodillos para cintas de correr"
     sg-2-4-1-5-11-2:
@@ -4753,18 +4829,32 @@ es-AR:
       name: "Lubricantes para cintas de correr"
     sg-2-4-1-5-18:
       name: "Fundas para cintas de correr"
+    sg-2-4-1-5-5:
+      name: "Llaves de seguridad para cintas de correr"
     sg-2-4-1-5-6:
       name: "Soportes para notebook para cinta de correr"
+    sg-2-4-2-2-3:
+      name: "Bicicletas de spinning"
+    sg-2-4-2-4:
+      name: "Escaladoras y steppers"
+    sg-2-4-2-5:
+      name: "Cintas de correr"
     sg-2-4-2-5-1:
       name: "Cintas de correr manuales"
     sg-2-4-2-5-2:
       name: "Cintas de correr comerciales"
     sg-2-4-2-5-3:
       name: "Cintas de correr para debajo del escritorio"
+    sg-2-4-2-8:
+      name: "Entrenadores de soga"
+    sg-2-4-3:
+      name: "Sogas para saltar"
     sg-2-4-4:
       name: "Camas elásticas y rebotadores de fitness"
     sg-2-5:
       name: "Pelotas de gimnasia"
+    sg-2-8:
+      name: "Colchonetas para equipos de ejercicio"
     sg-2-8-1:
       name: "Alfombras para bicicleta elíptica"
     sg-2-8-2:
