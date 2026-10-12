@@ -31,6 +31,8 @@ es-AR:
       description: "El tinte o tono de la lente de los anteojos no es adecuado para el estado visual o la actividad previstos."
     low_light_performance:
       description: "El dispositivo captura imágenes o videos de mala calidad en condiciones de poca iluminación."
+    mesh_size:
+      description: "La separación entre las aberturas de la red o de la malla es demasiado grande o demasiado pequeña."
     straps_too_long:
       name: "Breteles demasiado largos"
     straps_too_short:

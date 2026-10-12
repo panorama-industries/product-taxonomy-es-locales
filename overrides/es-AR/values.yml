@@ -203,6 +203,8 @@ es-AR:
       name: "Banana roja"
     banner_display_location__fence/railing:
       name: "Cerca/baranda"
+    bar_coating__peanut_butter:
+      name: "Manteca de maní"
     barcode_scanner_form_factor__wearable:
       name: "Wearable"
     barrel_shape__flat_crimper:
@@ -353,6 +355,8 @@ es-AR:
       name: "Liner para modo caminata"
     boot_style__booties:
       name: "Botinetas"
+    boot_style__cowboy:
+      name: "Texano"
     boot_style__sock:
       name: "Media"
     bottle_neck_finish_closure_size__28_mm_pco_pet_soda:
@@ -475,6 +479,8 @@ es-AR:
       name: "Frasco de plástico"
     canned_meat_form__bacon_bits:
       name: "Trocitos de panceta"
+    canned_meat_variety__canned_meatloaf:
+      name: "Pan de carne enlatado"
     canvas_stretcher_corner_joint_type__butt_joint_stapled/nailed:
       name: "Unión a tope (engrampada/clavada)"
     car_cleaning_kit_items_included__squeegee:
@@ -717,6 +723,8 @@ es-AR:
       name: "Mouse pad"
     console_cover_installation_method__zipper:
       name: "Cierre"
+    console_system__playstation_portable_psp:
+      name: "PlayStation Portable (PSP)"
     constitutive_ingredients__apricot_oil:
       name: "Aceite de damasco"
     constitutive_ingredients__avocado_oil:
@@ -739,6 +747,8 @@ es-AR:
       name: "Manteca"
     cookie_variety__mooncake:
       name: "Torta de luna"
+    cookie_variety__peanut_butter:
+      name: "Manteca de maní"
     cookie_variety__shortbread:
       name: "Galletita de manteca"
     cooking_method__barbecuing:
@@ -1011,6 +1021,8 @@ es-AR:
       name: "Aceite de palta"
     feeder_design__lantern:
       name: "Farol"
+    feijoa_cultivar__pineapple_guava:
+      name: "Guayaba ananá"
     fender_type__seatpost_mounted:
       name: "Montaje de tija de asiento"
     fiber_art_project_type__crocheting:
@@ -1027,6 +1039,8 @@ es-AR:
       name: "Pasta de porotos"
     filling_type__nut_butter:
       name: "Manteca de nueces"
+    filling_type__peanut_butter:
+      name: "Manteca de maní"
     filter_technology__air_freshener_pad:
       name: "Bolsita de aromatizante"
     finished_product_format__car_air_freshener_blend:
@@ -1141,6 +1155,8 @@ es-AR:
       name: "Damasco"
     fruit_variety__strawberry:
       name: "Frutilla"
+    fuel_filter_mounting_connection_type__in_tank_strainer/sock:
+      name: "Filtro de tanque/media"
     fuel_supply__gasoline:
       name: "Nafta"
     fuel_system_application__efi_gasoline:
@@ -1243,6 +1259,8 @@ es-AR:
       name: "Plano de mano"
     grease_application__trailer_wheel_bearing:
       name: "Rodamiento de rueda de tráiler"
+    guava_variety__pineapple_guava:
+      name: "Guayaba ananá"
     guava_variety__strawberry_guava:
       name: "Guayaba frutilla"
     guitar_stand_type__a_frame_floor_stand:
@@ -1295,6 +1313,8 @@ es-AR:
       name: "Funda de buclera"
     hair_styling_items_included__curling_wand:
       name: "Buclera"
+    hair_styling_items_included__straightening_curling_brush:
+      name: "Cepillo alisador y de rulos"
     hammock_style__tent_style:
       name: "Estilo carpa"
     hand_and_foot_coverage__detachable_booties:
@@ -1315,6 +1335,8 @@ es-AR:
       name: "Mesada"
     harness_closure_type__zipper:
       name: "Cierre"
+    hat_style__cowboy:
+      name: "Texano"
     hat_style__headband_style:
       name: "Estilo vincha"
     hatch_suitable_location__floor:
@@ -1469,6 +1491,10 @@ es-AR:
       name: "Plano"
     kaleidoscope_viewing_type__marble:
       name: "Bolita"
+    kayak_storage_bag_type__cockpit_cover:
+      name: "Cubierta de cockpit"
+    key_blade_type__flat/bitted:
+      name: "Plano/de paletón"
     keyboard_amplifier_output_types__external_speaker_out:
       name: "Salida para parlante externo"
     keyboard_assembly_type__keyboard_sticker_set:
@@ -1669,6 +1695,8 @@ es-AR:
       name: "Stickers"
     model_making_product_type__decal/sticker_set:
       name: "Set de calcomanías/stickers"
+    model_train_power_pickup_method__digital_command_control_dcc:
+      name: "Control digital de comandos (DCC)"
     model_train_sound_features__sound_ready_speaker/wiring_only:
       name: "Preparado para sonido (solo parlante/cableado)"
     moisture_absorber_form__tub:
@@ -1805,6 +1833,8 @@ es-AR:
       name: "Mameluco"
     one_piece_style__playsuit:
       name: "Enterito corto"
+    one_piece_style__salopette:
+      name: "Jardinero"
     one_piece_style__unitard:
       name: "Enterito"
     onion_variety__shallot:
@@ -1965,6 +1995,8 @@ es-AR:
       name: "Zapallito"
     plant_name__sweet_pea:
       name: "Arveja de olor"
+    plant_name__yucca:
+      name: "Yucca"
     plate_style__appetizer_plate:
       name: "Plato para entradas"
     plate_style__bread_butter_plate:
@@ -2013,8 +2045,12 @@ es-AR:
       name: "Hamaca paraguaya"
     pool_lounger_features__headrest_pillow:
       name: "Almohada para apoyacabezas"
+    pool_lounger_features__inflatable_footrest:
+      name: "Apoyapiés inflable"
     pool_lounger_features__waterproof_speakers:
       name: "Parlantes impermeables"
+    pool_vacuum_type__in_floor_cleaning_system:
+      name: "Sistema de limpieza en el piso"
     popcorn_form__bucket/tub:
       name: "Balde/pote"
     popcorn_form__popcorn_balls:
@@ -2039,6 +2075,8 @@ es-AR:
       name: "Bacha de juguete"
     pretend_housekeeping_set_items_included__toy_washing_machine:
       name: "Lavarropas de juguete"
+    pretzel_coating__peanut_butter:
+      name: "Manteca de maní"
     pretzel_shape__soft_bun:
       name: "Pancito suave"
     primary_dish_application__cookies_and_brownies:
@@ -2065,6 +2103,8 @@ es-AR:
       name: "Vidrio del campo de juego"
     protected_component__pop_bumper:
       name: "Paragolpes emergente"
+    protected_component__slingshot_plastics:
+      name: "Plásticos de Slingshot"
     protective_gear_certification_standard__ce_en_1938_goggles:
       name: "CE EN 1938 (antiparras)"
     protective_gear_items_included__shin_guards:
@@ -2089,6 +2129,8 @@ es-AR:
       name: "Rompecabezas de desenredado"
     puzzle_type__puzzle_box:
       name: "Caja de rompecabezas"
+    puzzle_type__rubiks_cube:
+      name: "Cubo de Rubik"
     puzzle_type__sequential_puzzle:
       name: "Rompecabezas secuencial"
     puzzle_type__sliding_puzzle:
@@ -2151,6 +2193,8 @@ es-AR:
       name: "Freezer inferior"
     refrigerator_configuration__top_freezer:
       name: "Freezer superior"
+    region__macedon_ranges:
+      name: "Macedon Ranges"
     relief_style__flat:
       name: "Plano"
     remote_control_motorcycle_terrain_suitability__indoor_smooth_floor:
@@ -2461,6 +2505,8 @@ es-AR:
       name: "En el piso"
     sprinkler_head_type__flat:
       name: "Plano"
+    sprinkler_orientation__pendent:
+      name: "Colgante"
     sprinkler_valve_type__jar_top:
       name: "Tapa de frasco"
     squash_and_gourd_variety__ash_gourd:
@@ -2903,6 +2949,8 @@ es-AR:
       name: "Limpiavidrios (general)"
     veil_length_type__floor:
       name: "Piso"
+    video_game_platform__playstation_portable_psp:
+      name: "PlayStation Portable (PSP)"
     vintage_advertisement_format__sticker/decal:
       name: "Sticker/calcomanía"
     vintage_advertisement_format__window_card:
