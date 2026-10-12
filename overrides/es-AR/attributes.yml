@@ -346,6 +346,772 @@ es-AR:
       description: "Define el tipo específico de accesorio o pieza de repuesto para asiento infantil (p. ej., almohadón de asiento, apoyapiés o adaptador de montaje), lo que permite a los compradores encontrar rápidamente el artículo que necesitan sin crear numerosas categorías específicas."
     child_seat_mounting_type:
       description: "Especifica cómo se fija el asiento infantil para bicicleta al cuadro, al portaequipajes o a la zona del manubrio."
+    cigar_body:
+      description: "Indica el perfil de intensidad y sabor de los cigarros, por ejemplo, suaves, medios y plenos."
+    cigar_cutter_type:
+      name: "Tipo de cortador de cigarros"
+    clip_mechanism_type:
+      description: "Define el mecanismo de sujeción utilizado por un clip para billetes o una billetera con clip, lo que ayuda a elegir entre estilos magnéticos, de resorte, de palanca y otros."
+    closet_configuration:
+      name: "Configuración de placard"
+    closure_type:
+      description: "Define el método utilizado para abrochar o sujetar un producto, como el cierre o las hebillas."
+    code_technology:
+      description: "Identifica el código o la tecnología de seguridad que utiliza el control remoto para comunicarse con el abridor de la puerta del garaje."
+    coffee_filter_type:
+      description: "Especifica el tipo de filtro que admite o incluye una cafetera de goteo, lo que puede afectar al sabor y a los costos continuos de los consumibles."
+    colander_style:
+      description: "Clasifica el diseño estructural del colador, como el bol con patas o el que se coloca sobre la bacha."
+    commode_opening_type:
+      description: "Identifica la presencia y estilo de cualquier recorte para inodoro o compatibilidad con balde en el asiento."
+    compatible_axle_weight_rating:
+      description: "Especifica la capacidad de carga por eje del acoplado para la que está diseñado el conjunto de freno del acoplado."
+    compatible_baby_bottle_design:
+      name: "Diseño de mamadera compatible"
+      description: "Indica los estilos de mamaderas con los que el producto es compatible, como los de cuello ancho."
+    compatible_bit_type:
+      name: "Tipo de mecha compatible"
+      description: "Tipos de mechas con los que se puede utilizar la protección."
+    compatible_cross_stitch_frame:
+      description: "Indica para qué tipo de soporte está diseñado el bastidor: uso manual, soporte de mesa, soporte de piso o uso universal."
+    compatible_equipment_type:
+      description: "Especifica la categoría de equipo de pileta o spa para la cual está diseñada la placa de circuito (p. ej., calentador, bomba, clorador)."
+    compatible_eyewear_type:
+      name: "Tipo de anteojos compatibles"
+      description: "Identifica el tipo de anteojos con los que el accesorio está diseñado para ajustarse o funcionar."
+    compatible_fencing_weapon:
+      description: "Especifica para qué arma o disciplina de esgrima está destinada la campera o el lamé."
+    compatible_hammock_design:
+      name: "Diseño de hamaca paraguaya compatible"
+      description: "Especifica el tipo de hamaca paraguaya con la que es compatible un producto, por ejemplo, colgante o marco."
+    compatible_interior_material:
+      description: "Indica para qué materiales del interior del vehículo es seguro/eficaz el quitamanchas (p. ej., alfombra, tapicería de tela, cuero, vinilo)."
+    compatible_lawn_mower_type:
+      name: "Tipo de cortadora de césped compatible"
+      description: "Indica el tipo de cortadora de césped para la que está diseñado el kit de rayado."
+    compatible_play_vehicle_type:
+      description: "Identifica el tipo de vehículo de juego para el que es adecuado el producto, como un auto o un barco."
+    compatible_player:
+      description: "Identifica los dispositivos que se pueden utilizar con un adaptador de casete, por ejemplo, un iPad o una notebook."
+    compatible_refrigerator_compartment:
+      name: "Compartimento de heladera compatible"
+      description: "Especifica en qué parte de la heladera se debe utilizar el accesorio."
+    compatible_stove_fuel_type:
+      description: "Identifica los tipos de combustible con los que es compatible un accesorio para anafes portátiles, lo que ayuda a los clientes a elegir el artículo adecuado para su anafe (por ejemplo, gas en cartucho o alcohol)."
+    compatible_tear_off_system:
+      description: "Indica si las antiparras admiten láminas desprendibles y/o enrollables, incluido si tienen postes de montaje para láminas desprendibles."
+    compatible_thread_yarn_tool:
+      description: "Compatibilidad de máquinas/sistemas para herramientas que se montan o se utilizan con otros equipos (p. ej., máquina de coser, máquina overlock, telar, rueca)."
+    compatible_vehicle_windshield_fluid:
+      description: "Declaraciones de compatibilidad relacionadas con el equipamiento del vehículo o los tratamientos para vidrios (p. ej., seguro para revestimientos repelentes de lluvia, seguro para lavafaros)."
+    compatible_washing_machine_type:
+      name: "Tipo de lavarropas compatible"
+      description: "Especifica para qué diseños de lavarropas es adecuado el limpiador (por ejemplo, de carga frontal, de carga superior, de alta eficiencia)."
+    compatible_winder_head_bit:
+      name: "Cabezal/punta de bobinado compatible"
+    compatible_zipper_size:
+      name: "Tamaño de cierre compatible"
+      description: "Indica el tamaño de cierre para el que está diseñado el tirador (a menudo, expresado como #3, #5, #8, #10), lo que mejora el filtrado de compatibilidad."
+    compression_format:
+      description: "Define el tipo de compresión de archivos de video utilizada, por ejemplo, MPEG-4 o AVI."
+    computer_accessories_included:
+      description: "Identifica los accesorios informáticos complementarios proporcionados, como el mouse o el bolso para notebook."
+    computer_form:
+      description: "Define el diseño físico o la distribución de una computadora, como una todo en uno o una notebook."
+    connecting_thread:
+      description: "Especifica el tipo de rosca para unir piezas de plomería, como, por ejemplo, IPS de 1/2."
+    console_cover_installation_method:
+      description: "Especifica cómo se fija la cubierta de la consola a la consola/apoyabrazos (p. ej., se desliza, con correas elásticas, con velcro, adhesiva o con clip)."
+    cookie_decorating_kit_items_included:
+      name: "Artículos incluidos en el kit para decorar galletitas"
+      description: "Enumera los componentes de decoración proporcionados para que los clientes sepan exactamente qué suministros tiene la caja (p. ej., tubos de glaseado, chispas de colores, cortadores de galletitas)."
+    cookie_variety:
+      name: "Variedad de galletitas"
+      description: "Identifica el estilo o la variedad específica de las galletitas, lo que ayuda a los compradores a encontrar rápidamente su tipo preferido."
+    cooler_style:
+      name: "Estilo de conservadora"
+      description: "Identifica el diseño estructural de las conservadoras portátiles para alimentos y bebidas, lo que ayuda a los compradores a elegir entre conservadoras rígidas, bolsos blandos, mochilas, etc."
+    corrector_features:
+      description: "Describe las características únicas de los líquidos correctores, biromes y cintas, como, por ejemplo, sin tiempo de secado o con punta de precisión."
+    court_surface_suitability:
+      description: "Indica la superficie de la cancha de básquet para la que está diseñada la suela del zapato, lo que ayuda a los compradores a elegir la tracción y durabilidad adecuadas para canchas de madera interiores, asfalto/hormigón exteriores o ambas."
+    cover_closure_design:
+      description: "Especifica el diseño del cierre, normalmente de fundas de almohadas, como, por ejemplo, sobre o con cierre."
+    cover_fit_type:
+      description: "Indica si la funda es a medida (personalizada/semipersonalizada) o universal, y si está diseñada para amarre en el agua o el almacenamiento/uso en acoplados."
+    craft_decoration_maker_accessories_included:
+      description: "Enumera los accesorios clave incluidos con la máquina de decoración para manualidades (p. ej., cinta o película inicial, recargas de stickers, cartuchos de purpurina, herramientas de limpieza)."
+    craft_decoration_maker_type:
+      description: "Especifica el tipo de creador de decoración artesanal, como un estampador o un creador de stickers"
+    craft_knife_design:
+      name: "Diseño de cutter para manualidades"
+      description: "Describe el estilo específico de un cutter, como recto o de precisión."
+    cup_size:
+      description: "Especifica la talla del busto de los corpiños, como AA o L."
+    curler_pad_material:
+      name: "Material de la almohadilla del arqueador"
+    curler_size_compatibility:
+      name: "Compatibilidad de tamaño del arqueador"
+      description: "Especifica el tamaño o estilo de almohadilla del arqueador que encajan los repuestos (p. ej., estándar, mini, parcial)."
+    curler_type:
+      name: "Tipo de rulero"
+      description: "Especifica el tipo de rulero para el cabello, como varillas flexibles o ruleros calientes."
+    cushion_design:
+      name: "Diseño de la almohadilla"
+      description: "Describe el factor de forma o estilo general de la almohadilla metatarsiana (p. ej., almohadilla, manga, cúpula)."
+    cushioning_level:
+      description: "Indica la cantidad de relleno que proporciona la media en la planta del pie para brindar comodidad y protección ante impactos."
+    customer_support_channels:
+      description: "Especifica las formas en que los clientes pueden obtener ayuda, como la asistencia telefónica o los tutoriales de video."
+    cutting_mat_grid_style:
+      name: "Estilo de cuadrícula de la base de corte"
+      description: "El estilo de guía impreso en la superficie de la base."
+    cutting_mat_intended_use:
+      name: "Uso previsto de la base de corte"
+      description: "Uso principal de la superficie de trabajo/de manualidades para el que está diseñada la base de corte."
+    daisy_chain_capability:
+      description: "Indica si se pueden vincular varias unidades de conferencia (conexión en cadena) para expandir la cobertura de micrófono y parlante, y el método de conexión utilizado."
+    dash_cover_construction_type:
+      name: "Tipo de construcción de cubierta de tablero"
+    decal_placement_type:
+      description: "Indica en qué parte del vehículo se debe aplicar la calcomanía (p. ej., en el panel de la carrocería, el paragolpes o el capot)."
+    decoration_technique:
+      description: "Identifica el método principal utilizado para aplicar gráficos o adornos a la remera."
+    denim_composition:
+      name: "Composición del jean"
+      description: "Composición de la fibra primaria de la tela de jean (fibras base, excluidos tintes y acabados)."
+    denim_finish:
+      name: "Acabado del jean"
+      description: "Acabado superficial/de procesamiento aplicado a la tela de jean."
+    denim_intended_use:
+      name: "Uso previsto del jean"
+      description: "Proyecto/uso típico para el que se comercializa el jean."
+    denim_stretch_type:
+      name: "Tipo de elasticidad del jean"
+      description: "Si la tela de jean tiene elasticidad mecánica, elastano/spandex añadido o no tiene elasticidad."
+    denim_wash:
+      name: "Lavado del jean"
+      description: "Indica la variación de tono o lavado aplicada a la tela de jean (p. ej., claro, oscuro, crudo, ácido)."
+    diaper_type:
+      description: "Distingue entre ayudas para la incontinencia, como apósitos, Pull-Ups o pañales."
+    difficulty_level:
+      description: "Indica la complejidad o el nivel de desafío de un rompecabezas o juego, como fácil o experto."
+    disposable_bag_features:
+      name: "Características de la bolsa descartable"
+      description: "Destaca las características únicas de los recambios de los tachos de pañales, como el control de olores o los aromas perfumados."
+    distressing_style:
+      description: "Indica el tipo o grado de desgaste en los jeans, p. ej., efectos rasgados o “whiskering”."
+    dive_computer_items_included:
+      name: "Artículos de computadora de buceo incluidos"
+    diving/snorkeling_equipment_included:
+      name: "Equipo de buceo/snorkel incluido"
+      description: "Especifica los accesorios de buceo/snorkel incluidos, como el traje de neopreno o snorkel."
+    door_closer_design:
+      description: "Identifica el estilo de diseño de los cierrapuertas, como de piso u ocultos en el techo."
+    door_glass_finish:
+      name: "Acabado del vidrio de la puerta"
+    door_hinge_orientation:
+      description: "Especifica la posición de las bisagras o la dirección de apertura de la puerta o tapa del freezer."
+    door_mat_base_color:
+      name: "Color de la base del felpudo"
+    door_mat_base_material:
+      name: "Material de la base del felpudo"
+      description: "Especifica el material de la parte inferior de un felpudo, como el yute o el látex."
+    door_mat_base_pattern:
+      name: "Patrón de la base del felpudo"
+    door_mat_surface_material:
+      name: "Material de la superficie del felpudo"
+      description: "Especifica el material de la superficie de un felpudo, como el pasto marino o el caucho."
+    door_stop_placement:
+      description: "Identifica dónde se instala el tope de puerta, como en el piso o la pared."
+    double_decker_bus_deck_configuration:
+      name: "Configuración de la cubierta del micro de dos pisos"
+      description: "Especifica la configuración de acceso a la plataforma/techo de un micro de dos pisos."
+    drain_location:
+      description: "Especifica la ubicación del drenaje de bañaderas o duchas, como en el centro o la izquierda."
+    driver_configuration:
+      description: "Especifica el número de vías de controladores discretos en el sistema de parlantes (p. ej., 2 vías, 3 vías)."
+    drum_kit_included_items:
+      description: "Enumera los artículos principales que se incluyen en el paquete del kit de batería aparte de los cascos o las almohadillas (por ejemplo, accesorios, platillos, banqueta)."
+    dry_bean_variety:
+      name: "Variedad de porotos secos"
+      description: "Identifica la variedad de legumbres secas utilizadas, por ejemplo, garbanzos o porotos negros."
+    drysuit_footwear_style:
+      description: "Describe el acabado integrado de la parte inferior de las piernas del traje de buceo (por ejemplo, botas incorporadas, medias de neopreno, medias interiores o sellos en los tobillos)."
+    e_cigarette/vaporizer_style:
+      description: "Clasifica los cigarrillos electrónicos y vaporizadores según su factor de forma, por ejemplo, descartables o de tipo birome."
+    e_liquid_flavor:
+      description: "Especifica el sabor de los líquidos para atomizadores y cigarrillos electrónicos, por ejemplo, café o frutilla."
+    e_scooter_connector_type:
+      name: "Tipo de conector para monopatín eléctrico"
+    e_scooter_throttle_type:
+      name: "Tipo de acelerador de monopatín eléctrico"
+      description: "Especifica el tipo de acelerador que se utiliza para controlar la aceleración en un monopatín eléctrico."
+    ear_coverage_style:
+      description: "Describe cómo, o si, las orejas están cubiertas por la máscara antimoscas."
+    earring_closure_type:
+      name: "Tipo de cierre de aros"
+      description: "Especifica el mecanismo utilizado para sujetar el aro a la oreja (por ejemplo, cierre a presión, cierre de palanca, cierre de clip)."
+    earring_design:
+      name: "Diseño de aros"
+      description: "Describe el estilo o la estructura de los aros, como argollas o pernos"
+    edge_style:
+      description: "Especifica la forma de los bordes de artículos como las mesadas, como, por ejemplo, de canto rodado o suavizados."
+    electric_kettle_features:
+      name: "Características de la pava eléctrica"
+      description: "Enumera las características destacadas de comodidad o seguridad que incluye la pava."
+    electric_van_body_length_class:
+      name: "Clase de longitudes de carrocería de utilitarios eléctricos"
+      description: "Clasificación de tamaño de utilitarios común basada en la distancia entre ejes y la longitud utilizada en publicaciones."
+    electric_van_roof_height_class:
+      name: "Clase de altura del techo del utilitario eléctrico"
+      description: "Clasificación común de la altura del techo utilizada para utilitarios (especialmente furgones de carga)."
+    electronic_game_genre:
+      description: "Identifica la categoría de un juego electrónico, como fitness o rompecabezas."
+    embellishment_technique:
+      description: "Detalla el trabajo decorativo o superficial principal aplicado a la prenda, como bordados, estampados o mostacillas."
+    embossing_pen_ink_color:
+      name: "Color de la tinta de la birome para gofrado"
+      description: "Especifica el color de la tinta depositada por la birome de relieve (puede ser transparente/pegajosa o pigmentada). Distinto del color de la birome/cuerpo."
+    entry_zipper_location:
+      name: "Ubicación del cierre de entrada"
+      description: "Especifica dónde se encuentra el cierre o la abertura principal del traje (por ejemplo, delantero, trasero, en el hombro, diagonal)."
+    eu_cup_size:
+      description: "Especifica la talla de copa de corpiños de la UE, como C o E."
+    exercise_bike_cushion_component:
+      description: "Especifica el componente relacionado con el asiento provisto, como una almohadilla, un asiento o una funda de asiento."
+    extension_attachment_method:
+      description: "Indica cómo se fija la extensión al manubrio de la bicicleta, lo que ayuda a los ciclistas a confirmar la compatibilidad con su configuración actual."
+    extension_bend_type:
+      description: "Describe el estilo geométrico o la curvatura de la extensión del manubrio, que afecta a la ergonomía y la aerodinámica del conductor."
+    extinguisher_rating:
+      name: "Clasificación del matafuego"
+      description: "Indica la clasificación de los matafuegos, como, por ejemplo, de Clase A o Clase B."
+    eyelash_curler_type:
+      name: "Tipo de arqueador de pestañas"
+      description: "Especifica el diseño o mecanismo del arqueador de pestañas."
+    eyewear_compatibility:
+      name: "Compatibilidad con anteojos"
+      description: "Indica el tipo de anteojos para los que está destinada la correa."
+    eyewear_frame_color:
+      name: "Color de la montura de los anteojos"
+      description: "Identifica el color de la montura de los anteojos, como negro o dorado"
+    eyewear_frame_design:
+      name: "Diseño de la montura de los anteojos"
+      description: "Describe el estilo de los anteojos de sol, como los de aviador u ojo de gato"
+    eyewear_frame_material:
+      name: "Material de la montura de los anteojos"
+      description: "Especifica el tipo de material utilizado para las monturas de los anteojos, como el bambú o fibra de carbono."
+    eyewear_frame_pattern:
+      name: "Patrón de la montura de los anteojos"
+      description: "Identifica el patrón en las monturas de anteojos, por ejemplo, a rayas o a cuadros"
+    eyewear_frame_shape:
+      name: "Forma de la montura de los anteojos"
+      description: "Describe la forma de los anteojos, como redondos o cuadrados"
+    eyewear_hinge_type:
+      name: "Tipo de bisagra de anteojos"
+    eyewear_lens_color:
+      name: "Color de los lentes de los anteojos"
+      description: "Identifica el color de la lente de los anteojos, como transparente o naranja"
+    eyewear_lens_material:
+      name: "Material de los lentes de los anteojos"
+      description: "Especifica el tipo de material utilizado para los lentes de los anteojos, por ejemplo, el plástico de alto índice o el vidrio."
+    eyewear_lens_pattern:
+      name: "Patrón de los lentes de los anteojos"
+      description: "Describe el diseño o la impresión en los lentes de los anteojos, como corazones o cachemir"
+    eyewear_lens_shape:
+      name: "Forma de lentes de anteojos"
+      description: "Indica la forma geométrica de la lente, como cilíndrica o esférica, lo que afecta al campo de visión, a la distorsión y al estilo."
+    eyewear_strap_features:
+      name: "Características de la correa para anteojos"
+    eyewear_strap_material:
+      name: "Material de la correa de los anteojos"
+      description: "Especifica el material de la correa ajustable que sujeta las antiparras o los anteojos a la cabeza del usuario."
+    eyewear_strap_or_chain_style:
+      name: "Estilo de correa o cadena para anteojos"
+      description: "Especifica el estilo de construcción principal o factor de forma de la correa o cadena para anteojos (p. ej., cordón de cuerda, cadena de eslabones metálicos, correa de neopreno)."
+    fabric_stretch_type:
+      description: "Indica el grado de elasticidad del tejido de los shorts de surf, importante para la movilidad al practicar surf o natación."
+    face_mask_material:
+      name: "Material de la máscara facial"
+      description: "Composición del material de la máscara facial incluida con el casco o compatible con él."
+    face_mask_style:
+      name: "Estilo del barbijo"
+      description: "Define la forma o el estilo de confección general del barbijo, lo que ayuda al comprador a encontrar el calce y la estética que prefiera."
+    face_mask_style_code:
+      name: "Código de estilo de máscara facial"
+      description: "Define el estilo de barra estructural o la familia de códigos industriales de la máscara facial (por ejemplo, ROPO, OPO, RJOP)."
+    fat_source:
+      description: "Identifica la principal fuente de grasa utilizada para producir la manteca, la manteca clarificada o la margarina (animal o vegetal), lo que facilita la identificación de alergias y la selección de alimentos según la dieta."
+    faucet_hole_configuration:
+      name: "Configuración del orificio de la canilla"
+      description: "Indica el número y la ubicación de los orificios previamente realizados para la canilla en la mesada del vanitory."
+    faucet_thread:
+      name: "Rosca de la canilla"
+      description: "Especifica el tipo de conexión de rosca de la canilla, como doble o hembra."
+    felt_tip_design:
+      name: "Diseño de la punta del marcador"
+      description: "Describe el grosor de la punta de fieltro del marcador, como medio o fino."
+    felting_pad_surface_material:
+      description: "Material utilizado en la superficie de trabajo de la almohadilla o base para enfurtido que entra en contacto con la fibra y la aguja."
+    fia_homologation_certification:
+      description: "Indica si el auto (o la célula de seguridad) está certificado/homologado y según qué estándar."
+    field_hockey_goal_size_standard:
+      name: "Arco de hockey sobre césped de tamaño estándar"
+      description: "Clasifica el arco según los estándares o dimensiones para entrenamiento comunes de hockey sobre césped (p. ej., reglamento de la FIH para exteriores, juvenil, mini)."
+    filler_material:
+      description: "Identifica el tipo de material que se usa para rellenar un producto, normalmente almohadas o almohadones, como, por ejemplo, espuma con memoria o plumas."
+    filling_type:
+      description: "Indica el relleno principal o la crema que llevan las galletitas, si se proporciona."
+    fin_material:
+      description: "Especifica el tipo de material de las aletas de buceo o snorkel, como el plástico o el caucho."
+    fire_extinguisher_items_included:
+      name: "Artículos de matafuegos incluidos"
+      description: "Especifica los artículos adicionales incluidos con un matafuego, como una manguera de descarga o un soporte de montaje"
+    fishing_line_application:
+      name: "Aplicación de tanza"
+      description: "Identifica el uso previsto de la tanza o del material del bajo de línea (por ejemplo, bajo de línea, línea principal, punta de líder)."
+    fit:
+      description: "Describe el ajuste de una prenda, normalmente la forma del pantalón, como, por ejemplo, chupín o pierna ancha."
+    flatware_finish:
+      name: "Acabado de los cubiertos"
+    flatware_material:
+      name: "Material de los cubiertos"
+    flatware_pieces_included:
+      description: "Especifica los tipos de utensilios que se incluyen en un juego de cubiertos, como el cuchillo para mantequilla o las cucharas soperas."
+    float_raft_use_environment:
+      description: "Entorno acuático principal previsto para el inflable (pileta, aguas abiertas tranquilas o surf), que refleja la durabilidad y las expectativas de diseño."
+    floor_configuration:
+      description: "Indica si la carpa incluye un piso y, de ser así, el tipo de piso proporcionado."
+    floor_inclusion:
+      name: "Inclusión del piso"
+    floor_mat_cleaning_method:
+      name: "Método de limpieza de alfombras"
+      description: "Indica el método de limpieza principal recomendado por el fabricante para la alfombra."
+    floor_mat_edge_style:
+      name: "Estilo de borde de alfombra"
+      description: "Describe si la alfombra tiene bordes elevados para contener derrames y residuos."
+    floor_mat_format:
+      name: "Formato de alfombra"
+      description: "Define el formato físico o estilo del producto de protección de piso (por ejemplo, alfombra individual, baldosa encastrable, rollo)."
+    floor_mat_retention_system:
+      name: "Sistema de retención de alfombra"
+      description: "Especifica el método utilizado para mantener la alfombra fija en su lugar."
+    floor_mat_set_configuration:
+      name: "Configuración del juego de alfombras"
+    floor_protection_transparency_level:
+      name: "Nivel de transparencia de protección del piso"
+    floor_scrubber_brush_type:
+      name: "Tipo de cepillo para máquina limpiapisos"
+      description: "Define la configuración principal del cepillo o almohadilla utilizada por la máquina limpiapisos."
+    floor_surface_compatibility:
+      name: "Compatibilidad con la superficie del piso"
+      description: "Especifica los materiales de superficie de piso en los que el protector es seguro y adecuado para proteger."
+    flow_rate_type:
+      description: "Define la velocidad a la que se dispensa el líquido, normalmente en mamaderas, como, por ejemplo, media o lenta."
+    flush_system:
+      description: "Especifica el sistema de descarga utilizado en accesorios de plomería, como simple o doble."
+    fly_style:
+      name: "Estilo de bragueta"
+      description: "Especifica el tipo de bragueta o abertura frontal en la parte inferior de los calzoncillos largos."
+    fly_type:
+      name: "Tipo de bragueta"
+      description: "Especifica si la parte inferior del calzoncillo largo incluye una bragueta funcional y el estilo de dicha bragueta."
+    flysheet_material:
+      description: "Identifica la tela principal utilizada para la carpa exterior o el doble techo, lo que influye sobre el peso, la durabilidad y la resistencia a la intemperie."
+    foosball_rod_type:
+      name: "Tipo de varilla de metegol"
+    foot_guard_type:
+      description: "Indica si la protección para la pierna incluye una puntera o un protector de pie y especifica si la puntera es fija o extraíble."
+    footage_type:
+      description: "Describe la categoría de fotografías de stock o secuencias de video, por ejemplo, animaciones o texturas."
+    football_ball_type:
+      name: "Tipo de pelota de fútbol americano"
+      description: "Especifica el uso o contexto principal previsto para la pelota de fútbol americano, como juego, práctica o objeto de exhibición coleccionable."
+    footboard_mounting_type:
+      name: "Tipo de montaje del pie de cama"
+      description: "Especifica cómo se fija el pie de cama al armazón de la cama o al piso, lo que ayuda al comprador a seleccionar hardware y métodos de instalación compatibles."
+    footboard_style:
+      name: "Estilo de pie de cama"
+      description: "Define el estilo de diseño estructural o estético del pie de cama."
+    footrest_adjustability:
+      name: "Capacidad de ajuste del apoyapiés"
+      description: "Especifica si los apoyapiés se pueden ajustar y cómo hacerlo para adaptarse a las diferentes longitudes de piernas de los niños."
+    footrest_type:
+      name: "Tipo de apoyapiés"
+      description: "Identifica la presencia y el diseño de un apoyapiés en la banqueta."
+    foundation_material:
+      description: "Identifica el material principal que se usa en los sommiers de los colchones, como el metal o la madera."
+    freezer_configuration:
+      name: "Configuración del freezer"
+      description: "Identifica la orientación física/estilo de diseño de la unidad del freezer."
+    front_button_configuration:
+      description: "Indica el estilo de los botones delanteros de un saco, y especifica si es de botonadura simple o doble y el número de botones delanteros."
+    front_closure_style:
+      description: "Indica el estilo de confección frontal del piloto; por ejemplo, de botonadura simple o doble, abierto, cruzado o con cierre."
+    frosting_or_icing_type:
+      description: "Especifica el tipo de glaseado o cobertura que se aplica a la torta o a la barra de postre."
+    garage_floor_mat_style:
+      name: "Estilo de alfombra para piso de garaje"
+      description: "Identifica el formato o estilo del producto de la alfombra para el piso del garaje."
+    gazebo_roof_material:
+      name: "Material del techo del gazebo"
+      description: "Especifica el material de los paneles del techo del gazebo o de la cubierta rígida."
+    glass_and_surface_cleaner_features:
+      name: "Características del limpiador de vidrios y superficies"
+      description: "Destaca las características o beneficios especiales del limpiador de vidrios y superficies."
+    glass_cleaner_features:
+      name: "Características del limpiador de vidrios"
+      description: "Destaca las características especiales de rendimiento o formulación específicas de los limpiadores de vidrios."
+    glove_webbing_style:
+      description: "Define el diseño de la red o bolsillo del guante, lo que afecta el control de la pelota, la adecuación de la posición y las preferencias del jugador."
+    goalie_configuration:
+      name: "Configuración del arquero"
+      description: "Indica el número de arqueros por equipo configurados en la mesa (estilo americano de 3 arqueros frente al estilo europeo de 1 arquero)."
+    goalie_playing_surface:
+      name: "Superficie de juego del arquero"
+      description: "Especifica la superficie o el entorno de juego principal para el que está diseñado el conjunto de equipamiento del arquero de hockey."
+    goalkeeper_glove_cut:
+      name: "Corte de guante de arquero"
+      description: "Indica el estilo de confección (corte) de la palma o los dedos de los guantes para arquero, que influye sobre el calce, la sensación de la pelota y el control."
+    goalkeeper_training_aid_type:
+      name: "Tipo de ayuda para el entrenamiento de arqueros"
+      description: "Identifica el estilo de ayuda para el entrenamiento de arqueros, lo que permite un filtrado preciso."
+    goggle_accessory_type:
+      name: "Tipo de accesorio para antiparras"
+    goggle_features:
+      name: "Características de las antiparras"
+      description: "Enumera las características funcionales o de diseño especiales que ofrecen las antiparras."
+    goggle_fit_design:
+      name: "Diseño de calce de antiparras"
+      description: "Describe cómo deben ajustarse o usarse las antiparras, incluida la compatibilidad con el uso sobre anteojos graduados (OTG)."
+    goggle_gasket_material:
+      name: "Material de la junta de las antiparras"
+    goggle_integration:
+      name: "Integración de antiparras"
+      description: "Si el casco está diseñado para usarse con antiparras o incluye características integradas para la sujeción de antiparras."
+    goggle_lens_shape:
+      name: "Forma de lentes de antiparras"
+    goggle_lens_tint:
+      name: "Tinte de las lentes de las antiparras"
+    goggle_strap_material:
+      name: "Material de la correa de las antiparras"
+    gps_compatible_device:
+      description: "Especifica dispositivos que pueden utilizar software GPS, como las notebooks o dispositivos de aviación."
+    grass_discharge_type:
+      description: "Indica el modo en que la cortadora de césped expulsa el césped cortado (salida lateral, bolsa trasera, etc.)."
+    grid_unit:
+      description: "El sistema de medición principal impreso en la base (si hay una rejilla/escala presente)."
+    grip_coverage:
+      description: "Identifica la presencia y ubicación de elementos de agarre de silicona o caucho en la media."
+    gt_racing_class:
+      description: "Especifica la categoría o clase GT para la que se ha fabricado u homologado el auto."
+    gutter_fitting_type:
+      name: "Tipo de montaje de canaleta"
+      description: "Identifica el tipo de accesorio utilizado en los sistemas de canaletas, como un conector de bajante o una tapa de extremo."
+    gutter_style:
+      name: "Estilo de canaleta"
+      description: "Especifica el tipo de canaleta, como profunda o industrial."
+    hair_care_effect:
+      description: "Define los beneficios o resultados principales que el shampoo está formulado para proporcionar."
+    hair_care_items_included:
+      description: "Especifica los tipos de artículos para el cuidado del cabello incluidos en un conjunto, como sérum capilar o máscara para el pelo"
+    hair_styling_items_included:
+      description: "Identifica los útiles de peluquería incluidos en un juego, como una buclera o un cepillo para el cabello"
+    hammock_style:
+      name: "Estilo de hamaca paraguaya"
+      description: "Describe el estilo estructural o la construcción de la hamaca paraguaya."
+    hand_and_foot_coverage:
+      description: "Describe manoplas y escarpines integrados o desmontables que cubren las manos o los pies."
+    hand_guard_mounting_type:
+      description: "Especifica cómo se fijan los protectores de manos a la motocicleta (por ejemplo, en el extremo del manubrio con abrazadera interior vs. solo con abrazadera)."
+    handball_ball_type:
+      name: "Tipo de pelota de handball"
+      description: "Indica la categoría de uso prevista de la pelota de handball, como partido, entrenamiento o playa."
+    handball_playing_surface:
+      name: "Superficie de juego de handball"
+      description: "Indica las superficies de juego para las que está optimizada la pelota de handball."
+    handball_target_type:
+      name: "Tipo de objetivo del handball"
+      description: "Especifica el estilo o diseño del blanco de tiro destinado a la práctica de handball en equipo."
+    handle_connection_type:
+      description: "Especifica el mecanismo utilizado para fijar el mango a la escoba, el lampazo u otros cabezales de limpieza para garantizar la compatibilidad."
+    handlebar_design:
+      name: "Diseño del manubrio"
+      description: "Especifica el tipo de manubrios de la escaladora de pedales; por ejemplo, ninguno, fijo, de altura ajustable, plegable o con manijas de banda de resistencia."
+    handlebar_type:
+      name: "Tipo de manubrio"
+      description: "Identifica el estilo de manubrios instalados en la bicicleta, lo que influye sobre la postura de conducción, el control y la comodidad."
+    hanging_suspension_method:
+      description: "Define los accesorios o el sistema principales utilizados para suspender la hamaca (por ejemplo, cuerda, cadena, armazón)."
+    harness_closure_type:
+      description: "Especifica el tipo de cierre utilizado en los arneses, como de hebilla de liberación lateral o con cierre."
+    harness_style:
+      description: "Define el estilo o diseño estructural del arnés; por ejemplo, de cintura, de asiento, de pecho o chaleco, tipo cinturón, tipo shorts de surf o híbrido."
+    hatch_suitable_location:
+      description: "Identifica la ubicación ideal de trampillas, como en el piso o la pared."
+    hazmat_suit_design:
+      description: "Describe el estilo de los trajes para manipulación de materiales peligrosos, como mamelucos o escafandras."
+    headband_embellishment:
+      name: "Adorno para vincha"
+      description: "Identifica los elementos decorativos que lleva la vincha (por ejemplo, lazos, perlas, cristales, orejas de animales)."
+    headboard_style:
+      name: "Estilo de respaldo"
+      description: "Describe el diseño o estilo de construcción del respaldo que viene con la cama."
+    headrest_mount_attachment_method:
+      name: "Método de fijación del soporte del apoyacabezas"
+      description: "Especifica cómo se fija el soporte al apoyacabezas o a los postes del asiento."
+    headrest_provision:
+      name: "Provisión de apoyacabezas"
+      description: "Indica si se incluyen los apoyacabezas o si existen puntos de montaje para ellos."
+    heart_rate_monitoring_method:
+      name: "Método de monitoreo del ritmo cardíaco"
+    heating_method:
+      description: "Especifica la técnica utilizada para calentar, normalmente para calentadores de mamaderas, como, por ejemplo, mediante vapor o baño de agua."
+    heel_height_type:
+      name: "Tipo de altura del taco"
+      description: "Define la altura del taco de un zapato, como plano o alto."
+    heel_shape:
+      name: "Forma del taco"
+      description: "Especifica el estilo geométrico o la silueta del taco, lo que ayuda al comprador a filtrar según sus preferencias de aspecto estructural y estabilidad (por ejemplo, taco de aguja frente a taco de bloque)."
+    heel_shoe_type:
+      name: "Tipo de zapato de taco"
+      description: "Identifica el estilo del taco de un calzado como tacos de plataforma o tacos de cuña"
+    helmet_sun_visor_type:
+      description: "Especifica si el casco incluye un visor solar desplegable interno, un escudo externo con tinte, ambos o ninguno."
+    hitch_ball_diameter:
+      description: "Diámetro de la cabeza de la bola de enganche (esfera) que se engancha con un acoplador de tráiler (por ejemplo, 1 7/8 pulg., 2 pulg., 2 5/16 pulg., 50 mm)."
+    hitch_type:
+      description: "Especifica el método de montaje de acoplados de bicicletas, como el montaje en el eje o en la tija del asiento."
+    hook_grip_design:
+      description: "Describe el estilo de agarre de las agujas de crochet, como antideslizante o ergonómico."
+    hook_size:
+      name: "Tamaño de la aguja de crochet"
+      description: "Identifica el tamaño de las agujas de crochet, como B, G o I."
+    horse_feed_stage:
+      description: "Indica la etapa de vida o el estado fisiológico del caballo para el que se formula el alimento balanceado."
+    humidity_control:
+      description: "Indica la capacidad del producto para regular los niveles de humedad, normalmente de humidificadores de cigarros, como, por ejemplo, 0,65."
+    ice_bucket_accessories_included:
+      name: "Accesorios para hielera incluidos"
+      description: "Enumera los artículos de bar adicionales que se suministran con la hielera."
+    ice_bucket_insulation:
+      name: "Aislamiento de la hielera"
+      description: "Indica la estructura de la pared o el nivel de aislamiento de la hielera, lo que afecta al tiempo que el hielo permanece congelado."
+    included_mounting_accessories:
+      description: "Enumera los accesorios de montaje o fijación que se incluyen con el parlante."
+    incontinence_pad_type:
+      name: "Tipo de apósito para incontinencia"
+      description: "Define el estilo o forma específica del apósito (p. ej., protector, guarda, apósito reforzador)"
+    ink_form:
+      description: "Describe el embalaje o método de entrega de la tinta artística, como en birome o botella."
+    ink_pattern:
+      description: "Identifica el tema visual de biromes o sellos, por ejemplo, geométrico, navideño"
+    inner_tent_configuration:
+      name: "Configuración de la carpa interior"
+      description: "Especifica la configuración o el estilo de la carpa interior; por ejemplo, inserto completo, inserto de malla o forro térmico."
+    installation_method:
+      description: "Especifica cómo se fija o instala la estera o el recuadro en el piso."
+    insulation_fill_material:
+      description: "Identifica el material principal utilizado para aislar la campera o el chaleco."
+    insulation_type:
+      description: "Especifica si la conservadora o el enfriador están aislados y de qué manera, lo que afecta al rendimiento de conservación del hielo y al control de la condensación."
+    integrated_bottom_type:
+      description: "Indica si la prenda incluye calzoncillos, shorts, body u otra capa interior incorporada para brindar cobertura durante el movimiento."
+    integrated_charging_options:
+      description: "Enumera las interfaces de alimentación o carga integradas disponibles en la mesa de luz."
+    integrated_led_lighting:
+      description: "Indica si el parlante incorpora iluminación LED o RGB incorporada y su tipo."
+    intended_handlebar_style:
+      name: "Estilo de manubrio previsto"
+    intended_playing_surface:
+      description: "Superficie para la que se diseña el disco, la pelota o el aro, como hielo, asfalto, pisos de gimnasio o hielo sintético."
+    intercom_wiring_type:
+      description: "Especifica el esquema de cableado o comunicación para el que está diseñada una unidad de parlante de intercomunicador."
+    jacket_vent_style:
+      name: "Estilo de abertura del saco"
+    jumping_surface_color:
+      description: "Identifica el color de la superficie de salto de la cama elástica, como azul o negro"
+    jumping_surface_material:
+      description: "Especifica el tejido de la zona de salto de la cama elástica, por ejemplo, sintético o polipropileno."
+    jumping_surface_pattern:
+      description: "Identifica el diseño o impresión en la superficie de salto de una cama elástica, como con estrellas o con rayas"
+    kale_variety:
+      description: "Identifica el cultivar o la variedad específica de kale (p. ej., rizado, lacinato o Red Russian). Esto ayuda a los compradores a elegir en función del sabor, la textura y el uso culinario."
+    kit_construction_type:
+      description: "Especifica el tejido del área de salto de una cama elástica, por ejemplo, sintético o polipropileno."
+    knife_system:
+      description: "Indica si la cuchilla de la máquina overlock está activa y cómo funciona."
+    knob/handle_design:
+      description: "Describe el estilo de los tiradores del placard, como de perilla redonda o barra."
+    laboratory_freezer_design:
+      name: "Diseño de freezers de laboratorio"
+      description: "Describe la configuración de un freezer de laboratorio, como vertical o de tipo arcón."
+    lacrosse_goal_regulation_certification:
+      name: "Certificación de reglamentación del arco de lacrosse"
+      description: "Indica si el arco o la red cumple con las especificaciones de un organismo rector (p. ej., NCAA o NFHS)."
+    lamp_assembly_type:
+      description: "Especifica si el producto es una lamparita desnuda, una lámpara con carcasa, un paquete doble u otra configuración de conjunto."
+    lamp_quality_grade:
+      description: "Indica si la lámpara es OEM original, utiliza una lamparita OEM en una carcasa compatible o es completamente del mercado secundario/compatible."
+    lapel_style:
+      description: "Especifica el diseño de la solapa del saco (p. ej., muesca, pico, chal)."
+    laptop_cable_type:
+      name: "Tipo de cable de la notebook"
+      description: "Identifica el propósito funcional del cable dentro de la notebook."
+    laptop_housing_part_type:
+      name: "Tipo de pieza de carcasa de la notebook"
+    lawn_mower_blade_type:
+      name: "Tipo de cuchilla de cortadora de césped"
+      description: "Especifica el diseño de corte o elevación de la cuchilla de la cortadora de césped y su uso previsto."
+    leak_protection_layer:
+      description: "Indica si el sistema de pañal incorporado de la malla tipo jammer utiliza un diseño de una o dos capas para la protección contra fugas."
+    lectern_mounting_type:
+      description: "Especifica el estilo de configuración de un atril, como de mesa o de piso."
+    leg_length:
+      description: "Clasifica las mallas según la longitud relativa de la pierna (corto, medio, largo) para ayudar a los compradores a elegir la cobertura preferida sin dividir la categoría."
+    leg_opening_style:
+      description: "Especifica el tipo de terminación de las aberturas de pierna del pantalón deportivo (p. ej., puños elásticos, con cierre o abiertos)."
+    lens_coating:
+      description: "Especifica el tipo de recubrimiento de los lentes para anteojos, como, por ejemplo, antirreflectante y resistente a los rayones."
+    lens_color:
+      description: "Especifica el color de los lentes de los anteojos, como amarillo o negro."
+    lens_color_combination:
+      description: "Especifica el emparejamiento de colores de lentes utilizado para anteojos 3D anaglifos."
+    lens_pattern:
+      description: "Describe el diseño o la apariencia visual de los lentes de los anteojos, como sólidos o con textura"
+    lens_polarization:
+      description: "Indica el tipo de polarización de los lentes de los anteojos, como, por ejemplo, fotocromáticos polarizados."
+    lens_protector_coverage_style:
+      description: "Define el factor de forma física o el diseño de cobertura de un protector de lente de cámara de celular."
+    lens_type:
+      description: "Especifica el tipo de lente de los anteojos, como polarizados o progresivos."
+    light_source:
+      description: "Identifica el tipo de lamparita que se usa en un producto, como LED o fluorescente."
+    liner_type:
+      description: "Indica si los shorts incluyen un forro interno y, si es así, de qué tipo."
+    lining:
+      description: "Indica si la malla tiene forro y cómo está confeccionado, incluida la cobertura del forro en el interior de la prenda."
+    livestock_food_ingredients:
+      description: "Especifica los ingredientes principales de los alimentos balanceados para animales, como la cebada o la harina de soja."
+    luggage/bag_closure:
+      description: "Identifica el tipo de cierre utilizado en equipaje o bolsas, como cierre o broche."
+    lunch_set_items_included:
+      name: "Artículos incluidos en el juego de lunchera"
+      description: "Enumera los componentes individuales que vienen en el juego de lunchera."
+    marble_track_set_feature_modules:
+      name: "Módulos funcionales del set de pista de bolitas"
+    marker_tip_design:
+      description: "Describe la forma de la punta de un marcador, como de bala o cincel."
+    mask_cushion_material:
+      name: "Material de la almohadilla de la máscara"
+      description: "Detalla el material específico usado para la almohadilla o el sello de la máscara."
+    mask_goggle_design:
+      name: "Diseño de máscara/antiparras"
+    mask_size:
+      name: "Tamaño de la máscara"
+    mask_type:
+      description: "Especifica el diseño de máscaras, típicamente para el cuidado respiratorio, como, por ejemplo, oral o nasal."
+    mat_backing_type:
+      name: "Tipo de base de la alfombra"
+      description: "Especifica el tipo de soporte en la parte inferior de la alfombra que ayuda a mantenerla en su lugar sobre distintas superficies."
+    mat_base_material:
+      name: "Material de la base de la alfombra"
+      description: "Especifica el tipo de material utilizado para la base de las alfombras, como corcho o espuma viscoelástica."
+    mat_features:
+      name: "Características de la alfombra"
+      description: "Describe características específicas de las alfombras para el hogar o la oficina, como la base antideslizante o impermeable."
+    mat_installation_method:
+      description: "Indica cómo se instala o se fija la alfombra en su lugar."
+    mat_style:
+      name: "Tipo de alfombra"
+      description: "Define el estilo estructural o formato de la alfombra (p. ej., alfombra plegable, loseta encastrable o colchoneta de caída)."
+    maternity_sleepwear_style:
+      description: "Especifica el estilo de la ropa de dormir de maternidad, como un enterito o una camisa de dormir"
+    mimo_technology:
+      description: "Indica la tecnología inalámbrica de múltiple entrada y múltiple salida admitida por el router."
+    mobile_phone_accessories_included:
+      name: "Accesorios para celular incluidos"
+      description: "Enumera los artículos suplementarios proporcionados en el conjunto de accesorios para celular para que los compradores sepan exactamente qué componentes están incluidos."
+    mobile_phone_case_features:
+      name: "Características de la funda para celulares"
+      description: "Describe las características únicas de una funda para celular, como la resistencia a golpes o el ajuste perfecto."
+    mobile_phone_connector_type:
+      name: "Tipo de conector de celular"
+    mobile_phone_form_factor:
+      name: "Factor de forma del celular"
+    monitor/screen_specialized_features:
+      description: "Detalla características específicas de una pantalla, como parlantes integrados o adecuados para juegos."
+    mop_head_type:
+      name: "Tipo de cabezal de la mopa"
+      description: "Indica el diseño estructural del cabezal o repuesto de la mopa, lo que ayuda a los compradores a encontrar el estilo adecuado para sus necesidades de limpieza."
+    mop_wringing_mechanism:
+      name: "Mecanismo de escurrido de mopa"
+      description: "Indica cómo se elimina el exceso de líquido de la mopa, lo que ayuda al comprador a elegir el tipo de escurrido preferido."
+    motor_vehicle_bulb_application_position:
+      name: "Aplicación/posición de la lamparita para vehículos"
+      description: "Especifica la posición o función de iluminación del vehículo para la que está diseñada la lamparita (p. ej., luz baja, luz de freno)."
+    motor_vehicle_bulb_approval_standard:
+      name: "Norma de homologación de la lamparita para vehículos"
+    motor_vehicle_speaker_mounting_type:
+      name: "Tipo de montaje de parlante para vehículos"
+      description: "Indica cómo se debe instalar el parlante en el vehículo (factor de forma de montaje)."
+    motor_vehicle_type:
+      description: "Especifica la categoría de vehículo a motor, como un sedán o SUV."
+    motorcycle_luggage_side:
+      description: "En alforjas o valijas laterales, indica si el artículo corresponde al lado izquierdo, al lado derecho o ambos."
+    mouse_pad_features:
+      name: "Características del mouse pad"
+      description: "Describe las características únicas de un mouse pad, como la iluminación o los bordes cosidos."
+    mouse_port_type:
+      name: "Tipo de puerto del mouse"
+      description: "Especifica el tipo de conexión de un mouse de computadora, como, por ejemplo, USB inalámbrico o Bluetooth."
+    mouse_technology:
+      name: "Tecnología del mouse"
+      description: "Especifica la funcionalidad o el diseño de un mouse de computadora, como inalámbrico o para juegos."
+    mouse/trackball_features:
+      name: "Características del mouse/trackball"
+      description: "Describe las características especiales de los mouse/trackballs, como el diseño ergonómico o el peso ajustable."
+    mower_deck_material:
+      name: "Material de la carcasa de la cortadora de césped"
+      description: "Indica el material de construcción de la carcasa de la cortadora de césped, lo que afecta a la durabilidad y al peso."
+    muffin_size:
+      name: "Tamaño del muffin"
+    mushroom_variety:
+      description: "Identifica la especie o variedad específica de hongo o trufa contenida en el producto (p. ej., shiitake, hongo de cardo, trufa negra)."
+    music_stand_design:
+      description: "Describe el tipo de atril, como de piso o de pared."
+    musical_ratchet_sound_character:
+      name: "Carácter de sonido de la matraca musical"
+      description: "Descripción general del timbre o la intensidad sonora de la matraca."
+    needle_requirement_beading_pattern:
+      name: "Aguja recomendada (patrón de mostacillas)"
+    needlecraft_kit_type:
+      description: "Identifica el tipo de kit de costura, como crochet o punto de cruz"
+    nipple_material:
+      description: "Especifica el material utilizado para la tetina de la mamadera, por ejemplo, látex o goma."
+    nipple_shape:
+      description: "Define la forma de las tetinas de las mamaderas, como planas o en ángulo."
+    nipple_type:
+      description: "Especifica el tipo de tetina de las mamaderas, como de cuello ancho o estándar."
+    number_of_trailer_axles:
+      name: "Cantidad de ejes del acoplado"
+      description: "Indica la cantidad de ejes del acoplado."
+    nursery_theme:
+      name: "Tema del cuarto del bebé"
+      description: "Define el diseño o motivo de los productos relacionados con el cuarto del bebé, como la selva o los dinosaurios."
+    nursing_pillow_shape:
+      name: "Forma de la almohada de lactancia"
+      description: "Identifica el contorno de las almohadas de lactancia, como en forma de C o U."
+    nut_butter_texture:
+      name: "Textura de la manteca de frutos secos"
+      description: "Describe la consistencia de la manteca de frutos secos para que los compradores puedan elegir fácilmente entre opciones como suave, crocante, etc."
+    office_furniture_items_included:
+      description: "Indica los muebles de oficina específicos incluidos en el set, como escritorio o archivero."
+    one_piece_style:
+      description: "Identifica el estilo específico de una prenda de una sola pieza, como un enterito o un mameluco"
+    optical_frame_design:
+      description: "Define si los anteojos tienen montura o no, como, por ejemplo, sin montura o con montura completa."
     outdoor_table_functionality:
       description: "Identifica las funciones especiales integradas que van más allá de una simple superficie de apoyo (p. ej., compartimento refrigerante, estante de almacenamiento, cubierta para tanque de gas, base para sombrilla, conector para sillas, diseño plegable, apta para pileta, altura ajustable, ruedas integradas o iluminación LED)."
     outfit_items_included:
