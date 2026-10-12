@@ -425,20 +425,92 @@ es-AR:
       name: "Disfraces"
     aa-4-3:
       name: "Cadenas para billetera"
+    aa-5:
+      name: "Carteras, billeteras y estuches"
+    aa-5-3:
+      name: "Fundas para chequeras"
+    aa-5-4:
+      name: "Carteras"
+    aa-5-4-1:
+      name: "Carteras baguette"
+    aa-5-4-10:
+      name: "Carteras de mano plegables"
+    aa-5-4-11:
+      name: "Carteras de media luna"
+    aa-5-4-12:
+      name: "Carteras de estilo hobo"
+    aa-5-4-15:
+      name: "Carteras estilo alforja"
+    aa-5-4-18:
+      name: "Carteras estilo shopper"
+    aa-5-4-19:
+      name: "Carteras de hombro"
+    aa-5-4-2:
+      name: "Bolsos deportivos cilíndricos"
+    aa-5-4-20:
+      name: "Carteras trapezoidales"
+    aa-5-4-21:
+      name: "Carteras potli"
+    aa-5-4-23:
+      name: "Carteras tipo mochila"
+    aa-5-4-3:
+      name: "Bolsos de playa"
+    aa-5-4-4:
+      name: "Carteras bucket"
+    aa-5-4-5:
+      name: "Carteras de fiesta"
+    aa-5-4-6:
+      name: "Carteras convertibles"
+    aa-5-4-7:
+      name: "Carteras bandolera"
+    aa-5-4-8:
+      name: "Carteras tipo maletín"
+    aa-5-4-9:
+      name: "Carteras de mano estilo sobre"
+    aa-5-5-5:
+      name: "Bolsitos para el cuello"
     aa-5-5-6:
       name: "Billeteras de viaje"
     aa-5-5-7:
       name: "Billeteras"
     aa-6-10-2:
       name: "Stickers y calcomanías para relojes"
+    aa-6-10-3:
+      name: "Cargadores de cuerda para relojes"
     aa-6-6:
       name: "Aros"
+    aa-7-5:
+      name: "Plantillas"
     aa-8-10:
       name: "Tacos"
+    aa-8-9:
+      name: "Chatas"
     ae-2-1-2-10-3:
       name: "Relleno para almohadones"
+    ae-2-1-2-12-1:
+      name: "Arcilla y masa para modelar"
+    ae-2-1-2-12-1-1-2:
+      name: "Arcilla para hornear"
+    ae-2-1-2-12-1-2:
+      name: "Masa para modelar"
+    ae-2-1-2-14-1-2-3:
+      name: "Lienzo con bastidor"
+    ae-2-1-2-14-2:
+      name: "Telas"
+    ae-2-1-2-14-2-1:
+      name: "Gasa"
     ae-2-1-2-14-2-3:
       name: "Jean"
+    ae-2-1-2-14-2-5:
+      name: "Polar"
+    ae-2-1-2-14-2-8:
+      name: "Satén"
+    ae-2-1-2-14-3:
+      name: "Entretelas"
+    ae-2-1-2-14-4:
+      name: "Tela imprimible"
+    ae-2-1-2-2-2:
+      name: "Cierres y ganchos"
     ae-2-1-2-2-5:
       name: "Tiradores para cierres"
     ae-2-1-2-2-6:
@@ -451,16 +523,38 @@ es-AR:
       name: "Cierres reversibles"
     ae-2-1-2-2-6-4:
       name: "Cierres bidireccionales"
+    ae-2-1-2-4-1:
+      name: "Goma eva y telgopor"
+    ae-2-1-2-4-2-3:
+      name: "Tarugos de madera artesanales"
     ae-2-1-2-5:
       name: "Imanes y stickers para manualidades"
     ae-2-1-2-6-2-1:
       name: "Hilo de crochet"
     ae-2-1-2-6-2-4:
       name: "Hilo para patchwork"
+    ae-2-1-2-6-4:
+      name: "Lanas e hilados"
     ae-2-1-2-7-3:
       name: "alambre para joyería y bijouterie"
+    ae-2-1-2-8-10-10:
+      name: "Recortes de borlas"
+    ae-2-1-2-8-11:
+      name: "Lentejuelas y brillantina"
+    ae-2-1-2-8-11-1:
+      name: "Copos de brillantina"
+    ae-2-1-2-8-11-2:
+      name: "Pegamento con brillantina"
+    ae-2-1-2-8-11-3:
+      name: "Polvo de brillantina"
+    ae-2-1-2-8-11-4:
+      name: "Brillantina suelta"
+    ae-2-1-2-8-12-5:
+      name: "Etiquetas de talle"
     ae-2-1-2-8-2:
       name: "Cuentas y mostacillas"
+    ae-2-1-2-8-3:
+      name: "Moños y yoyós"
     ae-2-1-2-8-4-1:
       name: "Stickers decorativos en 3D"
     ae-2-1-2-8-4-2:
@@ -505,6 +599,8 @@ es-AR:
       name: "Máquinas de coser computarizadas"
     ae-2-1-4-16-4-4:
       name: "Máquinas de coser overlock"
+    ae-2-1-4-2-6:
+      name: "Alfileres en T"
     ae-2-1-4-4-3:
       name: "Cutters"
     ae-2-1-4-4-6:
