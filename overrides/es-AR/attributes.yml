@@ -247,6 +247,8 @@ es-AR:
     bra_support_level:
       name: "Nivel de soporte del corpiño"
       description: "Indica el nivel de sujeción que ofrece un corpiño, como, por ejemplo, bajo, medio o alto."
+    brake_mounting_flange_bolt_pattern:
+      description: "Especifica el patrón de orificios/pernos de la brida de montaje que se utiliza para fijar la placa de soporte del freno o el soporte de la pinza al eje del tráiler (p. ej., 4 pernos)."
     bread_variety:
       description: "Especifica el estilo o la variedad de pan o pancitos, lo que ayuda a los compradores a encontrar tipos específicos (p. ej., brioche, baguette o naan)."
     breath_sprays_certifications:
@@ -309,6 +311,7 @@ es-AR:
       description: "Describe el estilo físico o el factor de forma de la luz del gabinete."
     cake_shape:
       name: "Forma de la torta"
+      description: "Describe la forma física en la que se hornea la torta de café."
     cake_topping:
       name: "Decoración para torta"
     cake_type:
@@ -335,6 +338,8 @@ es-AR:
       description: "Cómo se debe aplicar el shampoo durante el lavado."
     car_wash_solution_form:
       name: "Forma de la solución para lavado de autos"
+    cargo_net_style:
+      description: "Especifica el estilo de construcción o el factor de forma de la red de carga (p. ej., cuerda elástica, cincha, barrera, hamaca paraguaya)."
     cassava_variety:
       name: "Variedad de mandioca"
       description: "Identifica el cultivar o la variedad específica de mandioca ofrecida, lo que influye en el sabor, el color y las propiedades de cocción."
@@ -825,6 +830,8 @@ es-AR:
       description: "Describe manoplas y escarpines integrados o desmontables que cubren las manos o los pies."
     hand_guard_mounting_type:
       description: "Especifica cómo se fijan los protectores de manos a la motocicleta (por ejemplo, en el extremo del manubrio con abrazadera interior vs. solo con abrazadera)."
+    hand_percussion_mounting_handling:
+      description: "Si el instrumento se sostiene con la mano, se lleva puesto, va montado o se dispone sobre una mesa o en el piso durante su uso habitual."
     handball_ball_type:
       name: "Tipo de pelota de handball"
       description: "Indica la categoría de uso prevista de la pelota de handball, como partido, entrenamiento o playa."
@@ -924,6 +931,7 @@ es-AR:
       description: "Indica si el parlante incorpora iluminación LED o RGB incorporada y su tipo."
     intended_handlebar_style:
       name: "Estilo de manubrio previsto"
+      description: "Describe el tipo de manubrio o uso previsto de la palanca (por ejemplo, manubrio plano, de ruta, aero). Esto reduce rápidamente la compatibilidad sin necesidad de crear subcategorías adicionales."
     intended_playing_surface:
       description: "Superficie para la que se diseña el disco, la pelota o el aro, como hielo, asfalto, pisos de gimnasio o hielo sintético."
     intercom_wiring_type:
@@ -942,6 +950,10 @@ es-AR:
       description: "Especifica el tejido del área de salto de una cama elástica, por ejemplo, sintético o polipropileno."
     knife_system:
       description: "Indica si la cuchilla de la máquina overlock está activa y cómo funciona."
+    knob_function:
+      description: "Especifica la función de las perillas del amplificador, como la ganancia o presencia."
+    knob_style:
+      description: "Describe el diseño de las perillas de amplificadores de instrumentos musicales, como estándar o retro/vintage."
     knob/handle_design:
       description: "Describe el estilo de los tiradores del placard, como de perilla redonda o barra."
     laboratory_freezer_design:
@@ -964,6 +976,8 @@ es-AR:
     lawn_mower_blade_type:
       name: "Tipo de cuchilla de cortadora de césped"
       description: "Especifica el diseño de corte o elevación de la cuchilla de la cortadora de césped y su uso previsto."
+    lawn_tractor_tread_type:
+      name: "Tipo de banda de rodadura del tractor cortador de césped"
     leak_protection_layer:
       description: "Indica si el sistema de pañal incorporado de la malla tipo jammer utiliza un diseño de una o dos capas para la protección contra fugas."
     lectern_mounting_type:
@@ -984,6 +998,8 @@ es-AR:
       description: "Indica el tipo de polarización de los lentes de los anteojos, como, por ejemplo, fotocromáticos polarizados."
     lens_protector_coverage_style:
       description: "Define el factor de forma física o el diseño de cobertura de un protector de lente de cámara de celular."
+    lens_tint_category:
+      description: "Clasifica la oscuridad del lente según categorías internacionales de tinte, lo que ayuda a los clientes a elegir lentes adecuados para distintas condiciones de luz."
     lens_type:
       description: "Especifica el tipo de lente de los anteojos, como polarizados o progresivos."
     light_source:

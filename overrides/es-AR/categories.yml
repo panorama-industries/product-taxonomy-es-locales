@@ -171,12 +171,16 @@ es-AR:
       name: "Jardineros"
     aa-1-24-2:
       name: "Mamelucos de vuelo"
+    aa-1-24-3-6:
+      name: "Sacos y abrigos de chef"
     aa-1-24-4-6:
       name: "Abrigos y camperas militares"
     aa-1-24-5-6:
       name: "Polleras de uniforme escolar"
     aa-1-24-9-1:
       name: "Vestidos y polleras de pijama quirúrgica"
+    aa-1-24-9-3:
+      name: "Sacos de ambo quirúrgico"
     aa-1-25-1-11:
       name: "Polleras"
     aa-1-25-1-12:
@@ -951,10 +955,14 @@ es-AR:
       name: "Licuados"
     fb-2-1-11:
       name: "Muffins"
+    fb-2-1-12-4:
+      name: "Hojaldres"
     fb-2-1-13:
       name: "Pies y tartas"
     fb-2-1-13-2:
       name: "Pies"
+    fb-2-1-16:
+      name: "Tortas de luna"
     fb-2-1-17:
       name: "Crepes"
     fb-2-1-2:
@@ -1061,6 +1069,8 @@ es-AR:
       name: "Snacks de budín"
     fb-2-17-13:
       name: "Galletas de arroz inflado"
+    fb-2-17-17-2:
+      name: "Tortas de arroz coreanas tteok y tteokbokki"
     fb-2-17-20:
       name: "Galletitas de arroz"
     fb-2-17-3:
@@ -1099,6 +1109,8 @@ es-AR:
       name: "Aceite para pochoclo"
     fb-2-5-12-5:
       name: "Aceite de maní"
+    fb-2-5-16-1:
+      name: "Masa para pan y pastelería"
     fb-2-5-16-2:
       name: "Masa para brownies y galletitas"
     fb-2-5-16-6:
@@ -2335,6 +2347,12 @@ es-AR:
       name: "Paños de limpieza de pisos"
     hg-8-5-5:
       name: "Herramientas para limpiar la pastina"
+    hg-8-9-4:
+      name: "Accesorios para lavarropas y secarropas"
+    hg-8-9-4-4:
+      name: "Pedestales para lavarropas y secarropas"
+    hg-8-9-4-5:
+      name: "Kits de apilamiento de lavarropas y secarropas"
     hg-9-2:
       name: "Secadoras de pisos y alfombras"
     hg-9-3:

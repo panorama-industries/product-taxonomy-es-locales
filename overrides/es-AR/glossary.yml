@@ -8,7 +8,7 @@ terms:
     note: "Category/value names → Ropa (aa-1 is 'Ropa', aa is 'Indumentaria y accesorios'). Keep in running text where natural (telas para prendas de vestir)."
   - match: [falda, faldas]
     use: pollera(s)
-    note: "falda pantalón → pollera short. Keep geographic/anatomical sense (falda de montaña)."
+    note: "falda pantalón → pollera short. Keep geographic/anatomical sense (falda de montaña) and technical skirts (mask, shuttlecock, balaclava)."
   - match: [calcetín, calcetines]
     use: media(s)
     note: "masc → fem. Ankle socks → soquetes. Hosiery stays 'medias' (use 'medias de nylon' if it must contrast with socks)."
@@ -16,7 +16,7 @@ terms:
     use: medias invisibles
   - match: [sujetador, sujetadores, sostén, sostenes]
     use: corpiño(s)
-    note: "masc → masc. Keep 'sostén' in the sense of support (sostén lumbar)."
+    note: "masc → masc. Keep 'sostén' in the sense of support (sostén lumbar) and sujetador as fastener/holder/clip."
   - match: [sudadera, sudaderas]
     use: buzo(s)
     note: "fem → masc: sudadera con capucha → buzo con capucha"
@@ -28,7 +28,7 @@ terms:
     note: "Only blazer sense; keep nationality adjective."
   - match: [jersey, jerséis, jerseys]
     use: suéter(es) / pulóver(es)
-    note: "Keep sports jersey sense → camiseta (de fútbol, etc.)."
+    note: "Keep sports jersey sense → camiseta (de fútbol, etc.), jersey knit fabric and the place name."
   - match: [vaquero, vaqueros, vaquera, vaqueras]
     use: jean(s) / de jean
     note: "Garment/fabric sense only. Cowboy sense: botas vaqueras → botas texanas; keep other cowboy uses."
@@ -78,7 +78,7 @@ terms:
     note: "fem pl → masc pl: gafas oscuras → anteojos oscuros. Safety goggles → antiparras."
   - match: [cremallera, cremalleras]
     use: cierre(s)
-    note: "fem → masc"
+    note: "fem → masc. Keep gear rack sense (cremallera y piñón)."
   - match: [tacón, tacones]
     use: taco(s)
     note: "masc → masc: zapatos de tacón → zapatos de taco."
@@ -173,7 +173,7 @@ terms:
   # Electronics & home
   - match: [móvil, móviles]
     use: celular(es)
-    note: "Phone sense only. Keep 'mobile' adjective (unidad móvil, aplicación móvil → app para celular is fine but optional)."
+    note: "Phone sense only. Keep 'mobile' adjective (unidad móvil, redes/dispositivos móviles, móvil para cuna, bobina móvil)."
   - match: [ordenador, ordenadores]
     use: computadora(s)
     note: "masc → fem. Ordenador portátil → notebook."
@@ -197,7 +197,7 @@ terms:
     use: encendedor(es)
   - match: [cubo, cubos]
     use: balde(s)
-    note: "Bucket sense only; keep cube sense (cubo de Rubik). Cubo de basura → tacho de basura."
+    note: "Bucket sense only; keep cube sense (cubo de Rubik) and wheel/propeller hub sense. Cubo de basura → tacho de basura."
   - match: [moqueta, moquetas]
     use: alfombra(s) / moquette
   - match: [bolígrafo, bolígrafos]
