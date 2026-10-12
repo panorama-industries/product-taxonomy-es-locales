@@ -3105,22 +3105,42 @@ es-AR:
       name: "Soportes para toallas"
     hg-1-4:
       name: "Soportes para accesorios de baño"
+    hg-10-11-2-6:
+      name: "Trampas de resorte"
+    hg-10-13:
+      name: "Bases para alfombras"
+    hg-10-14-11-3:
+      name: "Moldeadores para botas"
+    hg-10-14-6:
+      name: "Calzadores y ayudas para vestirse"
     hg-10-14-6-1-3:
       name: "Calzador de medias"
     hg-10-14-6-1-4:
       name: "Adaptadores de cierres"
+    hg-10-14-6-2:
+      name: "Calzadores"
     hg-10-15:
       name: "Alfombras para escalones"
     hg-10-16-1:
       name: "Almacenamiento de ropa y placards"
+    hg-10-16-1-2:
+      name: "Organizadores de placard y percheros"
     hg-10-16-1-2-1:
       name: "Organizadores de placard"
+    hg-10-17-1:
+      name: "Bolsas para compactadoras de basura"
+    hg-10-17-2:
+      name: "Filtros para compactadoras de basura"
+    hg-10-17-3:
+      name: "Desodorantes para compactadoras de basura"
     hg-10-18-4:
       name: "Tachos de basura y cestos de papeles"
     hg-10-18-4-1:
       name: "Tachos de basura"
     hg-10-18-4-2:
       name: "Cestos de papeles"
+    hg-10-19-2:
+      name: "Cerramientos para contenedores de residuos"
     hg-10-19-4:
       name: "Tapas para contenedores de residuos"
     hg-10-2:
@@ -3137,6 +3157,8 @@ es-AR:
       name: "Mangos para escobas y mopas"
     hg-10-6-11-16-2:
       name: "Limpiadores de bañaderas"
+    hg-10-6-11-16-3:
+      name: "Limpiadores de pastina"
     hg-10-6-11-17:
       name: "Limpiadores para lavarropas"
     hg-10-6-11-4:
@@ -3149,18 +3171,46 @@ es-AR:
       name: "Cabezales para mopas y repuestos"
     hg-10-6-13:
       name: "Mopas"
+    hg-10-6-14:
+      name: "Cabezales para cepillos de limpieza y repuestos"
+    hg-10-6-16:
+      name: "Paños de taller y de limpieza general"
     hg-10-6-18:
       name: "Espátulas limpiavidrios"
+    hg-10-6-2:
+      name: "Cabezales para escobas"
     hg-10-6-4:
       name: "Baldes"
+    hg-10-6-5:
+      name: "Barredoras de alfombras"
+    hg-10-6-7:
+      name: "Repuestos para plumeros"
+    hg-10-6-9:
+      name: "Palas recogedoras"
     hg-10-9-1:
       name: "Lavandina"
+    hg-10-9-13:
+      name: "Repuestos para tablas de planchar"
+    hg-10-9-14-2:
+      name: "Tablas de planchar para mangas"
     hg-10-9-15:
       name: "Ecobolas para lavarropas"
+    hg-10-9-18:
+      name: "Bolsas y protectores de lavado"
+    hg-10-9-2:
+      name: "Broches para la ropa"
     hg-10-9-20:
       name: "Sprays quitaarrugas y antiestáticos"
     hg-10-9-5:
       name: "Aromatizantes para tejidos"
+    hg-10-9-6:
+      name: "Afeitadoras de tela"
+    hg-11-1-10-2:
+      name: "Destapadores"
+    hg-11-1-10-4:
+      name: "Coladores para cócteles"
+    hg-11-1-10-5:
+      name: "Pisadores para cócteles"
     hg-11-1-11-4:
       name: "Sacacorchos para mozos"
     hg-11-1-15:
@@ -3795,20 +3845,52 @@ es-AR:
       name: "Matafuegos"
     hg-7-7:
       name: "Detectores de humo y monóxido de carbono"
+    hg-8-10-1:
+      name: "Fundas para estufas de exteriores"
+    hg-8-10-2:
+      name: "Mangueras para estufas de exteriores"
+    hg-8-10-3:
+      name: "Reflectores para estufas de exteriores"
+    hg-8-10-4:
+      name: "Reguladores para estufas de exteriores"
+    hg-8-10-5:
+      name: "Kits de ruedas para estufas de exteriores"
     hg-8-11-25:
       name: "Paños para el polvo"
+    hg-8-12-2:
+      name: "Tanques de agua caliente"
     hg-8-2-4:
       name: "Lamparitas de repuesto para purificadores de aire"
+    hg-8-3:
+      name: "Accesorios para deshumidificadores"
+    hg-8-3-1:
+      name: "Filtros para deshumidificadores"
+    hg-8-3-3:
+      name: "Repuestos para deshumidificadores"
+    hg-8-3-4:
+      name: "Mangueras para deshumidificadores"
+    hg-8-4-5:
+      name: "Cadenas e interruptores para ventiladores"
+    hg-8-5-1:
+      name: "Deslizadores para alfombras"
     hg-8-5-4:
       name: "Paños de limpieza de pisos"
     hg-8-5-5:
       name: "Herramientas para limpiar la pastina"
+    hg-8-9-2-3:
+      name: "Pulverizadores de agua"
     hg-8-9-4:
       name: "Accesorios para lavarropas y secarropas"
     hg-8-9-4-4:
       name: "Pedestales para lavarropas y secarropas"
     hg-8-9-4-5:
       name: "Kits de apilamiento de lavarropas y secarropas"
+    hg-9-1-6-2:
+      name: "Ventiladores de pie y de mesa"
+    hg-9-10-6:
+      name: "Aspiradoras tipo escoba"
+    hg-9-11:
+      name: "Vaporizadores para papel tapiz"
     hg-9-2:
       name: "Secadoras de pisos y alfombras"
     hg-9-3:
@@ -3823,6 +3905,10 @@ es-AR:
       name: "Fregadoras de pisos manuales"
     hg-9-3-4-8:
       name: "Fregadoras de piso robóticas"
+    hg-9-3-6-2:
+      name: "Mopas de vapor cilíndricas"
+    hg-9-3-6-6:
+      name: "Mopas de vapor con aspiradora"
     hg-9-4:
       name: "Pulidoras de pisos"
     hg-9-4-1:
