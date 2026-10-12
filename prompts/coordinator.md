@@ -14,7 +14,6 @@ Read AGENTS.md and prompts/README.md (Models section) first. Then follow the ste
 ## Step 0: Setup
 
 ```bash
-git switch -c es-AR/run-$(date +%Y%m%d)
 pnpm --silent check
 ```
 
