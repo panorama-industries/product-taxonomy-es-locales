@@ -4785,12 +4785,28 @@ es-AR:
       name: "Pelotas tornado"
     sg-2-15-6:
       name: "Pelotas de pared"
+    sg-2-18:
+      name: "Pelotas de reacción"
     sg-2-20-2-3:
       name: "Calcomanías y stickers reflectantes"
+    sg-2-23-1:
+      name: "Máquinas de ejercicio con vibración lineal"
+    sg-2-24-1-1:
+      name: "Barras olímpicas y de levantamiento de pesas"
+    sg-2-24-1-3:
+      name: "Collarines para barras de pesas"
     sg-2-24-5-6:
       name: "Almohadillas y almohadones"
+    sg-2-24-6-1:
+      name: "Jaulas de potencia"
+    sg-2-24-6-3-3:
+      name: "Gimnasios hogareños multiestación"
     sg-2-24-9:
       name: "Mallas enterizas de levantamiento de pesas"
+    sg-2-26-1-2:
+      name: "Reformers de pilates"
+    sg-2-26-3:
+      name: "Mats para yoga y pilates"
     sg-2-26-5:
       name: "Bolsas para mats de yoga"
     sg-2-26-5-1:
@@ -4801,6 +4817,8 @@ es-AR:
       name: "Bolsters y almohadones de yoga y pilates"
     sg-2-27:
       name: "Bañaderas de inmersión en frío y baños de hielo"
+    sg-2-29:
+      name: "Shakers"
     sg-2-3-2:
       name: "Discos de equilibrio"
     sg-2-4-1-1-2:
@@ -4861,6 +4879,66 @@ es-AR:
       name: "Alfombras para bicicletas estáticas"
     sg-2-8-3:
       name: "Colchonetas de protección del piso"
+    sg-3-1:
+      name: "Air hockey"
+    sg-3-1-1:
+      name: "Equipamiento para air hockey"
+    sg-3-1-1-1:
+      name: "Discos de air hockey"
+    sg-3-1-1-2:
+      name: "Paletas de air hockey"
+    sg-3-1-2:
+      name: "Piezas para mesas de air hockey"
+    sg-3-1-2-1:
+      name: "Tableros de mesa de air hockey"
+    sg-3-1-2-2:
+      name: "Pernos de mesa de air hockey"
+    sg-3-1-2-3:
+      name: "Cables de mesa de air hockey"
+    sg-3-1-2-4:
+      name: "Abrazaderas de mesa de air hockey"
+    sg-3-1-2-5:
+      name: "Pies de mesa de air hockey"
+    sg-3-1-3:
+      name: "Mesas de air hockey"
+    sg-3-2-3-1:
+      name: "Fundas para tacos de billar"
+    sg-3-2-3-2:
+      name: "Tiza para tacos de billar"
+    sg-3-2-3-4:
+      name: "Suelas para tacos de billar"
+    sg-3-2-3-5:
+      name: "Herramientas para suelas de tacos de billar"
+    sg-3-2-4:
+      name: "Tacos y puentes de billar"
+    sg-3-2-7-3:
+      name: "Paños para mesas de billar"
+    sg-3-3:
+      name: "Bowling"
+    sg-3-3-1-1:
+      name: "Bolsos tote para bolas de bowling"
+    sg-3-3-1-2:
+      name: "Mochilas para bolas de bowling"
+    sg-3-3-1-3:
+      name: "Bolsos con ruedas para bolas de bowling"
+    sg-3-3-1-4:
+      name: "Bolsos adicionales para bolas de bowling"
+    sg-3-3-10:
+      name: "Zapatos de bowling"
+    sg-3-3-11:
+      name: "Toallas y paños para bowling"
+    sg-3-3-12:
+      name: "Soportes y estantes para bolas de bowling"
+    sg-3-3-4:
+      name: "Pinos de bowling"
+    sg-3-3-5:
+      name: "Juegos de bowling"
+    sg-3-3-7:
+      name: "Productos de mantenimiento para bolas de bowling"
+    sg-3-3-8:
+      name: "Accesorios para zapatos de bowling"
+    sg-3-3-9:
+      name: "Equipos de asistencia y entrenamiento para bowling"
     sg-3-4:
       name: "Metegol"
     sg-3-4-1:
@@ -4885,20 +4963,54 @@ es-AR:
       name: "Mesas de metegol para exteriores"
     sg-3-4-3-2:
       name: "Mesas de metegol de sobremesa"
+    sg-3-5:
+      name: "Mesas multijuego"
+    sg-3-5-2:
+      name: "Mesas multijuego giratorias"
+    sg-3-6-3-1:
+      name: "Fundas para paletas de ping pong"
+    sg-3-6-4:
+      name: "Paletas y juegos de ping pong"
+    sg-3-7-1:
+      name: "Mesas de tejo"
+    sg-3-7-4:
+      name: "Fundas para mesas de tejo"
+    sg-3-8-1:
+      name: "Protectores de pared para dianas"
+    sg-3-8-2-4:
+      name: "O-rings para dardos"
     sg-3-8-7:
       name: "Gabinetes para dianas de dardos"
+    sg-4-1-1-3-7:
+      name: "Canoas de competencia"
     sg-4-1-1-4-12:
       name: "Asientos y almohadones para kayak"
+    sg-4-1-1-5-1:
+      name: "Kayaks para creeking"
+    sg-4-1-1-5-10:
+      name: "Kayaks de competencia"
+    sg-4-1-1-5-5:
+      name: "Playboats"
+    sg-4-1-2:
+      name: "Indumentaria para deportes acuáticos y navegación deportiva"
+    sg-4-1-2-1:
+      name: "Trajes secos"
     sg-4-1-2-10:
       name: "Camperas impermeables cortavientos"
+    sg-4-1-2-2-1:
+      name: "Luces para chalecos salvavidas"
     sg-4-1-2-4:
       name: "Remeras de protección y natación"
+    sg-4-1-2-7-2:
+      name: "Trajes de neopreno cortos"
     sg-4-1-3:
       name: "Buceo y snorkel"
     sg-4-1-3-3:
       name: "Conjuntos de equipamiento para buceo y snorkel"
     sg-4-1-3-5:
       name: "Máscaras de buceo"
+    sg-4-1-3-7:
+      name: "Cuchillos y tijeras de buceo"
     sg-4-1-3-9:
       name: "Snorkels"
     sg-4-1-3-9-1:
@@ -4907,8 +5019,16 @@ es-AR:
       name: "Snorkels semisecos"
     sg-4-1-3-9-3:
       name: "Snorkels tradicionales"
+    sg-4-1-3-9-4:
+      name: "Snorkels de montaje frontal"
+    sg-4-1-4-2-3:
+      name: "Manijas para tabla de kitesurf"
     sg-4-1-4-5:
       name: "Kites de kitesurf"
+    sg-4-1-5-8-4:
+      name: "Waveskis"
+    sg-4-1-6-2:
+      name: "Paletas de natación"
     sg-4-1-6-8:
       name: "Accesorios para anteojos y máscaras de natación"
     sg-4-1-6-8-2:
