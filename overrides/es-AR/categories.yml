@@ -1309,6 +1309,8 @@ es-AR:
       name: "Lamparitas de repuesto"
     el-1-5-4:
       name: "Marquesinas"
+    el-11:
+      name: "Electrónica náutica"
     el-11-2:
       name: "Receptores náuticos de audio y video"
     el-11-6:
@@ -1323,6 +1325,14 @@ es-AR:
       name: "Routers y puertas de enlace VoIP"
     el-12-1-4:
       name: "Routers inalámbricos"
+    el-12-3-5:
+      name: "Conmutadores modulares"
+    el-12-3-7:
+      name: "Conmutadores inteligentes"
+    el-12-3-8:
+      name: "Conmutadores apilables"
+    el-12-3-9:
+      name: "Conmutadores no administrados"
     el-17-10:
       name: "Transmisores de video"
     el-17-5:
@@ -1513,8 +1523,14 @@ es-AR:
       name: "Filtros de privacidad para celulares"
     el-7-12-5:
       name: "Memoria de video"
+    el-7-13-1:
+      name: "Estuches para tarjetas de memoria"
     el-7-14:
       name: "Trípodes y soportes de pie sencillo para celulares y tablets"
+    el-7-15:
+      name: "Energía"
+    el-7-15-1-10:
+      name: "Baterías para UPS"
     el-7-15-1-11:
       name: "Baterías para cámaras de video"
     el-7-15-1-12:
@@ -1523,12 +1539,24 @@ es-AR:
       name: "Baterías para notebooks"
     el-7-15-1-6:
       name: "Baterías para celulares"
+    el-7-15-12:
+      name: "UPS"
+    el-7-15-13-1:
+      name: "Kits de montaje en rack para UPS"
+    el-7-15-2-5:
+      name: "Probadores de baterías de uso general"
+    el-7-15-7:
+      name: "Estaciones de energía"
     el-7-15-8:
       name: "Supresores de sobretensión y zapatillas eléctricas"
+    el-7-15-9:
+      name: "Gabinetes para fuentes de alimentación"
     el-7-16:
       name: "Controles remotos"
     el-7-18-2:
       name: "Inhibidores de telefonía celular"
+    el-7-18-3:
+      name: "Inhibidores de radares"
     el-7-4:
       name: "Divisores y conmutadores de audio y video"
     el-7-6-1:
@@ -1563,12 +1591,20 @@ es-AR:
       name: "Puntas y repuestos para lápiz óptico"
     el-7-9-1-3:
       name: "Kits de rieles para servidor"
+    el-7-9-10-2:
+      name: "Tarjetas y adaptadores de interfaz para computadora"
+    el-7-9-10-2-2:
+      name: "Tarjetas y adaptadores seriales y paralelos"
+    el-7-9-10-3:
+      name: "Placas riser"
     el-7-9-10-5:
       name: "Tarjetas de video"
     el-7-9-11-2:
       name: "Accesorios para controles de videojuegos"
     el-7-9-11-2-1:
       name: "Estuches de transporte para controles de juegos"
+    el-7-9-11-2-2:
+      name: "Skins para control de juego"
     el-7-9-11-4:
       name: "Accesorios para mouse y trackballs"
     el-7-9-11-4-1:
@@ -1591,14 +1627,20 @@ es-AR:
       name: "Skins y envolturas para mouse"
     el-7-9-11-4-9:
       name: "Pesas para mouse"
+    el-7-9-11-6:
+      name: "Tapas para cámara web"
     el-7-9-12-11:
       name: "Mouse y trackballs"
     el-7-9-12-15:
       name: "Juegos de teclado y mouse"
     el-7-9-12-2:
       name: "Biromes digitales"
+    el-7-9-12-5-3:
+      name: "Gamepads"
     el-7-9-12-5-4:
       name: "Joysticks"
+    el-7-9-12-5-7:
+      name: "Alfombras de baile"
     el-7-9-13:
       name: "Repuestos para notebooks"
     el-7-9-13-1:
@@ -1621,8 +1663,34 @@ es-AR:
       name: "Almohadillas táctiles de reemplazo para notebook"
     el-7-9-13-9:
       name: "Ventiladores de enfriamiento y disipadores de calor para notebook"
+    el-7-9-14-3:
+      name: "Arreglos de discos duros"
+    el-7-9-14-3-1:
+      name: "Arreglos de discos duros de escritorio"
+    el-7-9-15-1:
+      name: "Carcasas y molduras para tablets"
+    el-7-9-15-1-1:
+      name: "Cubiertas traseras de tablet"
+    el-7-9-15-1-2:
+      name: "Marcos y biseles de tablet"
+    el-7-9-15-1-3:
+      name: "Soportes abatibles y bisagras de tablet"
     el-7-9-15-2:
       name: "Parlantes de repuesto para tablets"
+    el-7-9-15-3-1:
+      name: "Conjuntos de LCD y digitalizador de tablet"
+    el-7-9-15-3-2:
+      name: "Pantallas de reemplazo para tablet"
+    el-7-9-15-3-3:
+      name: "Digitalizadores de pantalla para tablet"
+    el-7-9-15-4:
+      name: "Botones y cables flexibles de tablet"
+    el-7-9-15-5:
+      name: "Módulos de cámara de tablet"
+    el-7-9-15-6:
+      name: "Conectores y puertos de carga de tablet"
+    el-7-9-15-7:
+      name: "Placas madre y placas lógicas de tablet"
     el-7-9-2-5:
       name: "Protectores de entrada/salida de placa madre"
     el-7-9-5:
@@ -1643,6 +1711,8 @@ es-AR:
       name: "Coolers de aire y disipadores de calor para CPU"
     el-7-9-8:
       name: "Gabinetes para computadoras y servidores"
+    el-8-2:
+      name: "Soportes para GPS de vehículo"
     fb-1-10-2-1:
       name: "Bebidas de castañas de cajú"
     fb-1-10-6:
