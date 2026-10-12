@@ -825,6 +825,10 @@ es-AR:
       name: "Cuchas para perros al aire libre"
     ap-2-3-8:
       name: "Cintas de correr para perros"
+    ap-2-31-4:
+      name: "Correas deslizantes"
+    ap-2-36-9:
+      name: "Pasta dental"
     ap-2-4-10-2:
       name: "Bases para gabinetes"
     ap-2-4-12-6:
@@ -839,6 +843,8 @@ es-AR:
       name: "Filtros de acuario externos y de canasta"
     ap-2-4-6-3:
       name: "Redes para medias"
+    ap-2-41-1:
+      name: "Dispensadores de premios y clickers para adiestrar mascotas"
     ap-2-41-2:
       name: "Protectores de alfombras sanitarias para mascotas"
     ap-2-41-2-1:
@@ -851,6 +857,8 @@ es-AR:
       name: "Alfombras sanitarias para mascotas"
     ap-2-41-4:
       name: "Soluciones y sprays de adiestramiento para mascotas"
+    ap-2-45-2:
+      name: "Bandejas sanitarias"
     ap-2-47-5-1:
       name: "Galletitas y facturas"
     ap-2-48-2:
@@ -879,10 +887,46 @@ es-AR:
       name: "Donas"
     ap-2-9-6:
       name: "Hamacas paraguayas"
+    bi:
+      name: "Negocios e industria"
+    bi-1:
+      name: "Publicidad y marketing"
+    bi-1-2-1:
+      name: "Mostradores con cerradura"
+    bi-1-3-8:
+      name: "Kioscos"
     bi-10-3-3:
       name: "Sillas de shampoo"
+    bi-11-10:
+      name: "Escrepers"
+    bi-11-10-1:
+      name: "Escrepers elevadores"
+    bi-11-10-2:
+      name: "Escrepers de caja abierta"
+    bi-11-10-3:
+      name: "Escrepers de arrastre"
+    bi-11-12-3:
+      name: "Tractores para cultivos en hilera"
+    bi-11-12-4:
+      name: "Tractores utilitarios"
+    bi-11-15:
+      name: "Escrepers para tractores con ruedas"
+    bi-11-15-1:
+      name: "Escrepers elevadores para tractores con ruedas"
+    bi-11-15-2:
+      name: "Escrepers de caja abierta para tractores con ruedas"
+    bi-11-15-3:
+      name: "Escrepers de arrastre para tractores con ruedas"
+    bi-11-16:
+      name: "Escrepers para patios"
     bi-11-17-1:
       name: "Baldes"
+    bi-11-17-6:
+      name: "Rippers"
+    bi-11-2:
+      name: "Topadoras"
+    bi-11-7-1:
+      name: "Cosechadoras combinadas"
     bi-11-7-4:
       name: "Cosechadoras de papas"
     bi-12:
@@ -893,8 +937,36 @@ es-AR:
       name: "Accesorios para hotelería y gastronomía"
     bi-13-1:
       name: "Gabinetes industriales"
+    bi-15-4:
+      name: "Carritos de recolección de residuos"
+    bi-16-1:
+      name: "Esposas"
+    bi-16-1-1:
+      name: "Esposas de cadena"
+    bi-16-1-2:
+      name: "Esposas descartables"
+    bi-16-1-3:
+      name: "Esposas con bisagras"
+    bi-16-1-4:
+      name: "Grilletes para piernas"
+    bi-16-1-5:
+      name: "Esposas rígidas"
+    bi-18-2-1:
+      name: "Polipastos, grúas y trolleys"
+    bi-18-2-1-1:
+      name: "Polipastos de cadena"
+    bi-18-2-1-5:
+      name: "Polipastos de cable"
+    bi-18-2-2:
+      name: "Gatos y autoelevadores"
     bi-18-2-2-2:
       name: "Gatos de piso"
+    bi-18-2-2-3:
+      name: "Zorras hidráulicas"
+    bi-18-2-4-3:
+      name: "Roldanas"
+    bi-18-2-5:
+      name: "Guinches"
     bi-18-3:
       name: "Plataformas de carga y pallets"
     bi-18-3-1:
@@ -907,12 +979,40 @@ es-AR:
       name: "Pallets largueros"
     bi-19-4-6-2:
       name: "Elevadores de bañadera"
+    bi-19-4-8:
+      name: "Accesorios para monitores de signos vitales"
+    bi-19-4-8-1:
+      name: "Brazaletes para monitores de signos vitales"
+    bi-19-4-8-2:
+      name: "Soportes para monitores de signos vitales"
+    bi-19-4-8-3:
+      name: "Cables de alimentación para monitores de signos vitales"
+    bi-19-4-8-4:
+      name: "Sensores para monitores de signos vitales"
+    bi-19-4-9:
+      name: "Monitores de signos vitales"
+    bi-19-5-2:
+      name: "Camillas y sillas de examen"
+    bi-19-5-2-1:
+      name: "Sillas de examen"
+    bi-19-5-2-1-2:
+      name: "Sillas de examen manuales"
+    bi-19-5-2-1-4:
+      name: "Sillas de examen eléctricas"
+    bi-19-5-2-2:
+      name: "Mesas de examen"
+    bi-19-5-2-2-1:
+      name: "Mesas de examen manuales"
+    bi-19-5-2-2-2:
+      name: "Mesas de examen eléctricas"
     bi-19-5-4:
       name: "Gabinetes médicos"
     bi-19-5-4-1:
       name: "Mesas de luz"
     bi-19-5-4-2:
       name: "Gabinetes para salas de reconocimiento"
+    bi-19-6-1-1:
+      name: "Fórceps de curación"
     bi-22-5-4:
       name: "Bolsas camiseta para compras"
     bi-22-8:
@@ -937,14 +1037,38 @@ es-AR:
       name: "Respiradores y máscaras de gas"
     bi-25-7-4:
       name: "Barbijos médicos"
+    bi-6-2:
+      name: "Utilería de cine y televisión"
+    bi-8:
+      name: "Gastronomía"
     bi-8-1:
       name: "Cajas para tortas"
     bi-8-11:
       name: "Máquinas de panchos"
     bi-8-2:
       name: "Fuentones"
+    bi-8-5:
+      name: "Tapas descartables"
+    bi-8-6:
+      name: "Material de servir descartable"
+    bi-8-6-1:
+      name: "Bandejas de servir descartables"
+    bi-8-7:
+      name: "Vajilla descartable"
+    bi-8-7-1:
+      name: "Cuencos descartables"
+    bi-8-7-2:
+      name: "Vasos descartables"
     bi-8-7-3:
       name: "Cubiertos descartables"
+    bi-8-7-3-1:
+      name: "Tenedores descartables"
+    bi-8-7-3-2:
+      name: "Cuchillos descartables"
+    bi-8-7-3-3:
+      name: "Cucharas descartables"
+    bi-8-7-4:
+      name: "Platos descartables"
     bi-9-2-3:
       name: "Anteojos para la ingeniería forestal e industria maderera"
     bt-1-1:
