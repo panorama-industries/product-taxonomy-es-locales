@@ -4,9 +4,9 @@ Run after Phases A and B are merged. Marks every pending attribute/value key wit
 
 ```bash
 for t in attributes values; do
-  pnpm --silent pending --type $t --exclude-glossary --limit 0 --format keys | pnpm --silent mark-reviewed --type $t -
+  pnpm --silent run pending --type $t --exclude-glossary --limit 0 --format keys | pnpm --silent run mark-reviewed --type $t -
 done
-pnpm --silent check
+pnpm --silent run check
 ```
 
 Later upstream bumps make changed keys stale again; review those with Phase B/C prompts (they only pick up pending keys).

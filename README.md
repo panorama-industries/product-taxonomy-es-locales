@@ -38,14 +38,14 @@ Requires Node 24+, pnpm, Ruby (version in `.upstream/dev/.ruby-version`).
 
 ```bash
 pnpm install
-pnpm sync                    # download UPSTREAM_VERSION into .upstream/
-pnpm check                   # validate overrides, show review progress (--fix drops removed keys)
-pnpm vocab                   # distinct base words by frequency, to build the glossary
-pnpm pending --type values   # pending keys as TSV (filters: --key, --match, --match-glossary, --dedupe, ...)
-pnpm apply batch.tsv changes.tsv   # write overrides from a batch, mark the batch reviewed
-pnpm mark-reviewed --type values key1 key2   # or `-` to read keys from stdin
-pnpm build                   # generate dist/<locale>/ with Shopify's generator
-pnpm stage                   # gzip dist/ into release-assets/
+pnpm run sync                    # download UPSTREAM_VERSION into .upstream/
+pnpm run check                   # validate overrides, show review progress (--fix drops removed keys)
+pnpm run vocab                   # distinct base words by frequency, to build the glossary
+pnpm run pending --type values   # pending keys as TSV (filters: --key, --match, --match-glossary, --dedupe, ...)
+pnpm run apply batch.tsv changes.tsv   # write overrides from a batch, mark the batch reviewed
+pnpm run mark-reviewed --type values key1 key2   # or `-` to read keys from stdin
+pnpm run build                   # generate dist/<locale>/ with Shopify's generator
+pnpm run stage                   # gzip dist/ into release-assets/
 ```
 
 ## Updating to a new Shopify release
@@ -56,7 +56,7 @@ pnpm stage                   # gzip dist/ into release-assets/
 
 1. Add `es-XX: { base: es }` to `locales.yml`
 2. Create `overrides/es-XX/` with empty `<type>.yml` files (copy `overrides/es-AR/` structure)
-3. `pnpm check`
+3. `pnpm run check`
 
 Locales can build on each other, e.g. a shared `es-419` layer with `es-AR: { base: es-419 }`.
 

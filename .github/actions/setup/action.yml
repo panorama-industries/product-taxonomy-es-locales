@@ -10,7 +10,7 @@ runs:
         cache: pnpm
     - run: pnpm install --frozen-lockfile
       shell: bash
-    - run: pnpm sync
+    - run: pnpm run sync
       shell: bash
     - uses: ruby/setup-ruby@v1
       with:

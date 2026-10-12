@@ -2,7 +2,7 @@
 
 Each locale = base locale + overrides. Goal: every key **reviewed**, i.e. someone decided whether the base text is right for the locale. Override only when it isn't.
 
-Setup: `pnpm install && pnpm sync`. Ruby is only needed for `pnpm build` (CI runs it).
+Setup: `pnpm install && pnpm run sync`. Ruby is only needed for `pnpm run build` (CI runs it).
 
 Session prompts per phase: `prompts/`.
 
@@ -10,7 +10,7 @@ Session prompts per phase: `prompts/`.
 
 1. Get a batch:
    ```bash
-   pnpm --silent pending --type <type> [filters] --limit 400 --out /tmp/batch.tsv
+   pnpm --silent run pending --type <type> [filters] --limit 400 --out /tmp/batch.tsv
    ```
    Rows: `type⇥keys⇥field⇥en⇥base⇥override`. With `--dedupe`, `keys` is a comma list of keys sharing the same text; one decision covers all of them.
 2. Read `/tmp/batch.tsv`. Write `/tmp/changes.tsv` with **only rows that change**:
@@ -20,7 +20,7 @@ Session prompts per phase: `prompts/`.
    Copy `type`, `keys` and `field` exactly from the batch row. `text` = new es-AR text, or `-` to delete an existing override. Text equal to base also deletes the override.
 3. Apply and mark the whole batch reviewed:
    ```bash
-   pnpm --silent apply /tmp/batch.tsv /tmp/changes.tsv   # omit changes.tsv if nothing changes
+   pnpm --silent run apply /tmp/batch.tsv /tmp/changes.tsv   # omit changes.tsv if nothing changes
    ```
    On errors nothing is written; fix `changes.tsv` and rerun.
 4. Repeat. `pending` only returns keys not yet reviewed, so a new session continues where the last stopped.
@@ -40,7 +40,7 @@ terms:
     note: fem → fem
 ```
 
-`pnpm --silent vocab --offset 0 --limit 2000 --out /tmp/vocab.tsv` lists distinct base words (`word⇥count⇥example⇥in glossary`) to build it.
+`pnpm --silent run vocab --offset 0 --limit 2000 --out /tmp/vocab.tsv` lists distinct base words (`word⇥count⇥example⇥in glossary`) to build it.
 
 ## es-AR rules
 
@@ -57,7 +57,7 @@ terms:
 ## Output
 
 - No narration, no per-batch summaries. Write files and run commands.
-- After the last batch: `pnpm --silent check`, commit, open a PR.
+- After the last batch: `pnpm --silent run check`, commit, open a PR.
 
 ## Don'ts
 

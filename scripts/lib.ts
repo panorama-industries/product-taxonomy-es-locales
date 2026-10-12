@@ -31,7 +31,7 @@ export const markSynced = (tag: string) => writeFileSync(SYNCED_TAG_FILE, `${tag
 export const assertSynced = () => {
   const tag = pinnedTag()
   const synced = existsSync(SYNCED_TAG_FILE) ? readFileSync(SYNCED_TAG_FILE, "utf8").trim() : undefined
-  if (synced !== tag) throw new Error(`.upstream is at ${synced ?? "nothing"}, expected ${tag}. Run \`pnpm sync\`.`)
+  if (synced !== tag) throw new Error(`.upstream is at ${synced ?? "nothing"}, expected ${tag}. Run \`pnpm run sync\`.`)
 }
 
 const readYaml = (path: string): unknown => load(readFileSync(path, "utf8"))
@@ -89,7 +89,7 @@ const upstreamPath = (type: LocalizationType, locale: string) =>
 export const upstreamEntries = (locale: string, type: LocalizationType) =>
   cached(`upstream:${locale}:${type}`, () => {
     const path = upstreamPath(type, locale)
-    if (!existsSync(path)) throw new Error(`Missing ${path}. Is "${locale}" a Shopify locale? Run \`pnpm sync\`.`)
+    if (!existsSync(path)) throw new Error(`Missing ${path}. Is "${locale}" a Shopify locale? Run \`pnpm run sync\`.`)
     const doc = readYaml(path)
     return toEntries(isRecord(doc) && isRecord(doc[locale]) ? doc[locale][type] : undefined, path)
   })

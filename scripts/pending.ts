@@ -1,5 +1,5 @@
 // Lists keys pending review (or any status with --status), for translators/agents to work in batches.
-//   pnpm pending --type values --limit 400 --out /tmp/batch.tsv
+//   pnpm run pending --type values --limit 400 --out /tmp/batch.tsv
 // Filters:
 //   --type a,b             localization types (default: all)
 //   --status s             stale | unreviewed | reviewed | all (default: stale + unreviewed)

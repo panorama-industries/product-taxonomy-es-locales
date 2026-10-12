@@ -1,6 +1,6 @@
 // Stamps keys as reviewed against the current en + base text. Run after deciding each key (override or keep base).
-//   pnpm mark-reviewed --locale es-AR --type values key1 key2 ...
-//   pnpm mark-reviewed --locale es-AR --type values -      (keys from stdin, one per line)
+//   pnpm run mark-reviewed --locale es-AR --type values key1 key2 ...
+//   pnpm run mark-reviewed --locale es-AR --type values -      (keys from stdin, one per line)
 import { readFileSync } from "node:fs"
 import { parseArgs } from "node:util"
 import { type LocalizationType, TYPES, assertSynced, loadLocales, loadReviewed, reviewStamp, sourceEntries, writeReviewed } from "./lib.ts"

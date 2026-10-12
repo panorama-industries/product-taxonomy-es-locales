@@ -24,12 +24,12 @@ The glossary starts with 53 seed terms (clothing, home, electronics, food). Phas
 
 Don't use Haiku. On a 300-row apparel test batch, Haiku changed 92 rows and Sonnet 144, using about the same number of tokens. Haiku skipped faldas→polleras (12/12 rows), calcetines→medias (14/15), tights mistranslated as "mallas" (swimsuit in AR), leggings→calzas, polos→chombas, and introduced a Spain-only term ("Ropa de estar por casa"). Skipped rows don't show in a PR diff.
 
-`pnpm check` column **glossary kept** counts reviewed keys whose base still contains a glossary term without an override. Some are deliberate (other meaning, brand names); the QA session checks them.
+`pnpm run check` column **glossary kept** counts reviewed keys whose base still contains a glossary term without an override. Some are deliberate (other meaning, brand names); the QA session checks them.
 
 Check how many keys a scope has before splitting:
 
 ```bash
-pnpm --silent pending --type values --match-glossary --dedupe --limit 0 --format keys | wc -l
+pnpm --silent run pending --type values --match-glossary --dedupe --limit 0 --format keys | wc -l
 ```
 
 ## Phase B scopes

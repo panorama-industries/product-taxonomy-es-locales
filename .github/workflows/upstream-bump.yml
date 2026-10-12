@@ -39,9 +39,9 @@ jobs:
           {
             echo "Bumps Shopify/product-taxonomy to [${{ steps.latest.outputs.tag }}](https://github.com/Shopify/product-taxonomy/releases/tag/${{ steps.latest.outputs.tag }})."
             echo
-            echo "Removed keys were dropped with \`pnpm check --fix\`. Review stale and unreviewed keys with \`pnpm pending\`."
+            echo "Removed keys were dropped with \`pnpm run check --fix\`. Review stale and unreviewed keys with \`pnpm run pending\`."
             echo
-            pnpm --silent check --fix || true
+            pnpm --silent run check --fix || true
           } > "$RUNNER_TEMP/report.md"
           cat "$RUNNER_TEMP/report.md"
       - if: steps.latest.outputs.skip != 'true'

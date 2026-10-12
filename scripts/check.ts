@@ -2,7 +2,7 @@
 //   --fix     drop overrides and review stamps for keys/fields that no longer exist upstream
 //   --strict  also fail when keys are stale or unreviewed
 // "glossary kept" = reviewed keys whose base still contains a glossary term with no override (deliberate or missed fix);
-// list them with `pnpm pending --glossary-kept`
+// list them with `pnpm run pending --glossary-kept`
 import { parseArgs } from "node:util"
 import {
   type Entries,
@@ -84,7 +84,7 @@ if (errors.length > 0) {
   console.log(`\n${flags.fix ? "Fixed" : "Errors"} (${errors.length}):`)
   for (const e of errors) console.log(`- ${e}`)
   if (!flags.fix) {
-    console.log("\nRun `pnpm check --fix` to drop removed keys/fields. Empty values must be fixed by hand.")
+    console.log("\nRun `pnpm run check --fix` to drop removed keys/fields. Empty values must be fixed by hand.")
     process.exitCode = 1
   }
 }

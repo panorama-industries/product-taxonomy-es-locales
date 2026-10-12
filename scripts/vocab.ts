@@ -1,5 +1,5 @@
 // Lists distinct words of the base text, most frequent first, to build the glossary.
-//   pnpm vocab --offset 0 --limit 2000 --out /tmp/vocab.tsv
+//   pnpm run vocab --offset 0 --limit 2000 --out /tmp/vocab.tsv
 // Rows: word⇥texts containing it⇥shortest example text⇥in glossary (✓)
 import { writeFileSync } from "node:fs"
 import { parseArgs } from "node:util"

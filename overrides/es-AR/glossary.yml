@@ -1,4 +1,4 @@
-# Base (es) terms that differ in es-AR. Used by `pnpm pending --match-glossary` / `--glossary-kept`.
+# Base (es) terms that differ in es-AR. Used by `pnpm run pending --match-glossary` / `--glossary-kept`.
 # match: whole-word, case-insensitive forms to find in base text (list every inflection: singular, plural, gender)
 # use:   es-AR replacement; note: context, gender changes, exceptions
 terms:

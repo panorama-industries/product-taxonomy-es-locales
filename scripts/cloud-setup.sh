@@ -5,5 +5,5 @@ if [ "$CLAUDE_CODE_REMOTE" != "true" ]; then
 fi
 cd "$CLAUDE_PROJECT_DIR" || exit 1
 pnpm install --frozen-lockfile
-pnpm --silent sync
+pnpm --silent run sync
 exit 0

@@ -1,6 +1,6 @@
-// Applies a changes file to a batch from `pnpm pending`, then marks every key in the batch reviewed.
-//   pnpm apply /tmp/batch.tsv /tmp/changes.tsv
-//   pnpm apply /tmp/batch.tsv            (no changes: base text is right for every key)
+// Applies a changes file to a batch from `pnpm run pending`, then marks every key in the batch reviewed.
+//   pnpm run apply /tmp/batch.tsv /tmp/changes.tsv
+//   pnpm run apply /tmp/batch.tsv            (no changes: base text is right for every key)
 // changes.tsv rows: type⇥keys⇥field⇥text  (keys copied from the batch row; text "-" removes the override)
 // Text equal to the base text removes the override. Nothing is written if any row is invalid.
 import { existsSync } from "node:fs"
@@ -24,7 +24,7 @@ import {
 
 const { values: flags, positionals } = parseArgs({ allowPositionals: true, options: { locale: { type: "string" } } })
 const [batchPath, changesPath] = positionals
-if (!batchPath || positionals.length > 2) throw new Error("Usage: pnpm apply <batch.tsv> [changes.tsv]")
+if (!batchPath || positionals.length > 2) throw new Error("Usage: pnpm run apply <batch.tsv> [changes.tsv]")
 
 assertSynced()
 const config = loadLocales()
