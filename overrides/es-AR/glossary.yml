@@ -8,7 +8,7 @@ terms:
     note: "Category/value names → Ropa (aa-1 is 'Ropa', aa is 'Indumentaria y accesorios'). Keep in running text where natural (telas para prendas de vestir)."
   - match: [falda, faldas]
     use: pollera(s)
-    note: "falda pantalón → pollera short. Keep geographic/anatomical sense (falda de montaña)."
+    note: "falda pantalón → pollera short. Keep geographic/anatomical sense (falda de montaña) and technical skirts (mask, shuttlecock, balaclava)."
   - match: [calcetín, calcetines]
     use: media(s)
     note: "masc → fem. Ankle socks → soquetes. Hosiery stays 'medias' (use 'medias de nylon' if it must contrast with socks)."
@@ -16,7 +16,7 @@ terms:
     use: medias invisibles
   - match: [sujetador, sujetadores, sostén, sostenes]
     use: corpiño(s)
-    note: "masc → masc. Keep 'sostén' in the sense of support (sostén lumbar)."
+    note: "masc → masc. Keep 'sostén' in the sense of support (sostén lumbar) and sujetador as fastener/holder/clip."
   - match: [sudadera, sudaderas]
     use: buzo(s)
     note: "fem → masc: sudadera con capucha → buzo con capucha"
@@ -28,7 +28,7 @@ terms:
     note: "Only blazer sense; keep nationality adjective."
   - match: [jersey, jerséis, jerseys]
     use: suéter(es) / pulóver(es)
-    note: "Keep sports jersey sense → camiseta (de fútbol, etc.)."
+    note: "Keep sports jersey sense → camiseta (de fútbol, etc.), jersey knit fabric and the place name."
   - match: [vaquero, vaqueros, vaquera, vaqueras]
     use: jean(s) / de jean
     note: "Garment/fabric sense only. Cowboy sense: botas vaqueras → botas texanas; keep other cowboy uses."
@@ -78,11 +78,102 @@ terms:
     note: "fem pl → masc pl: gafas oscuras → anteojos oscuros. Safety goggles → antiparras."
   - match: [cremallera, cremalleras]
     use: cierre(s)
+    note: "fem → masc. Keep gear rack sense (cremallera y piñón)."
+  - match: [tacón, tacones]
+    use: taco(s)
+    note: "masc → masc: zapatos de tacón → zapatos de taco."
+  - match: [zapato de salón, zapatos de salón]
+    use: stiletto(s) / zapato(s) de taco
+    note: "Pump shoes only."
+  - match: [botín, botines]
+    use: botineta(s) / botita(s)
+    note: "In AR 'botines' = soccer cleats (keep that sense). Ankle booties → botinetas; surf/baby booties → botitas/escarpines."
+  - match: [patuco, patucos]
+    use: escarpín / escarpines
+  - match: [chancla, chanclas, chancleta, chancletas]
+    use: ojota(s)
+    note: "Flip-flop sense."
+  - match: [pendiente, pendientes, arete, aretes]
+    use: aro(s)
+    note: "fem → masc. Earrings only. Keep pending/slope sense (tareas pendientes, pendiente del terreno)."
+  - match: [bisutería]
+    use: bijouterie
+  - match: [abalorio, abalorios]
+    use: cuenta(s) / mostacilla(s)
+    note: "masc → fem. Beading → mostacillas (agujas para mostacillas)."
+  - match: [cartera, carteras]
+    use: billetera(s)
+    note: "Wallet sense only. In AR 'cartera' = handbag: keep it there."
+  - match: [maleta, maletas]
+    use: valija(s)
+    note: "Luggage category → Valijas y bolsos de viaje. Check en: 'Checked Suitcases' was mistranslated as 'maletas a cuadros' (→ valijas para despachar)."
+  - match: [diadema, diademas]
+    use: vincha(s)
+    note: "Hair headband sense. Keep tiara/crown sense."
+  - match: [coleta, coletas]
+    use: colita(s) / cola(s) de caballo
+    note: "Hairstyle sense. Electrode 'pigtail' connector → cable pigtail."
+  - match: [moño, moños]
+    use: rodete(s)
+    note: "Only the hair bun sense (cubre moño → cubre rodete). Keep bow/ribbon sense, which is the AR meaning."
+  - match: [pajarita, pajaritas, corbatín, corbatines]
+    use: moño(s)
+    note: "Bow tie sense; fem → masc. Keep origami paper bird sense (pajarita de papel)."
+  - match: [esmoquin, esmoquines, esmóquines]
+    use: smoking(s)
+  - match: [gabardina, gabardinas]
+    use: piloto(s)
+    note: "Trench coat garment only: fem → masc. Keep fabric sense (tela de gabardina)."
+  - match: [salopette, salopettes]
+    use: jardinero(s)
+    note: "Consistent with peto → jardinero."
+  - match: [pitillo, pitillos]
+    use: chupín (pantalón chupín)
+    note: "Skinny trouser fit. Keep cigarette sense if any."
+  - match: [pololo, pololos]
+    use: bombachudo(s)
+    note: "Bloomers worn under skirts/baby bloomers."
+  - match: [braguita, braguitas]
+    use: bombacha(s) / bombachita(s)
+    note: "braguitas de corte alto → bombachas tiro alto"
+  - match: [calzón, calzones]
+    use: bombacha(s) / calzoncillo(s)
+    note: "masc → fem for women's/girls' underpants (bombachas); men's briefs → calzoncillos."
+  - match: [pantimedia, pantimedias]
+    use: medias de nylon / panty
+  - match: [liguero, ligueros]
+    use: portaligas
+    note: "masc → masc, invariable plural"
+  - match: [trabilla, trabillas]
+    use: presilla(s)
+    note: "Belt loops → presillas para cinturón."
+  - match: [quimono, quimonos]
+    use: kimono(s)
+  - match: [mezclilla]
+    use: jean / denim
+    note: "fem → masc. Mexicanism for denim fabric."
+  - match: [popelina, popelinas]
+    use: poplín
     note: "fem → masc"
+  - match: [polipiel]
+    use: cuero sintético / ecocuero
+    note: "fem → masc"
+  - match: [ganchillo, ganchillos]
+    use: crochet / aguja(s) de crochet
+    note: "Technique → crochet; hook tool → aguja de crochet (masc → fem)."
+  - match: [calceta]
+    use: tejido (de punto)
+    note: "Knitting sense (marcadores de calceta → marcadores de tejido)."
+  - match: [guateado]
+    use: patchwork / acolchado
+    note: "Quilting: hilo de guateado → hilo para patchwork."
+  - match: [remalladora, remalladoras]
+    use: overlock
+    note: "máquina overlock"
   # Electronics & home
   - match: [móvil, móviles]
     use: celular(es)
-    note: "Phone sense only. Keep 'mobile' adjective (unidad móvil, aplicación móvil → app para celular is fine but optional)."
+    note: "Phone sense only. Keep 'mobile' adjective (unidad móvil, redes/dispositivos móviles, móvil para cuna, bobina móvil)."
   - match: [ordenador, ordenadores]
     use: computadora(s)
     note: "masc → fem. Ordenador portátil → notebook."
@@ -106,14 +197,14 @@ terms:
     use: encendedor(es)
   - match: [cubo, cubos]
     use: balde(s)
-    note: "Bucket sense only; keep cube sense (cubo de Rubik). Cubo de basura → tacho de basura."
+    note: "Bucket sense only; keep cube sense (cubo de Rubik) and wheel/propeller hub sense. Cubo de basura → tacho de basura."
   - match: [moqueta, moquetas]
     use: alfombra(s) / moquette
   - match: [bolígrafo, bolígrafos]
     use: birome(s) / lapicera(s)
   - match: [coche, coches]
     use: auto(s)
-    note: "Baby stroller → cochecito; keep 'coche' in 'coche cama'."
+    note: "Baby stroller → cochecito; keep railway car sense (coche cama, coche cabina, coche salón)."
   - match: [aparcamiento, aparcar]
     use: estacionamiento / estacionar
   - match: [tirita, tiritas]
@@ -123,6 +214,243 @@ terms:
   - match: [coger]
     use: agarrar / tomar
     note: "Vulgar in AR; never use."
+  - match: [lavadora, lavadoras]
+    use: lavarropas
+    note: "fem → masc (invariable): lavadora-secadora → lavasecarropas. Pressure washer (hidrolavadora) and machines washing non-laundry items (food, plates, carpets) stay."
+  - match: [congelador, congeladores]
+    use: freezer(s)
+    note: "Appliance and fridge compartment (compartimento congelador → freezer)."
+  - match: [refrigerador, refrigeradores]
+    use: heladera(s)
+    note: "masc → fem. Only household/wine fridges. CPU coolers → coolers / refrigeración; beverage tubs → conservadoras."
+  - match: [hervidor, hervidores]
+    use: pava(s) eléctrica(s) / pava(s)
+    note: "masc → fem. Electric kettle → pava eléctrica; stovetop → pava. Kettle grill is not a hervidor: check en."
+  - match: [hornillo, hornillos, fogón, fogones]
+    use: anafe(s)
+    note: "Portable/camping stove sense. In AR 'fogón' = campfire/hearth; keep that sense."
+  - match: [cazo, cazos, cacillo, cacillos]
+    use: cacerola(s) / jarro(s)
+    note: "Saucepan sense; masc → fem for cacerola. Small ladle → cucharón. Climbing hold 'cup pull' → tiradores de cuchara."
+  - match: [cubertería]
+    use: cubiertos
+    note: "fem sg → masc pl: la cubertería desechable → los cubiertos descartables."
+  - match: [cucharilla, cucharillas]
+    use: cucharita(s)
+    note: "Fishing spinner lure → cucharita / spinner."
+  - match: [pajita, pajitas, pajilla, pajillas]
+    use: sorbete(s)
+    note: "fem → masc. 'Paja' has a vulgar meaning in AR; never use for drinking straws."
+  - match: [tarro, tarros, tarrina, tarrinas]
+    use: frasco(s) / pote(s)
+    note: "Jar → frasco; tub → pote. Money jars → alcancías. 'Tarro' is slang in AR."
+  - match: [bote, botes]
+    use: frasco(s) / tarro(s) / tacho(s)
+    note: "Only jar/can sense: botes de galletas → frascos para galletitas; bote de basura → tacho de basura; botes de dinero → alcancías. Keep boat sense (botes de remo)."
+  - match: [tapadera, tapaderas]
+    use: tapa(s)
+  - match: [cubitera, cubiteras]
+    use: cubetera(s) / hielera(s)
+    note: "Ice cube tray → cubetera; ice bucket → hielera."
+  - match: [fiambrera, fiambreras]
+    use: vianda(s) / lunchera(s) / táper(s)
+    note: "Lunch box. Keep 'fiambre' (cold cuts)."
+  - match: [abrebotellas]
+    use: destapador(es)
+  - match: [escurreplatos]
+    use: escurridor(es) de platos / secaplatos
+  - match: [pasapurés]
+    use: pisapapas
+  - match: [salvamanteles]
+    use: posafuentes
+  - match: [mondadientes, portamondadientes]
+    use: escarbadientes / porta escarbadientes
+  - match: [palillero, palilleros]
+    use: porta escarbadientes
+    note: "Toothpick holder sense. Keep chopsticks (palillos chinos)."
+  - match: [gofrera, gofreras]
+    use: wafflera(s)
+  - match: [barreño, barreños]
+    use: palangana(s) / fuentón(es)
+  - match: [fregona, fregonas]
+    use: mopa(s) / lampazo(s)
+    note: "Mop heads → repuestos para mopa."
+  - match: [bayeta, bayetas]
+    use: paño(s) / rejilla(s)
+    note: "Dishcloth → repasador / rejilla; dusting pad → paño para el polvo."
+  - match: [lejía, lejías]
+    use: lavandina(s)
+    note: "Bleach sense. Lye sense (curado con lejía) → soda cáustica."
+  - match: [lavaplatos]
+    use: detergente (para vajilla) / lavavajillas
+    note: "Dish soap → detergente; dishwasher machine → lavavajillas."
+  - match: [fregable, fregables]
+    use: lavable(s)
+  - match: [ambientador, ambientadores]
+    use: aromatizante(s) / desodorante(s) de ambiente
+  - match: [espray, esprays, espráis, esprái]
+    use: spray(s) / aerosol(es)
+  - match: [bañera, bañeras]
+    use: bañadera(s)
+  - match: [lavabo, lavabos]
+    use: bacha(s) / lavatorio(s)
+    note: "masc → fem for bacha. Aircraft lavatory sense → baño."
+  - match: [retrete, retretes]
+    use: inodoro(s)
+  - match: [urinario, urinarios]
+    use: mingitorio(s)
+  - match: [orinal, orinales, bacinilla, bacinillas]
+    use: pelela(s) / chata(s)
+    note: "masc → fem. Child potty → pelela; bed pan → chata; male urinal bottle → papagayo."
+  - match: [desatascador, desatascadores]
+    use: sopapa(s) / destapacañerías
+    note: "Plungers → sopapa(s); chemical drain openers → destapacañerías."
+  - match: [fontanería]
+    use: plomería
+  - match: [encimera, encimeras]
+    use: mesada(s)
+    note: "Kitchen countertop sense."
+  - match: [tocador, tocadores]
+    use: vanitory / vanitorys
+    note: "Bathroom vanity sense only (tocador con lavabo → vanitory con bacha). Keep dressing table sense."
+  - match: [armario, armarios, clóset, clósets]
+    use: placard(s) / ropero(s) / gabinete(s) / mueble(s)
+    note: "Wardrobe → placard or ropero; cabinet (industrial, medical, kitchen) → gabinete or mueble; kitchen wall cabinet → alacena."
+  - match: [mesita de noche, mesitas de noche]
+    use: mesa(s) de luz
+  - match: [cabecero, cabeceros]
+    use: respaldo(s)
+    note: "Bed headboard sense."
+  - match: [somier, somieres]
+    use: sommier(s)
+    note: "Box springs → sommier de resortes. Futon frame → base para futón."
+  - match: [sábana bajera, sábanas bajeras]
+    use: sábana(s) ajustable(s)
+  - match: [edredón, edredones]
+    use: acolchado(s)
+  - match: [litera, literas]
+    use: cucheta(s)
+  - match: [taburete, taburetes]
+    use: banqueta(s)
+    note: "masc → fem. Step stool → banquito."
+  - match: [cojín, cojines]
+    use: almohadón / almohadones
+    note: "Decorative/seat cushions → almohadón; nursing pillow → almohada de lactancia; technical cushions (mask seal, balance cushion) → almohadilla / disco de equilibrio."
+  - match: [alfombrilla, alfombrillas, esterilla, esterillas]
+    use: alfombra(s) / felpudo(s) / mouse pad(s) / mat(s)
+    note: "Door mat → felpudo; floor/car/bath mat → alfombra; mouse mat → mouse pad; yoga mat → mat de yoga; cutting mat → base de corte; dish drying mat → secaplatos; nap mat → colchoneta. Keep sushi mat (esterilla para sushi) and basketweave."
+  - match: [estor, estores]
+    use: cortina(s) roller / cortina(s) romana(s)
+    note: "masc → fem"
+  - match: [suelo, suelos]
+    use: piso(s)
+    note: "Floor sense only (de suelo → de piso). Keep soil/ground sense (suelo arcilloso, anclaje en el suelo)."
+  - match: [parqué]
+    use: parquet
+  - match: [cristal, cristales]
+    use: vidrio(s)
+    note: "Ordinary glass (windows, doors, glass arrows) → vidrio; eyewear lenses → lentes. Keep crystal sense (oscilador de cristal, cristal de cuarzo, cristal del reloj, cristalería fina)."
+  - match: [limpiacristales]
+    use: limpiavidrios
+  - match: [barandilla, barandillas]
+    use: baranda(s)
+  - match: [canalón, canalones]
+    use: canaleta(s)
+  - match: [cobertizo, cobertizos]
+    use: galpón / galpones / tinglado(s)
+    note: "Shed sense. Lean-to roof style → techo a un agua."
+  - match: [cenador, cenadores]
+    use: gazebo(s)
+  - match: [barbacoa, barbacoas]
+    use: parrilla(s)
+    note: "Grill sense. 'Salsa barbacoa' stays."
+  - match: [tumbona, tumbonas]
+    use: reposera(s)
+    note: "Pool float lounger → reposera inflable."
+  - match: [hamaca, hamacas]
+    use: hamaca(s) paraguaya(s)
+    note: "Only hammock sense. In AR 'hamaca' alone = swing / baby bouncer (keep 'hamacas para bebés')."
+  - match: [columpio, columpios]
+    use: hamaca(s)
+    note: "masc → fem."
+  - match: [tiesto, tiestos]
+    use: maceta(s)
+    note: "masc → fem. 'Macetas y tiestos' → 'Macetas y maceteros'."
+  - match: [cortacésped, cortacéspedes]
+    use: cortadora(s) de césped
+  - match: [desbrozadora, desbrozadoras, motoguadaña, motoguadañas, cortabordes]
+    use: desmalezadora(s) / bordeadora(s)
+    note: "Brush cutter → desmalezadora; string trimmer/edger → bordeadora. Masonry edgers (cortabordes para concreto) stay."
+  - match: [farola, farolas]
+    use: farol(es) / poste(s) de luz
+    note: "fem → masc"
+  - match: [acera, aceras]
+    use: vereda(s)
+  - match: [extintor, extintores]
+    use: matafuego(s)
+    note: "Noun only. Keep adjective sense: agente extintor."
+  - match: [bombona, bombonas]
+    use: garrafa(s) / cartucho(s) / bidón(es)
+    note: "Large gas cylinder → garrafa; camping gas canister → cartucho; water jug → bidón."
+  - match: [garrafa, garrafas]
+    use: bidón / bidones
+    note: "In AR 'garrafa' = LPG gas cylinder; keep that sense. Fuel cans/jugs → bidones (fem → masc). Beer growlers → growlers."
+  - match: [papelera, papeleras]
+    use: cesto(s) de papeles / papelero(s)
+    note: "fem → masc. Keep 'industria papelera' adjective sense."
+  - match: [regleta, regletas]
+    use: zapatilla(s) eléctrica(s)
+    note: "Power strip sense. Keep terminal block / measuring strip sense (regleta de conexión)."
+  - match: [roseta, rosetas]
+    use: ficha(s) / toma(s) telefónica(s)
+    note: "Phone jack sense only. Keep rosette (decoration) sense."
+  - match: [hucha, huchas]
+    use: alcancía(s)
+  - match: [imperdible, imperdibles]
+    use: alfiler(es) de gancho
+    note: "Safety pin; fem → masc. Keep adjective sense (unmissable)."
+  - match: [cerilla, cerillas]
+    use: fósforo(s)
+    note: "fem → masc"
+  - match: [palé, palés]
+    use: pallet(s)
+  - match: [taquilla, taquillas]
+    use: locker(s) / casillero(s)
+    note: "Storage locker sense; keep box-office sense."
+  - match: [serrín]
+    use: aserrín
+  - match: [lechada]
+    use: pastina
+    note: "Tile grout sense."
+  - match: [concreto]
+    use: hormigón
+    note: "Material sense only. Keep 'concreto' adjective (specific)."
+  - match: [raíl, raíles]
+    use: riel(es)
+  - match: [ruedecilla, ruedecillas]
+    use: ruedita(s)
+  # Electronics
+  - match: [ratón, ratones]
+    use: mouse
+    note: "Computer mouse only (invariable: los mouse). Alfombrilla de ratón → mouse pad. Keep animal/pest sense."
+  - match: [altavoz, altavoces]
+    use: parlante(s)
+  - match: [mando, mandos]
+    use: control(es)
+    note: "Remote / game controller: mando a distancia → control remoto; mandos de videojuegos → joysticks / controles. Keep palanca de mando, cabina de mando; handlebar controls → comandos."
+  - match: [enrutador, enrutadores]
+    use: router(s)
+    note: "Network router. Woodworking router → fresadora / router."
+  - match: [vídeo, vídeos]
+    use: video(s)
+    note: "AR spelling without accent."
+  - match: [vigilabebés]
+    use: monitor(es) para bebés / baby call
+  - match: [rocola, rocolas]
+    use: rockola(s)
+  - match: [monitorización]
+    use: monitoreo
+    note: "fem → masc"
   # Food
   - match: [fresa, fresas]
     use: frutilla(s)
@@ -150,6 +478,437 @@ terms:
     note: "masc → fem"
   - match: [tarta, tartas]
     use: torta(s)
-    note: "Sweet cake → torta; savory pie → tarta stays."
+    note: "Sweet cake → torta; pies, tarts, quiche and pie crust/pans (tarta) stay."
   - match: [gamba, gambas]
     use: langostino(s) / camarón(es)
+  - match: [mantequilla, mantequillas]
+    use: manteca(s)
+    note: "Butter. Suero de mantequilla → suero de manteca. 'Mantequilla de maní' is common in AR and may stay; fruit butters → dulces/cremas de frutas."
+  - match: [manteca de cerdo, manteca vegetal]
+    use: grasa de cerdo / grasa vegetal
+    note: "In AR 'manteca' = butter; keep manteca de karité, manteca de maní, manteca de cacao."
+  - match: [nata]
+    use: crema (de leche)
+    note: "nata montada → crema batida; nata para montar → crema para batir. Keep 'nata de coco'."
+  - match: [desnatado, desnatada, desnatados, desnatadas, semidesnatado, semidesnatada, semidesnatados, semidesnatadas, desnatadora, desnatadoras]
+    use: descremado/a(s) / semidescremado/a(s) / descremadora(s)
+  - match: [pastel, pasteles]
+    use: torta(s)
+    note: "Sweet cake sense (masc → fem; pastel de queso → cheesecake / torta de queso). Keep color 'pastel', art pastels and savory pies (pastel de papa)."
+  - match: [bizcocho, bizcochos]
+    use: bizcochuelo(s) / budín(es)
+    note: "In AR bizcochos = small dry biscuits. Sponge cake → bizcochuelo; pound cake → budín; brownies → brownies. Keep malt/biscuit tasting notes."
+  - match: [pudín, pudin, pudines, púdines, panqué, panqués]
+    use: budín / budines
+    note: "Check en: dessert pudding may stay 'postre'."
+  - match: [magdalena, magdalenas]
+    use: muffin(s) / cupcake(s)
+    note: "fem → masc. English muffin → muffin inglés."
+  - match: [galleta, galletas]
+    use: galletita(s)
+    note: "Cookies and crackers (galletitas de agua). Rice cakes → galletas de arroz ok."
+  - match: [tortita, tortitas]
+    use: galletas de arroz / panqueques
+    note: "Check en: puffed rice cakes → galletas de arroz inflado; pancakes → panqueques."
+  - match: [gofre, gofres]
+    use: waffle(s)
+    note: "Waffle weave (toallas) → panal / waffle."
+  - match: [crepa, crepas]
+    use: panqueque(s) / crepe(s)
+    note: "fem → masc for panqueque"
+  - match: [dónut, dónuts, donut, donuts]
+    use: dona(s)
+    note: "masc → fem: el dónut glaseado → la dona glaseada. Keep brand names."
+  - match: [cruasán, cruasanes]
+    use: medialuna(s) / croissant(s)
+    note: "masc → fem for medialuna"
+  - match: [bollería]
+    use: facturas / panificados
+    note: "Bollería danesa → factura danesa."
+  - match: [panecillo, panecillos, bollo, bollos]
+    use: pancito(s) / bun(s)
+    note: "Bread roll/bun sense; sweet pastries → facturas. Shortbread mistranslated as panecillo de mantequilla → galletita de manteca."
+  - match: [chapata, chapatas]
+    use: ciabatta(s)
+  - match: [picatoste, picatostes]
+    use: croutons / cubitos de pan tostado
+  - match: [chocolatina, chocolatinas]
+    use: chocolatín / chocolatines
+  - match: [chuchería, chucherías]
+    use: golosina(s)
+  - match: [ganchitos]
+    use: chizitos
+    note: "Cheese puff snack; keep literal small-hook sense."
+  - match: [palomitas, palomitas de maíz]
+    use: pochoclo(s)
+    note: "fem pl → masc. Keep bird sense (palomita)."
+  - match: [aperitivo, aperitivos, tentempié, tentempiés, bocadillo, bocadillos]
+    use: snack(s) / bocadito(s) / picada
+    note: "Snack/appetizer sense. Keep drink sense (Aperitifs → aperitivos). Spain sandwich sense → sándwich."
+  - match: [entrantes]
+    use: entradas
+    note: "Food sense only (starters)."
+  - match: [batido, batidos]
+    use: licuado(s)
+    note: "Smoothies/milkshakes → licuados. Protein/meal shakes → batido(s) or shake(s) stay. Keep adjective sense (whipped/churned)."
+  - match: [refresco, refrescos]
+    use: gaseosa(s)
+    note: "masc → fem. Soft drink sense."
+  - match: [chupito, chupitos]
+    use: shot(s)
+    note: "Vasos de chupito → vasos de shot."
+  - match: [sirope, siropes]
+    use: jarabe(s) / almíbar
+    note: "Medicine syrup → jarabe; ice cream syrup → salsa para helado."
+  - match: [aliño, aliños]
+    use: aderezo(s)
+  - match: [mahonesa, mahonesas]
+    use: mayonesa(s)
+  - match: [perrito caliente, perritos calientes]
+    use: pancho(s)
+  - match: [tocino]
+    use: panceta
+    note: "masc → fem. Bacon sense."
+  - match: [loncha, lonchas]
+    use: feta(s)
+    note: "en lonchas → en fetas"
+  - match: [jarrete, jarretes]
+    use: osobuco(s)
+    note: "Beef shank cut."
+  - match: [empanizado, empanizada, empanizados, empanizadas]
+    use: empanado(s) / rebozado(s)
+  - match: [precocinado, precocinada, precocinados, precocinadas]
+    use: precocido(s) / precocida(s)
+  - match: [gachas]
+    use: avena cocida / porridge
+  - match: [frijol, frijoles]
+    use: poroto(s)
+  - match: [ejote, ejotes]
+    use: chaucha(s)
+    note: "masc → fem"
+  - match: [soya]
+    use: soja
+  - match: [plátano, plátanos]
+    use: banana(s)
+    note: "masc → fem. Plantain (plátano macho) stays."
+  - match: [albaricoque, albaricoques]
+    use: damasco(s)
+  - match: [nectarina, nectarinas]
+    use: pelón / pelones
+    note: "fem → masc"
+  - match: [macedonia, macedonias]
+    use: ensalada(s) de frutas
+    note: "Fruit mix sense only; keep the country."
+  - match: [pimiento, pimientos]
+    use: morrón / morrones / ají(es)
+    note: "Bell pepper → morrón; hot pepper → ají. 'Pimienta' (spice) is a different word."
+  - match: [calabaza, calabazas]
+    use: zapallo(s)
+    note: "fem → masc. Butternut → anco. Keep gourd/calabash and Halloween calabaza."
+  - match: [calabacín, calabacines]
+    use: zapallito(s) / zucchini(s)
+  - match: [alcachofa, alcachofas]
+    use: alcaucil(es)
+    note: "fem → masc: alcachofas enlatadas → alcauciles enlatados. Shower head sense → flor de ducha."
+  - match: [col, coles]
+    use: repollo(s)
+    note: "fem → masc. Coles de Bruselas → repollitos de Bruselas; col rizada → kale."
+  - match: [mazorca, mazorcas]
+    use: choclo(s)
+    note: "Corn cob. fem → masc: mazorca desgranada → choclo desgranado."
+  - match: [seta, setas]
+    use: hongo(s)
+    note: "fem → masc"
+  - match: [boniato, boniatos]
+    use: batata(s)
+  - match: [yuca, yucas]
+    use: mandioca(s)
+  - match: [porro, porros]
+    use: puerro(s)
+    note: "Leek sense; 'porro' means a joint in AR."
+  - match: [cebolleta, cebolletas]
+    use: cebolla(s) de verdeo
+  - match: [cebollino, cebollinos]
+    use: ciboulette
+    note: "Chives."
+  - match: [chalota, chalotas, chalote, chalotes]
+    use: echalote(s)
+  - match: [chirivía, chirivías]
+    use: pastinaca(s)
+  - match: [tupinambo, tupinambos]
+    use: topinambur(es)
+  - match: [altramuz, altramuces]
+    use: lupino(s) / lupín
+  - match: [anacardo, anacardos]
+    use: castaña(s) de cajú
+    note: "masc → fem"
+  - match: [alforfón]
+    use: trigo sarraceno
+  - match: [azucarillo, azucarillos]
+    use: terrón / terrones de azúcar
+  - match: [espagueti, espaguetis]
+    use: spaghetti / tallarines
+  - match: [pienso, piensos]
+    use: alimento(s) balanceado(s)
+    note: "Animal feed."
+  - match: [puro, puros]
+    use: habano(s) / cigarro(s)
+    note: "Cigar sense only. Keep 'puro' adjective (pure)."
+  - match: [liar]
+    use: armar
+    note: "Tabaco de liar → tabaco para armar; papel para liar → papel para armar."
+  # Vehicles
+  - match: [gasolina]
+    use: nafta
+  - match: [carro, carros]
+    use: auto(s) / changuito(s)
+    note: "Car seat → silla/butaca para auto; shopping cart → changuito. Keep carts/dollies/sleds (carro médico, carro para cuerda)."
+  - match: [autobús, autobuses, autocar, autocares]
+    use: colectivo(s) / micro(s)
+    note: "City bus → colectivo; coach/long-distance or school bus → micro."
+  - match: [furgoneta, furgonetas]
+    use: utilitario(s) / furgón(es)
+    note: "fem → masc."
+  - match: [berlina, berlinas]
+    use: sedán / sedanes
+    note: "Car body sense only; fem → masc."
+  - match: [descapotable, descapotables]
+    use: convertible(s)
+  - match: [autocaravana, autocaravanas]
+    use: casa(s) rodante(s) / motorhome(s)
+  - match: [remolque, remolques]
+    use: tráiler(es) / acoplado(s)
+    note: "Trailer sense (enganche de remolque → enganche para tráiler). Keep towing sense (remolque de vehículos, ganchos/cables de remolque)."
+  - match: [parachoques]
+    use: paragolpes
+  - match: [capó]
+    use: capot
+  - match: [maletero, maleteros]
+    use: baúl / baúles
+    note: "Car trunk sense."
+  - match: [salpicadero, salpicaderos]
+    use: tablero(s)
+    note: "Car dashboard. Cámaras para salpicaderos → cámaras para tablero."
+  - match: [baca, bacas]
+    use: portaequipaje(s) / soporte(s)
+    note: "Roof/bike racks."
+  - match: [quemacocos]
+    use: techo solar
+  - match: [matrícula, matrículas]
+    use: patente(s)
+    note: "License plate sense: placa de matrícula → patente. Keep registration/enrollment sense; boats keep matrícula."
+  - match: [matriculación]
+    use: patentamiento
+    note: "Vehicles; fem → masc."
+  - match: [concesionario, concesionarios]
+    use: concesionaria(s)
+    note: "Car dealer; masc → fem."
+  - match: [tintado, tintada, tintados, tintadas]
+    use: polarizado(s) / teñido / con tinte
+    note: "Car window tint → vidrios polarizados. Varnish/lens tint → teñido, con tinte."
+  - match: [reposacabezas, reposabrazos, reposamuñecas, reposapiés, reposacuellos, reposacucharas, reposapulgares]
+    use: apoyacabezas / apoyabrazos / apoyamuñecas / apoyapiés / apoyacuellos / apoyacucharas / apoyapulgares
+  - match: [reposabobinas]
+    use: portabobinas
+  - match: [manillar, manillares]
+    use: manubrio(s)
+  - match: [sillín, sillines]
+    use: asiento(s)
+    note: "Bicycle saddle: asiento de bicicleta."
+  - match: [escúter, escúteres]
+    use: scooter(s)
+  - match: [vado, vados]
+    use: entrada de vehículos
+    note: "Driveway/parking-permit sense only. Keep river ford sense."
+  # Tools & office
+  - match: [alicate, alicates]
+    use: pinza(s)
+    note: "masc → fem."
+  - match: [broca, brocas]
+    use: mecha(s)
+    note: "Drill bit sense. Router bits → fresas. Check en: horse 'bit' was mistranslated as broca (→ bocado); screwdriver bit → punta."
+  - match: [taladradora, taladradoras]
+    use: agujereadora(s) / taladro(s)
+    note: "Taladradora de columna → agujereadora de banco."
+  - match: [grapa, grapas]
+    use: broche(s) / grampa(s)
+    note: "Stapler staples → broches (fem → masc); construction/cable/fabric staples → grampas. Keep medical staples."
+  - match: [grapadora, grapadoras, engrapar, grapado, grapada, grapados, grapadas]
+    use: abrochadora(s) / abrochar / abrochado(s)
+    note: "Office staplers → abrochadora; staple guns → engrampadora; heavy-duty stapling → engrampado/a."
+  - match: [chincheta, chinchetas]
+    use: chinche(s)
+    note: "Thumbtacks. Check en: 'Brads' was mistranslated as chinchetas (→ broches / clavitos)."
+  - match: [archivador, archivadores]
+    use: archivero(s) / bibliorato(s)
+    note: "Filing cabinet → archivero; ring binder → bibliorato."
+  - match: [rotulador, rotuladores]
+    use: marcador(es) / fibra(s)
+    note: "Felt-tip pens → fibras; markers → marcadores."
+  - match: [borrador, borradores]
+    use: goma(s) de borrar
+    note: "Pencil eraser sense; masc → fem. Keep whiteboard eraser (borrador) and draft sense."
+  - match: [carboncillo, carboncillos]
+    use: carbonilla(s)
+  - match: [cinta de carrocero]
+    use: cinta de papel / cinta de enmascarar
+  - match: [esparadrapo, esparadrapos]
+    use: tela adhesiva / cinta adhesiva
+    note: "masc → fem"
+  - match: [pegatina, pegatinas]
+    use: sticker(s) / calcomanía(s)
+    note: "fem → masc for sticker."
+  - match: [cúter, cúteres]
+    use: cutter(s)
+  - match: [de fichar]
+    use: control (relojes de fichar → relojes control)
+  - match: [atrezo]
+    use: utilería
+    note: "Retail display props → utilería / elementos de exhibición."
+  - match: [coste, costes]
+    use: costo(s)
+  - match: [fiable, fiables]
+    use: confiable(s)
+  - match: [fallo, fallos]
+    use: falla(s)
+    note: "Malfunction/fault sense: masc → fem. Keep legal ruling sense."
+  - match: [rebajas]
+    use: ofertas / liquidación
+  - match: [hostelería]
+    use: gastronomía / hotelería
+  - match: [escaparate, escaparates]
+    use: vidriera(s)
+    note: "masc → fem"
+  - match: [camarero, camareros, camarera, camareras]
+    use: mozo(s) / moza(s)
+    note: "Waiter sense (sacacorchos para camareros → sacacorchos para mozos). Hotel housekeeping → mucama."
+  - match: [sosa]
+    use: soda
+    note: "sosa cáustica → soda cáustica. Keep surname/brand."
+  # Sports & toys
+  - match: [balón, balones]
+    use: pelota(s)
+    note: "masc → fem: balón oficial → pelota oficial."
+  - match: [baloncesto]
+    use: básquet
+  - match: [balonmano]
+    use: handball
+  - match: [futbol]
+    use: fútbol
+  - match: [penalti, penaltis]
+    use: penal(es)
+  - match: [portero, porteros, portera, porteras]
+    use: arquero(s) / arquera(s)
+    note: "Goalkeeper sense only. Keep doorman and intercom (portero eléctrico)."
+  - match: [portería, porterías]
+    use: arco(s)
+    note: "Goal sense; fem → masc. Keep building concierge sense."
+  - match: [espinillera, espinilleras]
+    use: canillera(s)
+  - match: [salvarrodillas]
+    use: rodilleras
+  - match: [esnórquel, esnórqueles]
+    use: snorkel(s)
+  - match: [sedal, sedales]
+    use: tanza(s)
+    note: "masc → fem. Fishing line."
+  - match: [tienda, tiendas]
+    use: carpa(s)
+    note: "Tent sense only (tienda de campaña → carpa). Keep shop/store sense."
+  - match: [caminadora, caminadoras]
+    use: cinta(s) de correr
+  - match: [trampolín, trampolines]
+    use: cama(s) elástica(s)
+    note: "masc → fem. Recreational/fitness trampolines only. Keep diving board and gymnastics springboard."
+  - match: [monopatín, monopatines]
+    use: patineta(s) / skate(s)
+    note: "In AR 'monopatín' = kick scooter; check en (Skateboard → patineta, Kick scooter → monopatín)."
+  - match: [patinete, patinetes]
+    use: monopatín / monopatines
+    note: "Kick scooter / e-scooter. Motorcycle scooter → scooter."
+  - match: [futbolín, futbolines]
+    use: metegol(es)
+  - match: [tragaperras]
+    use: tragamonedas
+  - match: [puzle, puzles, puzzle, puzzles]
+    use: rompecabezas
+  - match: [peonza, peonzas]
+    use: trompo(s)
+  - match: [canica, canicas]
+    use: bolita(s)
+  - match: [matatenas]
+    use: payana
+  - match: [tirachinas]
+    use: gomera(s)
+  - match: [cometa, cometas]
+    use: barrilete(s) / kite(s)
+    note: "fem → masc. Toy kite → barrilete; kitesurf kite → kite. Keep comet sense."
+  - match: [hinchable, hinchables]
+    use: inflable(s)
+  - match: [bombín, bombines]
+    use: inflador(es)
+    note: "Ball pump sense only. Keep bowler hat."
+  - match: [carraca, carracas]
+    use: matraca(s)
+  - match: [matasuegras]
+    use: espantasuegras
+  - match: [espumillón, espumillones]
+    use: guirnalda(s) de brillo
+    note: "Christmas tinsel."
+  - match: [caricatura, caricaturas]
+    use: dibujo(s) animado(s)
+    note: "Only animated cartoon sense. Keep caricature drawing sense."
+  - match: [guacamaya, guacamayas]
+    use: guacamayo(s)
+  # Baby, health & beauty
+  - match: [trona, tronas]
+    use: silla(s) de comer / silla(s) alta(s)
+    note: "Tronas y alzadores → Sillas de comer y alzadores."
+  - match: [capazo, capazos]
+    use: moisés
+    note: "Baby bassinet/carrycot sense."
+  - match: [transportín, transportines, trasportín, trasportines]
+    use: transportadora(s) / mochila(s) portabebé
+    note: "masc → fem for pet carriers."
+  - match: [guardería, guarderías]
+    use: jardín maternal / cuarto del bebé
+    note: "Daycare → jardín maternal. Check en: 'nursery' (baby room) → cuarto del bebé."
+  - match: [empapador, empapadores]
+    use: alfombra(s) sanitaria(s) / pañal(es) para mascotas
+    note: "Human bed pads → zaleas / protectores de cama."
+  - match: [compresa, compresas]
+    use: toallita(s) femenina(s)
+    note: "Sanitary pad sense only (incontinence → apósitos). Keep hot/cold compresses."
+  - match: [salvaslip, salvaslips]
+    use: protector(es) diario(s)
+  - match: [bastoncillo, bastoncillos]
+    use: hisopo(s)
+  - match: [mascarilla, mascarillas]
+    use: barbijo(s) / máscara(s)
+    note: "Medical/cloth face mask → barbijo (fem → masc); skin/hair care mask → máscara (mascarilla capilar ok); gas mask, CPAP, helmet → máscara."
+  - match: [escayola, escayolas]
+    use: yeso(s)
+  - match: [picor, picores]
+    use: picazón
+    note: "masc → fem: alivio del picor → alivio de la picazón"
+  - match: [tumbado, tumbada, tumbados, tumbadas]
+    use: acostado(s) / acostada(s)
+    note: "Lying-down sense only."
+  - match: [champú, champús]
+    use: shampoo(s)
+  - match: [manicura]
+    use: manicuría
+  - match: [colorete, coloretes]
+    use: rubor(es)
+  - match: [pintauñas]
+    use: esmalte de uñas
+  - match: [rizador, rizadores, rizadora, rizadoras, tenacilla, tenacillas, rizapestañas]
+    use: arqueador(es) de pestañas / rulero(s) / buclera(s)
+    note: "Eyelash curler → arqueador de pestañas; hair rollers → ruleros; curling iron → buclera. Crimper → planchita onduladora."
+  - match: [maquinilla, maquinillas]
+    use: afeitadora(s) / máquina(s) de afeitar
+  - match: [chopo, chopos]
+    use: álamo(s)
+  - match: [concha, conchas]
+    use: caracol(es) / cáscara(s) / casco(s)
+    note: "Vulgar in AR; never use. Seashell → caracol marino; coconut shell → cáscara de coco; drum shell → casco; programming shell → shell."

@@ -5,3 +5,5949 @@ es-AR:
       name: "Indumentaria y accesorios"
     aa-1:
       name: "Ropa"
+    aa-1-1-1-2:
+      name: "Calzas"
+    aa-1-1-1-3:
+      name: "Shorts"
+    aa-1-1-1-4:
+      name: "Pantalones de friza"
+    aa-1-1-1-5:
+      name: "Calzas"
+    aa-1-1-1-6:
+      name: "Pantalones de jogging"
+    aa-1-1-2-2:
+      name: "Remeras de manga corta"
+    aa-1-1-2-3:
+      name: "Musculosas"
+    aa-1-1-2-4:
+      name: "Remeras de capa base"
+    aa-1-1-4:
+      name: "Shorts de boxeo"
+    aa-1-1-5:
+      name: "Vestidos, polleras y trajes de baile"
+    aa-1-1-5-1:
+      name: "Polleras de baile"
+    aa-1-1-6:
+      name: "Corpiños deportivos"
+    aa-1-1-7:
+      name: "Buzos deportivos y buzos con capucha"
+    aa-1-1-7-2:
+      name: "Buzos con capucha"
+    aa-1-1-7-4:
+      name: "Buzos"
+    aa-1-1-7-5:
+      name: "Camperas deportivas"
+    aa-1-1-8:
+      name: "Chalecos y camperas deportivas"
+    aa-1-1-8-2:
+      name: "Camperas"
+    aa-1-1-9:
+      name: "Mallas de gimnasia y unitardos"
+    aa-1-1-9-1:
+      name: "Mallas de gimnasia"
+    aa-1-1-9-2:
+      name: "Mallas enterizas"
+    aa-1-10-1:
+      name: "Zahones"
+    aa-1-10-2:
+      name: "Camperas y abrigos"
+    aa-1-10-2-1:
+      name: "Camperas bolero"
+    aa-1-10-2-11:
+      name: "Camperas deportivas"
+    aa-1-10-2-12:
+      name: "Camperas deportivas"
+    aa-1-10-2-13:
+      name: "Pilotos"
+    aa-1-10-2-14:
+      name: "Camperas de jean"
+    aa-1-10-2-15:
+      name: "Camperas universitarias"
+    aa-1-10-2-16:
+      name: "Camperas impermeables"
+    aa-1-10-2-2:
+      name: "Camperas bomber"
+    aa-1-10-2-5:
+      name: "Sobretodos"
+    aa-1-10-2-9:
+      name: "Camperas acolchadas"
+    aa-1-10-5-2:
+      name: "Jardineros para la nieve"
+    aa-1-12-4:
+      name: "Jeans"
+    aa-1-12-5:
+      name: "Jeggings"
+    aa-1-12-8:
+      name: "Calzas"
+    aa-1-13-13:
+      name: "Buzos con capucha"
+    aa-1-13-14:
+      name: "Buzos"
+    aa-1-13-2:
+      name: "Bodys"
+    aa-1-13-3:
+      name: "Cárdigans"
+    aa-1-13-6:
+      name: "Chombas"
+    aa-1-13-8:
+      name: "Remeras de manga corta"
+    aa-1-13-9:
+      name: "Musculosas"
+    aa-1-14:
+      name: "Shorts"
+    aa-1-14-2:
+      name: "Shorts tipo cargo"
+    aa-1-14-3:
+      name: "Shorts chinos"
+    aa-1-14-4:
+      name: "Shorts"
+    aa-1-14-5:
+      name: "Shorts de jean"
+    aa-1-14-6:
+      name: "Shorts tipo jegging"
+    aa-1-14-7:
+      name: "Shorts para correr"
+    aa-1-14-8:
+      name: "Shorts estilo calza"
+    aa-1-15:
+      name: "Polleras"
+    aa-1-16:
+      name: "Polleras short"
+    aa-1-17-2-1:
+      name: "Pantalones de estar en casa"
+    aa-1-17-2-1-3:
+      name: "Calzas"
+    aa-1-17-2-1-4:
+      name: "Shorts"
+    aa-1-17-2-1-5:
+      name: "Polleras"
+    aa-1-17-2-2:
+      name: "Tops de estar en casa"
+    aa-1-17-5:
+      name: "Batas"
+    aa-1-17-6:
+      name: "Enteritos"
+    aa-1-18:
+      name: "Medias"
+    aa-1-18-1:
+      name: "Soquetes"
+    aa-1-18-10:
+      name: "Soquetes deportivos"
+    aa-1-18-11:
+      name: "Medias con dedos"
+    aa-1-18-12:
+      name: "Medias de compresión"
+    aa-1-18-13:
+      name: "Medias de vestir"
+    aa-1-18-14:
+      name: "Medias térmicas"
+    aa-1-18-2:
+      name: "Medias para deporte"
+    aa-1-18-3:
+      name: "Medias largas"
+    aa-1-18-4:
+      name: "Medias de baile"
+    aa-1-18-5:
+      name: "Medias invisibles"
+    aa-1-18-6:
+      name: "Medias de talón"
+    aa-1-18-7:
+      name: "Medias con liga"
+    aa-1-18-8:
+      name: "Medias hasta la rodilla"
+    aa-1-18-9:
+      name: "Soquetes de nylon"
+    aa-1-19-2:
+      name: "Trajes de pollera"
+    aa-1-19-3:
+      name: "Smokings"
+    aa-1-19-3-1:
+      name: "Pantalones de smoking"
+    aa-1-19-3-2:
+      name: "Sacos de smoking"
+    aa-1-20:
+      name: "Mallas"
+    aa-1-20-12:
+      name: "Remera de buceo"
+    aa-1-20-2:
+      name: "Shorts de surf"
+    aa-1-20-22:
+      name: "Mallas enteras"
+    aa-1-20-23:
+      name: "Remeras de surf"
+    aa-1-20-24:
+      name: "Parte superior de malla"
+    aa-1-20-25:
+      name: "Mallas menstruales"
+    aa-1-20-25-2:
+      name: "Mallas enteras menstruales"
+    aa-1-20-26:
+      name: "Mallas tipo jammer"
+    aa-1-20-27:
+      name: "Polleras de baño"
+    aa-1-20-29:
+      name: "Calzas de natación"
+    aa-1-20-4:
+      name: "Mallas tipo slip"
+    aa-1-20-7:
+      name: "Salidas de playa"
+    aa-1-23-1-2:
+      name: "Sacos y cárdigans de kimono"
+    aa-1-23-1-3:
+      name: "Sacos haori"
+    aa-1-23-2:
+      name: "Saris y lehengas"
+    aa-1-24-1:
+      name: "Mamelucos y pantalones de trabajo"
+    aa-1-24-1-2:
+      name: "Mamelucos"
+    aa-1-24-1-3:
+      name: "Jardineros"
+    aa-1-24-12:
+      name: "Uniformes de mucama"
+    aa-1-24-2:
+      name: "Mamelucos de vuelo"
+    aa-1-24-3-1:
+      name: "Gorros de chef"
+    aa-1-24-3-6:
+      name: "Sacos y abrigos de chef"
+    aa-1-24-4-6:
+      name: "Abrigos y camperas militares"
+    aa-1-24-5-6:
+      name: "Polleras de uniforme escolar"
+    aa-1-24-9-1:
+      name: "Vestidos y polleras de pijama quirúrgica"
+    aa-1-24-9-2:
+      name: "Tops de ambo"
+    aa-1-24-9-3:
+      name: "Sacos de ambo quirúrgico"
+    aa-1-24-9-4:
+      name: "Pantalones de ambo"
+    aa-1-24-9-5:
+      name: "Conjuntos de ambo"
+    aa-1-25-1-11:
+      name: "Polleras"
+    aa-1-25-1-12:
+      name: "Polleras short"
+    aa-1-25-1-13:
+      name: "Pantalones de friza"
+    aa-1-25-1-4:
+      name: "Jeans"
+    aa-1-25-1-5:
+      name: "Jeggings"
+    aa-1-25-1-8:
+      name: "Calzas"
+    aa-1-25-11-1-5:
+      name: "Calzoncitos de entrenamiento"
+    aa-1-25-11-2-2:
+      name: "Bombachas para niñas"
+    aa-1-25-11-2-2-2:
+      name: "Bombachas tipo bóxer"
+    aa-1-25-11-2-2-3:
+      name: "Bombachas estilo short"
+    aa-1-25-11-2-2-4:
+      name: "Bombachas"
+    aa-1-25-11-2-3-2:
+      name: "Primeros corpiños"
+    aa-1-25-11-3-2-2:
+      name: "Shorts estilo bóxer"
+    aa-1-25-11-3-2-5:
+      name: "Trunks"
+    aa-1-25-4-17:
+      name: "Abrigos y camperas para bebés y niños"
+    aa-1-25-4-17-1:
+      name: "Camperas bolero"
+    aa-1-25-4-17-11:
+      name: "Camperas deportivas"
+    aa-1-25-4-17-12:
+      name: "Camperas deportivas"
+    aa-1-25-4-17-13:
+      name: "Pilotos"
+    aa-1-25-4-17-14:
+      name: "Camperas de jean"
+    aa-1-25-4-17-15:
+      name: "Camperas impermeables"
+    aa-1-25-4-17-2:
+      name: "Camperas bomber"
+    aa-1-25-4-17-5:
+      name: "Sobretodos"
+    aa-1-25-4-17-9:
+      name: "Camperas acolchadas"
+    aa-1-25-7:
+      name: "Medias y calzas para bebés y niños"
+    aa-1-25-8-14:
+      name: "Mallas tipo slip"
+    aa-1-25-8-17:
+      name: "Mallas para hombre"
+    aa-1-25-8-22:
+      name: "Mallas enteras"
+    aa-1-25-8-23:
+      name: "Remeras de surf"
+    aa-1-25-8-24:
+      name: "Parte superior de malla"
+    aa-1-25-8-4:
+      name: "Salidas de playa"
+    aa-1-25-8-9:
+      name: "Remera de buceo"
+    aa-1-25-9-11:
+      name: "Buzos con capucha"
+    aa-1-25-9-13:
+      name: "Buzos"
+    aa-1-25-9-2:
+      name: "Bodys"
+    aa-1-25-9-3:
+      name: "Cárdigans"
+    aa-1-25-9-5:
+      name: "Chombas"
+    aa-1-25-9-7:
+      name: "Remeras de manga corta"
+    aa-1-6-1:
+      name: "Bodys"
+    aa-1-6-10-1:
+      name: "Bodys"
+    aa-1-6-10-3:
+      name: "Bombachas de tiro alto"
+    aa-1-6-10-6:
+      name: "Camisolas y musculosas moldeadoras"
+    aa-1-6-10-8:
+      name: "Combinaciones moldeadoras"
+    aa-1-6-11:
+      name: "Bombachas para mujeres"
+    aa-1-6-11-2:
+      name: "Bombachas estilo short"
+    aa-1-6-11-3:
+      name: "Bombachas"
+    aa-1-6-11-4:
+      name: "Colaless"
+    aa-1-6-11-7:
+      name: "Bombachudos"
+    aa-1-6-13:
+      name: "Combinaciones de ropa interior de mujer"
+    aa-1-6-2:
+      name: "Accesorios para corpiños"
+    aa-1-6-2-1:
+      name: "Protectores de hombro para corpiños"
+    aa-1-6-2-2:
+      name: "Extensores y breteles para corpiños"
+    aa-1-6-2-2-1:
+      name: "Extensores de corpiño"
+    aa-1-6-2-2-2:
+      name: "Breteles de corpiño"
+    aa-1-6-2-5:
+      name: "Herrajes y fornituras para corpiños"
+    aa-1-6-3:
+      name: "Corpiños"
+    aa-1-6-8-1:
+      name: "Portaligas"
+    aa-1-6-8-2-1:
+      name: "Ligas para medias"
+    aa-1-6-8-3:
+      name: "Medias de nylon"
+    aa-1-6-9:
+      name: "Enaguas y bombachudos"
+    aa-1-7-1:
+      name: "Corpiños de lactancia"
+    aa-1-7-3:
+      name: "Enteritos de maternidad"
+    aa-1-7-4-11:
+      name: "Polleras short"
+    aa-1-7-4-14:
+      name: "Calzas"
+    aa-1-7-4-4:
+      name: "Jeans"
+    aa-1-7-4-5:
+      name: "Jeggings"
+    aa-1-7-4-8:
+      name: "Calzas"
+    aa-1-7-5:
+      name: "Polleras de maternidad"
+    aa-1-7-7:
+      name: "Mallas de maternidad"
+    aa-1-7-7-20:
+      name: "Mallas enteras"
+    aa-1-7-7-21:
+      name: "Parte superior de malla"
+    aa-1-7-7-6:
+      name: "Salidas de playa"
+    aa-1-7-8-2:
+      name: "Bodys"
+    aa-1-7-8-3:
+      name: "Cárdigans"
+    aa-1-7-8-4-1:
+      name: "Remeras de lactancia"
+    aa-1-7-8-4-2:
+      name: "Buzos con capucha de lactancia"
+    aa-1-7-8-4-3:
+      name: "Musculosas de lactancia"
+    aa-1-7-8-4-4:
+      name: "Buzos de lactancia"
+    aa-1-7-8-8:
+      name: "Remeras de manga corta"
+    aa-1-8-3-3:
+      name: "Shorts estilo bóxer"
+    aa-1-8-3-8:
+      name: "Trunks"
+    aa-1-8-3-9:
+      name: "Calzoncillos tipo short"
+    aa-2:
+      name: "Accesorios de ropa"
+    aa-2-14-1:
+      name: "Rellenos para rodetes y para dar volumen al pelo"
+    aa-2-14-1-1:
+      name: "Rodetes de cabello con clip"
+    aa-2-14-1-2:
+      name: "Donas para el cabello y moldeadores de rodetes"
+    aa-2-14-13:
+      name: "Vinchas"
+    aa-2-14-4:
+      name: "Horquillas para rodetes"
+    aa-2-14-8:
+      name: "Vinchas y cintas"
+    aa-2-16:
+      name: "Pañuelos"
+    aa-2-17-14:
+      name: "Gorras trucker"
+    aa-2-17-16:
+      name: "Gorros de invierno"
+    aa-2-17-8:
+      name: "Gorras planas"
+    aa-2-23:
+      name: "Corbatas y moños"
+    aa-2-23-1:
+      name: "Moños"
+    aa-2-27:
+      name: "Anteojos de sol"
+    aa-2-28:
+      name: "Tiradores"
+    aa-2-30:
+      name: "Pulseras de goma y muñequeras absorbentes"
+    aa-3-3:
+      name: "Disfraces"
+    aa-4-3:
+      name: "Cadenas para billetera"
+    aa-5:
+      name: "Carteras, billeteras y estuches"
+    aa-5-3:
+      name: "Fundas para chequeras"
+    aa-5-4:
+      name: "Carteras"
+    aa-5-4-1:
+      name: "Carteras baguette"
+    aa-5-4-10:
+      name: "Carteras de mano plegables"
+    aa-5-4-11:
+      name: "Carteras de media luna"
+    aa-5-4-12:
+      name: "Carteras de estilo hobo"
+    aa-5-4-15:
+      name: "Carteras estilo alforja"
+    aa-5-4-18:
+      name: "Carteras estilo shopper"
+    aa-5-4-19:
+      name: "Carteras de hombro"
+    aa-5-4-2:
+      name: "Bolsos deportivos cilíndricos"
+    aa-5-4-20:
+      name: "Carteras trapezoidales"
+    aa-5-4-21:
+      name: "Carteras potli"
+    aa-5-4-23:
+      name: "Carteras tipo mochila"
+    aa-5-4-3:
+      name: "Bolsos de playa"
+    aa-5-4-4:
+      name: "Carteras bucket"
+    aa-5-4-5:
+      name: "Carteras de fiesta"
+    aa-5-4-6:
+      name: "Carteras convertibles"
+    aa-5-4-7:
+      name: "Carteras bandolera"
+    aa-5-4-8:
+      name: "Carteras tipo maletín"
+    aa-5-4-9:
+      name: "Carteras de mano estilo sobre"
+    aa-5-5-5:
+      name: "Bolsitos para el cuello"
+    aa-5-5-6:
+      name: "Billeteras de viaje"
+    aa-5-5-7:
+      name: "Billeteras"
+    aa-6-10-2:
+      name: "Stickers y calcomanías para relojes"
+    aa-6-10-3:
+      name: "Cargadores de cuerda para relojes"
+    aa-6-6:
+      name: "Aros"
+    aa-7-5:
+      name: "Plantillas"
+    aa-8-10:
+      name: "Tacos"
+    aa-8-9:
+      name: "Chatas"
+    ae-2-1-2-10-3:
+      name: "Relleno para almohadones"
+    ae-2-1-2-12-1:
+      name: "Arcilla y masa para modelar"
+    ae-2-1-2-12-1-1-2:
+      name: "Arcilla para hornear"
+    ae-2-1-2-12-1-2:
+      name: "Masa para modelar"
+    ae-2-1-2-14-1-2-3:
+      name: "Lienzo con bastidor"
+    ae-2-1-2-14-2:
+      name: "Telas"
+    ae-2-1-2-14-2-1:
+      name: "Gasa"
+    ae-2-1-2-14-2-3:
+      name: "Jean"
+    ae-2-1-2-14-2-5:
+      name: "Polar"
+    ae-2-1-2-14-2-8:
+      name: "Satén"
+    ae-2-1-2-14-3:
+      name: "Entretelas"
+    ae-2-1-2-14-4:
+      name: "Tela imprimible"
+    ae-2-1-2-2-2:
+      name: "Cierres y ganchos"
+    ae-2-1-2-2-5:
+      name: "Tiradores para cierres"
+    ae-2-1-2-2-6:
+      name: "Cierres"
+    ae-2-1-2-2-6-1:
+      name: "Cierres cerrados"
+    ae-2-1-2-2-6-2:
+      name: "Cierres abiertos"
+    ae-2-1-2-2-6-3:
+      name: "Cierres reversibles"
+    ae-2-1-2-2-6-4:
+      name: "Cierres bidireccionales"
+    ae-2-1-2-4-1:
+      name: "Goma eva y telgopor"
+    ae-2-1-2-4-2-3:
+      name: "Tarugos de madera artesanales"
+    ae-2-1-2-5:
+      name: "Imanes y stickers para manualidades"
+    ae-2-1-2-6-2-1:
+      name: "Hilo de crochet"
+    ae-2-1-2-6-2-4:
+      name: "Hilo para patchwork"
+    ae-2-1-2-6-4:
+      name: "Lanas e hilados"
+    ae-2-1-2-7-3:
+      name: "alambre para joyería y bijouterie"
+    ae-2-1-2-8-10-10:
+      name: "Recortes de borlas"
+    ae-2-1-2-8-11:
+      name: "Lentejuelas y brillantina"
+    ae-2-1-2-8-11-1:
+      name: "Copos de brillantina"
+    ae-2-1-2-8-11-2:
+      name: "Pegamento con brillantina"
+    ae-2-1-2-8-11-3:
+      name: "Polvo de brillantina"
+    ae-2-1-2-8-11-4:
+      name: "Brillantina suelta"
+    ae-2-1-2-8-12-5:
+      name: "Etiquetas de talle"
+    ae-2-1-2-8-2:
+      name: "Cuentas y mostacillas"
+    ae-2-1-2-8-3:
+      name: "Moños y yoyós"
+    ae-2-1-2-8-4-1:
+      name: "Stickers decorativos en 3D"
+    ae-2-1-2-8-4-2:
+      name: "Stickers decorativos en relieve"
+    ae-2-1-2-8-4-4:
+      name: "Stickers decorativos esponjosos"
+    ae-2-1-3-1:
+      name: "Hojas de cutter para manualidades"
+    ae-2-1-3-6-1:
+      name: "Portabobinas"
+    ae-2-1-4-1:
+      name: "Mats para ahormar"
+    ae-2-1-4-1-1:
+      name: "Mats para ahormar de rejilla"
+    ae-2-1-4-1-2:
+      name: "Mats para ahormar entrelazados"
+    ae-2-1-4-10:
+      name: "Marcos, aros y bastidores"
+    ae-2-1-4-10-1:
+      name: "Bastidores para lienzos"
+    ae-2-1-4-10-2:
+      name: "Bastidores de punto de cruz"
+    ae-2-1-4-10-5:
+      name: "Marcos para patchwork"
+    ae-2-1-4-11:
+      name: "Pistolas de silicona"
+    ae-2-1-4-13:
+      name: "Agujas y ganchos"
+    ae-2-1-4-13-1:
+      name: "Agujas de crochet"
+    ae-2-1-4-13-2-1:
+      name: "Agujas para mostacillas"
+    ae-2-1-4-13-2-4:
+      name: "Agujas para acolchado"
+    ae-2-1-4-13-2-5:
+      name: "Agujas de punta aguda"
+    ae-2-1-4-14:
+      name: "Alfileres de gancho"
+    ae-2-1-4-16-3-2:
+      name: "Telares mecánicos de piso"
+    ae-2-1-4-16-4-1:
+      name: "Máquinas de coser computarizadas"
+    ae-2-1-4-16-4-4:
+      name: "Máquinas de coser overlock"
+    ae-2-1-4-2-6:
+      name: "Alfileres en T"
+    ae-2-1-4-4-3:
+      name: "Cutters"
+    ae-2-1-4-4-6:
+      name: "Biromes y stylus para gofrado"
+    ae-2-1-4-4-6-1:
+      name: "Biromes de gofrado"
+    ae-2-1-4-4-6-2:
+      name: "Punzones para gofrado"
+    ae-2-1-4-4-7:
+      name: "Descosedores"
+    ae-2-1-4-6-5:
+      name: "Rasquetas para serigrafía"
+    ae-2-1-4-6-7:
+      name: "Plantillas y troqueles"
+    ae-2-1-4-6-8:
+      name: "Marcadores y contadores de puntos"
+    ae-2-1-4-6-8-1:
+      name: "Marcadores y contadores de crochet"
+    ae-2-1-4-6-8-2:
+      name: "Marcadores y contadores de tejido"
+    ae-2-1-4-6-9-2:
+      name: "Reglas para patchwork"
+    ae-2-1-4-7:
+      name: "Bases de corte"
+    ae-2-1-4-9:
+      name: "Almohadillas y bases para enfurtido"
+    ae-2-1-5-1:
+      name: "Organizadores de agujas, alfileres y ganchos"
+    ae-2-1-5-1-1:
+      name: "Organizadores de ganchos"
+    ae-2-1-5-1-4:
+      name: "Alfileteros"
+    ae-2-1-6-1:
+      name: "Patrones para mostacillas"
+    ae-2-1-6-1-1:
+      name: "Patrones de accesorios con mostacillas"
+    ae-2-1-6-1-2:
+      name: "Patrones de joyería con mostacillas"
+    ae-2-1-6-5-1:
+      name: "Patrones de costura de accesorios"
+    ae-2-2-10-1:
+      name: "Accesorios para hinchas"
+    ae-2-2-10-1-14:
+      name: "Medias"
+    ae-2-2-10-1-15:
+      name: "Remeras de manga corta"
+    ae-2-2-10-1-2:
+      name: "Gorras"
+    ae-2-2-10-1-7:
+      name: "Buzos con capucha"
+    ae-2-2-12:
+      name: "Historietas"
+    ae-2-2-3:
+      name: "Cartas coleccionables"
+    ae-2-2-3-1:
+      name: "Cartas de entretenimiento"
+    ae-2-2-3-2:
+      name: "Cartas de juego"
+    ae-2-2-3-3:
+      name: "Cartas coleccionables no deportivas"
+    ae-2-2-3-4:
+      name: "Cartas coleccionables deportivas"
+    ae-2-2-5:
+      name: "Estampillas postales"
+    ae-2-2-5-1:
+      name: "Estampillas conmemorativas"
+    ae-2-2-5-2:
+      name: "Estampillas de serie básica"
+    ae-2-2-5-4:
+      name: "Estampillas individuales"
+    ae-2-2-5-6:
+      name: "Hojas de estampillas"
+    ae-2-2-8-2:
+      name: "Colectivos y micros"
+    ae-2-6-3-3:
+      name: "Trenes de carga"
+    ae-2-7-12-5:
+      name: "Soportes y banquetas para baterías"
+    ae-2-7-13-1-10:
+      name: "Correas para guitarra"
+    ae-2-7-13-1-13:
+      name: "Clavijas para guitarras"
+    ae-2-7-14-1-6:
+      name: "Soportes y arneses para fagot"
+    ae-2-7-14-2-3-2:
+      name: "Abrazaderas y boquilleros Rovner"
+    ae-2-7-14-5:
+      name: "Accesorios para oboe y corno inglés"
+    ae-2-7-3:
+      name: "Afinadores electrónicos"
+    ae-2-7-5:
+      name: "Banquetas y banquitos"
+    ae-2-7-9-1:
+      name: "Gabinetes para amplificadores de instrumentos musicales"
+    ae-2-7-9-4:
+      name: "Perillas para amplificadores de instrumentos musicales"
+    ae-2-8-5-10:
+      name: "Redoblantes"
+    ae-2-8-5-10-1:
+      name: "Redoblantes metálicos"
+    ae-2-8-5-10-2:
+      name: "Redoblantes piccolo"
+    ae-2-8-5-10-3:
+      name: "Redoblantes de madera"
+    ae-2-8-5-3-5:
+      name: "Kits de batería para tambor tom de piso"
+    ae-2-8-5-4-2:
+      name: "Redoblantes electrónicos"
+    ae-2-8-5-7-7-5:
+      name: "Matracas musicales"
+    ae-2-8-7-7:
+      name: "Banjos"
+    ae-2-8-7-7-1:
+      name: "Banjos de 4 cuerdas"
+    ae-2-8-7-7-2:
+      name: "Banjos de 5 cuerdas"
+    ae-2-8-7-7-3:
+      name: "Banjos de 6 cuerdas"
+    ae-2-8-8-1-1:
+      name: "Fagots Buffet"
+    ae-2-8-8-1-3:
+      name: "Fagots Heckel"
+    ae-2-8-8-2-4:
+      name: "Clarinetes en Sib"
+    ae-2-8-8-9:
+      name: "Oboes y cornos ingleses"
+    ae-2-8-8-9-1:
+      name: "Cornos ingleses"
+    ae-2-8-8-9-2:
+      name: "Oboes"
+    ae-3-1-1:
+      name: "Alfileres para corsages y flores de solapa"
+    ae-3-1-2:
+      name: "Corsages y flores de solapa"
+    ae-3-2-11:
+      name: "Sorbetes y agitadores"
+    ae-3-2-12:
+      name: "Sellos, lacres y stickers"
+    ae-3-2-15:
+      name: "Decoraciones inflables para fiestas"
+    ae-3-2-17:
+      name: "Espantasuegras y petardos"
+    ae-3-2-17-4:
+      name: "Espantasuegras"
+    ae-3-2-18:
+      name: "Souvenirs para fiestas"
+    ae-3-2-20:
+      name: "Gorros para fiestas"
+    ae-3-2-21:
+      name: "Cortinas y guirnaldas"
+    ae-3-2-21-1:
+      name: "Serpentinas de papel crepé"
+    ae-3-2-6-1:
+      name: "Lazos en forma de moño"
+    ap-2-1-1-1:
+      name: "Bañaderas para jaulas de pájaros"
+    ap-2-1-2:
+      name: "Jaulas y soportes para pájaros"
+    ap-2-1-5:
+      name: "Escaleras y perchas para pájaros"
+    ap-2-1-5-2:
+      name: "Hamacas y juguetes colgantes"
+    ap-2-12:
+      name: "Alfombras para comederos"
+    ap-2-15:
+      name: "Accesorios para transportadoras y jaulas"
+    ap-2-16:
+      name: "Transportadoras y cajas para mascotas"
+    ap-2-16-1:
+      name: "Transportadoras aprobadas para viajes aéreos"
+    ap-2-16-10:
+      name: "Transportadoras con laterales acolchados"
+    ap-2-16-12:
+      name: "Transportadoras con ruedas"
+    ap-2-16-2:
+      name: "Transportadoras de mochila"
+    ap-2-16-3:
+      name: "Jaulas para autos"
+    ap-2-16-5:
+      name: "Transportadoras rígidas"
+    ap-2-16-8:
+      name: "Transportadoras que pueden rodar"
+    ap-2-16-9:
+      name: "Canguros y transportadoras portátiles"
+    ap-2-18-3:
+      name: "Corrales de ejercicio"
+    ap-2-19:
+      name: "Accesorios para puertas para mascotas"
+    ap-2-2-4-2:
+      name: "Alfombras para cajones de gatos"
+    ap-2-23-3:
+      name: "Shampoos contra pulgas y garrapatas"
+    ap-2-24-1:
+      name: "Tapas para latas"
+    ap-2-26-1-1:
+      name: "Cepillos"
+    ap-2-26-2:
+      name: "Sprays desodorantes y colonias para mascotas"
+    ap-2-26-3-2:
+      name: "Cuchillas para cortapelos"
+    ap-2-26-3-3:
+      name: "Cortapelos"
+    ap-2-26-6:
+      name: "Herramientas de manicuría para mascotas"
+    ap-2-26-7:
+      name: "Shampoos y acondicionadores para mascotas"
+    ap-2-26-7-1:
+      name: "Shampoo y acondicionadores 2 en 1"
+    ap-2-26-7-3:
+      name: "Shampoo"
+    ap-2-27:
+      name: "Accesorios de almohadillas calefactoras para mascotas"
+    ap-2-3-4:
+      name: "Cuchas para perros"
+    ap-2-3-5:
+      name: "Accesorios para cuchas y cercados para perros"
+    ap-2-3-6:
+      name: "Cuchas y cercados para perros"
+    ap-2-3-6-3:
+      name: "Cuchas para perros de interior"
+    ap-2-3-6-4:
+      name: "Cuchas para perros al aire libre"
+    ap-2-3-8:
+      name: "Cintas de correr para perros"
+    ap-2-31-4:
+      name: "Correas deslizantes"
+    ap-2-36-9:
+      name: "Pasta dental"
+    ap-2-4-10-2:
+      name: "Bases para gabinetes"
+    ap-2-4-12-6:
+      name: "Desintoxicantes de agua de la canilla"
+    ap-2-4-3-5:
+      name: "Sifones para limpiar la grava"
+    ap-2-4-3-6:
+      name: "Esponjas abrasivas"
+    ap-2-4-4-7:
+      name: "Troncos"
+    ap-2-4-5-1:
+      name: "Filtros de acuario externos y de canasta"
+    ap-2-4-6-3:
+      name: "Redes para medias"
+    ap-2-41-1:
+      name: "Dispensadores de premios y clickers para adiestrar mascotas"
+    ap-2-41-2:
+      name: "Protectores de alfombras sanitarias para mascotas"
+    ap-2-41-2-1:
+      name: "Protectores de alfombras sanitarias con rejilla superior"
+    ap-2-41-2-2:
+      name: "Protectores de alfombras sanitarias regulares"
+    ap-2-41-2-3:
+      name: "Protectores de alfombras sanitarias de pared"
+    ap-2-41-3:
+      name: "Alfombras sanitarias para mascotas"
+    ap-2-41-4:
+      name: "Soluciones y sprays de adiestramiento para mascotas"
+    ap-2-45-2:
+      name: "Bandejas sanitarias"
+    ap-2-47-5-1:
+      name: "Galletitas y facturas"
+    ap-2-48-2:
+      name: "Barreras del baúl"
+    ap-2-5-1:
+      name: "Rampas en A"
+    ap-2-5-3:
+      name: "Pasarelas y rampas para perros"
+    ap-2-5-5:
+      name: "Mesas de pausa"
+    ap-2-5-8:
+      name: "Aros para saltos"
+    ap-2-6-15:
+      name: "Medias para mascotas"
+    ap-2-6-16:
+      name: "Anteojos de sol para mascotas"
+    ap-2-6-17:
+      name: "Suéteres para mascotas"
+    ap-2-6-8:
+      name: "Buzos con capucha para mascotas"
+    ap-2-6-9:
+      name: "Camperas para mascotas"
+    ap-2-9-12:
+      name: "Camas para radiador"
+    ap-2-9-5:
+      name: "Donas"
+    ap-2-9-6:
+      name: "Hamacas paraguayas"
+    bi:
+      name: "Negocios e industria"
+    bi-1:
+      name: "Publicidad y marketing"
+    bi-1-2-1:
+      name: "Mostradores con cerradura"
+    bi-1-3-8:
+      name: "Kioscos"
+    bi-10-3-3:
+      name: "Sillas de shampoo"
+    bi-11-10:
+      name: "Escrepers"
+    bi-11-10-1:
+      name: "Escrepers elevadores"
+    bi-11-10-2:
+      name: "Escrepers de caja abierta"
+    bi-11-10-3:
+      name: "Escrepers de arrastre"
+    bi-11-12-3:
+      name: "Tractores para cultivos en hilera"
+    bi-11-12-4:
+      name: "Tractores utilitarios"
+    bi-11-15:
+      name: "Escrepers para tractores con ruedas"
+    bi-11-15-1:
+      name: "Escrepers elevadores para tractores con ruedas"
+    bi-11-15-2:
+      name: "Escrepers de caja abierta para tractores con ruedas"
+    bi-11-15-3:
+      name: "Escrepers de arrastre para tractores con ruedas"
+    bi-11-16:
+      name: "Escrepers para patios"
+    bi-11-17-1:
+      name: "Baldes"
+    bi-11-17-6:
+      name: "Rippers"
+    bi-11-2:
+      name: "Topadoras"
+    bi-11-7-1:
+      name: "Cosechadoras combinadas"
+    bi-11-7-4:
+      name: "Cosechadoras de papas"
+    bi-12:
+      name: "Hotelería y hospedaje"
+    bi-12-1:
+      name: "Suministros de hotelería y gastronomía"
+    bi-12-2:
+      name: "Accesorios para hotelería y gastronomía"
+    bi-13-1:
+      name: "Gabinetes industriales"
+    bi-15-4:
+      name: "Carritos de recolección de residuos"
+    bi-16-1:
+      name: "Esposas"
+    bi-16-1-1:
+      name: "Esposas de cadena"
+    bi-16-1-2:
+      name: "Esposas descartables"
+    bi-16-1-3:
+      name: "Esposas con bisagras"
+    bi-16-1-4:
+      name: "Grilletes para piernas"
+    bi-16-1-5:
+      name: "Esposas rígidas"
+    bi-18-2-1:
+      name: "Polipastos, grúas y trolleys"
+    bi-18-2-1-1:
+      name: "Polipastos de cadena"
+    bi-18-2-1-5:
+      name: "Polipastos de cable"
+    bi-18-2-2:
+      name: "Gatos y autoelevadores"
+    bi-18-2-2-2:
+      name: "Gatos de piso"
+    bi-18-2-2-3:
+      name: "Zorras hidráulicas"
+    bi-18-2-4-3:
+      name: "Roldanas"
+    bi-18-2-5:
+      name: "Guinches"
+    bi-18-3:
+      name: "Plataformas de carga y pallets"
+    bi-18-3-1:
+      name: "Pallets de bloque"
+    bi-18-3-2:
+      name: "Pallets de doble cara"
+    bi-18-3-3:
+      name: "Pallets de cubierta sólida"
+    bi-18-3-4:
+      name: "Pallets largueros"
+    bi-19-4-6-2:
+      name: "Elevadores de bañadera"
+    bi-19-4-8:
+      name: "Accesorios para monitores de signos vitales"
+    bi-19-4-8-1:
+      name: "Brazaletes para monitores de signos vitales"
+    bi-19-4-8-2:
+      name: "Soportes para monitores de signos vitales"
+    bi-19-4-8-3:
+      name: "Cables de alimentación para monitores de signos vitales"
+    bi-19-4-8-4:
+      name: "Sensores para monitores de signos vitales"
+    bi-19-4-9:
+      name: "Monitores de signos vitales"
+    bi-19-5-2:
+      name: "Camillas y sillas de examen"
+    bi-19-5-2-1:
+      name: "Sillas de examen"
+    bi-19-5-2-1-2:
+      name: "Sillas de examen manuales"
+    bi-19-5-2-1-4:
+      name: "Sillas de examen eléctricas"
+    bi-19-5-2-2:
+      name: "Mesas de examen"
+    bi-19-5-2-2-1:
+      name: "Mesas de examen manuales"
+    bi-19-5-2-2-2:
+      name: "Mesas de examen eléctricas"
+    bi-19-5-4:
+      name: "Gabinetes médicos"
+    bi-19-5-4-1:
+      name: "Mesas de luz"
+    bi-19-5-4-2:
+      name: "Gabinetes para salas de reconocimiento"
+    bi-19-6-1-1:
+      name: "Fórceps de curación"
+    bi-19-6-1-4:
+      name: "Pinzas para tejidos"
+    bi-19-7-1:
+      name: "Guantes descartables"
+    bi-19-7-4-1:
+      name: "Removedores de adhesivo"
+    bi-19-8-2-3:
+      name: "Estuches de transporte y traslado para simuladores"
+    bi-19-8-2-4:
+      name: "Insertos de tejido sintético y pieles de repuesto"
+    bi-20-1:
+      name: "Maquinaria para minería y canteras"
+    bi-22-4-2:
+      name: "Accesorios para terminales POS y cajas registradoras"
+    bi-22-4-3:
+      name: "Terminales POS y cajas registradoras"
+    bi-22-5-4:
+      name: "Bolsas camiseta para compras"
+    bi-22-8:
+      name: "Utilería y modelos para vidrieras de tiendas"
+    bi-23-2-2:
+      name: "Kits de disección para capacitación"
+    bi-23-4-10-4:
+      name: "Lamparitas de repuesto para microscopios"
+    bi-23-4-6:
+      name: "Freezers de laboratorio"
+    bi-23-6-1:
+      name: "Vasos de precipitados"
+    bi-23-6-6:
+      name: "Soportes para tubos de ensayo"
+    bi-24:
+      name: "Cartelería"
+    bi-24-10:
+      name: "Señales de ruta y tránsito"
+    bi-24-13:
+      name: "Señales para vereda y patio"
+    bi-24-2:
+      name: "Carteles digitales"
+    bi-24-3:
+      name: "Carteles eléctricos"
+    bi-24-3-1:
+      name: "Carteles LED"
+    bi-24-3-2:
+      name: "Carteles de neón"
+    bi-24-7:
+      name: "Señales de estacionamiento y de entrada de vehículos"
+    bi-24-9:
+      name: "Señales de venta y ofertas"
+    bi-25-6:
+      name: "Anteojos protectores"
+    bi-25-6-2:
+      name: "Antiparras"
+    bi-25-7-2:
+      name: "Máscaras de bombero"
+    bi-25-7-3:
+      name: "Respiradores y máscaras de gas"
+    bi-25-7-4:
+      name: "Barbijos médicos"
+    bi-6-2:
+      name: "Utilería de cine y televisión"
+    bi-8:
+      name: "Gastronomía"
+    bi-8-1:
+      name: "Cajas para tortas"
+    bi-8-11:
+      name: "Máquinas de panchos"
+    bi-8-2:
+      name: "Fuentones"
+    bi-8-5:
+      name: "Tapas descartables"
+    bi-8-6:
+      name: "Material de servir descartable"
+    bi-8-6-1:
+      name: "Bandejas de servir descartables"
+    bi-8-7:
+      name: "Vajilla descartable"
+    bi-8-7-1:
+      name: "Cuencos descartables"
+    bi-8-7-2:
+      name: "Vasos descartables"
+    bi-8-7-3:
+      name: "Cubiertos descartables"
+    bi-8-7-3-1:
+      name: "Tenedores descartables"
+    bi-8-7-3-2:
+      name: "Cuchillos descartables"
+    bi-8-7-3-3:
+      name: "Cucharas descartables"
+    bi-8-7-4:
+      name: "Platos descartables"
+    bi-9-2-3:
+      name: "Anteojos para la ingeniería forestal e industria maderera"
+    bt-1-1:
+      name: "Bañaderas y asientos de baño para bebés"
+    bt-1-1-4:
+      name: "Bañaderas"
+    bt-1-1-5:
+      name: "Bañaderas para bebé"
+    bt-10-1-5:
+      name: "Snacks para bebés"
+    bt-10-10:
+      name: "Paños para eructar"
+    bt-10-11:
+      name: "Cubre lactancia"
+    bt-10-13:
+      name: "Fundas para almohadas de lactancia"
+    bt-10-16-5:
+      name: "Tetinas y fundas para mamaderas"
+    bt-10-16-5-1:
+      name: "Fundas para mamaderas"
+    bt-10-16-5-2:
+      name: "Tetinas para mamaderas"
+    bt-10-16-6:
+      name: "Mamaderas"
+    bt-10-16-6-1:
+      name: "Mamaderas anticólicos"
+    bt-10-16-6-2:
+      name: "Mamaderas estándar"
+    bt-10-16-6-3:
+      name: "Mamaderas de cuello ancho"
+    bt-10-6:
+      name: "Esterilizadores y calentadores de mamaderas"
+    bt-10-6-1:
+      name: "Calentadores de mamaderas"
+    bt-10-6-1-1:
+      name: "Calentadores de mamaderas eléctricos"
+    bt-10-6-1-2:
+      name: "Calentadores de mamaderas portátiles"
+    bt-10-8-5:
+      name: "Corpiños de bombeo manos libres"
+    bt-10-9-1:
+      name: "Sacaleches eléctricos dobles"
+    bt-10-9-2:
+      name: "Sacaleches eléctricos"
+    bt-10-9-3:
+      name: "Sacaleches manuales"
+    bt-11-1:
+      name: "Pelelas"
+    bt-11-3:
+      name: "Asientos de inodoro y banquitos"
+    bt-4-1-5:
+      name: "Soportes de pared"
+    bt-4-3:
+      name: "Monitores para bebés"
+    bt-4-3-1:
+      name: "Monitores de audio y video para bebés"
+    bt-4-3-3:
+      name: "Monitores de video para bebés"
+    bt-4-4-3:
+      name: "Pulseras de goma y muñequeras absorbentes"
+    bt-4-5-1:
+      name: "Cerraduras de placard"
+    bt-4-5-5:
+      name: "Tapas para enchufes"
+    bt-4-6:
+      name: "Barandas de seguridad"
+    bt-4-6-1:
+      name: "Barandas de seguridad para camas"
+    bt-4-6-2:
+      name: "Barandas de seguridad para escaleras"
+    bt-5-3:
+      name: "Hamacas y mecedoras para bebés"
+    bt-5-4:
+      name: "Saltadores y hamacas para bebés"
+    bt-5-4-2:
+      name: "Hamacas para bebés"
+    bt-5-7:
+      name: "Productos para calmar bebés"
+    bt-6-1:
+      name: "Sillas para auto"
+    bt-6-1-2:
+      name: "Cochecitos con asiento para auto"
+    bt-6-1-3:
+      name: "Asientos para auto convertibles"
+    bt-6-1-4:
+      name: "Asientos para auto para bebés"
+    bt-6-2-1:
+      name: "Transportadoras de mochila"
+    bt-7-1:
+      name: "Accesorios de sillas para auto para bebés y niños"
+    bt-7-1-1:
+      name: "Toldos para asientos para auto"
+    bt-7-1-2:
+      name: "Fundas para asientos para auto"
+    bt-7-1-3:
+      name: "Espejos para asientos para auto"
+    bt-7-1-4:
+      name: "Organizadores de asientos para auto"
+    bt-7-1-5:
+      name: "Protectores de asientos para auto"
+    bt-7-1-6:
+      name: "Bolsas de viaje para asientos para auto"
+    bt-7-2:
+      name: "Accesorios para portabebés"
+    bt-7-3:
+      name: "Accesorios para cochecitos de bebé"
+    bt-7-5:
+      name: "Fundas para sillas de comer y changuitos"
+    bt-9-12-2:
+      name: "Pañales descartables"
+    bt-9-12-4:
+      name: "Pañales tipo calzoncito"
+    bt-9-2-2:
+      name: "Toallitas descartables para bebés"
+    bt-9-2-3:
+      name: "Toallitas para bebés descartables aptas para inodoro"
+    bt-9-3-2:
+      name: "Fundas para cambiadores de bandeja"
+    bt-9-6-2:
+      name: "Forros de pañales descartables"
+    bt-9-6-3:
+      name: "Forros para pañales descartables aptos para inodoro"
+    bt-9-8:
+      name: "Accesorios para tachos de pañales"
+    bt-9-8-1:
+      name: "Bolsas para tachos de pañales"
+    bt-9-8-2:
+      name: "Desodorantes para tachos de pañales"
+    bt-9-8-3:
+      name: "Forros para tachos de pañales"
+    bt-9-8-4:
+      name: "Recargas de tachos de pañales"
+    bt-9-9:
+      name: "Tachos de pañales"
+    bt-9-9-3:
+      name: "Tachos de basura para pañales"
+    co-1-1-1:
+      name: "Cables de video por componentes"
+    co-1-1-2:
+      name: "Cables de video compuesto"
+    co-1-2-3:
+      name: "Objetivos para cámaras de video"
+    co-1-4-10-5:
+      name: "Agarres para correa"
+    co-1-4-18-8:
+      name: "Correas de muñeca"
+    co-1-4-2-8:
+      name: "Bolsos tote para cámaras"
+    co-1-4-25:
+      name: "Luces de cámara de video"
+    co-1-5-1:
+      name: "Accesorios para binoculares y monoculares"
+    co-1-5-2-2:
+      name: "Fundas para binoculares"
+    co-1-7-10:
+      name: "Trípodes de video"
+    co-2-3:
+      name: "Cámaras de fotos descartables"
+    co-2-4:
+      name: "Cámaras de película"
+    co-2-7:
+      name: "Cámaras de video"
+    co-2-7-1:
+      name: "Cámaras de video de 360 grados"
+    co-2-7-2:
+      name: "Cámaras de video de acción"
+    co-2-7-5:
+      name: "Cámaras de video de cine"
+    co-2-7-6:
+      name: "Cámaras de video para tablero"
+    co-2-7-7:
+      name: "Cámaras de video para drones"
+    co-3-1:
+      name: "Binoculares"
+    co-3-4-2-1:
+      name: "Telescopios catadióptricos"
+    co-3-4-2-2:
+      name: "Telescopios compuestos"
+    co-3-4-2-3:
+      name: "Telescopios dobsonianos"
+    co-3-4-2-4:
+      name: "Telescopios reflectores"
+    co-3-4-2-5:
+      name: "Telescopios refractores"
+    co-3-4-2-6:
+      name: "Telescopios solares"
+    co-4-1-1-2:
+      name: "Piletas para revelado"
+    co-4-1-1-4:
+      name: "Secadores, lavadores y bandejas de revelado"
+    co-4-1-1-4-2:
+      name: "Lavadoras de películas"
+    co-4-1-3-2:
+      name: "Reveladores de película"
+    co-4-1-3-4:
+      name: "Fijadores"
+    co-4-1-3-6:
+      name: "Reveladores de papel"
+    co-4-1-3-9:
+      name: "Viradores"
+    el-1-1:
+      name: "Juegos arcade de básquet"
+    el-1-2-14:
+      name: "Lamparitas de repuesto"
+    el-1-5-4:
+      name: "Marquesinas"
+    el-11:
+      name: "Electrónica náutica"
+    el-11-2:
+      name: "Receptores náuticos de audio y video"
+    el-11-6:
+      name: "Parlantes náuticos"
+    el-11-6-1:
+      name: "Parlantes coaxiales marinos"
+    el-11-6-3:
+      name: "Parlantes de torre marinos"
+    el-12-1:
+      name: "Puentes y routers"
+    el-12-1-2:
+      name: "Routers y puertas de enlace VoIP"
+    el-12-1-4:
+      name: "Routers inalámbricos"
+    el-12-3-5:
+      name: "Conmutadores modulares"
+    el-12-3-7:
+      name: "Conmutadores inteligentes"
+    el-12-3-8:
+      name: "Conmutadores apilables"
+    el-12-3-9:
+      name: "Conmutadores no administrados"
+    el-17-10:
+      name: "Transmisores de video"
+    el-17-5:
+      name: "Accesorios de video"
+    el-17-5-1:
+      name: "Anteojos 3D"
+    el-17-5-5-4:
+      name: "Parlantes de repuesto para TV"
+    el-17-6:
+      name: "Equipo de producción y hardware de edición de video"
+    el-17-7:
+      name: "Multiplexores de video"
+    el-17-8:
+      name: "Grabadores y reproductores de video"
+    el-17-8-1:
+      name: "Grabadores de video digitales"
+    el-17-9:
+      name: "Servidores de video"
+    el-18:
+      name: "Accesorios para consolas de videojuegos"
+    el-18-1:
+      name: "Bases de carga"
+    el-18-3:
+      name: "Accesorios para consolas de videojuegos para el hogar"
+    el-18-3-2:
+      name: "Skins para consolas de videojuegos"
+    el-19:
+      name: "Consolas de videojuegos"
+    el-2-1-1:
+      name: "Accesorios para receptores de video y audio"
+    el-2-1-1-1:
+      name: "Montajes en rack para receptores de audio y video"
+    el-2-1-4-3:
+      name: "Antivientos"
+    el-2-1-6-1:
+      name: "Juegos de accesorios para celulares y reproductores de MP3"
+    el-2-1-8:
+      name: "Accesorios para parlantes"
+    el-2-1-8-1:
+      name: "Estuches, carcasas y fundas para parlantes"
+    el-2-1-8-2:
+      name: "Kits y componentes para parlantes"
+    el-2-1-8-2-1:
+      name: "Conectores y terminales de parlante"
+    el-2-1-8-2-2:
+      name: "Crossovers de parlante"
+    el-2-1-8-2-3:
+      name: "Controladores de parlante"
+    el-2-1-8-2-4:
+      name: "Gabinetes y cajas de parlante"
+    el-2-1-8-2-5:
+      name: "Rejillas y telas de rejilla de parlante"
+    el-2-1-8-3:
+      name: "Bolsas para bases de parlantes"
+    el-2-1-8-4:
+      name: "Bases para parlantes"
+    el-2-1-8-6:
+      name: "Almohadillas y pies de aislamiento de parlante"
+    el-2-1-8-7:
+      name: "Controles de volumen y control remoto de parlante"
+    el-2-1-9-1:
+      name: "Cápsulas"
+    el-2-1-9-2-3:
+      name: "Mats y almohadillas de limpieza de discos"
+    el-2-1-9-4:
+      name: "Slipmats"
+    el-2-2-1:
+      name: "Receptores de audio y video"
+    el-2-2-10:
+      name: "Parlantes"
+    el-2-2-10-1:
+      name: "Parlantes de estantería"
+    el-2-2-10-2:
+      name: "Parlantes de techo y pared"
+    el-2-2-10-3:
+      name: "Parlantes para exteriores"
+    el-2-2-10-4:
+      name: "Parlantes Bluetooth portátiles"
+    el-2-2-10-5:
+      name: "Parlantes inteligentes"
+    el-2-2-2-2:
+      name: "Amplificadores de potencia"
+    el-2-2-7-1-5:
+      name: "Auriculares de vincha"
+    el-2-2-9-4:
+      name: "Sistemas de gestión de parlantes"
+    el-2-2-9-6:
+      name: "Compresores y noise gates"
+    el-2-2-9-7:
+      name: "Preamplificadores phono"
+    el-2-3-13:
+      name: "Partes y accesorios de rockola"
+    el-2-3-4:
+      name: "Rockolas"
+    el-2-6-2:
+      name: "Parlantes de instalación y locución"
+    el-3-2:
+      name: "Decodificadores y codificadores de circuitos"
+    el-3-3-1:
+      name: "Protoboards"
+    el-3-6:
+      name: "Placas de circuito impreso"
+    el-3-6-3:
+      name: "Placas de desarrollo"
+    el-3-6-5-3:
+      name: "Placas de circuito de secarropas"
+    el-3-6-5-5:
+      name: "Placas de circuito de horno y cocina"
+    el-3-6-5-6:
+      name: "Placas de circuito de heladera"
+    el-3-6-5-7:
+      name: "Placas de circuito de lavarropas"
+    el-3-6-6:
+      name: "Placas de circuitos para piletas y spa"
+    el-4-4-2:
+      name: "Radios de banda ciudadana (CB)"
+    el-4-5-1:
+      name: "Unidades de parlante"
+    el-4-8-4:
+      name: "Accesorios para celulares y teléfonos inteligentes"
+    el-4-8-4-1:
+      name: "Accesorios para cámaras de celulares"
+    el-4-8-4-1-3:
+      name: "Disparadores remotos"
+    el-4-8-4-10:
+      name: "Soportes y empuñaduras para celulares"
+    el-4-8-4-11:
+      name: "Herramientas de reparación de celulares"
+    el-4-8-4-11-1:
+      name: "Herramientas de apertura y palanca de celular"
+    el-4-8-4-11-2:
+      name: "Kit de herramientas de reparación de celular"
+    el-4-8-4-11-3:
+      name: "Destornilladores de celular"
+    el-4-8-4-12:
+      name: "Protectores de pantalla para celulares"
+    el-4-8-4-13:
+      name: "Fundas y carcasas para celulares"
+    el-4-8-4-2:
+      name: "Fundas para celulares"
+    el-4-8-4-3:
+      name: "Correas y adornos para celulares"
+    el-4-8-4-3-1:
+      name: "Adornos para celulares"
+    el-4-8-4-3-2:
+      name: "Cordones y correas para celulares"
+    el-4-8-4-4:
+      name: "Tarjetas SIM y de prepago para celulares"
+    el-4-8-4-4-1:
+      name: "Tarjetas de prepago para celulares"
+    el-4-8-4-5:
+      name: "Piezas de repuesto para celulares"
+    el-4-8-4-5-1:
+      name: "Adhesivos y cintas para celulares"
+    el-4-8-4-5-10:
+      name: "Motores de vibración de celular"
+    el-4-8-4-5-2:
+      name: "Piezas de audio y parlantes para celulares"
+    el-4-8-4-5-3:
+      name: "Botones y cables flexibles de celulares"
+    el-4-8-4-5-4:
+      name: "Piezas de la cámara del celular"
+    el-4-8-4-5-5:
+      name: "Conectores y puertos de carga para celulares"
+    el-4-8-4-5-6:
+      name: "Carcasas y cubiertas traseras para celulares"
+    el-4-8-4-5-7:
+      name: "Placas lógicas de celulares"
+    el-4-8-4-5-8:
+      name: "Pantallas de celulares y digitalizadores de pantalla"
+    el-4-8-4-5-9:
+      name: "Bandejas para tarjetas SIM y MicroSD de celulares"
+    el-4-8-4-6:
+      name: "Bases de celulares para autos"
+    el-4-8-4-8:
+      name: "Brazaletes para celulares"
+    el-4-8-4-9:
+      name: "Soportes para celulares en el auto"
+    el-4-8-5:
+      name: "Celulares y smartphones"
+    el-5-2-1:
+      name: "Convertidores de audio"
+    el-5-5:
+      name: "Divisores"
+    el-6-2:
+      name: "Servidores"
+    el-6-3:
+      name: "Computadoras de escritorio"
+    el-6-6:
+      name: "Notebooks"
+    el-6-7:
+      name: "Anteojos inteligentes"
+    el-7-1-1:
+      name: "Adaptadores de audio y video"
+    el-7-11-2:
+      name: "Stickers para dispositivos electrónicos"
+    el-7-11-4-2:
+      name: "Filtros de privacidad para celulares"
+    el-7-12-5:
+      name: "Memoria de video"
+    el-7-13-1:
+      name: "Estuches para tarjetas de memoria"
+    el-7-14:
+      name: "Trípodes y soportes de pie sencillo para celulares y tablets"
+    el-7-15:
+      name: "Energía"
+    el-7-15-1-10:
+      name: "Baterías para UPS"
+    el-7-15-1-11:
+      name: "Baterías para cámaras de video"
+    el-7-15-1-12:
+      name: "Baterías para controles y videoconsolas"
+    el-7-15-1-5:
+      name: "Baterías para notebooks"
+    el-7-15-1-6:
+      name: "Baterías para celulares"
+    el-7-15-12:
+      name: "UPS"
+    el-7-15-13-1:
+      name: "Kits de montaje en rack para UPS"
+    el-7-15-2-5:
+      name: "Probadores de baterías de uso general"
+    el-7-15-7:
+      name: "Estaciones de energía"
+    el-7-15-8:
+      name: "Supresores de sobretensión y zapatillas eléctricas"
+    el-7-15-9:
+      name: "Gabinetes para fuentes de alimentación"
+    el-7-16:
+      name: "Controles remotos"
+    el-7-18-2:
+      name: "Inhibidores de telefonía celular"
+    el-7-18-3:
+      name: "Inhibidores de radares"
+    el-7-4:
+      name: "Divisores y conmutadores de audio y video"
+    el-7-6-1:
+      name: "Grampas para cables"
+    el-7-7-1:
+      name: "Cables de audio y video"
+    el-7-7-1-10:
+      name: "Cables de parlante"
+    el-7-7-4:
+      name: "Cables de red"
+    el-7-8-13:
+      name: "Stickers y calcomanías para teclado"
+    el-7-8-2-2:
+      name: "Estuches rígidos para notebook"
+    el-7-8-2-3:
+      name: "Protectores y envolturas para notebook"
+    el-7-8-2-4:
+      name: "Fundas para notebook"
+    el-7-8-3-3:
+      name: "Almohadillas de enfriamiento para notebook"
+    el-7-8-3-4:
+      name: "Soportes para notebook"
+    el-7-8-4-3:
+      name: "Accesorios para tablets"
+    el-7-8-5:
+      name: "Apoyamuñecas para teclado y mouse"
+    el-7-8-7:
+      name: "Estaciones de conexión para notebooks"
+    el-7-8-8:
+      name: "Mouse pads"
+    el-7-8-9:
+      name: "Puntas y repuestos para lápiz óptico"
+    el-7-9-1-3:
+      name: "Kits de rieles para servidor"
+    el-7-9-10-2:
+      name: "Tarjetas y adaptadores de interfaz para computadora"
+    el-7-9-10-2-2:
+      name: "Tarjetas y adaptadores seriales y paralelos"
+    el-7-9-10-3:
+      name: "Placas riser"
+    el-7-9-10-5:
+      name: "Tarjetas de video"
+    el-7-9-11-2:
+      name: "Accesorios para controles de videojuegos"
+    el-7-9-11-2-1:
+      name: "Estuches de transporte para controles de juegos"
+    el-7-9-11-2-2:
+      name: "Skins para control de juego"
+    el-7-9-11-4:
+      name: "Accesorios para mouse y trackballs"
+    el-7-9-11-4-1:
+      name: "Estuches de transporte para mouse y trackballs"
+    el-7-9-11-4-10:
+      name: "Receptores inalámbricos para mouse"
+    el-7-9-11-4-2:
+      name: "Cuerdas elásticas para mouse"
+    el-7-9-11-4-3:
+      name: "Patines para mouse"
+    el-7-9-11-4-4:
+      name: "Estaciones de carga para mouse"
+    el-7-9-11-4-5:
+      name: "Cinta de agarre y asideros para mouse"
+    el-7-9-11-4-6:
+      name: "Cables de reemplazo para mouse"
+    el-7-9-11-4-7:
+      name: "Piezas de reemplazo para mouse"
+    el-7-9-11-4-8:
+      name: "Skins y envolturas para mouse"
+    el-7-9-11-4-9:
+      name: "Pesas para mouse"
+    el-7-9-11-6:
+      name: "Tapas para cámara web"
+    el-7-9-12-11:
+      name: "Mouse y trackballs"
+    el-7-9-12-15:
+      name: "Juegos de teclado y mouse"
+    el-7-9-12-2:
+      name: "Biromes digitales"
+    el-7-9-12-5-3:
+      name: "Gamepads"
+    el-7-9-12-5-4:
+      name: "Joysticks"
+    el-7-9-12-5-7:
+      name: "Alfombras de baile"
+    el-7-9-13:
+      name: "Repuestos para notebooks"
+    el-7-9-13-1:
+      name: "Bisagras para notebooks"
+    el-7-9-13-10:
+      name: "Placas base y tarjetas lógicas de notebook"
+    el-7-9-13-2:
+      name: "Carcasas de notebooks"
+    el-7-9-13-3:
+      name: "Cables de repuesto para notebooks"
+    el-7-9-13-4:
+      name: "Teclados de repuesto para notebooks"
+    el-7-9-13-5:
+      name: "Pantallas de repuesto para notebooks"
+    el-7-9-13-6:
+      name: "Parlantes de repuesto para notebooks"
+    el-7-9-13-7:
+      name: "Digitalizadores para pantallas de notebooks"
+    el-7-9-13-8:
+      name: "Almohadillas táctiles de reemplazo para notebook"
+    el-7-9-13-9:
+      name: "Ventiladores de enfriamiento y disipadores de calor para notebook"
+    el-7-9-14-3:
+      name: "Arreglos de discos duros"
+    el-7-9-14-3-1:
+      name: "Arreglos de discos duros de escritorio"
+    el-7-9-15-1:
+      name: "Carcasas y molduras para tablets"
+    el-7-9-15-1-1:
+      name: "Cubiertas traseras de tablet"
+    el-7-9-15-1-2:
+      name: "Marcos y biseles de tablet"
+    el-7-9-15-1-3:
+      name: "Soportes abatibles y bisagras de tablet"
+    el-7-9-15-2:
+      name: "Parlantes de repuesto para tablets"
+    el-7-9-15-3-1:
+      name: "Conjuntos de LCD y digitalizador de tablet"
+    el-7-9-15-3-2:
+      name: "Pantallas de reemplazo para tablet"
+    el-7-9-15-3-3:
+      name: "Digitalizadores de pantalla para tablet"
+    el-7-9-15-4:
+      name: "Botones y cables flexibles de tablet"
+    el-7-9-15-5:
+      name: "Módulos de cámara de tablet"
+    el-7-9-15-6:
+      name: "Conectores y puertos de carga de tablet"
+    el-7-9-15-7:
+      name: "Placas madre y placas lógicas de tablet"
+    el-7-9-2-5:
+      name: "Protectores de entrada/salida de placa madre"
+    el-7-9-5:
+      name: "Racks y soportes para computadoras"
+    el-7-9-5-1:
+      name: "Rieles de montaje en rack y accesorios"
+    el-7-9-5-2:
+      name: "Paneles de rack"
+    el-7-9-5-3:
+      name: "Estantes y bandejas de rack"
+    el-7-9-6:
+      name: "Kits de inicio para computadoras"
+    el-7-9-7-1:
+      name: "Coolers de CPU líquidos todo en uno"
+    el-7-9-7-2:
+      name: "Ventiladores para gabinete de computadora"
+    el-7-9-7-3:
+      name: "Coolers de aire y disipadores de calor para CPU"
+    el-7-9-8:
+      name: "Gabinetes para computadoras y servidores"
+    el-8-2:
+      name: "Soportes para GPS de vehículo"
+    fb:
+      name: "Alimentos, bebidas y tabaco"
+    fb-1-1-5-6:
+      name: "Shochu y soju"
+    fb-1-10-2-1:
+      name: "Bebidas de castañas de cajú"
+    fb-1-10-6:
+      name: "Bebidas de arvejas"
+    fb-1-11:
+      name: "Mezclas de bebidas en polvo"
+    fb-1-16-1:
+      name: "Agua con gas"
+    fb-1-16-4:
+      name: "Agua de manantial"
+    fb-1-2:
+      name: "Suero de manteca"
+    fb-1-4:
+      name: "Jarabes y bebidas a base de jarabe"
+    fb-1-7:
+      name: "Jugos, licuados y smoothies"
+    fb-1-7-2:
+      name: "Milkshakes"
+    fb-1-7-3:
+      name: "Licuados"
+    fb-2-1-11:
+      name: "Muffins"
+    fb-2-1-12:
+      name: "Facturas y scones"
+    fb-2-1-12-1:
+      name: "Rollos de canela"
+    fb-2-1-12-4:
+      name: "Hojaldres"
+    fb-2-1-12-9:
+      name: "Facturas danesas"
+    fb-2-1-13:
+      name: "Pies y tartas"
+    fb-2-1-13-2:
+      name: "Pies"
+    fb-2-1-14:
+      name: "Shells para tacos y tostadas"
+    fb-2-1-16:
+      name: "Tortas de luna"
+    fb-2-1-17:
+      name: "Crepes"
+    fb-2-1-2:
+      name: "Surtidos de panificados"
+    fb-2-1-3:
+      name: "Panes y pancitos"
+    fb-2-1-4:
+      name: "Barras de postres y tortas"
+    fb-2-1-4-1:
+      name: "Tortas"
+    fb-2-1-4-1-1:
+      name: "Tortas de galletitas"
+    fb-2-1-4-1-3:
+      name: "Rollos de torta y piononos"
+    fb-2-1-4-1-4:
+      name: "Budines y tortas bundt"
+    fb-2-1-4-1-5:
+      name: "Tortas de frutas"
+    fb-2-1-4-1-6:
+      name: "Cheesecakes"
+    fb-2-1-5:
+      name: "Tortas para el café"
+    fb-2-1-6:
+      name: "Galletitas"
+    fb-2-1-6-1:
+      name: "Galletitas de manteca"
+    fb-2-1-6-2:
+      name: "Galletitas tipo oblea"
+    fb-2-1-6-3:
+      name: "Galletitas sándwich"
+    fb-2-1-6-4:
+      name: "Galletitas de jengibre y festivas"
+    fb-2-1-8:
+      name: "Donas"
+    fb-2-1-9:
+      name: "Fudge"
+    fb-2-10-2-2:
+      name: "Alcauciles enlatados"
+    fb-2-10-2-5:
+      name: "Morrones enlatados y en frasco"
+    fb-2-10-2-6:
+      name: "Choclo enlatado"
+    fb-2-10-3:
+      name: "Porotos en lata"
+    fb-2-10-7-15:
+      name: "Ensaladas de frutas"
+    fb-2-10-7-3:
+      name: "Paltas"
+    fb-2-10-7-32:
+      name: "Ananás"
+    fb-2-10-7-41-1:
+      name: "Damascos"
+    fb-2-10-7-41-4:
+      name: "Duraznos y pelones"
+    fb-2-10-7-5:
+      name: "Bananas"
+    fb-2-10-7-6-4:
+      name: "Moras"
+    fb-2-10-7-6-7:
+      name: "Frutillas"
+    fb-2-10-7-8:
+      name: "Tunas"
+    fb-2-10-8-16:
+      name: "Choclo"
+    fb-2-10-8-2:
+      name: "Alcauciles"
+    fb-2-10-8-26-7:
+      name: "Kale"
+    fb-2-10-8-33:
+      name: "Hongos"
+    fb-2-10-8-37:
+      name: "Pastinacas"
+    fb-2-10-8-38:
+      name: "Arvejas"
+    fb-2-10-8-39:
+      name: "Morrones y ajíes"
+    fb-2-10-8-4:
+      name: "Porotos"
+    fb-2-10-8-40:
+      name: "Papas"
+    fb-2-10-8-43:
+      name: "Echalotes"
+    fb-2-10-8-45:
+      name: "Zapallos y zapallitos"
+    fb-2-10-8-47:
+      name: "Topinambur"
+    fb-2-10-8-48:
+      name: "Batatas"
+    fb-2-10-8-58:
+      name: "Mandiocas"
+    fb-2-10-8-8:
+      name: "Repollitos de Bruselas"
+    fb-2-10-8-9:
+      name: "Repollos"
+    fb-2-11-12:
+      name: "Granos de pochoclo"
+    fb-2-11-3:
+      name: "Trigo sarraceno"
+    fb-2-12:
+      name: "Carne, mariscos y huevos"
+    fb-2-12-2-2-1:
+      name: "Carne vacuna"
+    fb-2-12-3-1:
+      name: "Mariscos en lata"
+    fb-2-12-3-2:
+      name: "Mariscos frescos y congelados"
+    fb-2-15-1:
+      name: "Entradas y guarniciones"
+    fb-2-15-1-1:
+      name: "Dumplings y buns preparados"
+    fb-2-15-2:
+      name: "Platos preparados y entradas"
+    fb-2-16:
+      name: "Aderezos y especias"
+    fb-2-16-5:
+      name: "Condimentos para pochoclo"
+    fb-2-16-8:
+      name: "Adobos secos y sazonadores para parrilla"
+    fb-2-17:
+      name: "Entremeses y snacks"
+    fb-2-17-10:
+      name: "Chicharrones de cerdo"
+    fb-2-17-12:
+      name: "Budines y gelatinas"
+    fb-2-17-12-1:
+      name: "Snacks de budín"
+    fb-2-17-13:
+      name: "Galletas de arroz inflado"
+    fb-2-17-16:
+      name: "Bizcochuelos envasados"
+    fb-2-17-17:
+      name: "Tortas de arroz glutinoso"
+    fb-2-17-17-2:
+      name: "Tortas de arroz coreanas tteok y tteokbokki"
+    fb-2-17-20:
+      name: "Galletitas de arroz"
+    fb-2-17-3:
+      name: "Chizitos de queso"
+    fb-2-17-5:
+      name: "Galletitas saladas"
+    fb-2-17-6:
+      name: "Croutons"
+    fb-2-17-8:
+      name: "Charqui"
+    fb-2-17-9:
+      name: "Pochoclo"
+    fb-2-17-9-1:
+      name: "Latas y sets de regalo de pochoclo"
+    fb-2-17-9-2:
+      name: "Pochoclo listo para comer"
+    fb-2-17-9-3:
+      name: "Granos de maíz para pochoclo"
+    fb-2-17-9-4:
+      name: "Sazonadores y mezclas para pochoclo"
+    fb-2-19-1:
+      name: "Alternativas al queso"
+    fb-2-19-2:
+      name: "Alternativas a la carne"
+    fb-2-19-2-3:
+      name: "Rebanadas de panceta y embutidos de origen vegetal"
+    fb-2-3:
+      name: "Bombones y chocolatines"
+    fb-2-3-1:
+      name: "Golosinas"
+    fb-2-3-1-3:
+      name: "Chicles"
+    fb-2-3-1-7:
+      name: "Chupetines"
+    fb-2-4-11:
+      name: "Mayonesa"
+    fb-2-4-15:
+      name: "Frutas y verduras encurtidas"
+    fb-2-4-17:
+      name: "Relish y chutney"
+    fb-2-4-18:
+      name: "Aderezos para ensaladas"
+    fb-2-4-21:
+      name: "Salsas agridulces"
+    fb-2-4-22:
+      name: "Jarabe"
+    fb-2-4-3:
+      name: "Coberturas para postres"
+    fb-2-4-3-1:
+      name: "Coberturas de frutas"
+    fb-2-4-3-2:
+      name: "Salsa para helado"
+    fb-2-5-11:
+      name: "Kits de decoración de galletitas"
+    fb-2-5-12-1:
+      name: "Aceite de palta"
+    fb-2-5-12-11:
+      name: "Aceite para pochoclo"
+    fb-2-5-12-5:
+      name: "Aceite de maní"
+    fb-2-5-16-1:
+      name: "Masa para pan y pastelería"
+    fb-2-5-16-2:
+      name: "Masa para brownies y galletitas"
+    fb-2-5-16-6:
+      name: "Masa para pancitos"
+    fb-2-5-17-3:
+      name: "Imágenes comestibles y adornos para tortas"
+    fb-2-5-19:
+      name: "Azúcar para algodón de azúcar"
+    fb-2-5-22-1:
+      name: "Glaseado de crema de manteca"
+    fb-2-5-23:
+      name: "Jugo de limón y lima"
+    fb-2-5-24:
+      name: "Marshmallows"
+    fb-2-5-27-4:
+      name: "Rellenos de crema y crema pastelera"
+    fb-2-5-28:
+      name: "Grasa vegetal y grasa de cerdo"
+    fb-2-5-28-1:
+      name: "Grasa de cerdo"
+    fb-2-5-28-2:
+      name: "Grasa vegetal"
+    fb-2-5-29:
+      name: "Cultivos iniciadores"
+    fb-2-5-30-2:
+      name: "Azúcar impalpable"
+    fb-2-5-30-4:
+      name: "Jarabes y néctares"
+    fb-2-5-30-5:
+      name: "Azúcar para algodón de azúcar"
+    fb-2-5-30-6:
+      name: "Azúcar negra"
+    fb-2-5-32:
+      name: "Concentrado de tomate"
+    fb-2-5-35:
+      name: "Preparados para waffles y panqueques"
+    fb-2-5-39:
+      name: "Crema de marshmallow"
+    fb-2-5-40:
+      name: "Mezclas para bases de tartas"
+    fb-2-5-5:
+      name: "Polvo de hornear"
+    fb-2-5-8:
+      name: "Salsas y pastas de porotos"
+    fb-2-5-8-4:
+      name: "Porotos negros fermentados"
+    fb-2-5-8-5:
+      name: "Kits para preparar pasta de porotos"
+    fb-2-6-1:
+      name: "Manteca y margarina"
+    fb-2-6-1-2:
+      name: "Manteca salada"
+    fb-2-6-1-3:
+      name: "Manteca sin sal"
+    fb-2-6-1-4:
+      name: "Manteca batida"
+    fb-2-6-1-5:
+      name: "Manteca cultivada"
+    fb-2-6-1-6:
+      name: "Ghee y manteca clarificada"
+    fb-2-6-1-7:
+      name: "Manteca saborizada y compuesta"
+    fb-2-6-3:
+      name: "Crema para café"
+    fb-2-6-5-1:
+      name: "Crema fresca"
+    fb-2-6-5-2:
+      name: "Crema para batir"
+    fb-2-6-7:
+      name: "Crema batida"
+    fb-2-7-1:
+      name: "Crema de manzana"
+    fb-2-7-12:
+      name: "Cremas de frutas y verduras"
+    fb-2-7-6:
+      name: "Mermeladas y jaleas"
+    fb-2-8:
+      name: "Canastas de comida de regalo"
+    fb-2-9:
+      name: "Golosinas y postres helados"
+    fb-2-9-2:
+      name: "Helados individuales"
+    fb-2-9-2-2:
+      name: "Tortas y tartas de helado"
+    fb-2-9-3:
+      name: "Paletas heladas"
+    fb-2-9-4:
+      name: "Natillas y budines congelados"
+    fb-2-9-5:
+      name: "Tortas y tartas congeladas"
+    fb-3-4:
+      name: "Cigarros"
+    fb-3-5:
+      name: "Tabaco para armar"
+    fr:
+      name: "Muebles"
+    fr-1:
+      name: "Muebles para bebés y niños pequeños"
+    fr-1-1:
+      name: "Conjuntos de muebles para bebés y niños pequeños"
+    fr-1-11:
+      name: "Torres de aprendizaje y banquetas de ayuda para la cocina"
+    fr-1-12:
+      name: "Banquitos escalón y banquetas elevadoras"
+    fr-1-2-6:
+      name: "Almohadones y cuñas de soporte para moisés"
+    fr-1-3-12:
+      name: "Reposeras y nidos para bebés"
+    fr-1-3-3:
+      name: "Moisés de colecho"
+    fr-1-5-1-3:
+      name: "Polleras para cunas"
+    fr-1-6-4:
+      name: "Cuchetas para niños pequeños"
+    fr-1-7:
+      name: "Accesorios para sillas de comer y alzadores"
+    fr-1-7-1:
+      name: "Almohadones para sillas altas"
+    fr-1-7-4:
+      name: "Apoyapiés y fundas para patas de sillas altas"
+    fr-1-8:
+      name: "Sillas de comer y alzadores"
+    fr-1-8-3:
+      name: "Sillas de comer convertibles"
+    fr-10-4:
+      name: "Conjuntos de mobiliario para living"
+    fr-11-1:
+      name: "Bases para futones"
+    fr-11-2:
+      name: "Colchones para futón"
+    fr-15-1-1:
+      name: "Cuchetas"
+    fr-15-1-4:
+      name: "Divanes"
+    fr-15-1-7:
+      name: "Camas junto a la pileta"
+    fr-15-1-8:
+      name: "Reposeras"
+    fr-15-1-9:
+      name: "Hamacas"
+    fr-15-3-3:
+      name: "Apoyapiés"
+    fr-15-3-8:
+      name: "Puffs"
+    fr-15-4-1-12:
+      name: "Bancos hamaca"
+    fr-15-4-2-16:
+      name: "Reposeras"
+    fr-15-4-2-18:
+      name: "Sillas hamaca"
+    fr-15-4-5:
+      name: "Reposeras"
+    fr-15-4-6:
+      name: "Banquetas de exterior"
+    fr-15-6-11:
+      name: "Mesas junto a la pileta"
+    fr-15-6-9-3:
+      name: "Mesas de metegol de exterior"
+    fr-16-3:
+      name: "Almohadones para muebles de exterior"
+    fr-19-1:
+      name: "Bibliotecas y estanterías"
+    fr-19-1-1:
+      name: "Bibliotecas y estanterías de esquina"
+    fr-19-1-2:
+      name: "Bibliotecas y estanterías flotantes"
+    fr-19-1-3:
+      name: "Bibliotecas y estanterías tipo escalera"
+    fr-19-1-4:
+      name: "Bibliotecas y estanterías modulares"
+    fr-19-1-5:
+      name: "Bibliotecas y estanterías abiertas"
+    fr-19-1-6:
+      name: "Bibliotecas y estanterías tipo barrister"
+    fr-2-1:
+      name: "Accesorios para camas y sommiers"
+    fr-2-1-2:
+      name: "Barandas de cama"
+    fr-2-2:
+      name: "Camas y sommiers"
+    fr-2-2-2:
+      name: "Cuchetas y estructuras de cuchetas"
+    fr-2-3:
+      name: "Piecera"
+    fr-2-4:
+      name: "Respaldos"
+    fr-2-5:
+      name: "Sommiers"
+    fr-2-5-2:
+      name: "Sommiers de resortes"
+    fr-2-5-3:
+      name: "Tablas para cuchetas"
+    fr-2-6-3:
+      name: "Colchones de resortes"
+    fr-20-1:
+      name: "Estantes de repuesto"
+    fr-22-8:
+      name: "Sofás puff"
+    fr-24-6:
+      name: "Mesas de luz"
+    fr-3-2-10:
+      name: "Bancos con locker"
+    fr-4:
+      name: "Gabinetes y almacenamiento"
+    fr-4-1:
+      name: "Placards y roperos"
+    fr-4-1-1:
+      name: "Gabinetes para computadoras"
+    fr-4-1-10:
+      name: "Roperos con espejos"
+    fr-4-1-11:
+      name: "Placards con espejos"
+    fr-4-1-12:
+      name: "Gabinetes de oficina"
+    fr-4-1-13:
+      name: "Placards portátiles"
+    fr-4-1-14:
+      name: "Roperos con estantes"
+    fr-4-1-15:
+      name: "Placards con puertas corredizas"
+    fr-4-1-16:
+      name: "Placards triples"
+    fr-4-1-17:
+      name: "Muebles para TV"
+    fr-4-1-2:
+      name: "Roperos esquineros"
+    fr-4-1-3:
+      name: "Placards esquineros"
+    fr-4-1-4:
+      name: "Placards dobles"
+    fr-4-1-5:
+      name: "Placards con barra para colgar"
+    fr-4-1-6:
+      name: "Placards con puertas batientes"
+    fr-4-1-7:
+      name: "Gabinetes para joyas"
+    fr-4-1-8:
+      name: "Roperos para niños"
+    fr-4-1-9:
+      name: "Placards para niños"
+    fr-4-12:
+      name: "Lockers y gabinetes de almacenamiento"
+    fr-4-14-1:
+      name: "Vanitorys"
+    fr-4-14-1-1:
+      name: "Gabinetes de baño"
+    fr-4-14-1-10:
+      name: "Vanitorys con mesada"
+    fr-4-14-1-11:
+      name: "Bases de vanitory"
+    fr-4-14-1-2:
+      name: "Juegos de vanitory"
+    fr-4-14-1-3:
+      name: "Vanitorys de esquina"
+    fr-4-14-1-4:
+      name: "Bachas dobles"
+    fr-4-14-1-5:
+      name: "Vanitorys flotantes"
+    fr-4-14-1-6:
+      name: "Vanitorys independientes"
+    fr-4-14-1-7:
+      name: "Vanitorys de pedestal"
+    fr-4-14-1-8:
+      name: "Vanitorys con bacha individual"
+    fr-4-14-1-9:
+      name: "Vanitorys sin mesada"
+    fr-4-15:
+      name: "Gabinetes para vino y licores"
+    fr-4-17:
+      name: "Piezas y accesorios para placards"
+    fr-4-17-1:
+      name: "Cestas de placard"
+    fr-4-17-2:
+      name: "Contenedores de placard"
+    fr-4-17-3:
+      name: "Puertas de placard"
+    fr-4-17-4:
+      name: "Cajones de placard"
+    fr-4-17-5:
+      name: "Barras para placard"
+    fr-4-17-6:
+      name: "Estanterías de placard"
+    fr-4-17-7:
+      name: "Paneles para placard"
+    fr-4-3-2:
+      name: "Vitrinas con gabinete"
+    fr-4-3-3:
+      name: "Gabinetes para porcelana"
+    fr-4-4:
+      name: "Placards"
+    fr-4-4-7:
+      name: "Placards para niños"
+    fr-4-4-8:
+      name: "Placards empotrados"
+    fr-4-5:
+      name: "Cómodas"
+    fr-4-6:
+      name: "Archiveros"
+    fr-4-8:
+      name: "Gabinetes de cocina"
+    fr-4-8-1:
+      name: "Gabinetes de cocina bajos"
+    fr-4-8-10:
+      name: "Gabinetes para horno"
+    fr-4-8-12:
+      name: "Tachos de basura extraíbles"
+    fr-4-8-13:
+      name: "Gabinetes de cocina de una sola puerta"
+    fr-4-8-14:
+      name: "Gabinetes bajos para bacha"
+    fr-4-8-15:
+      name: "Gabinetes de cocina altos"
+    fr-4-8-16:
+      name: "Alacenas"
+    fr-4-8-2:
+      name: "Gabinetes de cocina esquineros"
+    fr-4-8-4:
+      name: "Gabinetes de cocina bajos con cajón"
+    fr-4-8-5:
+      name: "Gabinetes de cocina de granja"
+    fr-4-8-6:
+      name: "Gabinetes de cocina con puerta de vidrio"
+    fr-4-8-7:
+      name: "Gabinetes de cocina estilo vitrina"
+    fr-4-8-8:
+      name: "Gabinetes para microondas"
+    fr-6-1-3:
+      name: "Almohadones y almohadillas para sillas colgantes"
+    fr-6-3:
+      name: "Almohadillas para apoyabrazos de sillas"
+    fr-6-5:
+      name: "Almohadones y almohadillas para sillas"
+    fr-7-10-5:
+      name: "Mecedoras para cuarto del bebé"
+    fr-7-12:
+      name: "Banquetas de mesa y bar"
+    fr-7-12-1:
+      name: "Banquetas de bar ajustables"
+    fr-7-12-2:
+      name: "Banquetas de bar"
+    fr-7-12-3:
+      name: "Banquetas de mostrador"
+    fr-7-2:
+      name: "Puffs"
+    fr-7-2-1:
+      name: "Reposeras y sofás cama puff"
+    fr-7-5:
+      name: "Sillas de piso"
+    fr-7-5-4:
+      name: "Sofás y reposeras de piso"
+    fr-7-6:
+      name: "Banquetas y sillas plegables"
+    fr-7-6-2:
+      name: "Banquetas plegables"
+    fr-7-9:
+      name: "Sillas de cocina y comedor"
+    fr-8:
+      name: "Divanes"
+    fr-9:
+      name: "Centros de entretenimiento y muebles para TV"
+    ha:
+      name: "Ferretería"
+    ha-1-1-8:
+      name: "Sprays congelantes para circuitos eléctricos"
+    ha-1-3:
+      name: "Cinta de ferretería"
+    ha-1-3-1:
+      name: "Cinta americana"
+    ha-1-3-3:
+      name: "Cinta de enmascarar"
+    ha-1-5-2:
+      name: "Mezclas de hormigón, cemento y mortero"
+    ha-1-5-2-2:
+      name: "Mortero cortafuegos"
+    ha-1-5-2-5:
+      name: "Mortero modificado con polímeros"
+    ha-1-5-2-6:
+      name: "Mortero puzolánico"
+    ha-1-5-2-7:
+      name: "Mortero Surkhi"
+    ha-1-5-3:
+      name: "Pastina"
+    ha-1-6-4:
+      name: "Tintes"
+    ha-1-7:
+      name: "Imprimador para plomería"
+    ha-1-9-3:
+      name: "Fundente de resina"
+    ha-10:
+      name: "Plomería"
+    ha-10-1:
+      name: "Accesorios de plomería"
+    ha-10-1-1:
+      name: "Juntas y o-rings"
+    ha-10-1-10:
+      name: "Válvulas de plomería"
+    ha-10-1-10-2:
+      name: "Válvulas de retención"
+    ha-10-1-4:
+      name: "Adaptadores y bujes para tuberías"
+    ha-10-1-6-2:
+      name: "Uniones"
+    ha-10-1-7:
+      name: "Bridas para plomería"
+    ha-10-1-9:
+      name: "Reguladores de plomería"
+    ha-10-2:
+      name: "Piezas y herramientas para componentes de plomería"
+    ha-10-2-1:
+      name: "Accesorios de bañadera"
+    ha-10-2-1-1:
+      name: "Patas y bases para bañaderas"
+    ha-10-2-1-2:
+      name: "Faldones para bañaderas"
+    ha-10-2-1-3:
+      name: "Canillas de bañadera"
+    ha-10-2-1-3-1:
+      name: "Canillas desviadoras"
+    ha-10-2-1-3-2:
+      name: "Canillas sin desvío"
+    ha-10-2-2-1:
+      name: "Tapas y coladores de desagüe"
+    ha-10-2-2-1-1:
+      name: "Tapas de desagüe"
+    ha-10-2-2-1-2:
+      name: "Coladores de desagüe"
+    ha-10-2-2-4:
+      name: "Destapacañerías"
+    ha-10-2-2-7:
+      name: "Residuos de plomería"
+    ha-10-2-3-1:
+      name: "Desagües de piso"
+    ha-10-2-3-3:
+      name: "Desagües de bacha"
+    ha-10-2-4:
+      name: "Accesorios de canilla"
+    ha-10-2-4-1:
+      name: "Aireadores para canillas"
+    ha-10-2-4-2:
+      name: "Manivelas para canillas"
+    ha-10-2-4-2-1:
+      name: "Manijas en cruz"
+    ha-10-2-4-2-2:
+      name: "Manijas de pomo"
+    ha-10-2-4-2-3:
+      name: "Manijas de palanca"
+    ha-10-2-6-1:
+      name: "Boquillas de chorro para bañaderas y duchas"
+    ha-10-2-6-2-2:
+      name: "Duchas a presión"
+    ha-10-2-6-4:
+      name: "Bases de ducha"
+    ha-10-2-6-5:
+      name: "Columnas de ducha"
+    ha-10-2-7:
+      name: "Accesorios de bacha"
+    ha-10-2-7-1:
+      name: "Patas de bacha"
+    ha-10-2-8:
+      name: "Accesorios para inodoro y bidé"
+    ha-10-2-8-2:
+      name: "Canillas y pulverizadores para bidés"
+    ha-10-2-8-2-1:
+      name: "Canillas para bidés"
+    ha-10-2-8-3:
+      name: "Asientos para inodoros y bidés"
+    ha-10-3:
+      name: "Piezas de plomería"
+    ha-10-3-2:
+      name: "Bañaderas"
+    ha-10-3-2-1:
+      name: "Bañaderas encastradas"
+    ha-10-3-2-2:
+      name: "Bañaderas para instalar"
+    ha-10-3-2-3:
+      name: "Bañaderas independientes"
+    ha-10-3-3:
+      name: "Canillas"
+    ha-10-3-3-1:
+      name: "Canillas para bacha de baño"
+    ha-10-3-3-2:
+      name: "Canillas para bañaderas y duchas"
+    ha-10-3-3-3:
+      name: "Canillas para bacha de cocina"
+    ha-10-3-4:
+      name: "Kits y bases de ducha"
+    ha-10-3-5:
+      name: "Bachas"
+    ha-10-3-5-1:
+      name: "Bachas de baño"
+    ha-10-3-5-1-1:
+      name: "Bachas de pedestal"
+    ha-10-3-5-1-2:
+      name: "Bachas bajo mesada"
+    ha-10-3-5-1-3:
+      name: "Bachas sobre mesada"
+    ha-10-3-5-2:
+      name: "Bachas de cocina y lavadero"
+    ha-10-3-5-2-1:
+      name: "Bachas para instalar"
+    ha-10-3-5-2-2:
+      name: "Bachas de granja"
+    ha-10-3-5-2-3:
+      name: "Bachas bajo mesada"
+    ha-10-3-6:
+      name: "Inodoros y bidés"
+    ha-10-3-6-2:
+      name: "Inodoros"
+    ha-10-3-6-3:
+      name: "Mingitorios"
+    ha-10-4-1:
+      name: "Líneas de suministro de canillas"
+    ha-10-4-3:
+      name: "Líneas de suministro de lavarropas"
+    ha-10-5:
+      name: "Tuberías de plomería"
+    ha-10-6:
+      name: "Kits de reparación para plomería"
+    ha-10-6-1:
+      name: "Kits de reparación de canillas"
+    ha-10-7-5:
+      name: "Sal para ablandadores de agua"
+    ha-10-7-6:
+      name: "Ablandadores de agua"
+    ha-10-7-6-1:
+      name: "Ablandadores de agua a base de sal"
+    ha-10-7-6-2:
+      name: "Ablandadores de agua sin sal"
+    ha-11-10-1-1:
+      name: "Dimmers"
+    ha-11-10-2-1:
+      name: "Interruptores de final de carrera"
+    ha-11-12:
+      name: "Accesorios para alargues"
+    ha-11-13:
+      name: "Alargues eléctricos"
+    ha-11-17:
+      name: "Tomas telefónicas y de datos"
+    ha-11-2-1:
+      name: "Balastos electrónicos"
+    ha-11-2-2:
+      name: "Balastos magnéticos"
+    ha-11-21:
+      name: "Tomacorrientes y enchufes"
+    ha-11-21-1:
+      name: "Enchufes de piso"
+    ha-11-21-2:
+      name: "Tomacorrientes emergentes"
+    ha-11-21-3:
+      name: "Tomacorrientes de pared"
+    ha-11-25-2:
+      name: "Tapas para tomacorrientes"
+    ha-11-4:
+      name: "Tableros eléctricos"
+    ha-11-4-1:
+      name: "Tableros principales"
+    ha-11-4-2:
+      name: "Subtableros"
+    ha-14-1-1:
+      name: "Cabinas de arenado"
+    ha-14-1-1-1:
+      name: "Gabinetes para mesada"
+    ha-14-1-1-2:
+      name: "Gabinetes verticales"
+    ha-14-10-2:
+      name: "Plantillas de router"
+    ha-14-13-3:
+      name: "Accesorios para balanzas"
+    ha-14-18-1:
+      name: "Fresas para router"
+    ha-14-18-1-1:
+      name: "Fresas para bordes"
+    ha-14-18-1-2:
+      name: "Fresas de corte al ras"
+    ha-14-18-1-3:
+      name: "Fresas rectas"
+    ha-14-19-1-9:
+      name: "Lana de acero"
+    ha-14-23-1:
+      name: "Hojas de espátula y cutter"
+    ha-14-23-2-2:
+      name: "Hojas de sierra de vaivén"
+    ha-14-23-2-3:
+      name: "Hojas de sierra sable"
+    ha-14-24:
+      name: "Cuñas para herramientas"
+    ha-14-24-1:
+      name: "Cuñas para hacha"
+    ha-14-24-2:
+      name: "Cuñas para martillo"
+    ha-14-26:
+      name: "Bocallaves para herramientas"
+    ha-14-28-3:
+      name: "Cuñas para partir"
+    ha-14-3:
+      name: "Accesorios para cutters"
+    ha-14-4-1:
+      name: "Mechas de taladro y puntas de destornillador"
+    ha-14-4-1-1:
+      name: "Mechas para mampostería"
+    ha-14-4-1-3:
+      name: "Mechas helicoidales"
+    ha-14-4-2:
+      name: "Extensiones para mechas de taladro"
+    ha-14-4-3:
+      name: "Afiladores para mechas"
+    ha-14-4-4:
+      name: "Portamechas"
+    ha-14-4-4-1:
+      name: "Portamechas con llave"
+    ha-14-4-4-2:
+      name: "Portamechas sin llave"
+    ha-14-4-6:
+      name: "Sierras copa"
+    ha-14-7:
+      name: "Accesorios para amoladoras"
+    ha-14-7-1:
+      name: "Muelas y puntas para amoladora"
+    ha-14-9:
+      name: "Grampas industriales"
+    ha-15-1:
+      name: "Arenadoras"
+    ha-15-1-1:
+      name: "Arenadoras de gabinete"
+    ha-15-10:
+      name: "Cepillos para pisos de cemento"
+    ha-15-11-8:
+      name: "Cutters"
+    ha-15-11-8-1:
+      name: "Cutters de hoja fija"
+    ha-15-11-8-2:
+      name: "Cutters de hoja retráctil"
+    ha-15-14-2:
+      name: "Agujereadoras de banco"
+    ha-15-16-1-1:
+      name: "Linternas de mano"
+    ha-15-19-1:
+      name: "Empuñaduras de manubrio"
+    ha-15-19-3:
+      name: "Empuñaduras de pinzas"
+    ha-15-24:
+      name: "Atornilladores y llaves de impacto"
+    ha-15-24-1:
+      name: "Atornilladores de impacto"
+    ha-15-27-2-3:
+      name: "Escaleras de tijera"
+    ha-15-27-4:
+      name: "Banquitos escalera"
+    ha-15-29:
+      name: "Cambiadores de lamparitas"
+    ha-15-3-2:
+      name: "Hachas de mano"
+    ha-15-3-3:
+      name: "Hachas para partir"
+    ha-15-30:
+      name: "Encendedores y fósforos"
+    ha-15-31:
+      name: "Partidoras de leña"
+    ha-15-31-1:
+      name: "Partidoras de leña manuales"
+    ha-15-31-2:
+      name: "Partidoras de leña eléctricas"
+    ha-15-32:
+      name: "Barredoras magnéticas"
+    ha-15-32-1:
+      name: "Barredoras magnéticas de mano"
+    ha-15-32-2:
+      name: "Barredoras magnéticas con ruedas"
+    ha-15-34-2-1:
+      name: "Mezcladoras de cemento de mano"
+    ha-15-34-5:
+      name: "Esponjas para pastina"
+    ha-15-34-7:
+      name: "Juntaras"
+    ha-15-34-7-1:
+      name: "Juntaras para bloques"
+    ha-15-34-7-2:
+      name: "Juntaras para ladrillos"
+    ha-15-36-17-1-3:
+      name: "Niveles torpedo"
+    ha-15-36-17-3-2:
+      name: "Niveles ópticos con trípode"
+    ha-15-36-18:
+      name: "Balanzas"
+    ha-15-36-18-1:
+      name: "Balanzas digitales"
+    ha-15-36-18-2:
+      name: "Balanzas mecánicas"
+    ha-15-36-19:
+      name: "Ruedas medidoras"
+    ha-15-36-22-2:
+      name: "Buscadores de montantes"
+    ha-15-36-28-1:
+      name: "Escuadras de albañil"
+    ha-15-36-28-2:
+      name: "Escuadras triangulares"
+    ha-15-36-28-3:
+      name: "Escuadras de carpintero"
+    ha-15-36-29:
+      name: "Reglas de canto recto"
+    ha-15-36-30:
+      name: "Sensores de montantes"
+    ha-15-36-31:
+      name: "Cintas métricas"
+    ha-15-36-38:
+      name: "Pronósticos y estaciones meteorológicas"
+    ha-15-36-6:
+      name: "Varas de medición"
+    ha-15-36-7:
+      name: "Medidores de distancia"
+    ha-15-36-8:
+      name: "Compases de puntas"
+    ha-15-40:
+      name: "Clavadoras y engrampadoras"
+    ha-15-40-2:
+      name: "Clavadoras para estructuras"
+    ha-15-40-3:
+      name: "Pistolas engrampadoras"
+    ha-15-40-4:
+      name: "Engrampadoras de alta resistencia"
+    ha-15-42-5-1:
+      name: "Agitadoras eléctricas"
+    ha-15-42-7-3:
+      name: "Pulverizadores HVLP"
+    ha-15-45-2:
+      name: "Limpiadores eléctricos"
+    ha-15-48-1:
+      name: "Cepillos de banco"
+    ha-15-48-2:
+      name: "Cepillos de bloque"
+    ha-15-48-3:
+      name: "Cepilladoras de router"
+    ha-15-49:
+      name: "Pinzas"
+    ha-15-49-1:
+      name: "Pinzas de bloqueo"
+    ha-15-49-2:
+      name: "Pinzas de punta de aguja"
+    ha-15-49-3:
+      name: "Pinzas para juntas deslizantes"
+    ha-15-5:
+      name: "Formones y gubias"
+    ha-15-5-1:
+      name: "Formones rectos"
+    ha-15-50:
+      name: "Sopapas"
+    ha-15-50-2:
+      name: "Sopapas de bacha"
+    ha-15-50-3:
+      name: "Sopapas de inodoro"
+    ha-15-54:
+      name: "Punzones y leznas"
+    ha-15-54-1:
+      name: "Punzones de centro"
+    ha-15-54-2:
+      name: "Botadores"
+    ha-15-54-3:
+      name: "Punzones de trazar"
+    ha-15-55-1:
+      name: "Espátulas flexibles"
+    ha-15-55-3:
+      name: "Espátulas rígidas"
+    ha-15-58:
+      name: "Fresadoras tupí"
+    ha-15-62-2:
+      name: "Sierras de corte"
+    ha-15-62-3-1:
+      name: "Serruchos de costilla"
+    ha-15-62-3-2:
+      name: "Sierras de marquetería"
+    ha-15-62-8:
+      name: "Sierras para paneles"
+    ha-15-65:
+      name: "Afiladores"
+    ha-15-66:
+      name: "Llaves tubo"
+    ha-15-67:
+      name: "Soldadores"
+    ha-15-69:
+      name: "Machos y terrajas"
+    ha-15-69-1:
+      name: "Terrajas hexagonales"
+    ha-15-7:
+      name: "Cepillos para chimenea"
+    ha-15-71:
+      name: "Prensas y morsas"
+    ha-15-71-1:
+      name: "Prensas de barra"
+    ha-15-71-2:
+      name: "Morsas de banco"
+    ha-15-71-3:
+      name: "Prensas en C"
+    ha-15-74:
+      name: "Cuchillos"
+    ha-15-8-2:
+      name: "Compactadores de pisón"
+    ha-15-80:
+      name: "Llaves"
+    ha-15-80-2:
+      name: "Llaves tubo"
+    ha-2-1:
+      name: "Mesadas"
+    ha-2-10-2:
+      name: "Madera terciada"
+    ha-2-13-1:
+      name: "Accesorios para canaletas"
+    ha-2-13-2:
+      name: "Canaletas"
+    ha-2-17-5:
+      name: "Escaleras con escalones en abanico"
+    ha-2-19-1:
+      name: "Machimbre"
+    ha-2-2-6:
+      name: "Aldabas"
+    ha-2-2-7:
+      name: "Placas de empuje para puertas"
+    ha-2-2-9:
+      name: "Contrachapas"
+    ha-2-2-9-1:
+      name: "Contrachapas para cerrojo"
+    ha-2-2-9-2:
+      name: "Contrachapas para pestillo"
+    ha-2-21-2-1:
+      name: "Marcos de ventanas de toldo"
+    ha-2-21-2-4:
+      name: "Marcos de ventanales"
+    ha-2-5:
+      name: "Pisos y alfombras"
+    ha-2-7:
+      name: "Pasamanos y barandas"
+    ha-2-7-1:
+      name: "Barandas"
+    ha-2-8:
+      name: "Escotillas"
+    ha-3:
+      name: "Cercas y barreras"
+    ha-3-5-1:
+      name: "Cercas para bordes"
+    ha-3-5-2:
+      name: "Bordes"
+    ha-3-6:
+      name: "Portones"
+    ha-3-6-1:
+      name: "Portones para entrada de vehículos"
+    ha-3-6-2:
+      name: "Portones de jardín"
+    ha-3-6-3:
+      name: "Portones de seguridad"
+    ha-5-1:
+      name: "Bidones de diésel"
+    ha-5-3:
+      name: "Bidones de nafta"
+    ha-5-4:
+      name: "Bidones de queroseno"
+    ha-6:
+      name: "Accesorios de ferretería"
+    ha-6-14-1:
+      name: "Anclajes para placas de yeso"
+    ha-6-14-2-11:
+      name: "Clavos de agrimensura"
+    ha-6-14-2-12:
+      name: "Clavos helicoidales"
+    ha-6-14-2-4:
+      name: "Clavos decorativos"
+    ha-6-14-2-9:
+      name: "Clavos para rieles"
+    ha-6-14-6-2:
+      name: "Tornillos para deck"
+    ha-6-14-6-3:
+      name: "Tornillos para placas de yeso"
+    ha-6-2:
+      name: "Ferretería para muebles"
+    ha-6-2-1:
+      name: "Escudos para cerraduras de muebles y gabinetes"
+    ha-6-2-2:
+      name: "Placas soporte para tiradores de muebles"
+    ha-6-2-3:
+      name: "Cierres de muebles"
+    ha-6-2-4:
+      name: "Puertas de muebles"
+    ha-6-2-5:
+      name: "Pomos y picaportes de muebles"
+    ha-6-22:
+      name: "Resortes"
+    ha-6-24-5:
+      name: "Gabinetes para herramientas"
+    ha-6-24-5-1:
+      name: "Gabinetes con ruedas"
+    ha-6-24-5-2:
+      name: "Gabinetes fijos"
+    ha-6-5-1:
+      name: "Espirales de compresión"
+    ha-6-5-2:
+      name: "Espirales de extensión"
+    ha-6-5-3:
+      name: "Espirales de torsión"
+    ha-7-2:
+      name: "Bombas para piletas, fuentes y estanques"
+    ha-7-2-3:
+      name: "Bombas para piletas"
+    ha-8-3-2:
+      name: "Humidostatos"
+    ha-9-4-1:
+      name: "Pasadores de barril"
+    hb-1-11-10:
+      name: "Ropa interior y calzoncillos para incontinencia"
+    hb-1-11-12:
+      name: "Mingitorios portátiles"
+    hb-1-11-7:
+      name: "Protectores de cama"
+    hb-1-11-8:
+      name: "Apósitos para incontinencia"
+    hb-1-13-4:
+      name: "Sistemas de alarma con alfombra de piso"
+    hb-1-14:
+      name: "Etiquetas de identificación y joyería médica"
+    hb-1-15-2:
+      name: "Kits de pruebas de grupo sanguíneo"
+    hb-1-17-1-5:
+      name: "Accesorios para salvaescaleras"
+    hb-1-17-3-2:
+      name: "Barandas de seguridad para camas"
+    hb-1-17-4:
+      name: "Accesorios para ayudas para caminar"
+    hb-1-17-5:
+      name: "Ayudas para caminar"
+    hb-1-17-5-1:
+      name: "Bastones y bastones para caminar"
+    hb-1-18-2:
+      name: "Hamacas terapéuticas"
+    hb-1-18-2-1:
+      name: "Hamacas terapéuticas tipo hamaca paraguaya"
+    hb-1-18-2-2:
+      name: "Hamacas terapéuticas de plataforma"
+    hb-1-18-2-3:
+      name: "Hamacas terapéuticas tipo tubo"
+    hb-1-2:
+      name: "Chatas"
+    hb-1-20-9:
+      name: "Piezas de repuesto para máscaras PAP"
+    hb-1-21:
+      name: "Frascos para muestras"
+    hb-1-24-2:
+      name: "Fajas para la espalda"
+    hb-1-26-1:
+      name: "Barbijos respiratorios"
+    hb-1-26-2:
+      name: "Barbijos reutilizables de tela y nano"
+    hb-1-26-3:
+      name: "Barbijos quirúrgicos y de procedimiento"
+    hb-1-29:
+      name: "Accesorios para barbijos"
+    hb-1-3-2-3:
+      name: "Dispositivos de punción"
+    hb-1-3-4:
+      name: "Accesorios para balanzas de peso corporal"
+    hb-1-4-4-1:
+      name: "Plicómetros"
+    hb-1-4-4-2:
+      name: "Balanzas de grasa corporal"
+    hb-1-4-5:
+      name: "Balanzas de peso corporal"
+    hb-1-4-6:
+      name: "Alcoholímetros"
+    hb-1-4-9-2:
+      name: "Tiras de termómetro descartables"
+    hb-1-8-2:
+      name: "Protectores para yeso y vendajes"
+    hb-1-8-4:
+      name: "Botiquines de primeros auxilios"
+    hb-1-8-6:
+      name: "Telas adhesivas y vendas"
+    hb-1-8-6-1:
+      name: "Vendajes adhesivos y curitas"
+    hb-1-9-1:
+      name: "Barras nutricionales"
+    hb-1-9-2:
+      name: "Bebidas y shakes nutricionales"
+    hb-1-9-6:
+      name: "Vitaminas y suplementos"
+    hb-2-3-2:
+      name: "Exhibidores de joyas"
+    hb-2-3-6:
+      name: "Organizadores de aros"
+    hb-3-1-1:
+      name: "Almohadones de soporte lumbar y de espalda"
+    hb-3-1-1-1:
+      name: "Almohadones de rollo lumbar"
+    hb-3-1-1-2:
+      name: "Almohadones de soporte de asiento y coxis"
+    hb-3-10-11-1-2:
+      name: "Alfileres"
+    hb-3-10-11-3:
+      name: "Accesorios para planchitas de pelo"
+    hb-3-10-11-7:
+      name: "Alfombras y soportes térmicos"
+    hb-3-10-12-11:
+      name: "Planchitas onduladoras"
+    hb-3-10-12-3:
+      name: "Bucleras"
+    hb-3-10-12-7:
+      name: "Planchitas de pelo"
+    hb-3-10-13:
+      name: "Shampoo y acondicionador"
+    hb-3-10-13-2:
+      name: "Juegos de shampoo y acondicionador"
+    hb-3-10-13-3:
+      name: "Shampoo"
+    hb-3-10-14-1:
+      name: "Máscaras para el cabello"
+    hb-3-10-7:
+      name: "Permanentes y alisadores de pelo"
+    hb-3-11-8-2-1:
+      name: "Alfombras y almohadones de acupresión"
+    hb-3-11-8-3:
+      name: "Almohadones de masaje"
+    hb-3-11-8-3-2:
+      name: "Almohadones de asiento de masaje"
+    hb-3-12-1:
+      name: "Sprays para el aliento"
+    hb-3-12-12:
+      name: "Estuches para aparatos de ortodoncia"
+    hb-3-12-12-1:
+      name: "Estuches rígidos para aparatos de ortodoncia"
+    hb-3-12-12-2:
+      name: "Estuches blandos para aparatos de ortodoncia"
+    hb-3-12-14-7:
+      name: "Lapiceras blanqueadoras"
+    hb-3-12-18:
+      name: "Dispensadores y exprimidores de pasta dental"
+    hb-3-12-19:
+      name: "Pasta dental"
+    hb-3-12-20:
+      name: "Escarbadientes"
+    hb-3-12-21:
+      name: "Porta escarbadientes y estuches"
+    hb-3-12-4:
+      name: "Cabezales de repuesto para irrigadores dentales"
+    hb-3-14-18:
+      name: "Shampoo y lavado de barba"
+    hb-3-14-4-1:
+      name: "Afeitadoras eléctricas de aluminio"
+    hb-3-14-4-2:
+      name: "Afeitadoras eléctricas rotativas"
+    hb-3-16:
+      name: "Carpas para bronceado en spray"
+    hb-3-19-3:
+      name: "Lentes para anteojos"
+    hb-3-19-4:
+      name: "Anteojos"
+    hb-3-19-5:
+      name: "Accesorios para anteojos"
+    hb-3-19-5-1:
+      name: "Fundas y soportes para anteojos"
+    hb-3-19-5-2:
+      name: "Soluciones de limpieza para lentes de anteojos"
+    hb-3-19-5-3:
+      name: "Repuestos para anteojos"
+    hb-3-19-5-4:
+      name: "Cintas y cadenas para anteojos"
+    hb-3-19-5-4-1:
+      name: "Cadenas para anteojos"
+    hb-3-19-5-4-2:
+      name: "Correas para anteojos"
+    hb-3-19-6:
+      name: "Lentes para anteojos de sol"
+    hb-3-2-1-1:
+      name: "Jabón en barra"
+    hb-3-2-1-7-2:
+      name: "Toallitas personales descartables en el inodoro"
+    hb-3-2-2:
+      name: "Sets de regalo con productos de baño y cuidado corporal"
+    hb-3-2-5-1-4:
+      name: "Repuestos para arqueadores de pestañas"
+    hb-3-2-5-1-5:
+      name: "Arqueador de pestañas"
+    hb-3-2-5-1-6-3:
+      name: "Espejos de maquillaje de mesa"
+    hb-3-2-5-1-7:
+      name: "Papeles matificantes faciales"
+    hb-3-2-5-1-8-1:
+      name: "Adhesivo para pestañas postizas"
+    hb-3-2-5-2-3:
+      name: "Separadores de manicuría y pedicuría"
+    hb-3-2-5-2-4:
+      name: "Juegos de útiles para manicuría"
+    hb-3-2-5-2-8:
+      name: "Pulidoras de uñas"
+    hb-3-2-5-3:
+      name: "Herramientas para el cuidado de la piel"
+    hb-3-2-6-3-4:
+      name: "Delineadores de ojos"
+    hb-3-2-6-3-8:
+      name: "Máscaras de pestañas"
+    hb-3-2-6-4-1:
+      name: "Rubores y polvos bronceadores"
+    hb-3-2-6-5-6:
+      name: "Labiales"
+    hb-3-2-6-6:
+      name: "Sprays fijadores de maquillaje"
+    hb-3-2-8-3:
+      name: "Eau de parfum"
+    hb-3-2-8-4:
+      name: "Eau de toilette"
+    hb-3-2-9-17-2:
+      name: "Tónicos"
+    hb-3-2-9-5:
+      name: "Máscaras faciales comprimidas"
+    hb-3-2-9-9-3:
+      name: "Máscaras labiales"
+    hb-3-3:
+      name: "Bolitas de algodón"
+    hb-3-4:
+      name: "Hisopos de algodón"
+    hb-3-8:
+      name: "Productos de higiene femenina"
+    hb-3-8-4:
+      name: "Toallitas y protectores femeninos"
+    hb-3-8-4-1:
+      name: "Protectores y apósitos de maternidad"
+    hb-3-8-4-2:
+      name: "Toallitas y protectores menstruales"
+    hb-3-8-4-3:
+      name: "Toallitas y protectores para la noche"
+    hb-3-8-4-4:
+      name: "Protectores diarios"
+    hb-3-8-4-5:
+      name: "Toallitas y protectores normales"
+    hb-3-9-12:
+      name: "Kits de pedicuría"
+    hb-3-9-9:
+      name: "Máscaras y peelings para pies"
+    hg-1-1:
+      name: "Bandejas de bañadera"
+    hg-1-1-1:
+      name: "Bandejas para bañadera"
+    hg-1-18-4:
+      name: "Sets de escobilla de baño y escobillero"
+    hg-1-2:
+      name: "Alfombras de baño"
+    hg-1-21-1:
+      name: "Soportes para toallas"
+    hg-1-4:
+      name: "Soportes para accesorios de baño"
+    hg-10-11-2-6:
+      name: "Trampas de resorte"
+    hg-10-13:
+      name: "Bases para alfombras"
+    hg-10-14-11-3:
+      name: "Moldeadores para botas"
+    hg-10-14-6:
+      name: "Calzadores y ayudas para vestirse"
+    hg-10-14-6-1-3:
+      name: "Calzador de medias"
+    hg-10-14-6-1-4:
+      name: "Adaptadores de cierres"
+    hg-10-14-6-2:
+      name: "Calzadores"
+    hg-10-15:
+      name: "Alfombras para escalones"
+    hg-10-16-1:
+      name: "Almacenamiento de ropa y placards"
+    hg-10-16-1-2:
+      name: "Organizadores de placard y percheros"
+    hg-10-16-1-2-1:
+      name: "Organizadores de placard"
+    hg-10-17-1:
+      name: "Bolsas para compactadoras de basura"
+    hg-10-17-2:
+      name: "Filtros para compactadoras de basura"
+    hg-10-17-3:
+      name: "Desodorantes para compactadoras de basura"
+    hg-10-18-4:
+      name: "Tachos de basura y cestos de papeles"
+    hg-10-18-4-1:
+      name: "Tachos de basura"
+    hg-10-18-4-2:
+      name: "Cestos de papeles"
+    hg-10-19-2:
+      name: "Cerramientos para contenedores de residuos"
+    hg-10-19-4:
+      name: "Tapas para contenedores de residuos"
+    hg-10-2:
+      name: "Láminas y franjas protectoras para pisos"
+    hg-10-2-1:
+      name: "Láminas protectoras para pisos"
+    hg-10-2-2:
+      name: "Franjas protectoras para pisos"
+    hg-10-3:
+      name: "Protectores de piso para mobiliario"
+    hg-10-4:
+      name: "Alfombras para pisos de garajes"
+    hg-10-6-1:
+      name: "Mangos para escobas y mopas"
+    hg-10-6-11-16-2:
+      name: "Limpiadores de bañaderas"
+    hg-10-6-11-16-3:
+      name: "Limpiadores de pastina"
+    hg-10-6-11-17:
+      name: "Limpiadores para lavarropas"
+    hg-10-6-11-4:
+      name: "Detergente para vajilla"
+    hg-10-6-11-9:
+      name: "Productos de limpieza para superficies y vidrios"
+    hg-10-6-11-9-1:
+      name: "Limpiavidrios"
+    hg-10-6-12:
+      name: "Cabezales para mopas y repuestos"
+    hg-10-6-13:
+      name: "Mopas"
+    hg-10-6-14:
+      name: "Cabezales para cepillos de limpieza y repuestos"
+    hg-10-6-16:
+      name: "Paños de taller y de limpieza general"
+    hg-10-6-18:
+      name: "Espátulas limpiavidrios"
+    hg-10-6-2:
+      name: "Cabezales para escobas"
+    hg-10-6-4:
+      name: "Baldes"
+    hg-10-6-5:
+      name: "Barredoras de alfombras"
+    hg-10-6-7:
+      name: "Repuestos para plumeros"
+    hg-10-6-9:
+      name: "Palas recogedoras"
+    hg-10-9-1:
+      name: "Lavandina"
+    hg-10-9-13:
+      name: "Repuestos para tablas de planchar"
+    hg-10-9-14-2:
+      name: "Tablas de planchar para mangas"
+    hg-10-9-15:
+      name: "Ecobolas para lavarropas"
+    hg-10-9-18:
+      name: "Bolsas y protectores de lavado"
+    hg-10-9-2:
+      name: "Broches para la ropa"
+    hg-10-9-20:
+      name: "Sprays quitaarrugas y antiestáticos"
+    hg-10-9-5:
+      name: "Aromatizantes para tejidos"
+    hg-10-9-6:
+      name: "Afeitadoras de tela"
+    hg-11-1-10-2:
+      name: "Destapadores"
+    hg-11-1-10-4:
+      name: "Coladores para cócteles"
+    hg-11-1-10-5:
+      name: "Pisadores para cócteles"
+    hg-11-1-11-4:
+      name: "Sacacorchos para mozos"
+    hg-11-1-15:
+      name: "Hieleras"
+    hg-11-1-18:
+      name: "Alfombras para barra"
+    hg-11-1-2:
+      name: "Canillas y dispensadores de cerveza"
+    hg-11-1-2-4:
+      name: "Heladeras para barriles de cerveza"
+    hg-11-1-4:
+      name: "Conservadoras y enfriadores de bebidas"
+    hg-11-1-4-2:
+      name: "Conservadoras de bebidas"
+    hg-11-10-10:
+      name: "Posafuentes"
+    hg-11-10-3-1:
+      name: "Espolvoreadores de queso"
+    hg-11-10-3-4:
+      name: "Juegos de espolvoreadores"
+    hg-11-10-5-3:
+      name: "Platitos de café y té"
+    hg-11-10-5-5:
+      name: "Mugs"
+    hg-11-10-5-6:
+      name: "Vasos de shot"
+    hg-11-10-5-7:
+      name: "Copas"
+    hg-11-10-5-7-2-2:
+      name: "Copas de martini"
+    hg-11-10-6-4:
+      name: "Juegos de cubiertos"
+    hg-11-10-6-5-6:
+      name: "Tenedores para bocaditos"
+    hg-11-10-6-6-1:
+      name: "Cucharitas de té"
+    hg-11-10-6-6-2:
+      name: "Cucharas de mesa"
+    hg-11-10-7-1:
+      name: "Platos para manteca"
+    hg-11-10-7-14:
+      name: "Bowls para servir"
+    hg-11-10-7-2:
+      name: "Bandejas para tortas"
+    hg-11-10-7-3:
+      name: "Bases para torta"
+    hg-11-10-7-4:
+      name: "Hueveras"
+    hg-11-2-1-10:
+      name: "Ramequines y fuentes para soufflé"
+    hg-11-2-1-2:
+      name: "Bandejas para hornear galletitas"
+    hg-11-2-1-5:
+      name: "Moldes para tortas"
+    hg-11-2-1-6:
+      name: "Moldes para muffins"
+    hg-11-2-2-2-1:
+      name: "Porotos para hornear"
+    hg-11-2-3-11:
+      name: "Cacerolas"
+    hg-11-2-3-15:
+      name: "Pavas"
+    hg-11-2-3-8:
+      name: "Prensas para parrilla"
+    hg-11-2-5-2:
+      name: "Tapas para sartenes y ollas"
+    hg-11-3-13:
+      name: "Growlers"
+    hg-11-3-3:
+      name: "Conservadoras"
+    hg-11-3-7-2:
+      name: "Juegos de viandas"
+    hg-11-3-7-4:
+      name: "Valijas para el almuerzo"
+    hg-11-4-2:
+      name: "Baldes de caramelos"
+    hg-11-4-3:
+      name: "Frascos para galletitas"
+    hg-11-4-4:
+      name: "Tapas para táperes"
+    hg-11-4-7-2:
+      name: "Papel manteca"
+    hg-11-4-8:
+      name: "Frascos de miel"
+    hg-11-6-12:
+      name: "Accesorios para freezers"
+    hg-11-6-12-2:
+      name: "Juntas de la puerta del freezer"
+    hg-11-6-12-3:
+      name: "Manijas de la puerta del freezer"
+    hg-11-6-12-4:
+      name: "Estantes del freezer"
+    hg-11-6-12-5:
+      name: "Termómetros para freezer"
+    hg-11-6-12-6:
+      name: "Cestas para freezer"
+    hg-11-6-12-7:
+      name: "Cajones del freezer"
+    hg-11-6-14:
+      name: "Accesorios para máquinas de helados"
+    hg-11-6-14-1:
+      name: "Cuencos de freezer para máquinas de helado"
+    hg-11-6-16-6:
+      name: "Filtros de agua para máquinas de hielo"
+    hg-11-6-17-3:
+      name: "Recolectores de jugo"
+    hg-11-6-19:
+      name: "Accesorios para parrillas"
+    hg-11-6-19-1:
+      name: "Briquetas para parrilla"
+    hg-11-6-19-11:
+      name: "Láminas para parrilla"
+    hg-11-6-19-3:
+      name: "Carros para parrillas"
+    hg-11-6-19-4:
+      name: "Cubiertas para parrillas"
+    hg-11-6-19-5:
+      name: "Rejillas para parrillas"
+    hg-11-6-19-5-1:
+      name: "Rejillas para parrillas exteriores"
+    hg-11-6-19-5-2:
+      name: "Tapas para parrillas exteriores"
+    hg-11-6-19-6:
+      name: "Piezas de repuesto para parrillas exteriores"
+    hg-11-6-19-6-1:
+      name: "Quemadores de parrillas"
+    hg-11-6-19-6-2:
+      name: "Grillas para parrillas"
+    hg-11-6-19-6-3:
+      name: "Encendedores para parrillas"
+    hg-11-6-19-6-4:
+      name: "Termómetros para parrillas"
+    hg-11-6-19-7:
+      name: "Cestas y rejillas para parrillas"
+    hg-11-6-19-7-1:
+      name: "Cestas para parrillas exteriores"
+    hg-11-6-19-7-2:
+      name: "Asadores para parrillas exteriores"
+    hg-11-6-19-8:
+      name: "Tablas para parrilla"
+    hg-11-6-2-15:
+      name: "Bases para compactar café"
+    hg-11-6-2-7-23:
+      name: "Perillas"
+    hg-11-6-21:
+      name: "Accesorios para máquinas de pochoclo"
+    hg-11-6-21-1:
+      name: "Bolsas para pochoclo"
+    hg-11-6-22:
+      name: "Accesorios para anafes portátiles"
+    hg-11-6-22-5:
+      name: "Bases para anafes"
+    hg-11-6-22-7:
+      name: "Cortavientos"
+    hg-11-6-24:
+      name: "Accesorios de heladera"
+    hg-11-6-24-2:
+      name: "Termómetros para heladeras"
+    hg-11-6-24-4:
+      name: "Juntas de la puerta de la heladera"
+    hg-11-6-24-5:
+      name: "Manijas de la puerta de la heladera"
+    hg-11-6-24-6:
+      name: "Cajones y compartimentos de la heladera"
+    hg-11-6-24-7:
+      name: "Filtros de agua para heladera"
+    hg-11-6-29:
+      name: "Accesorios para wafleras"
+    hg-11-6-29-3:
+      name: "Platos para waffles"
+    hg-11-6-3:
+      name: "Accesorios para anafes, hornos y cocinas a gas"
+    hg-11-6-3-1:
+      name: "Kits de limpieza para anafes"
+    hg-11-6-3-10:
+      name: "Bandejas recolectoras del anafe"
+    hg-11-6-3-2:
+      name: "Protectores de anafes"
+    hg-11-6-30:
+      name: "Accesorios para dispensadores de agua"
+    hg-11-6-30-1:
+      name: "Botellas para dispensadores de agua"
+    hg-11-6-30-5:
+      name: "Canillas y llaves para dispensadores de agua"
+    hg-11-6-31:
+      name: "Accesorios para heladeras de vino"
+    hg-11-6-31-1:
+      name: "Juntas de la puerta de heladeras de vino"
+    hg-11-6-31-2:
+      name: "Filtros para heladeras de vino"
+    hg-11-6-31-3:
+      name: "Estantes para heladera de vino"
+    hg-11-6-33-2:
+      name: "Revestimientos y láminas para freidoras de aire"
+    hg-11-6-4:
+      name: "Accesorios para máquina de algodón de azúcar"
+    hg-11-6-7:
+      name: "Accesorios para pavas eléctricas"
+    hg-11-6-7-1:
+      name: "Bases para pavas eléctricas"
+    hg-11-6-7-3:
+      name: "Tapas para pavas eléctricas"
+    hg-11-6-7-4:
+      name: "Recolectores de cal para pava eléctrica"
+    hg-11-6-7-5:
+      name: "Filtros para pavas eléctricas"
+    hg-11-6-7-6:
+      name: "Infusores para pavas eléctricas"
+    hg-11-7-11:
+      name: "Pavas eléctricas"
+    hg-11-7-20:
+      name: "Freezers"
+    hg-11-7-20-1:
+      name: "Freezers horizontales"
+    hg-11-7-20-2:
+      name: "Freezers de cajón"
+    hg-11-7-20-3:
+      name: "Freezers verticales"
+    hg-11-7-24-2:
+      name: "Pavas y calentadores de agua"
+    hg-11-7-26:
+      name: "Máquinas de helados"
+    hg-11-7-30-2:
+      name: "Chairas de afilar"
+    hg-11-7-34:
+      name: "Parrillas"
+    hg-11-7-37:
+      name: "Máquinas de pochoclo"
+    hg-11-7-38-4:
+      name: "Anafes eléctricos"
+    hg-11-7-41:
+      name: "Heladeras"
+    hg-11-7-41-1:
+      name: "Heladeras comerciales"
+    hg-11-7-41-2:
+      name: "Mini heladeras"
+    hg-11-7-43:
+      name: "Máquinas para hacer soda"
+    hg-11-7-45:
+      name: "Máquinas para hacer té"
+    hg-11-7-46-10:
+      name: "Wafleras"
+    hg-11-7-46-2:
+      name: "Máquinas de donas"
+    hg-11-7-46-3:
+      name: "Máquinas para hacer muffins"
+    hg-11-7-46-9:
+      name: "Máquinas para hacer tortillas y panes planos"
+    hg-11-7-47:
+      name: "Compactadores de basura"
+    hg-11-7-48:
+      name: "Envasadoras al vacío"
+    hg-11-7-48-2:
+      name: "Selladoras al vacío externas"
+    hg-11-7-5:
+      name: "Anafes"
+    hg-11-7-50-1:
+      name: "Filtros de agua para mesada"
+    hg-11-7-50-2:
+      name: "Filtros de agua para canilla"
+    hg-11-7-51:
+      name: "Heladeras para vino"
+    hg-11-7-6:
+      name: "Máquinas de algodón de azúcar"
+    hg-11-8-12:
+      name: "Escurridores y coladores"
+    hg-11-8-12-1:
+      name: "Escurridores"
+    hg-11-8-12-2:
+      name: "Coladores"
+    hg-11-8-14:
+      name: "Moldes de galletitas"
+    hg-11-8-15:
+      name: "Prensa para galletitas"
+    hg-11-8-18:
+      name: "Temporizadores de cocina"
+    hg-11-8-19:
+      name: "Sopletes de cocina"
+    hg-11-8-20:
+      name: "Rejillas para enfriar"
+    hg-11-8-22:
+      name: "Escurridores de platos"
+    hg-11-8-22-1:
+      name: "Escurridores de platos"
+    hg-11-8-22-3:
+      name: "Secaplatos"
+    hg-11-8-28-2-5:
+      name: "Pinchos para nueces"
+    hg-11-8-30-2:
+      name: "Ralladores de cítricos"
+    hg-11-8-37:
+      name: "Cubeteras"
+    hg-11-8-38:
+      name: "Pistolas para charqui"
+    hg-11-8-41-11:
+      name: "Dispensadores y soportes de sorbetes"
+    hg-11-8-41-11-1:
+      name: "Dispensadores de sorbetes"
+    hg-11-8-41-11-2:
+      name: "Soportes para sorbetes"
+    hg-11-8-41-12:
+      name: "Recipientes para terrones de azúcar"
+    hg-11-8-41-13:
+      name: "Porta escarbadientes y dispensadores de escarbadientes"
+    hg-11-8-41-13-1:
+      name: "Dispensadores de escarbadientes"
+    hg-11-8-41-13-2:
+      name: "Porta escarbadientes"
+    hg-11-8-41-3:
+      name: "Organizadores de muebles de cocina"
+    hg-11-8-41-3-1:
+      name: "Bandejas giratorias para muebles"
+    hg-11-8-41-3-2:
+      name: "Organizadores extraíbles para muebles"
+    hg-11-8-41-3-4:
+      name: "Organizadores para debajo de la bacha"
+    hg-11-8-41-4:
+      name: "Mesadas y organizadores de bebidas"
+    hg-11-8-47:
+      name: "Pisapapas"
+    hg-11-8-50:
+      name: "Bowls para mezclar"
+    hg-11-8-52:
+      name: "Aceiteras y vinagreras"
+    hg-11-8-54:
+      name: "Guantes y agarraderas para horno"
+    hg-11-8-56:
+      name: "Mezcladores de masa"
+    hg-11-8-6:
+      name: "Productos para la decoración de tortas"
+    hg-11-8-6-4:
+      name: "Alisadores y raspadores para tortas"
+    hg-11-8-60:
+      name: "Pisapapas"
+    hg-11-8-63:
+      name: "Mezcladores de aderezos"
+    hg-11-8-65-4:
+      name: "Palas para pochoclo y papas fritas"
+    hg-11-8-65-4-1:
+      name: "Cucharas para papas fritas"
+    hg-11-8-65-4-2:
+      name: "Cucharas para pochoclo"
+    hg-11-8-65-6:
+      name: "Cucharas para masa de galletitas"
+    hg-11-8-66:
+      name: "Organizadores de bacha"
+    hg-11-8-67:
+      name: "Esteras antideslizantes para bachas"
+    hg-11-8-67-1:
+      name: "Rejillas para bacha"
+    hg-11-8-67-2:
+      name: "Esteras para bacha"
+    hg-11-8-7:
+      name: "Palas para tortas"
+    hg-11-8-72:
+      name: "Apoyacucharas"
+    hg-11-8-78:
+      name: "Dispensadores de manteca"
+    hg-11-8-80:
+      name: "Balanzas de cocina"
+    hg-12-1-11-1:
+      name: "Ganchos y grampas para mallas antihierbas"
+    hg-12-1-11-1-1:
+      name: "Ganchos para mallas antihierbas"
+    hg-12-1-11-1-2:
+      name: "Grampas para mallas antihierbas"
+    hg-12-1-15:
+      name: "Fundas para macetas y maceteros"
+    hg-12-1-16:
+      name: "Macetas y maceteros"
+    hg-12-1-16-2:
+      name: "Macetas"
+    hg-12-1-19-4-5:
+      name: "Balastos para luces de cultivo"
+    hg-12-1-19-4-6:
+      name: "Lamparitas para cultivo"
+    hg-12-1-4:
+      name: "Platillos y bandejas para macetas"
+    hg-12-1-5-1:
+      name: "Almohadillas, asientos y carritos de jardinería"
+    hg-12-1-5-1-1:
+      name: "Almohadillas de jardinería para arrodillarse"
+    hg-12-1-5-1-2:
+      name: "Carritos de jardinería con asiento"
+    hg-12-1-6-3-4:
+      name: "Cámaras para carretillas"
+    hg-12-1-7-11:
+      name: "Palas"
+    hg-12-1-7-11-1:
+      name: "Palas de punta"
+    hg-12-1-7-11-2:
+      name: "Palas rectas"
+    hg-12-1-7-14:
+      name: "Tijeras de podar de mango largo"
+    hg-12-1-7-7-2:
+      name: "Rodillos para césped remolcados"
+    hg-12-2-1:
+      name: "Accesorios para toldos"
+    hg-12-2-1-16:
+      name: "Kits de sujeción para toldos"
+    hg-12-2-10:
+      name: "Hamacas de jardín"
+    hg-12-2-3:
+      name: "Piezas y accesorios para hamacas paraguayas"
+    hg-12-2-3-1:
+      name: "Accesorios para hamacas paraguayas"
+    hg-12-2-3-1-1:
+      name: "Mosquiteros para hamacas paraguayas"
+    hg-12-2-3-1-2:
+      name: "Techos para hamacas paraguayas"
+    hg-12-2-3-1-3:
+      name: "Correas para hamacas paraguayas"
+    hg-12-2-3-1-4:
+      name: "Aislantes para hamacas paraguayas"
+    hg-12-2-3-2:
+      name: "Piezas para hamacas paraguayas"
+    hg-12-2-3-2-1:
+      name: "Ganchos y soportes para hamacas paraguayas"
+    hg-12-2-3-2-2:
+      name: "Barras separadoras para hamacas paraguayas"
+    hg-12-2-3-2-3:
+      name: "Resortes para hamacas paraguayas"
+    hg-12-2-4:
+      name: "Hamacas paraguayas"
+    hg-12-2-5:
+      name: "Mantas para exterior"
+    hg-12-2-5-3:
+      name: "Forros para poncho"
+    hg-12-2-6-1:
+      name: "Toldos y gazebos"
+    hg-12-2-6-1-1:
+      name: "Carpas"
+    hg-12-2-6-1-2:
+      name: "Gazebos"
+    hg-12-2-6-2:
+      name: "Accesorios para toldos y gazebos"
+    hg-12-2-6-2-1:
+      name: "Kits de pantalla para toldos y gazebos"
+    hg-12-2-6-2-2:
+      name: "Estructuras para toldos y gazebos"
+    hg-12-2-6-2-3:
+      name: "Cubiertas para toldos y gazebos"
+    hg-12-2-6-2-4:
+      name: "Postes para gazebos"
+    hg-12-2-6-2-5:
+      name: "Pesos para gazebos"
+    hg-12-2-6-3-1:
+      name: "Pérgola"
+    hg-12-2-6-3-3:
+      name: "Pérgolas"
+    hg-12-2-6-5:
+      name: "Galpones, garajes y almacenes"
+    hg-12-2-6-5-3:
+      name: "Galpones"
+    hg-12-2-8-2:
+      name: "Parasoles"
+    hg-12-2-9:
+      name: "Accesorios de hamacas para porche"
+    hg-12-2-9-1:
+      name: "Cadenas para hamacas de porche"
+    hg-12-2-9-2:
+      name: "Cubiertas para hamacas de porche"
+    hg-12-2-9-3:
+      name: "Almohadones para hamacas de porche"
+    hg-12-2-9-4:
+      name: "Colgadores para hamacas de porche"
+    hg-12-2-9-5:
+      name: "Soportes para hamacas de porche"
+    hg-12-2-9-6:
+      name: "Resortes para hamacas de porche"
+    hg-12-3-11:
+      name: "Motocultores y cultivadores"
+    hg-12-3-12:
+      name: "Hidrolavadoras"
+    hg-12-3-13:
+      name: "Sopladores de nieve"
+    hg-12-3-15:
+      name: "Bordeadoras"
+    hg-12-3-2:
+      name: "Bordeadoras de césped"
+    hg-12-3-4:
+      name: "Aireadores y escarificadores de césped"
+    hg-12-3-4-1:
+      name: "Escarificadores de césped"
+    hg-12-3-5-1:
+      name: "Tractores cortadores de césped"
+    hg-12-3-5-2:
+      name: "Robots cortadores de césped"
+    hg-12-3-5-5:
+      name: "Cortadoras de césped de carrete"
+    hg-12-4-10-1-2:
+      name: "Neumáticos para tractores cortadores de césped"
+    hg-12-4-10-1-5:
+      name: "Neumáticos para acoplados de tractores"
+    hg-12-4-11:
+      name: "Accesorios para bordeadoras"
+    hg-12-4-11-1:
+      name: "Cuchillas y cabezales para bordeadoras"
+    hg-12-4-11-1-1:
+      name: "Cuchillas para bordeadoras"
+    hg-12-4-11-1-2:
+      name: "Cabezales para bordeadoras"
+    hg-12-4-11-1-3:
+      name: "Hilo para bordeadora"
+    hg-12-4-11-2:
+      name: "Cubiertas para cabezales de bordeadoras"
+    hg-12-4-11-3:
+      name: "Protectores para bordeadora"
+    hg-12-4-11-4:
+      name: "Cabezales para bordeadora"
+    hg-12-4-16:
+      name: "Accesorios para partidoras de leña"
+    hg-12-4-17:
+      name: "Accesorios para podadoras de altura"
+    hg-12-4-18:
+      name: "Accesorios para motocultores y cultivadores"
+    hg-12-4-2:
+      name: "Accesorios para bordeadoras"
+    hg-12-4-2-1:
+      name: "Correas para bordeadoras"
+    hg-12-4-4-1:
+      name: "Accesorios para desmalezadoras"
+    hg-12-4-4-1-4:
+      name: "Ejes"
+    hg-12-4-4-1-5:
+      name: "Cajas reductoras"
+    hg-12-4-4-14:
+      name: "Kits de enganche para cortadora de césped"
+    hg-12-4-4-15:
+      name: "Asientos para cortadora de césped"
+    hg-12-4-4-6:
+      name: "Kits de mulch para cortadora de césped"
+    hg-12-4-4-7:
+      name: "Tapas y placas de mulch para cortadora de césped"
+    hg-12-4-4-7-1:
+      name: "Tapones de mulch para cortadora de césped"
+    hg-12-4-4-7-2:
+      name: "Placas de mulch para cortadora de césped"
+    hg-12-4-4-8:
+      name: "Poleas y tensores para cortadoras de césped"
+    hg-12-4-4-8-1:
+      name: "Tensores para cortadoras de césped"
+    hg-12-4-4-9:
+      name: "Cámaras de aire para neumáticos de cortadoras de césped"
+    hg-12-4-5-3:
+      name: "Arneses para sopladores de hojas"
+    hg-12-4-5-4:
+      name: "Boquillas para sopladores de hojas"
+    hg-12-4-6:
+      name: "Accesorios para equipos motorizados multifunción para uso exterior"
+    hg-12-4-6-1:
+      name: "Complementos para bordeadoras"
+    hg-12-4-6-2:
+      name: "Complementos para sopladores de piso y de hojas"
+    hg-12-4-6-3:
+      name: "Accesorios para cortasetos"
+    hg-12-4-6-4:
+      name: "Accesorios para podadoras de altura"
+    hg-12-4-6-5:
+      name: "Accesorios para motocultores y cultivadores"
+    hg-12-4-6-6:
+      name: "Complementos para bordeadoras"
+    hg-12-4-6-7:
+      name: "Accesorios para desmalezadora"
+    hg-12-4-8:
+      name: "Accesorios para hidrolavadoras"
+    hg-12-4-8-29:
+      name: "Arenadoras con agua"
+    hg-12-4-9:
+      name: "Accesorios de sopladores de nieve"
+    hg-12-5:
+      name: "Remoción de nieve"
+    hg-12-5-1:
+      name: "Raspadores de hielo y cepillos para nieve"
+    hg-12-5-1-1:
+      name: "Raspadores de hielo"
+    hg-12-5-1-2:
+      name: "Cepillos para nieve"
+    hg-12-6:
+      name: "Riego"
+    hg-12-6-9:
+      name: "Sistemas de riego"
+    hg-13-2:
+      name: "Luces flotantes y sumergibles"
+    hg-13-5-1:
+      name: "Veladores"
+    hg-13-7:
+      name: "Lamparitas"
+    hg-13-7-3:
+      name: "Lamparitas incandescentes"
+    hg-13-7-4:
+      name: "Lamparitas LED"
+    hg-13-7-5:
+      name: "Lamparitas halógenas"
+    hg-13-7-6:
+      name: "Lamparitas de descarga de alta intensidad"
+    hg-13-9-2:
+      name: "Plafones"
+    hg-14-1:
+      name: "Bases para postes de luz"
+    hg-14-2:
+      name: "Soportes para postes de luz"
+    hg-15:
+      name: "Blanquería"
+    hg-15-1-10:
+      name: "Colchas y acolchados"
+    hg-15-1-12:
+      name: "Sobrecolchones"
+    hg-15-1-3:
+      name: "Cubresommiers"
+    hg-15-1-5:
+      name: "Fundas de duvet"
+    hg-15-1-7:
+      name: "Colchonetas para siesta"
+    hg-15-1-8:
+      name: "Fundas de almohada y de almohadones"
+    hg-15-3-2:
+      name: "Tapetes de crochet"
+    hg-15-3-4:
+      name: "Caminos de mesa"
+    hg-15-3-5:
+      name: "Faldones para mesas"
+    hg-15-4-1-2:
+      name: "Manoplas"
+    hg-15-4-3:
+      name: "Repasadores"
+    hg-17-3-1-2:
+      name: "Matorrales"
+    hg-17-3-3-2-1:
+      name: "Gramíneas ornamentales"
+    hg-18:
+      name: "Pileta y spa"
+    hg-18-1:
+      name: "Accesorios para piletas y jacuzzis"
+    hg-18-1-10:
+      name: "Kits para terrazas con pileta"
+    hg-18-1-11:
+      name: "Colchonetas y flotadores para pileta"
+    hg-18-1-11-1:
+      name: "Flotadores"
+    hg-18-1-11-2:
+      name: "Reposeras inflables"
+    hg-18-1-11-3:
+      name: "Islas flotantes para pileta"
+    hg-18-1-11-4:
+      name: "Hamacas paraguayas para pileta"
+    hg-18-1-12:
+      name: "Climatizadores de pileta"
+    hg-18-1-13:
+      name: "Escaleras y rampas de pileta"
+    hg-18-1-13-1:
+      name: "Escaleras de pileta"
+    hg-18-1-13-2:
+      name: "Rampas de pileta"
+    hg-18-1-13-3:
+      name: "Pasos de la pileta"
+    hg-18-1-13-4:
+      name: "Pasamanos para pileta"
+    hg-18-1-14:
+      name: "Lonas para piletas"
+    hg-18-1-15:
+      name: "Skimmers"
+    hg-18-1-16:
+      name: "Limpiafondos y aspiradores para piletas"
+    hg-18-1-16-2:
+      name: "Aspiradoras de piletas"
+    hg-18-1-17:
+      name: "Juguetes para piletas"
+    hg-18-1-17-1:
+      name: "Juguetes de buceo en pileta"
+    hg-18-1-17-2:
+      name: "Juegos de pileta"
+    hg-18-1-17-3:
+      name: "Reposeras de pileta"
+    hg-18-1-17-4:
+      name: "Churros de pileta"
+    hg-18-1-18:
+      name: "Toboganes acuáticos para piletas"
+    hg-18-1-19:
+      name: "Alarmas para pileta"
+    hg-18-1-2:
+      name: "Generadores de cloro para piletas y spas"
+    hg-18-1-20:
+      name: "Luces para pileta"
+    hg-18-1-21:
+      name: "Termómetros para pileta"
+    hg-18-1-3:
+      name: "Filtros para piletas y jacuzzis"
+    hg-18-1-3-1:
+      name: "Cartuchos de filtro para piletas y spas"
+    hg-18-1-3-2:
+      name: "Material filtrante para piletas y spas"
+    hg-18-1-4:
+      name: "Kits de mantenimiento de piletas y jacuzzis"
+    hg-18-1-5:
+      name: "Cepillos para piletas"
+    hg-18-1-6:
+      name: "Mangueras para limpiar piletas"
+    hg-18-1-7:
+      name: "Limpieza y desinfección de piletas"
+    hg-18-1-8:
+      name: "Accesorios para cubiertas de pileta"
+    hg-18-1-8-1:
+      name: "Almohadones de aire para cubiertas de pileta"
+    hg-18-1-8-2:
+      name: "Clips y sujetadores para cubiertas de pileta"
+    hg-18-1-8-3:
+      name: "Bombas para cubiertas de piletas"
+    hg-18-1-8-4:
+      name: "Enrolladores de cubiertas de pileta"
+    hg-18-1-8-5:
+      name: "Kit de reparación de cubiertas de pileta"
+    hg-18-1-8-6:
+      name: "Bolsas de agua para cubiertas de pileta"
+    hg-18-1-9:
+      name: "Cubiertas para pileta"
+    hg-18-1-9-1:
+      name: "Paños para piso"
+    hg-18-1-9-2:
+      name: "Cubiertas para piletas"
+    hg-18-2-4:
+      name: "Respaldos y apoyacabezas para sauna"
+    hg-18-5:
+      name: "Piletas"
+    hg-18-5-1:
+      name: "Piletas elevadas"
+    hg-18-5-2:
+      name: "Piletas inflables"
+    hg-18-5-3:
+      name: "Piletas para niños"
+    hg-19-10:
+      name: "Bandejas para armar cigarrillos"
+    hg-19-13:
+      name: "Picadores"
+    hg-19-2:
+      name: "Cajas para cigarros"
+    hg-19-3:
+      name: "Cortadores y perforadores de cigarros"
+    hg-19-3-1:
+      name: "Cortadores de cigarros"
+    hg-19-3-2:
+      name: "Perforadores de cigarros"
+    hg-19-4:
+      name: "Cigarreras"
+    hg-19-8:
+      name: "Limpiapipas"
+    hg-2-1:
+      name: "Cámaras de vigilancia falsas"
+    hg-2-6-3:
+      name: "Grabadoras de video digitales de seguridad"
+    hg-2-7:
+      name: "Accesorios para cajas fuertes"
+    hg-2-9-2:
+      name: "Sensores de rotura de vidrios"
+    hg-3-10:
+      name: "Casas para pájaros y animales silvestres"
+    hg-3-14:
+      name: "Fundas de almohadones para sillas y sofás"
+    hg-3-15:
+      name: "Almohadones para sillas y sofás"
+    hg-3-16-3:
+      name: "Agujas de reloj"
+    hg-3-2-4:
+      name: "Árboles artificiales"
+    hg-3-21:
+      name: "Bowls decorativos"
+    hg-3-22:
+      name: "Frascos decorativos"
+    hg-3-36-2:
+      name: "Piedras de paso"
+    hg-3-4-1:
+      name: "Tapices decorativos"
+    hg-3-4-2-1:
+      name: "Pósters"
+    hg-3-40-1:
+      name: "Aromatizantes de ambiente"
+    hg-3-45-2:
+      name: "Gabinetes de buzones"
+    hg-3-49:
+      name: "Argollas para servilletas"
+    hg-3-51:
+      name: "Almohadones para otomanas"
+    hg-3-53:
+      name: "Alcancías"
+    hg-3-53-1:
+      name: "Alcancías tipo frasco"
+    hg-3-53-2:
+      name: "Alcancías"
+    hg-3-56:
+      name: "Imanes para la heladera"
+    hg-3-58-11:
+      name: "Pesebres"
+    hg-3-58-8:
+      name: "Colgadores para medias navideñas"
+    hg-3-58-9:
+      name: "Medias navideñas"
+    hg-3-64:
+      name: "Almohadones"
+    hg-3-66:
+      name: "Rellenos para floreros y decoraciones para mesas"
+    hg-3-66-2:
+      name: "Rellenos de floreros"
+    hg-3-67-1:
+      name: "Floreros individuales"
+    hg-3-67-2:
+      name: "Jarrones de piso"
+    hg-3-67-3:
+      name: "Floreros colgantes y de pared"
+    hg-3-68:
+      name: "Papel tapiz"
+    hg-3-69:
+      name: "Veletas y decoración para techos"
+    hg-3-71-1:
+      name: "Spinners de viento"
+    hg-3-73-1:
+      name: "Argollas para cortinas y visillos"
+    hg-3-74-3:
+      name: "Persianas y cortinas roller"
+    hg-3-74-3-2:
+      name: "Cortinas roller"
+    hg-3-78:
+      name: "Accesorios para almohadones decorativos"
+    hg-5:
+      name: "Accesorios para chimeneas y estufas a leña"
+    hg-5-10-2:
+      name: "Soportes para leña"
+    hg-5-11:
+      name: "Ventiladores para estufas a leña"
+    hg-5-12:
+      name: "Baldes y palas para cenizas"
+    hg-5-8:
+      name: "Bases de piso para hornos de leña y chimeneas"
+    hg-7-3:
+      name: "Gabinetes y cajas para matafuegos"
+    hg-7-3-1:
+      name: "Soportes y montajes para matafuegos"
+    hg-7-3-2:
+      name: "Gabinetes para matafuegos"
+    hg-7-3-3:
+      name: "Fundas y bolsas para matafuegos"
+    hg-7-3-4:
+      name: "Soportes para matafuegos"
+    hg-7-4:
+      name: "Matafuegos"
+    hg-7-7:
+      name: "Detectores de humo y monóxido de carbono"
+    hg-8-10-1:
+      name: "Fundas para estufas de exteriores"
+    hg-8-10-2:
+      name: "Mangueras para estufas de exteriores"
+    hg-8-10-3:
+      name: "Reflectores para estufas de exteriores"
+    hg-8-10-4:
+      name: "Reguladores para estufas de exteriores"
+    hg-8-10-5:
+      name: "Kits de ruedas para estufas de exteriores"
+    hg-8-11-25:
+      name: "Paños para el polvo"
+    hg-8-12-2:
+      name: "Tanques de agua caliente"
+    hg-8-2-4:
+      name: "Lamparitas de repuesto para purificadores de aire"
+    hg-8-3:
+      name: "Accesorios para deshumidificadores"
+    hg-8-3-1:
+      name: "Filtros para deshumidificadores"
+    hg-8-3-3:
+      name: "Repuestos para deshumidificadores"
+    hg-8-3-4:
+      name: "Mangueras para deshumidificadores"
+    hg-8-4-5:
+      name: "Cadenas e interruptores para ventiladores"
+    hg-8-5-1:
+      name: "Deslizadores para alfombras"
+    hg-8-5-4:
+      name: "Paños de limpieza de pisos"
+    hg-8-5-5:
+      name: "Herramientas para limpiar la pastina"
+    hg-8-9-2-3:
+      name: "Pulverizadores de agua"
+    hg-8-9-4:
+      name: "Accesorios para lavarropas y secarropas"
+    hg-8-9-4-4:
+      name: "Pedestales para lavarropas y secarropas"
+    hg-8-9-4-5:
+      name: "Kits de apilamiento de lavarropas y secarropas"
+    hg-9-1-6-2:
+      name: "Ventiladores de pie y de mesa"
+    hg-9-10-6:
+      name: "Aspiradoras tipo escoba"
+    hg-9-11:
+      name: "Vaporizadores para papel tapiz"
+    hg-9-2:
+      name: "Secadoras de pisos y alfombras"
+    hg-9-3:
+      name: "Limpiadores de vapor de alfombras y pisos"
+    hg-9-3-1-1:
+      name: "Limpiadores para alfombras tipo canister"
+    hg-9-3-3:
+      name: "Productos de limpieza para pisos"
+    hg-9-3-4-3:
+      name: "Fregadores de pastina y pisos de baldosas"
+    hg-9-3-4-7:
+      name: "Fregadoras de pisos manuales"
+    hg-9-3-4-8:
+      name: "Fregadoras de piso robóticas"
+    hg-9-3-6-2:
+      name: "Mopas de vapor cilíndricas"
+    hg-9-3-6-6:
+      name: "Mopas de vapor con aspiradora"
+    hg-9-4:
+      name: "Pulidoras de pisos"
+    hg-9-4-1:
+      name: "Abrillantadoras de piso"
+    hg-9-4-2:
+      name: "Pulidoras de pisos"
+    hg-9-4-3:
+      name: "Lustradoras de pisos"
+    hg-9-6:
+      name: "Teclados y controles remotos para puertas de garaje"
+    hg-9-6-2:
+      name: "Controles remotos para puertas de garaje"
+    hg-9-8-4:
+      name: "Lavasecarropas"
+    hg-9-8-4-1:
+      name: "Lavasecarropas todo en uno"
+    hg-9-8-4-2:
+      name: "Lavasecarropas portátiles"
+    hg-9-8-4-3:
+      name: "Lavasecarropas apilables"
+    hg-9-8-4-4:
+      name: "Combinaciones de lavarropas y secadora"
+    hg-9-8-6:
+      name: "Lavarropas"
+    hg-9-8-7:
+      name: "Gabinetes de secado"
+    lb:
+      name: "Valijas y bolsos de viaje"
+    lb-1-16:
+      name: "Mochilas para notebook"
+    lb-12:
+      name: "Valijas"
+    lb-12-2:
+      name: "Valijas de mano y de cabina"
+    lb-12-3:
+      name: "Valijas para despachar"
+    lb-12-5:
+      name: "Valijas para niños"
+    lb-12-9:
+      name: "Juegos de valijas de viaje"
+    lb-15:
+      name: "Bolsos para notebook"
+    lb-3-3:
+      name: "Cosmetiqueras"
+    lb-4:
+      name: "Bolsos maternales"
+    lb-6:
+      name: "Bolsos deportivos"
+    lb-6-1:
+      name: "Bolsos de lona para gimnasio"
+    lb-9-2:
+      name: "Fundas para valijas"
+    lb-9-3:
+      name: "Portaequipajes y bases para valijas"
+    ma-1-5:
+      name: "Videos eróticos"
+    ma-2-1-4:
+      name: "Fundas y valijas para armas"
+    me-2:
+      name: "Revistas y diarios"
+    me-2-2:
+      name: "Diarios"
+    me-2-2-1:
+      name: "Diarios internacionales"
+    me-2-2-2:
+      name: "Diarios locales"
+    me-2-2-3:
+      name: "Diarios nacionales"
+    me-4:
+      name: "Podcasts y transmisiones en vivo"
+    me-4-1:
+      name: "Transmisiones en vivo"
+    me-7:
+      name: "Videos"
+    os-10-8:
+      name: "Relojes control"
+    os-10-9:
+      name: "Transcriptores y sistemas de dictado"
+    os-11-10-1:
+      name: "Recargas para fibras y marcadores"
+    os-11-10-2:
+      name: "Repuestos y tintas"
+    os-11-10-3:
+      name: "Repuestos para portaminas"
+    os-11-11-1:
+      name: "Carbonillas"
+    os-11-11-1-1:
+      name: "Lápices de carbonilla"
+    os-11-11-1-2:
+      name: "Carbonillas comprimidas"
+    os-11-11-1-3:
+      name: "Carbonillas de Conté"
+    os-11-11-1-4:
+      name: "Carbonillas de grafito"
+    os-11-11-1-5:
+      name: "Carbonillas de Nitram"
+    os-11-11-1-6:
+      name: "Carbonillas pastel"
+    os-11-11-1-7:
+      name: "Carbonillas en polvo"
+    os-11-11-1-8:
+      name: "Carbonillas de vid"
+    os-11-11-1-9:
+      name: "Carbonillas de sauce"
+    os-11-11-4:
+      name: "Fibras y marcadores"
+    os-11-11-7:
+      name: "Biromes y lápices"
+    os-11-11-7-1:
+      name: "Juegos de birome y lápiz"
+    os-11-11-7-3:
+      name: "Biromes"
+    os-11-11-7-3-1:
+      name: "Biromes"
+    os-11-11-7-3-2:
+      name: "Fibras"
+    os-11-11-7-3-4:
+      name: "Biromes de gel"
+    os-11-11-7-3-5:
+      name: "Biromes de bola"
+    os-11-5-6:
+      name: "Estampillas"
+    os-11-7:
+      name: "Sacabroches"
+    os-11-8:
+      name: "Abrochadoras"
+    os-11-8-1:
+      name: "Abrochadoras de encuadernación"
+    os-11-8-2:
+      name: "Abrochadoras eléctricas"
+    os-11-8-3:
+      name: "Abrochadoras de tira completa"
+    os-11-8-4:
+      name: "Abrochadoras de media tira"
+    os-11-8-5:
+      name: "Engrampadoras de alta resistencia"
+    os-11-8-6:
+      name: "Abrochadoras de largo alcance"
+    os-11-8-7:
+      name: "Mini abrochadoras"
+    os-11-8-8:
+      name: "Abrochadoras de pinza"
+    os-11-8-9:
+      name: "Abrochadoras de caballete"
+    os-13-10:
+      name: "Presentadores inalámbricos"
+    os-13-2-1:
+      name: "Accesorios para carteleras"
+    os-13-2-1-1:
+      name: "Ribetes para carteleras"
+    os-13-2-1-2:
+      name: "Juegos de bordes para carteleras"
+    os-13-2-2:
+      name: "Carteleras"
+    os-13-3:
+      name: "Cámaras de documentos"
+    os-3-16:
+      name: "Cartucheras"
+    os-3-18:
+      name: "Archiveros de recetas"
+    os-3-2-1-1:
+      name: "Anillos de encuadernación"
+    os-3-2-2:
+      name: "Biblioratos"
+    os-3-2-3:
+      name: "Lomos y espirales de encuadernación"
+    os-3-2-4-1:
+      name: "Encuadernadoras eléctricas"
+    os-3-6:
+      name: "Archiveros para tarjetas"
+    os-4-1:
+      name: "Broches de latón"
+    os-4-11:
+      name: "Broches"
+    os-4-12:
+      name: "Chinches y tachuelas"
+    os-4-2-2:
+      name: "Biromes correctoras"
+    os-4-3-1:
+      name: "Gomas de borrar moldeables"
+    os-4-4-2:
+      name: "Pestañas para carpetas"
+    os-4-8:
+      name: "Clips y pinzas"
+    os-4-9-13:
+      name: "Papelería"
+    os-4-9-8:
+      name: "Fichas"
+    os-4-9-9-3:
+      name: "Diarios personales"
+    os-8:
+      name: "Alfombras para sillas y oficinas"
+    os-8-2:
+      name: "Alfombras para sillas"
+    os-8-3:
+      name: "Alfombras para oficinas"
+    os-9-3:
+      name: "Carritos archiveros"
+    rc-3-2:
+      name: "Canastas para flores"
+    rc-3-3:
+      name: "Almohadones para anillos"
+    se-1:
+      name: "Servicios automotrices"
+    se-2-4-3:
+      name: "Techos y canaletas"
+    se-3-1:
+      name: "Recursos humanos y liquidación de sueldos"
+    se-5-3:
+      name: "Plomería"
+    se-7-6:
+      name: "Servicios inmobiliarios"
+    se-7-9:
+      name: "Servicios impositivos"
+    sg-1-1-3:
+      name: "Soportes para pelotas de fútbol americano"
+    sg-1-1-4-2-8:
+      name: "Herrajes y piezas para mentoneras de fútbol americano"
+    sg-1-1-4-5:
+      name: "Remeras y chalecos de protección de costillas de fútbol americano"
+    sg-1-1-4-7:
+      name: "Fundas para botines de fútbol americano"
+    sg-1-1-5-2:
+      name: "Redes y blancos de pase para fútbol americano"
+    sg-1-1-6:
+      name: "Pelotas de fútbol americano"
+    sg-1-10-1-2:
+      name: "Guantes y puños de esgrima"
+    sg-1-10-1-3:
+      name: "Chaquetillas y camperas eléctricas para esgrima"
+    sg-1-10-1-3-2:
+      name: "Camperas de esgrima"
+    sg-1-10-3-1:
+      name: "Cables de cuerpo de esgrima"
+    sg-1-10-3-5:
+      name: "Entrenadores de estocada de esgrima"
+    sg-1-10-4-2:
+      name: "Hojas de florete para esgrima"
+    sg-1-11:
+      name: "Hockey sobre césped y lacrosse"
+    sg-1-11-1:
+      name: "Equipamiento de protección para hockey sobre césped y lacrosse"
+    sg-1-11-1-1:
+      name: "Guantes para hockey sobre césped y lacrosse"
+    sg-1-11-1-1-2:
+      name: "Guantes de arquero de hockey sobre césped"
+    sg-1-11-1-2:
+      name: "Cascos para hockey sobre césped y lacrosse"
+    sg-1-11-1-3:
+      name: "Máscaras y anteojos protectores para hockey sobre hierba y lacrosse"
+    sg-1-11-1-3-2:
+      name: "Anteojos para lacrosse y hockey sobre césped"
+    sg-1-11-1-4:
+      name: "Protectores para lacrosse y hockey sobre césped"
+    sg-1-11-1-4-3:
+      name: "Guardas de arquero y kickers"
+    sg-1-11-1-4-4:
+      name: "Canilleras para lacrosse y hockey sobre césped"
+    sg-1-11-1-8:
+      name: "Pantalones y shorts de arquero para lacrosse y hockey sobre césped"
+    sg-1-11-10-1:
+      name: "Palos de arquero de lacrosse"
+    sg-1-11-11-1:
+      name: "Entrenadores de rebote para lacrosse"
+    sg-1-11-11-3:
+      name: "Dianas de tiro para lacrosse"
+    sg-1-11-12:
+      name: "Calzado de lacrosse y hockey sobre césped"
+    sg-1-11-12-2:
+      name: "Botines para lacrosse"
+    sg-1-11-2:
+      name: "Pelotas de hockey sobre césped"
+    sg-1-11-3:
+      name: "Arcos de hockey sobre hierba"
+    sg-1-11-4:
+      name: "Palos de hockey sobre césped"
+    sg-1-11-4-1:
+      name: "Palos de hockey sobre césped para arquero"
+    sg-1-11-5:
+      name: "Ayudas para el entrenamiento de hockey sobre césped"
+    sg-1-11-5-1:
+      name: "Ayudas para el entrenamiento de arqueros de hockey sobre hierba"
+    sg-1-11-5-2:
+      name: "Potenciadores de agarre de hockey sobre césped"
+    sg-1-11-5-3:
+      name: "Tablas de rebote de hockey sobre césped"
+    sg-1-11-5-4:
+      name: "Dianas de tiro para hockey sobre césped"
+    sg-1-11-5-5:
+      name: "Mochilas de entrenamiento de hockey sobre césped"
+    sg-1-11-5-5-1:
+      name: "Bolsos para arquero de hockey sobre césped"
+    sg-1-11-8:
+      name: "Arcos de lacrosse"
+    sg-1-12-1-7:
+      name: "Colchonetas de entrenamiento para patinaje artístico y hockey"
+    sg-1-12-1-8:
+      name: "Entrenadores de salto de patinaje artístico"
+    sg-1-12-1-9:
+      name: "Entrenadores de giro de patinaje artístico"
+    sg-1-12-3:
+      name: "Arcos de hockey"
+    sg-1-12-3-1:
+      name: "Redes de arco de hockey"
+    sg-1-12-3-2:
+      name: "Mini arcos de hockey"
+    sg-1-12-3-3:
+      name: "Redes de contención para arcos de hockey"
+    sg-1-12-4-13:
+      name: "Correas y accesorios para canilleras"
+    sg-1-12-4-3:
+      name: "Conjuntos de equipamiento para arqueros de hockey"
+    sg-1-12-4-5-2:
+      name: "Pantalones de arquero de hockey"
+    sg-1-12-4-6:
+      name: "Canilleras y protectores de piernas para hockey"
+    sg-1-12-4-6-1:
+      name: "Forros y mangas para canilleras"
+    sg-1-12-4-6-3:
+      name: "Canilleras de jugador de hockey"
+    sg-1-12-4-6-4:
+      name: "Protectores de piernas para arquero de hockey"
+    sg-1-12-4-6-5:
+      name: "Protectores de rodilla para arquero de hockey"
+    sg-1-12-4-8:
+      name: "Cinturones y tiradores para hockey"
+    sg-1-12-6-6:
+      name: "Soportes para palos de hockey"
+    sg-1-12-9-2-3:
+      name: "Cuchillas para patines de arquero"
+    sg-1-13-13:
+      name: "Megáfonos deportivos"
+    sg-1-13-14:
+      name: "Protectores bucales para deporte"
+    sg-1-13-15:
+      name: "Asientos y almohadones para estadios"
+    sg-1-13-15-1:
+      name: "Almohadones para estadios"
+    sg-1-13-16:
+      name: "Pecheras de entrenamiento"
+    sg-1-13-23:
+      name: "Accesorios para coquillas para atletismo"
+    sg-1-13-4:
+      name: "Accesorios para infladores de pelotas"
+    sg-1-13-4-1:
+      name: "Agujas de infladores para pelotas"
+    sg-1-13-4-2:
+      name: "Adaptadores para infladores de pelotas"
+    sg-1-13-4-3:
+      name: "Medidores de presión para pelotas"
+    sg-1-13-4-4:
+      name: "Mangueras para infladores de pelotas"
+    sg-1-13-5:
+      name: "Infladores para pelotas"
+    sg-1-13-6-1:
+      name: "Jaulas de almacenamiento para colchonetas para gimnasia y ejercicio"
+    sg-1-13-7:
+      name: "Bolsas de tiza para agarre"
+    sg-1-13-8:
+      name: "Magnesio para escalar en polvo o spray"
+    sg-1-13-9-2:
+      name: "Baldosas de gimnasio encastrables"
+    sg-1-14-1:
+      name: "Barras y vigas de equilibrio para gimnasia"
+    sg-1-14-5-1:
+      name: "Almohadillas para vigas de gimnasia"
+    sg-1-14-5-2:
+      name: "Zapatillas de piso para gimnasia"
+    sg-1-14-5-4:
+      name: "Entrenadores de caballo con arcos para gimnasia"
+    sg-1-14-5-5:
+      name: "Bloques de asistencia para gimnasia"
+    sg-1-14-5-7:
+      name: "Entrenadores de salto para gimnasia"
+    sg-1-14-6:
+      name: "Caballos con arcos de gimnasia"
+    sg-1-15-3:
+      name: "Guantes para ráquetbol y squash"
+    sg-1-15-4-8:
+      name: "Anteojos de entrenamiento de ráquetbol y squash"
+    sg-1-15-9:
+      name: "Accesorios de limpieza para ráquetbol y squash"
+    sg-1-16-3-1:
+      name: "Tees de bateo de rounders"
+    sg-1-17-1:
+      name: "Pelotas de rugby"
+    sg-1-17-4-4:
+      name: "Shorts protectores y musleras de rugby"
+    sg-1-17-4-5:
+      name: "Protectores corporales y hombreras de rugby"
+    sg-1-17-5-1:
+      name: "Tees de pateo de rugby"
+    sg-1-17-5-2:
+      name: "Bolsas de tackle para rugby"
+    sg-1-18-1:
+      name: "Pelotas de fútbol"
+    sg-1-18-3:
+      name: "Guantes de arquero de fútbol"
+    sg-1-18-3-1:
+      name: "Guantes de arquero"
+    sg-1-18-4:
+      name: "Accesorios para arcos de fútbol"
+    sg-1-18-4-1:
+      name: "Anclajes de arco de fútbol"
+    sg-1-18-4-10:
+      name: "Iluminación para arcos de fútbol"
+    sg-1-18-4-11:
+      name: "Piezas de repuesto para arcos de fútbol"
+    sg-1-18-4-2:
+      name: "Contrapesos de arcos de fútbol"
+    sg-1-18-4-3:
+      name: "Maniquíes de arco de fútbol"
+    sg-1-18-4-4:
+      name: "Kits de montaje de arcos de fútbol"
+    sg-1-18-4-5:
+      name: "Redes de arco de fútbol"
+    sg-1-18-4-6:
+      name: "Objetivos de arco de fútbol"
+    sg-1-18-4-6-1:
+      name: "Lonas de puntería para arcos de fútbol"
+    sg-1-18-4-6-2:
+      name: "Objetivos de esquina para arcos de fútbol"
+    sg-1-18-4-7:
+      name: "Bolsos y fundas para arcos de fútbol"
+    sg-1-18-4-8:
+      name: "Kits de ruedas para arcos de fútbol"
+    sg-1-18-4-9:
+      name: "Protectores para postes de arcos de fútbol"
+    sg-1-18-5:
+      name: "Arcos de fútbol"
+    sg-1-18-6-1:
+      name: "Canilleras de fútbol"
+    sg-1-18-6-1-2:
+      name: "Canilleras"
+    sg-1-18-6-1-3:
+      name: "Correas para canilleras"
+    sg-1-18-6-2:
+      name: "Camisetas protectoras para arqueros de fútbol"
+    sg-1-18-6-5:
+      name: "Pantalones protectores para arqueros de fútbol"
+    sg-1-18-7-2:
+      name: "Lanzadores de pelotas de fútbol"
+    sg-1-18-7-7:
+      name: "Alfombras de entrenamiento de juego de pies para fútbol"
+    sg-1-19:
+      name: "Handball"
+    sg-1-19-1:
+      name: "Pelotas de handball"
+    sg-1-19-2:
+      name: "Ayudas para el entrenamiento de handball en equipo"
+    sg-1-19-2-1:
+      name: "Aros de agilidad para equipos de handball"
+    sg-1-19-2-10:
+      name: "Escaleras y vallas de agilidad para handball"
+    sg-1-19-2-2:
+      name: "Equipo de gimnasia de handball"
+    sg-1-19-2-3:
+      name: "Ayudas para el entrenamiento del arquero del equipo de handball"
+    sg-1-19-2-4:
+      name: "Objetivos de pase de handball del equipo"
+    sg-1-19-2-5:
+      name: "Tablas de rebote para equipos de handball"
+    sg-1-19-2-6:
+      name: "Dianas de tiro para equipos de handball"
+    sg-1-19-2-7:
+      name: "Bolsas de entrenamiento para equipos de handball"
+    sg-1-19-2-8:
+      name: "Conos de entrenamiento para handball"
+    sg-1-19-2-9:
+      name: "Resinas de agarre para handball"
+    sg-1-19-3:
+      name: "Equipo de protección para handball"
+    sg-1-2-1:
+      name: "Bases de béisbol y sóftbol"
+    sg-1-2-19:
+      name: "Accesorios para máquinas de lanzamiento"
+    sg-1-2-2:
+      name: "Guantes para batear de béisbol y sóftbol"
+    sg-1-2-3:
+      name: "Guantes de béisbol y sóftbol"
+    sg-1-2-5:
+      name: "Alfombras de lanzamiento para béisbol y sóftbol"
+    sg-1-2-8-1:
+      name: "Cascos de béisbol y sóftbol"
+    sg-1-2-8-10:
+      name: "Accesorios para canilleras"
+    sg-1-2-8-2-1:
+      name: "Protectores de pecho para receptores"
+    sg-1-2-8-3:
+      name: "Canilleras para béisbol y sóftbol"
+    sg-1-2-8-3-2:
+      name: "Protectores de piernas para receptores"
+    sg-1-2-8-5-1:
+      name: "Cascos para receptores"
+    sg-1-2-8-5-4:
+      name: "Máscaras faciales para receptores"
+    sg-1-2-9:
+      name: "Ayudas para el entrenamiento de béisbol y sóftbol"
+    sg-1-2-9-13:
+      name: "Piezas de repuesto de pantallas de lanzamiento para béisbol y sóftbol"
+    sg-1-2-9-2:
+      name: "Tees de bateo de béisbol y sóftbol"
+    sg-1-20-2:
+      name: "Lanzadores de pelotas de tenis"
+    sg-1-20-3:
+      name: "Conservadores de pelotas de tenis"
+    sg-1-20-8-2:
+      name: "Entrenadores de juego de pies para tenis"
+    sg-1-20-8-3:
+      name: "Entrenadores de agarre para tenis"
+    sg-1-20-8-5:
+      name: "Entrenadores de objetivos para tenis"
+    sg-1-21-10-3:
+      name: "Balas de atletismo"
+    sg-1-21-12:
+      name: "Zapatillas de atletismo con clavos"
+    sg-1-21-14:
+      name: "Garrochas"
+    sg-1-21-5:
+      name: "Colchonetas de salto con garrocha"
+    sg-1-21-6:
+      name: "Testimonios"
+    sg-1-21-7:
+      name: "Balas para lanzamiento de bala"
+    sg-1-22:
+      name: "Voleibol"
+    sg-1-22-2-6:
+      name: "Shorts protectores de voleibol"
+    sg-1-22-7:
+      name: "Accesorios para redes de voleibol"
+    sg-1-23-1:
+      name: "Pelotas de wallyball"
+    sg-1-24-1:
+      name: "Pelotas de waterpolo"
+    sg-1-24-3:
+      name: "Arcos de waterpolo"
+    sg-1-24-4-1:
+      name: "Ayudas para el entrenamiento de arqueros"
+    sg-1-24-4-2:
+      name: "Equipo de fitness para waterpolo"
+    sg-1-24-5:
+      name: "Accesorios para arcos de waterpolo"
+    sg-1-24-6:
+      name: "Mallas para waterpolo"
+    sg-1-25-1-5:
+      name: "Canilleras de lucha libre"
+    sg-1-25-2-11:
+      name: "Calzas de lucha libre"
+    sg-1-25-2-2:
+      name: "Entrenadores de agarre para lucha libre"
+    sg-1-25-2-6:
+      name: "Mallas enterizas de lucha libre"
+    sg-1-26:
+      name: "Curling"
+    sg-1-27-2-1:
+      name: "Pelotas de fútbol gaélico"
+    sg-1-3:
+      name: "Básquet"
+    sg-1-3-1:
+      name: "Piezas y accesorios para canastas de básquet"
+    sg-1-3-1-1:
+      name: "Tableros de básquet"
+    sg-1-3-1-2:
+      name: "Protectores para canastas de básquet"
+    sg-1-3-1-3:
+      name: "Postes para canastas de básquet"
+    sg-1-3-1-4:
+      name: "Redes de básquet"
+    sg-1-3-1-5:
+      name: "Aros de básquet"
+    sg-1-3-1-7:
+      name: "Sistemas de retorno de pelotas de básquetbol"
+    sg-1-3-2:
+      name: "Canastas de básquet"
+    sg-1-3-3:
+      name: "Accesorios para entrenamiento de básquet"
+    sg-1-3-3-1:
+      name: "Muñecos defensivos de básquet"
+    sg-1-3-3-2:
+      name: "Anteojos de regate de básquet"
+    sg-1-3-3-3:
+      name: "Zapatillas de salto de básquet"
+    sg-1-3-3-4:
+      name: "Ayudas para tiro de básquet"
+    sg-1-3-3-4-4:
+      name: "Blancos y reductores de aro para básquetbol"
+    sg-1-3-3-5:
+      name: "Marcadores de piso y alfombras de entrenamiento para básquetbol"
+    sg-1-3-3-7:
+      name: "Blancos de pase para básquetbol"
+    sg-1-3-4:
+      name: "Pelotas de básquet"
+    sg-1-3-5:
+      name: "Calzado de básquet"
+    sg-1-4-1-4-1:
+      name: "Guantes para saco de boxeo"
+    sg-1-4-1-4-4:
+      name: "Guantes de sparring"
+    sg-1-4-1-6:
+      name: "Canilleras para artes marciales mixtas"
+    sg-1-4-2-1:
+      name: "Manoplas de foco para boxeo y artes marciales mixtas"
+    sg-1-4-2-5:
+      name: "Escudos de golpeo"
+    sg-1-4-3-9:
+      name: "Almohadones y protectores de esquina para ring de boxeo"
+    sg-1-5-1:
+      name: "Pelotas para Broomball"
+    sg-1-5-3:
+      name: "Arcos para Broomball"
+    sg-1-6-3:
+      name: "Megáfonos de animadoras"
+    sg-1-6-4:
+      name: "Zapatillas de animadoras"
+    sg-1-6-5:
+      name: "Uniformes de animadoras"
+    sg-1-6-6:
+      name: "Lazos para el cabello de animadoras"
+    sg-1-6-7:
+      name: "Artículos de entrenamiento para animadoras"
+    sg-1-7-2:
+      name: "Marcadores de límites para canchas y campos"
+    sg-1-7-5:
+      name: "Tarjetas y banderas de penalización"
+    sg-1-7-6:
+      name: "Contadores de lanzamientos"
+    sg-1-7-8:
+      name: "Billeteras para árbitros"
+    sg-1-7-9:
+      name: "Marcadores"
+    sg-1-8:
+      name: "Críquet"
+    sg-1-8-1:
+      name: "Pelotas de críquet"
+    sg-1-8-2-8:
+      name: "Calcomanías y stickers para bates de críquet"
+    sg-1-8-3:
+      name: "Bates de críquet"
+    sg-1-8-5-2:
+      name: "Cascos de críquet"
+    sg-1-8-7-1:
+      name: "Tees de bateo de críquet"
+    sg-1-8-7-5:
+      name: "Ayudas para fildeo de críquet"
+    sg-1-8-7-7:
+      name: "Alfombras para canchas de críquet"
+    sg-1-8-7-9:
+      name: "Blancos de stumps para críquet"
+    sg-1-8-8:
+      name: "Calzado de críquet"
+    sg-2-15:
+      name: "Pelotas medicinales"
+    sg-2-15-1:
+      name: "Pelotas de doble agarre"
+    sg-2-15-2:
+      name: "Pelotas de Slam"
+    sg-2-15-3:
+      name: "Pelotas blandas"
+    sg-2-15-4:
+      name: "Pelotas tonificantes"
+    sg-2-15-5:
+      name: "Pelotas tornado"
+    sg-2-15-6:
+      name: "Pelotas de pared"
+    sg-2-18:
+      name: "Pelotas de reacción"
+    sg-2-20-2-3:
+      name: "Calcomanías y stickers reflectantes"
+    sg-2-23-1:
+      name: "Máquinas de ejercicio con vibración lineal"
+    sg-2-24-1-1:
+      name: "Barras olímpicas y de levantamiento de pesas"
+    sg-2-24-1-3:
+      name: "Collarines para barras de pesas"
+    sg-2-24-5-6:
+      name: "Almohadillas y almohadones"
+    sg-2-24-6-1:
+      name: "Jaulas de potencia"
+    sg-2-24-6-3-3:
+      name: "Gimnasios hogareños multiestación"
+    sg-2-24-9:
+      name: "Mallas enterizas de levantamiento de pesas"
+    sg-2-26-1-2:
+      name: "Reformers de pilates"
+    sg-2-26-3:
+      name: "Mats para yoga y pilates"
+    sg-2-26-5:
+      name: "Bolsas para mats de yoga"
+    sg-2-26-5-1:
+      name: "Bolsos para mats de yoga"
+    sg-2-26-5-2:
+      name: "Cintas para mats de yoga"
+    sg-2-26-9:
+      name: "Bolsters y almohadones de yoga y pilates"
+    sg-2-27:
+      name: "Bañaderas de inmersión en frío y baños de hielo"
+    sg-2-29:
+      name: "Shakers"
+    sg-2-3-2:
+      name: "Discos de equilibrio"
+    sg-2-4-1-1-2:
+      name: "Soportes de tablet para bicicletas elípticas"
+    sg-2-4-1-2-2:
+      name: "Computadoras para bicicletas estáticas"
+    sg-2-4-1-2-4:
+      name: "Almohadones para bicicletas estáticas"
+    sg-2-4-1-3-2:
+      name: "Soportes de tablet para máquinas de remo"
+    sg-2-4-1-3-3:
+      name: "Almohadones para máquinas de remo"
+    sg-2-4-1-4-2:
+      name: "Soportes de tablet para stepper y máquina de subir escalones"
+    sg-2-4-1-5-1:
+      name: "Bandas para cintas de correr"
+    sg-2-4-1-5-11-1:
+      name: "Rodillos para cintas de correr"
+    sg-2-4-1-5-11-2:
+      name: "Motores de inclinación para cintas de correr"
+    sg-2-4-1-5-15:
+      name: "Tablas para cintas de correr"
+    sg-2-4-1-5-16:
+      name: "Controles remotos para cintas de correr"
+    sg-2-4-1-5-17:
+      name: "Lubricantes para cintas de correr"
+    sg-2-4-1-5-18:
+      name: "Fundas para cintas de correr"
+    sg-2-4-1-5-5:
+      name: "Llaves de seguridad para cintas de correr"
+    sg-2-4-1-5-6:
+      name: "Soportes para notebook para cinta de correr"
+    sg-2-4-2-2-3:
+      name: "Bicicletas de spinning"
+    sg-2-4-2-4:
+      name: "Escaladoras y steppers"
+    sg-2-4-2-5:
+      name: "Cintas de correr"
+    sg-2-4-2-5-1:
+      name: "Cintas de correr manuales"
+    sg-2-4-2-5-2:
+      name: "Cintas de correr comerciales"
+    sg-2-4-2-5-3:
+      name: "Cintas de correr para debajo del escritorio"
+    sg-2-4-2-8:
+      name: "Entrenadores de soga"
+    sg-2-4-3:
+      name: "Sogas para saltar"
+    sg-2-4-4:
+      name: "Camas elásticas y rebotadores de fitness"
+    sg-2-5:
+      name: "Pelotas de gimnasia"
+    sg-2-8:
+      name: "Colchonetas para equipos de ejercicio"
+    sg-2-8-1:
+      name: "Alfombras para bicicleta elíptica"
+    sg-2-8-2:
+      name: "Alfombras para bicicletas estáticas"
+    sg-2-8-3:
+      name: "Colchonetas de protección del piso"
+    sg-3-1:
+      name: "Air hockey"
+    sg-3-1-1:
+      name: "Equipamiento para air hockey"
+    sg-3-1-1-1:
+      name: "Discos de air hockey"
+    sg-3-1-1-2:
+      name: "Paletas de air hockey"
+    sg-3-1-2:
+      name: "Piezas para mesas de air hockey"
+    sg-3-1-2-1:
+      name: "Tableros de mesa de air hockey"
+    sg-3-1-2-2:
+      name: "Pernos de mesa de air hockey"
+    sg-3-1-2-3:
+      name: "Cables de mesa de air hockey"
+    sg-3-1-2-4:
+      name: "Abrazaderas de mesa de air hockey"
+    sg-3-1-2-5:
+      name: "Pies de mesa de air hockey"
+    sg-3-1-3:
+      name: "Mesas de air hockey"
+    sg-3-2-3-1:
+      name: "Fundas para tacos de billar"
+    sg-3-2-3-2:
+      name: "Tiza para tacos de billar"
+    sg-3-2-3-4:
+      name: "Suelas para tacos de billar"
+    sg-3-2-3-5:
+      name: "Herramientas para suelas de tacos de billar"
+    sg-3-2-4:
+      name: "Tacos y puentes de billar"
+    sg-3-2-7-3:
+      name: "Paños para mesas de billar"
+    sg-3-3:
+      name: "Bowling"
+    sg-3-3-1-1:
+      name: "Bolsos tote para bolas de bowling"
+    sg-3-3-1-2:
+      name: "Mochilas para bolas de bowling"
+    sg-3-3-1-3:
+      name: "Bolsos con ruedas para bolas de bowling"
+    sg-3-3-1-4:
+      name: "Bolsos adicionales para bolas de bowling"
+    sg-3-3-10:
+      name: "Zapatos de bowling"
+    sg-3-3-11:
+      name: "Toallas y paños para bowling"
+    sg-3-3-12:
+      name: "Soportes y estantes para bolas de bowling"
+    sg-3-3-4:
+      name: "Pinos de bowling"
+    sg-3-3-5:
+      name: "Juegos de bowling"
+    sg-3-3-7:
+      name: "Productos de mantenimiento para bolas de bowling"
+    sg-3-3-8:
+      name: "Accesorios para zapatos de bowling"
+    sg-3-3-9:
+      name: "Equipos de asistencia y entrenamiento para bowling"
+    sg-3-4:
+      name: "Metegol"
+    sg-3-4-1:
+      name: "Bolitas de metegol"
+    sg-3-4-2:
+      name: "Piezas y accesorios para mesas de metegol"
+    sg-3-4-2-1:
+      name: "Asas para metegol"
+    sg-3-4-2-2:
+      name: "Jugadores de metegol"
+    sg-3-4-2-3:
+      name: "Varillas para mesa de metegol"
+    sg-3-4-2-4:
+      name: "Fundas para mesas de metegol"
+    sg-3-4-2-5:
+      name: "Cojinetes y bujes para mesas de metegol"
+    sg-3-4-2-6:
+      name: "Amortiguadores para mesas de metegol"
+    sg-3-4-3:
+      name: "Mesas de metegol"
+    sg-3-4-3-1:
+      name: "Mesas de metegol para exteriores"
+    sg-3-4-3-2:
+      name: "Mesas de metegol de sobremesa"
+    sg-3-5:
+      name: "Mesas multijuego"
+    sg-3-5-2:
+      name: "Mesas multijuego giratorias"
+    sg-3-6-3-1:
+      name: "Fundas para paletas de ping pong"
+    sg-3-6-4:
+      name: "Paletas y juegos de ping pong"
+    sg-3-7-1:
+      name: "Mesas de tejo"
+    sg-3-7-4:
+      name: "Fundas para mesas de tejo"
+    sg-3-8-1:
+      name: "Protectores de pared para dianas"
+    sg-3-8-2-4:
+      name: "O-rings para dardos"
+    sg-3-8-7:
+      name: "Gabinetes para dianas de dardos"
+    sg-4-1-1-3-7:
+      name: "Canoas de competencia"
+    sg-4-1-1-4-12:
+      name: "Asientos y almohadones para kayak"
+    sg-4-1-1-5-1:
+      name: "Kayaks para creeking"
+    sg-4-1-1-5-10:
+      name: "Kayaks de competencia"
+    sg-4-1-1-5-5:
+      name: "Playboats"
+    sg-4-1-2:
+      name: "Indumentaria para deportes acuáticos y navegación deportiva"
+    sg-4-1-2-1:
+      name: "Trajes secos"
+    sg-4-1-2-10:
+      name: "Camperas impermeables cortavientos"
+    sg-4-1-2-2-1:
+      name: "Luces para chalecos salvavidas"
+    sg-4-1-2-4:
+      name: "Remeras de protección y natación"
+    sg-4-1-2-7-2:
+      name: "Trajes de neopreno cortos"
+    sg-4-1-3:
+      name: "Buceo y snorkel"
+    sg-4-1-3-3:
+      name: "Conjuntos de equipamiento para buceo y snorkel"
+    sg-4-1-3-5:
+      name: "Máscaras de buceo"
+    sg-4-1-3-7:
+      name: "Cuchillos y tijeras de buceo"
+    sg-4-1-3-9:
+      name: "Snorkels"
+    sg-4-1-3-9-1:
+      name: "Snorkels secos"
+    sg-4-1-3-9-2:
+      name: "Snorkels semisecos"
+    sg-4-1-3-9-3:
+      name: "Snorkels tradicionales"
+    sg-4-1-3-9-4:
+      name: "Snorkels de montaje frontal"
+    sg-4-1-4-2-3:
+      name: "Manijas para tabla de kitesurf"
+    sg-4-1-4-5:
+      name: "Kites de kitesurf"
+    sg-4-1-5-8-4:
+      name: "Waveskis"
+    sg-4-1-6-16:
+      name: "Snorkels para natación"
+    sg-4-1-6-2:
+      name: "Paletas de natación"
+    sg-4-1-6-8:
+      name: "Accesorios para anteojos y máscaras de natación"
+    sg-4-1-6-8-1:
+      name: "Lentes para antiparras"
+    sg-4-1-6-8-2:
+      name: "Fundas para anteojos y máscaras de natación"
+    sg-4-1-6-8-3:
+      name: "Tratamientos antiempañantes"
+    sg-4-1-6-8-4:
+      name: "Correas para anteojos de natación"
+    sg-4-1-6-9:
+      name: "Anteojos y máscaras de natación"
+    sg-4-1-6-9-1:
+      name: "Anteojos de natación"
+    sg-4-1-7-1-5:
+      name: "Cuerdas y manubrios para kneeboard"
+    sg-4-1-7-2:
+      name: "Lanchas inflables y botes remolcables"
+    sg-4-1-7-3:
+      name: "Guantes para deportes acuáticos remolcados"
+    sg-4-1-7-4:
+      name: "Wakeboarding"
+    sg-4-1-7-4-3:
+      name: "Tablas de wakeboard"
+    sg-4-1-7-5-4-2:
+      name: "Esquís acuáticos de slalom"
+    sg-4-1-7-6-1:
+      name: "Cuerdas y manubrios para esquí acuático"
+    sg-4-1-7-6-2:
+      name: "Cuerdas y manubrios para wakeboard y wakesurf"
+    sg-4-1-8-2:
+      name: "Estantes para almacenar tablas para deportes acuáticos"
+    sg-4-10-5:
+      name: "Mochilas de hidratación"
+    sg-4-10-8:
+      name: "Sorbetes para sistemas de hidratación"
+    sg-4-12-1-3:
+      name: "Shorts protectores"
+    sg-4-12-2-1:
+      name: "Rulemanes para patines en línea"
+    sg-4-12-2-5:
+      name: "Botas interiores para patines en línea"
+    sg-4-12-3-2:
+      name: "Patines en línea de competencia"
+    sg-4-12-5-2:
+      name: "Patines de cuatro ruedas de competencia"
+    sg-4-12-5-3:
+      name: "Patines de cuatro ruedas de recreación"
+    sg-4-12-6-2:
+      name: "Esquís sobre ruedas para competencia"
+    sg-4-13-3:
+      name: "Kites para kite buggy"
+    sg-4-14-1-3:
+      name: "Volantes"
+    sg-4-14-4:
+      name: "Juegos de césped"
+    sg-4-14-4-1:
+      name: "Juegos de bochas"
+    sg-4-14-4-5:
+      name: "Sets de bolos sobre césped"
+    sg-4-14-5:
+      name: "Juegos de paletas con pelota"
+    sg-4-15:
+      name: "Monopatines"
+    sg-4-15-1:
+      name: "Monopatines eléctricos"
+    sg-4-15-1-1:
+      name: "Monopatines eléctricos de uso cotidiano"
+    sg-4-15-1-2:
+      name: "Monopatines eléctricos todoterreno"
+    sg-4-15-1-3:
+      name: "Monopatines eléctricos de alto rendimiento"
+    sg-4-15-1-4:
+      name: "Monopatines eléctricos para jóvenes"
+    sg-4-15-2:
+      name: "Monopatines"
+    sg-4-15-3:
+      name: "Piezas para monopatines eléctricos"
+    sg-4-15-3-2-3:
+      name: "Cubiertas para scooters eléctricos"
+    sg-4-15-3-4:
+      name: "Manubrios y comandos"
+    sg-4-15-3-4-2:
+      name: "Empuñaduras de manubrio para monopatines eléctricos"
+    sg-4-15-3-4-3:
+      name: "Manubrios para monopatines eléctricos"
+    sg-4-15-4:
+      name: "Piezas para monopatines"
+    sg-4-16-1:
+      name: "Patinetas completas"
+    sg-4-16-2:
+      name: "Barandas para skateboard"
+    sg-4-16-4:
+      name: "Piezas de la patineta"
+    sg-4-16-4-1:
+      name: "Tablas de patineta"
+    sg-4-16-4-2:
+      name: "Piezas pequeñas para patinetas"
+    sg-4-16-4-2-1:
+      name: "Separadores de rodamientos para patinetas"
+    sg-4-16-4-2-2:
+      name: "Topes para plataformas de patineta"
+    sg-4-16-4-2-3:
+      name: "Cinta de agarre para patineta"
+    sg-4-16-4-2-4:
+      name: "Tuercas de patineta"
+    sg-4-16-4-2-5:
+      name: "Copas de pivote para patineta"
+    sg-4-16-4-2-6:
+      name: "Tubos de pivote para patineta"
+    sg-4-16-4-2-7:
+      name: "Almohadillas elevadoras para ejes de patineta"
+    sg-4-16-4-3:
+      name: "Ejes de la patineta"
+    sg-4-16-4-4:
+      name: "Ruedas de la patineta"
+    sg-4-16-5-5:
+      name: "Shorts protectores para patinetas"
+    sg-4-17-1-1:
+      name: "Sondas para avalanchas"
+    sg-4-17-2-13-3:
+      name: "Esquíes de montaña y travesía"
+    sg-4-17-2-2:
+      name: "Accesorios para antiparras de esquí y snowboard"
+    sg-4-17-2-2-1:
+      name: "Lentes para antiparras de esquí y snowboard"
+    sg-4-17-2-2-2:
+      name: "Fundas para antiparras de esquí y snowboard"
+    sg-4-17-2-2-3:
+      name: "Estuches para antiparras de esquí y snowboard"
+    sg-4-17-2-2-4:
+      name: "Insertos graduados para antiparras de esquí y snowboard"
+    sg-4-17-2-2-5:
+      name: "Correas para antiparras de esquí y snowboard"
+    sg-4-17-2-2-6:
+      name: "Protectores nasales para antiparras de esquí y snowboard"
+    sg-4-17-2-2-7:
+      name: "Soluciones de limpieza y antivaho para antiparras de esquí y snowboard"
+    sg-4-17-2-3:
+      name: "Antiparras de esquí y snowboard"
+    sg-4-2-1-1:
+      name: "Accesorios para colchones inflables y colchonetas"
+    sg-4-2-1-1-1:
+      name: "Bombas para colchones inflables y colchonetas"
+    sg-4-2-1-1-2:
+      name: "Kits de reparación de colchones inflables y colchonetas"
+    sg-4-2-1-6:
+      name: "Banquetas de camping"
+    sg-4-2-1-8:
+      name: "Almohadones y almohadillas de asiento para camping"
+    sg-4-2-11:
+      name: "Duchas e inodoros portátiles"
+    sg-4-2-11-2:
+      name: "Mingitorios e inodoros portátiles"
+    sg-4-2-11-2-2-4:
+      name: "Bolsas urinarias descartables"
+    sg-4-2-11-3:
+      name: "Canillas de agua portátiles"
+    sg-4-2-11-5:
+      name: "Lavatorios y estaciones de lavado portátiles"
+    sg-4-2-12-5:
+      name: "Filtros de agua de sorbete"
+    sg-4-2-16:
+      name: "Accesorios para carpas"
+    sg-4-2-16-1:
+      name: "Carpas interiores"
+    sg-4-2-16-10:
+      name: "Anclajes y herrajes de montaje para carpas"
+    sg-4-2-16-11:
+      name: "Alfombras y felpudos para carpas"
+    sg-4-2-16-12:
+      name: "Piezas y accesorios para varillas de carpas"
+    sg-4-2-16-13:
+      name: "Kits de reparación para varillas de carpas"
+    sg-4-2-16-2:
+      name: "Protectores de piso para carpas"
+    sg-4-2-16-3:
+      name: "Mástiles y estacas para carpas"
+    sg-4-2-16-3-1:
+      name: "Postes de carpas"
+    sg-4-2-16-3-2:
+      name: "Estacas para carpas"
+    sg-4-2-16-4:
+      name: "Vestíbulos para carpas"
+    sg-4-2-16-6:
+      name: "Toldos y anexos para carpas"
+    sg-4-2-16-7:
+      name: "Organizadores y altillos para carpas"
+    sg-4-2-16-9:
+      name: "Suministros de reparación y mantenimiento para carpas"
+    sg-4-2-17:
+      name: "Carpas"
+    sg-4-2-17-10:
+      name: "Carpas vis a vis"
+    sg-4-2-17-11:
+      name: "Carpas tipo tipi"
+    sg-4-2-17-12:
+      name: "Gazebos con mosquitero y refugios"
+    sg-4-2-17-13:
+      name: "Carpas de techo"
+    sg-4-2-17-15:
+      name: "Carpas tipo campana"
+    sg-4-2-17-3:
+      name: "Carpas para grupos"
+    sg-4-2-17-4:
+      name: "Carpas iglú"
+    sg-4-2-17-5:
+      name: "Carpas desplegables"
+    sg-4-2-17-6:
+      name: "Carpas pirámide"
+    sg-4-2-17-7:
+      name: "Carpas Ridge"
+    sg-4-2-17-8:
+      name: "Carpas de vela"
+    sg-4-2-17-9:
+      name: "Carpas túnel"
+    sg-4-2-19:
+      name: "Accesorios para hamacas paraguayas de camping"
+    sg-4-2-2-6:
+      name: "Pavas de camping"
+    sg-4-2-20:
+      name: "Hamacas paraguayas de camping"
+    sg-4-2-22:
+      name: "Anafes de camping"
+    sg-4-2-4-3:
+      name: "Biromes para camping"
+    sg-4-2-4-5:
+      name: "Escarbadientes para camping"
+    sg-4-2-9:
+      name: "Mosquiteros"
+    sg-4-2-9-1:
+      name: "Mosquiteros tipo caja"
+    sg-4-2-9-2:
+      name: "Mosquiteros piramidales"
+    sg-4-2-9-3:
+      name: "Mosquiteros para hamacas paraguayas"
+    sg-4-3-1-1:
+      name: "Dispositivos de figura 8"
+    sg-4-3-11:
+      name: "Bolsas para cuerda de escalada"
+    sg-4-3-13-1:
+      name: "Piolets para escalada en hielo"
+    sg-4-3-13-3:
+      name: "Tornillos para escalada en hielo"
+    sg-4-3-16:
+      name: "Cintas express"
+    sg-4-3-3-10:
+      name: "Camperas de escalada"
+    sg-4-3-3-9:
+      name: "Anteojos de aseguramiento"
+    sg-4-3-4:
+      name: "Ascendedores y descensores para escalada"
+    sg-4-4-1-1:
+      name: "Bolsas y alforjas para bicicletas"
+    sg-4-4-1-1-1-3:
+      name: "Bolsas de manubrio para bicicleta"
+    sg-4-4-1-1-2:
+      name: "Alforjas para bicicletas"
+    sg-4-4-1-11-1:
+      name: "Portaequipajes de tija de asiento para bicicleta"
+    sg-4-4-1-12:
+      name: "Accesorios decorativos y puños de manubrio para bicicletas"
+    sg-4-4-1-12-1:
+      name: "Cintas de manubrio para bicicleta"
+    sg-4-4-1-12-2:
+      name: "Flecos de manubrio para bicicleta"
+    sg-4-4-1-12-3:
+      name: "Puños de manubrio para bicicleta"
+    sg-4-4-1-12-4:
+      name: "Tapones y tapas de extremo de manubrio para bicicleta"
+    sg-4-4-1-13-10:
+      name: "Precintos plásticos para bicicletas"
+    sg-4-4-1-13-5:
+      name: "Anclajes de piso para bicicletas"
+    sg-4-4-1-15-6:
+      name: "Bombas de piso para bicicleta"
+    sg-4-4-1-16:
+      name: "Almohadillas y fundas para asientos de bicicleta"
+    sg-4-4-1-17:
+      name: "Bombas para horquillas de bicicleta"
+    sg-4-4-1-19-3:
+      name: "Soportes de piso para bicicleta"
+    sg-4-4-1-2:
+      name: "Canastas para bicicletas"
+    sg-4-4-1-22-1-1:
+      name: "Pinzas para eslabones rápidos de bicicleta"
+    sg-4-4-1-23:
+      name: "Acoplados para bicicletas"
+    sg-4-4-1-23-1:
+      name: "Acoplados de bicicleta para mascotas"
+    sg-4-4-1-23-3:
+      name: "Acoplados de bicicleta para niños"
+    sg-4-4-1-23-4:
+      name: "Acoplados de carga para bicicleta"
+    sg-4-4-1-24:
+      name: "Rodillos de entrenamiento para bicicletas"
+    sg-4-4-1-24-1:
+      name: "Rodillos de fluido para bicicleta"
+    sg-4-4-1-24-2:
+      name: "Rodillos magnéticos para bicicleta"
+    sg-4-4-1-24-4:
+      name: "Rodillos de viento para bicicleta"
+    sg-4-4-1-26:
+      name: "Valijas y bolsas de transporte para bicicletas"
+    sg-4-4-1-27:
+      name: "Soportes para tablas de deportes acuáticos para bicicletas"
+    sg-4-4-1-31:
+      name: "Soportes de celular para bicicleta"
+    sg-4-4-1-37:
+      name: "Piezas y accesorios para acoplados de bicicletas"
+    sg-4-4-1-5-2:
+      name: "Manubrios y pasamanos para asientos infantiles de bicicleta"
+    sg-4-4-1-5-3:
+      name: "Apoyapiés y estribos para asientos infantiles de bicicleta"
+    sg-4-4-1-5-4:
+      name: "Almohadones y almohadillas para asientos infantiles de bicicleta"
+    sg-4-4-2-13:
+      name: "Asientos para bicicletas"
+    sg-4-4-2-14:
+      name: "Abrazaderas de tija de asiento para bicicletas"
+    sg-4-4-2-15:
+      name: "Tijas de asiento para bicicletas"
+    sg-4-4-2-16-3:
+      name: "Niples para rayos de bicicleta"
+    sg-4-4-2-17:
+      name: "Potencias para bicicletas"
+    sg-4-4-2-23-1:
+      name: "Apoyapiés para bicicletas"
+    sg-4-4-2-23-2:
+      name: "Repuestos para bujes de bicicleta"
+    sg-4-4-2-23-2-3:
+      name: "Cierres rápidos"
+    sg-4-4-2-23-3:
+      name: "Bujes para bicicletas"
+    sg-4-4-2-23-5:
+      name: "Rayos para bicicletas"
+    sg-4-4-2-23-6:
+      name: "Ejes y cierres rápidos para bicicletas"
+    sg-4-4-2-23-7:
+      name: "Niples para ruedas de bicicleta"
+    sg-4-4-2-4:
+      name: "Piezas de transmisión para bicicletas"
+    sg-4-4-2-4-1:
+      name: "Cajas de pedalier para bicicletas"
+    sg-4-4-2-4-6:
+      name: "Desviadores para bicicletas"
+    sg-4-4-2-4-8-2:
+      name: "Palancas de cambio de extremo de manubrio"
+    sg-4-4-2-4-8-4:
+      name: "Palancas integradas de freno y cambio"
+    sg-4-4-2-8:
+      name: "Extensiones para manubrios de bicicleta"
+    sg-4-4-2-9:
+      name: "Manubrios para bicicletas"
+    sg-4-4-3-11:
+      name: "Bicicletas de ruta"
+    sg-4-4-3-6:
+      name: "Fat bikes"
+    sg-4-4-4:
+      name: "Indumentaria y accesorios de ciclismo"
+    sg-4-4-4-1:
+      name: "Accesorios para calas de bicicleta"
+    sg-4-4-4-1-1:
+      name: "Tornillos para calas de bicicleta"
+    sg-4-4-4-1-2:
+      name: "Cubrecalas para bicicleta"
+    sg-4-4-4-1-3:
+      name: "Cuñas y separadores para calas de bicicleta"
+    sg-4-4-4-12:
+      name: "Medias de ciclismo"
+    sg-4-4-4-13:
+      name: "Camperas y chalecos de ciclismo"
+    sg-4-4-4-14:
+      name: "Calzas y culotes largos de ciclismo"
+    sg-4-4-4-15:
+      name: "Anteojos de ciclismo"
+    sg-4-4-4-16:
+      name: "Shorts y culotes cortos de ciclismo"
+    sg-4-4-4-6-3:
+      name: "Canilleras para bicicleta"
+    sg-4-4-4-7:
+      name: "Cubrezapatillas de ciclismo"
+    sg-4-4-4-9:
+      name: "Camisetas de ciclismo"
+    sg-4-4-5-1:
+      name: "Canastos para triciclos"
+    sg-4-5-1-3:
+      name: "Alimento balanceado para caballos"
+    sg-4-5-1-5-2-3:
+      name: "Removedores de pelo muerto para caballos"
+    sg-4-5-1-5-2-5:
+      name: "Utensilios de aseo para caballos"
+    sg-4-5-1-5-3:
+      name: "Shampoos y acondicionadores para caballos"
+    sg-4-5-2-1-3:
+      name: "Bocados de filete para caballos"
+    sg-4-5-3:
+      name: "Accesorios para arreos de caballos"
+    sg-4-5-3-1:
+      name: "Cajas para arreos de caballos"
+    sg-4-5-3-2-2:
+      name: "Cubiertas y fundas para monturas"
+    sg-4-5-3-2-6:
+      name: "Correas de silla y látigos"
+    sg-4-5-4:
+      name: "Accesorios para volteo ecuestre"
+    sg-4-5-4-1:
+      name: "Cubiertas de volteo"
+    sg-4-5-4-2:
+      name: "Riendas de volteo"
+    sg-4-5-4-3:
+      name: "Soportes de volteo"
+    sg-4-5-5-3-2:
+      name: "Látigos para lonjear"
+    sg-4-5-5-4-1:
+      name: "Calzas de equitación"
+    sg-4-6-10-2:
+      name: "Soportes y estantes para cañas de pescar"
+    sg-4-6-11-1:
+      name: "Cañas de pescar baitcasting"
+    sg-4-6-11-8:
+      name: "Cañas de pescar de surfcasting"
+    sg-4-6-13-1:
+      name: "Carnadas y señuelos de pesca"
+    sg-4-6-13-1-10:
+      name: "Señuelos artificiales de plástico blando"
+    sg-4-6-13-1-13:
+      name: "Aditivos y atrayentes para carnadas de pesca"
+    sg-4-6-13-1-16:
+      name: "Carnadas molidas y mezclas en stick para pesca"
+    sg-4-6-13-1-4:
+      name: "Plugs artificiales de pesca"
+    sg-4-6-13-1-6-1:
+      name: "Cucharitas giratorias de pesca en línea"
+    sg-4-6-13-1-7:
+      name: "Cucharitas artificiales de pesca"
+    sg-4-6-13-1-8:
+      name: "Swimbaits artificiales de pesca"
+    sg-4-6-13-5:
+      name: "Mosquetones y destorcedores para pesca"
+    sg-4-6-14-4:
+      name: "Trampas para pececitos"
+    sg-4-6-15-10:
+      name: "Hilos y sedas para atado de moscas"
+    sg-4-6-15-11:
+      name: "Ojos y pesos para atado de moscas"
+    sg-4-6-15-12:
+      name: "Oropel para atado de moscas"
+    sg-4-6-15-13:
+      name: "Adhesivos y resinas para atado de moscas"
+    sg-4-6-15-3:
+      name: "Dubbing para atado de moscas"
+    sg-4-6-15-4:
+      name: "Espuma para atado de moscas"
+    sg-4-6-15-5:
+      name: "Chenilla y trenzados para atado de moscas"
+    sg-4-6-15-6:
+      name: "Materiales brillantes para atado de moscas"
+    sg-4-6-15-7:
+      name: "Pelos y pieles para atado de moscas"
+    sg-4-6-15-8:
+      name: "Plumas para atado de moscas"
+    sg-4-6-15-9:
+      name: "Alambre para atado de moscas"
+    sg-4-6-16-4:
+      name: "Pececitos y peces ventosa vivos"
+    sg-4-6-17:
+      name: "Bolsas y cajas para aparejos de pesca"
+    sg-4-6-3-2:
+      name: "Bolsas para carnada molida"
+    sg-4-6-3-3:
+      name: "Cajas y recipientes para carnada"
+    sg-4-6-3-4:
+      name: "Baldes para cebo"
+    sg-4-6-5-11:
+      name: "Pinzas de corte"
+    sg-4-6-5-2:
+      name: "Mechas para cebo"
+    sg-4-6-5-21:
+      name: "Pinzas y cortadores de línea de pesca"
+    sg-4-6-5-3:
+      name: "Pistolas para carnada"
+    sg-4-6-6:
+      name: "Tanzas y emerillones de pesca"
+    sg-4-6-7-2:
+      name: "Tarrafas"
+    sg-4-6-8-3:
+      name: "Bobinas de repuesto para carretes de pesca"
+    sg-4-6-9-1:
+      name: "Carretes de pesca baitcasting"
+    sg-4-7-1:
+      name: "Herramientas para divots"
+    sg-4-7-14-2:
+      name: "Alfombras para golf"
+    sg-4-7-3-6:
+      name: "Soportes de celular y GPS para golf"
+    sg-4-7-5:
+      name: "Marcadores para pelotas de golf"
+    sg-4-7-6:
+      name: "Pelotas de golf"
+    sg-4-7-7-1:
+      name: "Grips para palos de golf"
+    sg-4-7-7-2:
+      name: "Fundas para cabezas de palos de golf"
+    sg-4-8-1:
+      name: "Mamelucos de salto"
+    sg-4-8-1-1:
+      name: "Mamelucos de paracaidismo"
+    sg-4-8-1-2:
+      name: "Wingsuits"
+    sg-4-9-1-11-1:
+      name: "Protectores de brazo para tiro con arco"
+    sg-4-9-1-4-1:
+      name: "Emplumados para flechas"
+    sg-4-9-1-4-1-2:
+      name: "Aletas para flechas"
+    sg-4-9-1-4-6:
+      name: "Bujes y collarines para flechas"
+    sg-4-9-1-5:
+      name: "Flechas y virotes"
+    sg-4-9-1-5-2:
+      name: "Virotes"
+    sg-4-9-1-6-4:
+      name: "Herrajes y piezas para arcos y ballestas"
+    sg-4-9-10-3-1:
+      name: "Tanques de aire para paintball"
+    sg-4-9-10-7-10:
+      name: "Estuches y bolsas para antiparras y máscaras de paintball"
+    sg-4-9-10-7-2:
+      name: "Antiparras y máscaras para paintball"
+    sg-4-9-10-7-2-2:
+      name: "Lentes para antiparras de paintball"
+    sg-4-9-10-7-2-3:
+      name: "Correas para antiparras de paintball"
+    sg-4-9-10-7-3-2:
+      name: "Shorts protectores para paintball"
+    sg-4-9-11:
+      name: "Gomeras"
+    sg-4-9-13:
+      name: "Gomeras y accesorios"
+    sg-4-9-2-1:
+      name: "Lanzaplatos"
+    sg-4-9-3-3-1-2:
+      name: "Cubiertas de pasto sintético para escondites"
+    sg-4-9-4-2:
+      name: "Camperas de caza y tiro"
+    sg-4-9-4-5:
+      name: "Pantalones y jardineros para caza y tiro"
+    sg-4-9-6-4:
+      name: "Alfombras de tiro"
+    sg-4-9-7-4-2:
+      name: "Antiparras y máscaras para Airsoft"
+    sg-4-9-7-4-2-1:
+      name: "Antiparras de airsoft"
+    sg-4-9-7-4-7:
+      name: "Accesorios para antiparras y máscaras de airsoft"
+    so-1-10-9:
+      name: "Software de edición de video"
+    so-1-7:
+      name: "Software financiero, de impuestos y contabilidad"
+    so-2-6:
+      name: "Fotografía y video de stock"
+    tg-2-14:
+      name: "Máquinas tragamonedas"
+    tg-3-1:
+      name: "Accesorios para castillos inflables"
+    tg-3-11:
+      name: "Accesorios para hamacas y estructuras de juegos"
+    tg-3-12:
+      name: "Hamacas y estructuras de juegos"
+    tg-3-2:
+      name: "Castillos inflables"
+    tg-3-3:
+      name: "Hamacas y balancines"
+    tg-3-4:
+      name: "Carpas y túneles de juego"
+    tg-3-7:
+      name: "Areneros"
+    tg-3-7-2:
+      name: "Tapas para areneros"
+    tg-4-12:
+      name: "Rompecabezas de madera y con agarrador"
+    tg-4-13:
+      name: "Alfombras y tableros para rompecabezas"
+    tg-4-6:
+      name: "Accesorios para rompecabezas"
+    tg-4-7:
+      name: "Rompecabezas"
+    tg-4-9:
+      name: "Rompecabezas mecánicos"
+    tg-5-1-10:
+      name: "Payana"
+    tg-5-1-4:
+      name: "Juguetes para hacer burbujas"
+    tg-5-1-4-1:
+      name: "Sopladores de burbujas"
+    tg-5-1-4-2:
+      name: "Pistolas de burbujas"
+    tg-5-1-4-3:
+      name: "Máquinas de burbujas"
+    tg-5-1-5:
+      name: "Resortes mágicos"
+    tg-5-1-6:
+      name: "Bolitas"
+    tg-5-1-7:
+      name: "Juguetes de paletas con pelota"
+    tg-5-1-9:
+      name: "Trompos"
+    tg-5-12-3:
+      name: "Barriletes"
+    tg-5-13-4:
+      name: "Alfombras musicales interactivas"
+    tg-5-15-3:
+      name: "Autos de juguete"
+    tg-5-15-6:
+      name: "Colecciones de autos de carreras de juguete"
+    tg-5-18-3:
+      name: "Autos de control remoto"
+    tg-5-2-1:
+      name: "Kits de fabricación de joyas y mostacillas"
+    tg-5-2-10:
+      name: "Stickers y máquinas de stickers"
+    tg-5-2-11:
+      name: "Tablets de dibujo"
+    tg-5-2-6-6:
+      name: "Juguetes de slime y masilla"
+    tg-5-20-5:
+      name: "Carritos"
+    tg-5-21:
+      name: "Robots de juguete"
+    tg-5-23-2:
+      name: "Juguetes de béisbol"
+    tg-5-23-3:
+      name: "Pelota de básquet de juguete"
+    tg-5-23-7:
+      name: "Juguetes de pesca"
+    tg-5-23-8-3:
+      name: "Sogas de saltar"
+    tg-5-23-8-5:
+      name: "Mats y juegos de yoga para niños"
+    tg-5-23-8-6:
+      name: "Mini camas elásticas"
+    tg-5-24:
+      name: "Canastas de regalo de juguete"
+    tg-5-3:
+      name: "Accesorios para piletas de pelotas"
+    tg-5-3-1:
+      name: "Pelotas para piletas de pelotas"
+    tg-5-4:
+      name: "Piletas de pelotas"
+    tg-5-6-2:
+      name: "Baldes de playa"
+    tg-5-6-3:
+      name: "Balsas y flotadores inflables"
+    tg-5-6-8:
+      name: "Palas de arena"
+    tg-5-7-13:
+      name: "Circuitos de bolitas"
+    tg-5-8:
+      name: "Muñecas, sets de juego y figuras de juguete"
+    tg-5-8-12:
+      name: "Sets de juego"
+    tg-5-8-12-2:
+      name: "Juegos de autos"
+    vp:
+      name: "Vehículos y repuestos"
+    vp-1-2-5-5:
+      name: "Kits de conversión para utilitarios eléctricos"
+    vp-1-3:
+      name: "Electrónica para vehículos motorizados"
+    vp-1-3-10:
+      name: "Soportes para monitores de video para vehículos motorizados"
+    vp-1-3-10-1:
+      name: "Soportes para tablero"
+    vp-1-3-10-2:
+      name: "Soportes para apoyacabezas"
+    vp-1-3-3:
+      name: "Adaptadores de cassette para automóviles"
+    vp-1-3-4:
+      name: "Reproductores de cassette para automóviles"
+    vp-1-3-4-3:
+      name: "Reproductores bajo el tablero"
+    vp-1-3-5:
+      name: "Crossovers y ecualizadores para autos"
+    vp-1-3-6:
+      name: "Cámaras de estacionamiento para automóviles"
+    vp-1-3-6-2:
+      name: "Cámaras de retroceso"
+    vp-1-3-8:
+      name: "Parlantes para automóviles"
+    vp-1-3-8-1:
+      name: "Parlantes coaxiales"
+    vp-1-3-8-2:
+      name: "Parlantes de componentes"
+    vp-1-3-8-3:
+      name: "Parlantes de rango completo"
+    vp-1-3-8-4:
+      name: "Parlantes de gama media"
+    vp-1-3-9:
+      name: "Parlante subwoofer para automóviles"
+    vp-1-4-1-10:
+      name: "Platos de freno"
+    vp-1-4-1-13:
+      name: "Mangueras de freno"
+    vp-1-4-1-8:
+      name: "Discos de freno"
+    vp-1-4-11-1:
+      name: "Espejos de auto"
+    vp-1-4-11-2:
+      name: "Organizadores de autos"
+    vp-1-4-11-3:
+      name: "Alfombras"
+    vp-1-4-12-4:
+      name: "Lamparitas"
+    vp-1-4-12-8:
+      name: "Luces de giro"
+    vp-1-4-16-14:
+      name: "Sensores de presión absoluta del múltiple (MAP)"
+    vp-1-4-17-2:
+      name: "Resortes helicoidales"
+    vp-1-4-17-4:
+      name: "Ballestas"
+    vp-1-4-18-5:
+      name: "Frenos de acoplado"
+    vp-1-4-18-6:
+      name: "Enganches para acoplado"
+    vp-1-4-18-7:
+      name: "Luces del acoplado"
+    vp-1-4-18-8:
+      name: "Cableado del acoplado"
+    vp-1-4-19-12:
+      name: "Cubrepolvos de junta homocinética"
+    vp-1-4-2:
+      name: "Tapicería y alfombras para vehículos motorizados"
+    vp-1-4-2-4:
+      name: "Cubiertas de tablero"
+    vp-1-4-2-6:
+      name: "Revestimientos de techo"
+    vp-1-4-2-7:
+      name: "Alfombras para baúl"
+    vp-1-4-2-8:
+      name: "Tela de tapicería"
+    vp-1-4-20-1-1:
+      name: "Llantas y ruedas para automóviles"
+    vp-1-4-21-3:
+      name: "Burletes de ventanillas"
+    vp-1-4-22-5:
+      name: "Racores para mangueras"
+    vp-1-4-3-1:
+      name: "Compresores de aire acondicionado"
+    vp-1-4-3-2:
+      name: "Condensadores de aire acondicionado"
+    vp-1-4-3-3:
+      name: "Evaporadores de aire acondicionado"
+    vp-1-4-3-4:
+      name: "Mangueras de aire acondicionado"
+    vp-1-4-3-8:
+      name: "Radiadores de calefacción"
+    vp-1-4-9-1:
+      name: "Paragolpes"
+    vp-1-4-9-13:
+      name: "Burletes de puerta"
+    vp-1-4-9-4:
+      name: "Parrillas"
+    vp-1-4-9-5:
+      name: "Capots"
+    vp-1-5-1:
+      name: "Bidones para combustible portátiles"
+    vp-1-5-2-1:
+      name: "Cepillos de limpieza para autos"
+    vp-1-5-2-2:
+      name: "Soluciones para lavado de autos"
+    vp-1-5-2-2-1:
+      name: "Shampoo para autos"
+    vp-1-5-2-6-1:
+      name: "Cera para autos"
+    vp-1-5-3-1:
+      name: "Cubiertas para carritos de golf"
+    vp-1-5-3-3:
+      name: "Cubiertas de caja para camionetas"
+    vp-1-5-3-6-2:
+      name: "Cubiertas para almacenamiento de carros de golf"
+    vp-1-5-3-6-5:
+      name: "Cubiertas para almacenamiento de embarcaciones"
+    vp-1-5-4-1:
+      name: "Stickers para paragolpes"
+    vp-1-5-4-10:
+      name: "Fundas para patentes de vehículos"
+    vp-1-5-4-11:
+      name: "Marcos para patentes de vehículos"
+    vp-1-5-4-12:
+      name: "Monturas y soportes para patentes de vehículos"
+    vp-1-5-4-13:
+      name: "Patentes de vehículos"
+    vp-1-5-4-16:
+      name: "Fundas para palancas de cambios de vehículos"
+    vp-1-5-4-17:
+      name: "Perillas para palancas de cambios de vehículos"
+    vp-1-5-4-2:
+      name: "Aromatizantes para vehículos"
+    vp-1-5-4-4:
+      name: "Accesorios para tablero de vehículos"
+    vp-1-5-4-8:
+      name: "Emblemas para vehículos y adornos para capot"
+    vp-1-5-4-9:
+      name: "Cubiertas para enganches de acoplados para vehículos"
+    vp-1-5-5-6:
+      name: "Grasas para vehículos"
+    vp-1-5-6-2:
+      name: "Pintura para pinzas de freno de vehículos motorizados"
+    vp-1-5-7-11-2:
+      name: "Caballetes para vehículos"
+    vp-1-5-7-4:
+      name: "Probadores de baterías para vehículos"
+    vp-1-5-7-8:
+      name: "Cables de arranque para vehículos"
+    vp-1-5-7-9-1-1:
+      name: "Rompe talones"
+    vp-1-5-7-9-1-7:
+      name: "Protectores de llantas"
+    vp-1-6-1-10:
+      name: "Protectores de cuello para motocicleta"
+    vp-1-6-1-4:
+      name: "Antiparras para motocicletas"
+    vp-1-6-1-9:
+      name: "Rodilleras y canilleras para motocicleta"
+    vp-1-6-3-5:
+      name: "Cierres para enganches de acoplados de vehículos"
+    vp-1-6-3-9:
+      name: "Cepos para autos"
+    vp-1-6-4-1:
+      name: "Redes para ventanas de auto"
+    vp-1-6-4-2:
+      name: "Bengalas de emergencia para ruta"
+    vp-1-6-7-10:
+      name: "Antiparras de carreras"
+    vp-1-6-7-13:
+      name: "Pasamontañas de carreras"
+    vp-1-6-7-14:
+      name: "Shorts protectores para carreras"
+    vp-1-6-7-3:
+      name: "Antiparras para vehículos ATV y UTV"
+    vp-1-7-1-2:
+      name: "Redes de carga para caja de camioneta"
+    vp-1-7-1-3:
+      name: "Redes de carga para baúl"
+    vp-1-7-3-7:
+      name: "Portaequipajes para motocicletas y scooters"
+    vp-1-7-5:
+      name: "Acoplados para vehículos motorizados"
+    vp-1-7-5-4:
+      name: "Tráilers utilitarios y de carga"
+    vp-1-7-6:
+      name: "Bolsas y alforjas para motocicletas"
+    vp-1-7-7:
+      name: "Cajas de almacenamiento y organizadores para caja de camioneta"
+    vp-1-7-8:
+      name: "Colgadores y ganchos para apoyacabezas de vehículos"
+    vp-1-8-1:
+      name: "Amarre y anclaje"
+    vp-1-8-4-4:
+      name: "Piezas de encendido para embarcaciones"
+    vp-1-8-4-5:
+      name: "Impulsores para embarcaciones"
+    vp-1-8-4-6:
+      name: "Trabas para motores de embarcaciones"
+    vp-1-8-5:
+      name: "Motores para embarcaciones"
+    vp-1-8-5-3:
+      name: "Motores de trolling"
+    vp-1-8-6-1:
+      name: "Colectores para embarcaciones"
+    vp-1-8-9-2:
+      name: "Timones para embarcaciones"
+    vp-2-1:
+      name: "Aeronaves"
+    vp-2-1-1-10:
+      name: "Jets grandes"
+    vp-2-1-1-12:
+      name: "Aviones livianos"
+    vp-2-1-1-6:
+      name: "Jets livianos"
+    vp-2-1-1-7:
+      name: "Jets muy livianos"
+    vp-2-1-1-9:
+      name: "Super jets de tamaño mediano"
+    vp-2-1-2-1:
+      name: "Globos aerostáticos"
+    vp-2-2-1:
+      name: "Autos, camiones y utilitarios"
+    vp-2-2-1-1-1:
+      name: "Autos eléctricos"
+    vp-2-2-1-1-3:
+      name: "Utilitarios eléctricos"
+    vp-2-2-1-2-3:
+      name: "Utilitarios"
+    vp-2-2-1-3-3:
+      name: "Utilitarios híbridos"
+    vp-2-2-1-4-3:
+      name: "Utilitarios clásicos y de época"
+    vp-2-2-3:
+      name: "Motocicletas y scooters"
+    vp-2-2-7-1:
+      name: "Colectivos y micros"
+    vp-2-2-7-1-1:
+      name: "Colectivos urbanos"
+    vp-2-2-7-1-2:
+      name: "Micros de larga distancia"
+    vp-2-2-7-1-3:
+      name: "Micros escolares"
+    vp-2-2-7-1-5:
+      name: "Colectivos de dos pisos"
+    vp-2-2-7-1-6:
+      name: "Colectivos articulados"
+    vp-2-2-8-1-3-3:
+      name: "Utilitarios de policía"
+    vp-2-3:
+      name: "Embarcaciones"
+    vp-2-3-2:
+      name: "Motos de agua"
