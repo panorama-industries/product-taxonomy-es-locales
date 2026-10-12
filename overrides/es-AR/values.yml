@@ -1419,178 +1419,746 @@ es-AR:
       name: "Malla de gimnasia"
     integrated_bottom_type__shorts:
       name: "Shorts"
+    integrated_bottom_type__trunks:
+      name: "Malla tipo bóxer"
+    integrated_furniture_function__closet/wardrobe:
+      name: "Placard/guardarropa"
+    integrated_tool_functions__bottle_opener:
+      name: "Destapador"
+    intended_application__cabinets:
+      name: "Gabinetes"
+    intended_handlebar_style__drop_bar:
+      name: "Manubrio de caída"
+    intended_handlebar_style__flat_bar:
+      name: "Manubrio plano"
+    intended_jewelry_type__earrings:
+      name: "Aros"
+    intended_playing_surface__indoor_gym_floor:
+      name: "Piso de gimnasio interior"
+    intended_sewing_application__jeans/denim:
+      name: "Jeans/denim"
+    intended_sewing_application__serger/overlock:
+      name: "Overlock"
     intended_surface__floor:
       name: "Piso"
     j_cup_type__flat:
       name: "Plano"
     jar_shape__lantern:
       name: "Farol"
+    jar_shape__mason:
+      name: "Frasco"
+    jersey_style__basketball_jersey:
+      name: "Camiseta de básquet"
+    jewelry_finding_type__earring_base:
+      name: "Base para aros"
+    jewelry_finding_type__earring_hook:
+      name: "Cierre para aros"
+    jewelry_pieces_included__earrings:
+      name: "Aros"
+    jewelry_project_type__beading_project:
+      name: "Proyectos de mostacillas"
+    jewelry_project_type__earring_making:
+      name: "Fabricación de aros"
+    jewelry_project_type__pendant_making:
+      name: "Fabricación de colgantes"
+    jewelry_set_type__earring:
+      name: "Aro"
+    jockstrap_design_features__zipper_front:
+      name: "Frente con cierre"
     joint_face_type__flat:
       name: "Plano"
+    kaleidoscope_viewing_type__marble:
+      name: "Bolita"
+    keyboard_amplifier_output_types__external_speaker_out:
+      name: "Salida para parlante externo"
+    keyboard_assembly_type__keyboard_sticker_set:
+      name: "Juego de stickers para teclado"
+    keyboard_assembly_type__palmrest_with_keyboard:
+      name: "Apoyamuñecas con teclado"
+    keyboard_assembly_type__palmrest_with_keyboard_and_touchpad:
+      name: "Apoyamuñecas con teclado y touchpad"
+    keyboard_assembly_type__palmrest_with_keyboard_touchpad_and_logic_board:
+      name: "Apoyamuñecas con teclado touchpad y placa lógica"
+    keyboard_specialized_features__wrist_rest:
+      name: "Apoyamuñecas"
     keycap_profile__flat:
       name: "Plano"
+    keychain_style__bottle_opener_keychain:
+      name: "Llavero destapador"
+    kit_tools_included__bead_loom:
+      name: "Telar de mostacillas"
+    kit_tools_included__bead_organizer/case:
+      name: "Organizador/estuche de mostacillas"
+    kit_tools_included__bead_tray:
+      name: "Bandeja de mostacillas"
+    kit_tools_included__beading_needles:
+      name: "Aguja(s) para mostacillas"
+    kit_tools_included__pliers:
+      name: "Pinzas"
+    kitchen_linen_items_included__dishcloths:
+      name: "Rejillas de cocina"
+    kitchen_utensil_items_included__bottle_opener:
+      name: "Destapador"
+    kitchen/dining_furniture_items_included__bar_stools:
+      name: "Banquetas de bar"
+    kitchen/dining_furniture_items_included__china_cabinet:
+      name: "Vitrina para porcelana"
+    kite_inflation_system__no_pump_foil_kite:
+      name: "Sin bomba (kite foil)"
+    kite_type__bow_kite:
+      name: "Kite bow"
+    kite_type__c_kite:
+      name: "Kite C"
+    kite_type__delta_c_kite:
+      name: "Kite Delta-C"
+    kite_type__delta_kite:
+      name: "Kite delta"
+    kite_type__foil_kite:
+      name: "Kite foil"
+    kite_type__hybrid_kite:
+      name: "Kite híbrido"
+    kite_type__open_c_kite:
+      name: "Kite Open-C"
+    kite_type__racing_kite:
+      name: "Kite de carreras"
+    kite_type__trainer_kite:
+      name: "Kite de entrenamiento"
+    kiteboard_bag_style__sock/deck_cover:
+      name: "Funda de media/cubierta"
     knife_type__mushroom:
       name: "Hongo"
+    knife_type__peanut:
+      name: "Maní"
+    knit_elastic_application__mask_making:
+      name: "Elaboración de barbijos"
+    knitting/padding_project_type__cushion_making:
+      name: "Fabricación de almohadones"
+    knob/handle_design__cup_pull:
+      name: "Tiradores de cuchara"
+    label_text_type__writable_marker/pen:
+      name: "Escribible (marcador/birome)"
+    lacrosse_string_type__goalie_string:
+      name: "Cuerda de arquero"
+    lamp_assembly_type__bare_bulb_only:
+      name: "Solo lamparita desnuda"
+    lamp_assembly_type__rear_projection_tv_bulb:
+      name: "Lamparita de TV de retroproyección"
+    lamp_quality_grade__oem_bulb_with_compatible_housing:
+      name: "Lamparita OEM con carcasa compatible"
+    laptop_housing_part_type__palmrest:
+      name: "Apoyamuñecas"
+    laptop_housing_part_type__palmrest_with_keyboard:
+      name: "Apoyamuñecas con teclado"
+    laptop_housing_part_type__speaker_grille:
+      name: "Rejilla del parlante"
+    laundry_wash_accessory_type__bra_wash_ball:
+      name: "Bola para lavar corpiños"
+    laundry_wash_accessory_type__sock_saver_bag:
+      name: "Bolsa para guardar medias"
+    lawn_mower_blade_type__brush_cutter:
+      name: "Desmalezadora"
     lectern_mounting_type__floor:
       name: "Piso"
+    leg_cuff_style__zip_off_convertible:
+      name: "Convertible con cierre"
+    leg_opening_style__elastic_cuff_with_zipper:
+      name: "Puño elástico con cierre"
+    leg_opening_style__zip_hem:
+      name: "Dobladillo con cierre"
+    lettuce_variety__butterhead:
+      name: "Manteca"
+    light_bar_mounting_location__front_bumper:
+      name: "Paragolpes delantero"
     light_bar_mounting_location__hood:
       name: "Capot"
+    light_bar_mounting_location__license_plate:
+      name: "Patente"
+    light_bar_mounting_location__motorcycle_handlebar:
+      name: "Manubrio de motocicleta"
+    light_bar_mounting_location__rear_bumper:
+      name: "Paragolpes trasero"
+    light_therapy_device_form_factor__glasses:
+      name: "Anteojos"
     light_therapy_device_form_factor__mask:
       name: "Máscara"
+    lip_gloss_applicator_type__rollerball:
+      name: "Roller"
     live_trap_design__bucket:
       name: "Balde"
     living_room_furniture_items_included__stool:
       name: "Banqueta"
+    locker_bench_configuration__under_locker_pull_out:
+      name: "Extraíble bajo locker"
     locking_mechanism__slide:
       name: "Ojota"
     lubricant_dispenser_type__bucket:
       name: "Balde"
+    lumbar_support_type__removable_cushion_or_pillow:
+      name: "Almohadón o almohada extraíble"
+    lunch_set_items_included__cutlery:
+      name: "Cubiertos"
+    lunch_set_items_included__lunch_box:
+      name: "Vianda"
+    lyrics_display_type__via_mobile_app:
+      name: "Mediante app para celular"
+    makeup_shade__light_peach:
+      name: "Durazno claro"
+    makeup_shade__medium_peach:
+      name: "Durazno medio"
     makeup_shade__peach:
       name: "Durazno"
+    map_format__mobile_app:
+      name: "App para celular"
+    marking_tip_type__blade/cutter_insert:
+      name: "Inserto de cuchilla/cutter"
     mascara_formulation__cake:
       name: "Torta"
+    mask_goggle_design__goggle_frame:
+      name: "Marco de antiparras"
+    mask_goggle_design__over_glasses_compatible:
+      name: "Compatible con uso sobre anteojos"
     material__denim:
       name: "Jean"
     maternity_sleepwear_style__onesie:
       name: "Enterito"
+    meat_cut__hock:
+      name: "Garrón"
+    meat_cut__shank:
+      name: "Osobuco"
+    mechanical_puzzle_solution_format__mobile_app:
+      name: "App para celular"
     medal_attachment_style__safety_pin:
       name: "Alfiler de gancho"
+    medical_alarm_features__mobile_app_integration:
+      name: "Integración con apps para celular"
+    medical_identification_type__wallet_card:
+      name: "Tarjeta de billetera"
+    medicine/supplement_form__syrup:
+      name: "Jarabe"
+    memory_wire_project_size__earring/hoop:
+      name: "Aro/argolla"
     metronome_output_method__built_in_speaker:
       name: "Parlante integrado"
+    microphone_toy_feature_set__bluetooth_speaker_mode:
+      name: "Modo de parlante Bluetooth"
     microphone_toy_feature_set__built_in_speaker:
       name: "Parlante integrado"
+    microwave_oven_functions__popcorn_preset:
+      name: "Programa de pochoclo"
+    milk_base_type__pea_milk:
+      name: "Leche de arvejas"
+    milk_base_type__soy_milk:
+      name: "Leche de soja"
+    mirror_mounting_location__eyeglass:
+      name: "Anteojos"
+    mirror_type__bathroom_vanity:
+      name: "Vanitory"
     mirror_type__floor:
       name: "Piso"
     mixing_bowl_features__freezer_safe:
       name: "Apto para freezer"
     mobile_phone_accessories_included__car_mount:
       name: "Soporte para auto"
+    mobile_phone_accessories_included__portable_speaker:
+      name: "Parlante portátil"
+    model_making_kit_items_included__hobby_knife:
+      name: "Cutter"
+    model_making_kit_items_included__side_cutters/nippers:
+      name: "Pinzas de corte diagonal/tenazas"
     model_making_kit_items_included__stickers:
       name: "Stickers"
+    model_making_product_type__decal/sticker_set:
+      name: "Set de calcomanías/stickers"
+    model_train_sound_features__sound_ready_speaker/wiring_only:
+      name: "Preparado para sonido (solo parlante/cableado)"
+    moisture_absorber_form__tub:
+      name: "Pote"
     monitor_shape__flat:
       name: "Plano"
     monitor/screen_specialized_features__built_in_speakers:
       name: "Parlantes incorporados"
+    motor_vehicle_bulb_application_position__license_plate_light:
+      name: "Luz de patente"
+    motor_vehicle_bulb_application_position__trunk/cargo_light:
+      name: "Luz de baúl/carga"
     motor_vehicle_type__van:
       name: "Furgón"
+    motorcycle_luggage_mounting_system__handlebar_mount:
+      name: "Montaje en manubrio"
+    motorcycle_tire_type__scooter:
+      name: "Scooter"
+    mount_attachment_method__headrest_post_clamp:
+      name: "Abrazadera para poste de apoyacabezas"
     mount_installation_point__handlebar:
       name: "Manubrio"
     mount_installation_point__headrest:
       name: "Apoyacabezas"
     mounting_attachment_method__belt_loop:
       name: "Presilla para cinturón"
+    mounting_location__trunk_/_cargo_area:
+      name: "Baúl / área de carga"
     mounting_type__floor:
       name: "Piso"
+    mouse/trackball_features__thumb_rest:
+      name: "Apoyapulgares"
+    movement_mechanism__swing:
+      name: "Hamaca"
+    mp3_player_accessories_included__portable_speaker:
+      name: "Parlante portátil"
+    mushroom_variety__king_oyster:
+      name: "Hongo de cardo"
     music_stand_design__floor:
       name: "Piso"
+    nail_art_items_included__nail_art_brush:
+      name: "Pincel para esmalte de uñas"
     nail_art_items_included__stickers:
       name: "Stickers"
     nail_art_medium_type__stickers:
       name: "Stickers"
+    needle_case_format__clamshell:
+      name: "Estuche tipo almeja"
     needle_case_format__wallet:
       name: "Billetera"
+    needle_case_format__zip_case:
+      name: "Estuche con cierre"
     needle_holder_style__wallet:
       name: "Billetera"
+    needle_requirement_beading_pattern__beading_needle_#10:
+      name: "Aguja para mostacillas n.º 10"
+    needle_requirement_beading_pattern__beading_needle_#11:
+      name: "Aguja para mostacillas n.º 11"
+    needle_requirement_beading_pattern__beading_needle_#12:
+      name: "Aguja para mostacillas n.º 12"
+    needle_requirement_beading_pattern__beading_needle_#13:
+      name: "Aguja para mostacillas n.º 13"
+    needle_requirement_beading_pattern__beading_needle_#15:
+      name: "Aguja para mostacillas n.º 15"
+    needle_requirement_beading_pattern__big_eye_beading_needle:
+      name: "Aguja para mostacillas de ojo grande"
+    needle_threader_compatible_needle_type__beading_needles:
+      name: "Agujas para mostacillas"
+    needle_threader_compatible_needle_type__overlock/serger_needles:
+      name: "Agujas de overlock"
+    needlecraft_kit_items_included__beads/embellishments:
+      name: "Mostacillas/adornos"
+    needlecraft_kit_items_included__crochet_hook:
+      name: "Aguja de crochet"
     needlecraft_kit_project_type__pillow/cushion:
       name: "Almohada/almohadón"
     needlecraft_kit_project_type__socks:
       name: "Medias"
+    needlecraft_kit_type__crochet:
+      name: "Crochet"
+    needlepoint_frame_canvas_attachment_method__staples:
+      name: "Grampas"
     needlepoint_frame_compatible_stand_type__floor_stand:
       name: "Soporte de piso"
+    needlepoint_project_type__rug/footstool_top:
+      name: "Alfombra/funda de apoyapiés"
+    needlepoint_project_type__stocking:
+      name: "Media navideña"
     nipple_shape__flat:
       name: "Plano"
+    nose_clip_accessories_included__snorkel:
+      name: "Tubo de snorkel"
+    nozzle_style__gutter_cleaning:
+      name: "Limpieza de canaletas"
+    nursing_access__front_zip:
+      name: "Cierre frontal"
+    nursing_access_type__zipper_front:
+      name: "Cierre frontal"
     nut_butter_variety__cashew:
       name: "Castaña de cajú"
+    nut_butter_variety__peanut:
+      name: "Maní"
     nut_form__flat:
       name: "Plano"
+    nut/seed_type__cashews:
+      name: "Castañas de cajú"
     nut/seed_type__peanuts:
       name: "Maníes"
+    nut/seed_type__pumpkin_seeds:
+      name: "Semillas de zapallo"
     odor_remover_application_area__socks:
       name: "Medias"
     office_cart_features__handlebar:
       name: "Manubrio"
+    office_furniture_items_included__filing_cabinet:
+      name: "Archivero"
     office_furniture_items_included__footrest:
       name: "Apoyapiés"
+    office_furniture_items_included__overhead_cabinet:
+      name: "Mueble superior"
     office_furniture_items_included__wardrobe:
       name: "Placard"
+    olfactory_arts_tool_kit_content__wick_stickers/adhesives:
+      name: "Stickers/adhesivos para mechas"
+    one_piece_style__boiler_suit:
+      name: "Mameluco"
     one_piece_style__coverall:
       name: "Mameluco"
+    one_piece_style__dungaree:
+      name: "Jardinero"
     one_piece_style__leotard:
       name: "Malla de gimnasia"
+    one_piece_style__overall:
+      name: "Mameluco"
+    one_piece_style__playsuit:
+      name: "Enterito corto"
+    one_piece_style__unitard:
+      name: "Enterito"
+    onion_variety__shallot:
+      name: "Echalote"
+    onion_variety__spring/scallion:
+      name: "Cebolla de verdeo / cebollín"
+    optical_drive_loading_mechanism__clamshell:
+      name: "Tipo almeja"
+    organizer_application__socks_underwear:
+      name: "Medias y ropa interior"
+    outdoor_furniture_items_included__sunlounger:
+      name: "Reposera"
     outdoor_power_accessories_included__safety_glasses:
       name: "Anteojos de seguridad"
+    outdoor_table_functionality__in_pool_safe:
+      name: "Seguro para piletas"
+    outerwear_length_type__floor_length:
+      name: "Hasta el piso"
+    outerwear_pieces_included__bib:
+      name: "Jardinero"
+    outerwear_pieces_included__jacket:
+      name: "Campera"
     outfit_items_included__headband:
       name: "Vincha"
+    outfit_items_included__romper:
+      name: "Enterito"
     outfit_items_included__shorts:
       name: "Shorts"
     outfit_items_included__t_shirt:
       name: "Remera"
+    packing_materials_included__air_pillows:
+      name: "Almohadillas de aire"
+    pad_components_included__hip/short_padding:
+      name: "Protección para cadera/short"
     pad_components_included__shin_guards:
       name: "Canilleras"
+    pad_mounting_or_holding_style__headband_mounted:
+      name: "Montado en la vincha"
+    paint_application_method__marker/pen:
+      name: "Marcador/birome"
     paint_brush_design__flat:
       name: "Plano"
+    paint_medium_application_method__spray_on:
+      name: "En spray"
+    paintball_mask_coverage_level__goggle_only:
+      name: "Solo antiparras"
+    paintball/airsoft_equipment_included__protective_eyewear:
+      name: "Anteojos protectores"
+    pant_cuff_style__ankle_zips:
+      name: "Cierres en los tobillos"
+    pant_cuff_style__zip_off_convertible:
+      name: "Convertible con cierre"
+    pant_leg_conversion_type__zip_off_to_shorts:
+      name: "Convertible a shorts con cierre"
+    pant_leg_conversion_type__zip_off_to_three_quarter_length:
+      name: "Convertible a tres cuartos con cierre"
+    paper_magnetic_doll_set_contents__reusable_sticker_pieces:
+      name: "Piezas de stickers reutilizables"
     papier_mache_shape__mask:
       name: "Máscara"
+    parking_camera_features__hd_video:
+      name: "Video HD"
+    parking_camera_mounting_location__license_plate_frame_mount:
+      name: "Montaje en el marco de la patente"
+    parking_camera_mounting_location__license_plate_mount:
+      name: "Montaje en la patente"
+    parking_camera_mounting_location__rear_bumper_mount:
+      name: "Montaje en el paragolpes trasero"
+    parking_camera_mounting_location__trunk_handle_/_tailgate_handle_mount:
+      name: "Montaje en la manija del baúl / manija del portón trasero"
+    party_favor_type__pencils_erasers:
+      name: "Lápices y gomas de borrar"
     party_favor_type__stickers:
       name: "Stickers"
+    pastry_crust_style__cookie_crumb:
+      name: "Migas de galletita"
+    pastry_crust_style__graham_cracker:
+      name: "Galletita Graham"
+    patch_backing_material__denim:
+      name: "Denim"
+    patch_base_material__denim:
+      name: "Denim"
+    patch_placement_area__denim/jeans:
+      name: "Denim/jeans"
+    patch_placement_area__jacket/outerwear:
+      name: "Campera/ropa de abrigo"
     patch_placement_area__socks:
       name: "Medias"
+    pedal_set_components__accelerator_+_brake_+_clutch_+_footrest_dead_pedal:
+      name: "Acelerador, freno, embrague y apoyapiés"
+    pedal_set_components__accelerator_+_brake_+_footrest_dead_pedal:
+      name: "Acelerador, freno y apoyapiés"
+    pedal_set_components__footrest_dead_pedal_only:
+      name: "Solo apoyapiés"
+    pen_type__ballpoint:
+      name: "Birome"
+    pen_type__rollerball:
+      name: "Roller"
+    pen/pencil_features__eraser:
+      name: "Goma de borrar"
     penalty_card_accessories_included__wallet:
       name: "Billetera"
+    perfumery_base_intended_application__car_fragrance:
+      name: "Fragancia para auto"
     pet_food_flavor__avocado:
       name: "Palta"
     pet_food_flavor__bacon:
       name: "Panceta"
     pet_food_flavor__banana:
       name: "Banana"
+    pet_food_flavor__peanut_butter:
+      name: "Manteca de maní"
     pet_food_flavor__peas:
       name: "Arvejas"
+    pet_food_flavor__potatoes:
+      name: "Papas"
+    pet_food_flavor__sweet_potatoes:
+      name: "Batatas"
     pet_treat_type__biscuits:
       name: "Galletitas"
+    physalis_variety__pineapple_tomatillo:
+      name: "Tomatillo ananá"
     pi_ata_filler_type_included__stickers:
       name: "Stickers"
     pi_ata_opening_type__zipper:
       name: "Cierre"
     piano_additional_features__built_in_speakers:
       name: "Parlantes incorporados"
+    pie_crust_type__all_butter_shortcrust:
+      name: "Masa quebrada solo con manteca"
+    pie_crust_type__chocolate_cookie_crust:
+      name: "Base de galletita de chocolate"
+    pie_crust_type__graham_cracker_crust:
+      name: "Base de galletita Graham"
+    pie_crust_type__shortbread:
+      name: "Masa de manteca"
+    pilot_helmet_visor_configuration__external_tinted_visor:
+      name: "Visera teñida externa"
+    pilot_helmet_visor_configuration__goggle_compatible_no_fixed_visor:
+      name: "Compatible con antiparras (sin visera fija)"
+    pin_attachment_type__safety_pin_back:
+      name: "Reverso de alfiler de gancho"
+    ping_pong_robot_accessory_type__ball_bucket:
+      name: "Balde de pelotas"
     piping_tip_shape__shell:
       name: "Shell"
+    pitching_screen_style__sock_screen:
+      name: "Pantalla tipo media"
     placement_supported__floor:
       name: "Piso"
+    placement_supported__sink:
+      name: "Bacha"
+    plant_name__bell_pepper:
+      name: "Morrón"
+    plant_name__chervil:
+      name: "Perifollo"
+    plant_name__courgette:
+      name: "Zapallito"
+    plant_name__sweet_pea:
+      name: "Arveja de olor"
+    plate_style__appetizer_plate:
+      name: "Plato para entradas"
+    plate_style__bread_butter_plate:
+      name: "Plato de pan y manteca"
     play_environment_suitability__pool:
       name: "Pileta"
+    play_food_items_included__snacks:
+      name: "Snacks"
+    player_position__goalie:
+      name: "Arquero"
+    playhouse_design__floorstanding_playhouse:
+      name: "Casa de juegos de piso"
+    playset_activities_included__glider_swing:
+      name: "Hamaca planeadora"
+    playset_activities_included__swings:
+      name: "Hamacas"
+    playset_installation_type__in_ground_concrete_footings:
+      name: "Bajo tierra (bases de hormigón)"
+    pliers_jaw_style__nipper:
+      name: "Pinzas de corte"
+    poi_handle_type__no_handle_sock_poi:
+      name: "Sin mango (poi de media)"
+    poi_type__sock_poi:
+      name: "Poi de media"
+    pointing_device__mouse_buttons:
+      name: "Botones del mouse"
+    police_equipment_fitment__siren/pa_pre_wire:
+      name: "Precableado para sirena/parlante"
+    police_equipment_fitment__trunk/boot_equipment_tray:
+      name: "Bandeja de equipo para baúl"
+    police_vehicle_light_siren_equipment__pa/speaker:
+      name: "Parlante/megafonía"
+    polish_remover_formulation__soy_based:
+      name: "Base de soja"
+    pool_game_type__basketball_hoop_set:
+      name: "Poste para canastas de básquet"
+    pool_game_type__bean_bag_toss:
+      name: "Lanzamiento de bolsas de porotos"
+    pool_game_type__soccer/football_goal:
+      name: "Arco de fútbol"
+    pool_game_type__water_polo_goal:
+      name: "Arco de waterpolo"
+    pool_ladder_design__in_pool:
+      name: "En la pileta"
+    pool_lounge_style__hammock:
+      name: "Hamaca paraguaya"
     pool_lounger_features__headrest_pillow:
       name: "Almohada para apoyacabezas"
+    pool_lounger_features__waterproof_speakers:
+      name: "Parlantes impermeables"
+    popcorn_form__bucket/tub:
+      name: "Balde/pote"
+    popcorn_form__popcorn_balls:
+      name: "Bolas de pochoclo"
+    popcorn_form__stovetop_popping_kit:
+      name: "Kit para hacer pochoclo en la cocina"
     popcorn_kernel_variety__mushroom:
       name: "Hongo"
+    potty_training_kit_components__step_stool:
+      name: "Banquito escalera"
     potty_training_kit_components__stickers:
       name: "Stickers"
     power_source__gasoline:
       name: "Nafta"
+    pretend_electronics_toy_type__cell_phone:
+      name: "Teléfono celular"
     pretend_electronics_toy_type__laptop:
       name: "Notebook"
+    pretend_housekeeping_set_items_included__toy_dishwasher:
+      name: "Lavavajillas de juguete"
+    pretend_housekeeping_set_items_included__toy_sink:
+      name: "Bacha de juguete"
+    pretend_housekeeping_set_items_included__toy_washing_machine:
+      name: "Lavarropas de juguete"
+    pretzel_shape__soft_bun:
+      name: "Pancito suave"
+    primary_dish_application__cookies_and_brownies:
+      name: "Galletitas y brownies"
     primary_plant_base__cashew:
       name: "Castaña de cajú"
+    primary_plant_base__lupin:
+      name: "Lupino"
     primary_plant_base__pea_protein:
       name: "Proteína de arveja"
     primary_plant_base__soy:
       name: "Soja"
+    primary_plant_protein_source__banana_blossom:
+      name: "Flor de banana"
+    primary_plant_protein_source__lentil_or_bean:
+      name: "Lenteja o poroto"
     primary_plant_protein_source__pea_protein:
       name: "Proteína de arveja"
     primary_plant_protein_source__soy:
       name: "Soja"
+    printer/copier_specialized_features__mobile_printing_support:
+      name: "Soporte de impresión desde celular"
+    protected_component__playfield_glass:
+      name: "Vidrio del campo de juego"
+    protected_component__pop_bumper:
+      name: "Paragolpes emergente"
+    protective_gear_certification_standard__ce_en_1938_goggles:
+      name: "CE EN 1938 (antiparras)"
     protective_gear_items_included__shin_guards:
       name: "Canilleras"
     protective_pad_components_included__shin_guards:
       name: "Canilleras"
+    protein_source__pea:
+      name: "Arveja"
+    puck_type__goalie_training:
+      name: "Entrenamiento de arquero"
     pulley_groove_profile__flat:
       name: "Plano"
+    pump_accessories_included__ball_pressure_gauge:
+      name: "Manómetro de pelotas"
+    punch_bowl_components_included__glasses:
+      name: "Anteojos"
     punching/training_bag_material__sawdust:
       name: "Aserrín"
+    puzzle_accessory_features__zippered_case:
+      name: "Estuche con cierre"
+    puzzle_type__disentanglement_puzzle:
+      name: "Rompecabezas de desenredado"
+    puzzle_type__puzzle_box:
+      name: "Caja de rompecabezas"
+    puzzle_type__sequential_puzzle:
+      name: "Rompecabezas secuencial"
+    puzzle_type__sliding_puzzle:
+      name: "Rompecabezas deslizante"
+    quarter_panel_coverage_type__trunk_jamb_repair_section:
+      name: "Sección de reparación de jamba de baúl"
+    quilting_ruler_transparency__tinted_transparent:
+      name: "Transparente teñido"
+    rack_type__trunk:
+      name: "Baúl"
+    racket_sport_shoe_court_surface__carpet_court:
+      name: "Cancha de alfombra"
+    racquetball_squash_training_aid_type__cleaning_eraser:
+      name: "Goma de limpieza"
+    rail_coverage_configuration__front_rail_only_long_panel:
+      name: "Solo baranda frontal (panel largo)"
+    rail_coverage_configuration__half_rail:
+      name: "Media baranda"
+    rail_coverage_configuration__side_rails_only_pair_of_short_panels:
+      name: "Solo barandas laterales (par de paneles cortos)"
+    rain_suit_configuration__bib_and_pants:
+      name: "Jardinero y pantalones"
+    rain_suit_configuration__bib_overalls_and_jacket_set:
+      name: "Conjunto de jardinero y campera"
+    rain_suit_configuration__one_piece_coverall:
+      name: "Mameluco de una pieza"
+    rain_suit_configuration__overalls_only:
+      name: "Solo jardinero"
+    rain_suit_configuration__three_piece_jacket:
+      name: "Campera de tres piezas"
+    rain_suit_configuration__two_piece_jacket_and_pants:
+      name: "Campera y pantalones de dos piezas"
+    rainstick_fill_material__shell_pieces:
+      name: "Trozos de caracol marino"
+    rc_motorcycle_controller_type__gamepad:
+      name: "Gamepad"
+    rc_motorcycle_controller_type__steering_wheel_controller:
+      name: "Control de volante"
+    rc_vehicle_controller_type__gamepad_controller:
+      name: "Gamepad"
+    rc_vehicle_controller_type__steering_wheel_controller:
+      name: "Control de volante"
+    rear_opening_type__full_rear_zipper:
+      name: "Cierre trasero completo"
+    rear_opening_type__zipper_flap:
+      name: "Solapa con cierre"
+    rebounder_design__goal:
+      name: "Arco"
+    recorder_accessories_included__floor_stand/spike:
+      name: "Soporte de piso/pica"
+    recorder_type__nvr:
+      name: "Grabadora de video en red (NVR)"
+    recreational_vehicle_type__pop_up_camper:
+      name: "Casa rodante"
+    recreational_vehicle_type__travel_trailer:
+      name: "Tráiler de viaje"
+    reefing_method__zip_reef:
+      name: "Rizo con cierre"
+    refrigerator_configuration__bottom_freezer:
+      name: "Freezer inferior"
+    refrigerator_configuration__top_freezer:
+      name: "Freezer superior"
     relief_style__flat:
       name: "Plano"
+    remote_control_motorcycle_terrain_suitability__indoor_smooth_floor:
+      name: "Piso liso en interiores"
     remote_control_plane_power_type__gasoline:
       name: "Nafta"
+    remote_control_watercraft_water_environment__bathtub:
+      name: "Bañadera"
     remote_control_watercraft_water_environment__pool:
       name: "Pileta"
     replacement_lamp_type__bare_bulb:
@@ -1621,6 +2189,10 @@ es-AR:
       name: "Plano"
     secured_components__saddle:
       name: "Asiento"
+    sensor_or_gauge_mounting_location__front_bumper:
+      name: "Paragolpes delantero"
+    sensor_or_gauge_mounting_location__rear_bumper:
+      name: "Paragolpes trasero"
     serveware_pieces_included__dip_bowl:
       name: "Cuenco para dips"
     sewing_foot_type__zipper:
@@ -1629,6 +2201,8 @@ es-AR:
       name: "Barbijos"
     sewing_pattern_notions_required__zipper:
       name: "Cierre"
+    sewing_pattern_recommended_fabric__denim:
+      name: "Denim"
     shaving_kit_components__razor:
       name: "Máquina de afeitar"
     shelf_location_in_appliance__freezer_compartment:
@@ -1651,6 +2225,8 @@ es-AR:
       name: "Arvejas"
     snowboard_construction__flat:
       name: "Plano"
+    soda_maker_accessories_included__syrup:
+      name: "Jarabe"
     soft_bait_style__trailer:
       name: "Tráiler"
     sports_theme__basketball:
@@ -1669,10 +2245,14 @@ es-AR:
       name: "Stickers"
     stand/display_type__floor_stand:
       name: "Soporte de piso"
+    starch_source__pea:
+      name: "Arveja"
     steam_nozzle_type__floor:
       name: "Piso"
     steering_wheel_cover_installation_type__zipper:
       name: "Cierre"
+    stick_size_compatibility__goalie:
+      name: "Arquero"
     stick_tip_style__flat:
       name: "Plano"
     straw_dispensing_mechanism__slide:
@@ -1687,6 +2267,8 @@ es-AR:
       name: "Hidrolavadora"
     suitable_for_power_equipment_type__weed_trimmer:
       name: "Bordeadora"
+    suitable_play_location__bathtub:
+      name: "Bañadera"
     suitable_play_location__pool:
       name: "Pileta"
     suitable_surface_type__concrete:
@@ -1701,6 +2283,8 @@ es-AR:
       name: "Parlante central"
     table_base_material__concrete:
       name: "Hormigón"
+    table_hockey_part_type__goalie:
+      name: "Arquero"
     table_skirt_pleat_style__flat:
       name: "Plano"
     tack/pushpin_head_design__flat:
@@ -1711,6 +2295,8 @@ es-AR:
       name: "Alcaucil"
     terrain__flat:
       name: "Plano"
+    test_result_output_method__mobile_app:
+      name: "App para celular"
     test_sample__stool:
       name: "Banqueta"
     textile_craft_project_type__crocheting:
@@ -1725,16 +2311,24 @@ es-AR:
       name: "Piso"
     toothpick_design__flat:
       name: "Plano"
+    toy_boat_recommended_play_environment__bathtub:
+      name: "Bañadera"
     toy_bowling_equipment_included__stickers/decals:
       name: "Stickers/calcomanías"
     toy_kitchen_appliances_included__kettle:
       name: "Kettle"
+    toy_kitchen_appliances_included__sink:
+      name: "Bacha"
     toy_playset_items_included__stickers/decals:
       name: "Stickers/calcomanías"
+    toy_tool_set_components_included__pliers:
+      name: "Pinzas"
     toy/game_material__denim:
       name: "Jean"
     trade_show_display_features__built_in_speakers:
       name: "Parlantes incorporados"
+    trailer_light_function__license_plate_light:
+      name: "Luz de patente"
     training_focus__ball_control:
       name: "Control de la pelota"
     training_surface_suitability__concrete:
@@ -1743,8 +2337,14 @@ es-AR:
       name: "Manija del baúl"
     ukulele_body_shape__pineapple:
       name: "Ananá"
+    underwear_style__trunk:
+      name: "Baúl"
+    uniform_pieces_included__jacket:
+      name: "Campera"
     uniform_pieces_included__shorts:
       name: "Shorts"
+    upper_material__denim:
+      name: "Denim"
     vase_filler_type__beads:
       name: "Cuentas y mostacillas"
     vase_shape__mushroom:
