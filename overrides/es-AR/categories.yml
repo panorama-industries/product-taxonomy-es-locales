@@ -5595,6 +5595,8 @@ es-AR:
       name: "Trompos"
     tg-5-12-3:
       name: "Barriletes"
+    tg-5-13-4:
+      name: "Alfombras musicales interactivas"
     tg-5-15-3:
       name: "Autos de juguete"
     tg-5-15-6:
@@ -5605,12 +5607,24 @@ es-AR:
       name: "Kits de fabricación de joyas y mostacillas"
     tg-5-2-10:
       name: "Stickers y máquinas de stickers"
+    tg-5-20-5:
+      name: "Carritos"
+    tg-5-21:
+      name: "Robots de juguete"
+    tg-5-23-2:
+      name: "Juguetes de béisbol"
     tg-5-23-3:
       name: "Pelota de básquet de juguete"
+    tg-5-23-7:
+      name: "Juguetes de pesca"
+    tg-5-23-8-3:
+      name: "Sogas de saltar"
     tg-5-23-8-5:
       name: "Mats y juegos de yoga para niños"
     tg-5-23-8-6:
       name: "Mini camas elásticas"
+    tg-5-24:
+      name: "Canastas de regalo de juguete"
     tg-5-3:
       name: "Accesorios para piletas de pelotas"
     tg-5-3-1:
@@ -5623,20 +5637,34 @@ es-AR:
       name: "Balsas y flotadores inflables"
     tg-5-7-13:
       name: "Circuitos de bolitas"
+    tg-5-8-12:
+      name: "Sets de juego"
     tg-5-8-12-2:
       name: "Juegos de autos"
+    vp:
+      name: "Vehículos y repuestos"
     vp-1-2-5-5:
       name: "Kits de conversión para utilitarios eléctricos"
+    vp-1-3:
+      name: "Electrónica para vehículos motorizados"
     vp-1-3-10:
       name: "Soportes para monitores de video para vehículos motorizados"
     vp-1-3-10-1:
       name: "Soportes para tablero"
     vp-1-3-10-2:
       name: "Soportes para apoyacabezas"
+    vp-1-3-3:
+      name: "Adaptadores de cassette para automóviles"
+    vp-1-3-4:
+      name: "Reproductores de cassette para automóviles"
     vp-1-3-4-3:
       name: "Reproductores bajo el tablero"
     vp-1-3-5:
       name: "Crossovers y ecualizadores para autos"
+    vp-1-3-6:
+      name: "Cámaras de estacionamiento para automóviles"
+    vp-1-3-6-2:
+      name: "Cámaras de retroceso"
     vp-1-3-8:
       name: "Parlantes para automóviles"
     vp-1-3-8-1:
@@ -5649,6 +5677,12 @@ es-AR:
       name: "Parlantes de gama media"
     vp-1-3-9:
       name: "Parlante subwoofer para automóviles"
+    vp-1-4-1-10:
+      name: "Platos de freno"
+    vp-1-4-1-13:
+      name: "Mangueras de freno"
+    vp-1-4-1-8:
+      name: "Discos de freno"
     vp-1-4-11-1:
       name: "Espejos de auto"
     vp-1-4-11-2:
@@ -5657,6 +5691,14 @@ es-AR:
       name: "Alfombras"
     vp-1-4-12-4:
       name: "Lamparitas"
+    vp-1-4-12-8:
+      name: "Luces de giro"
+    vp-1-4-16-14:
+      name: "Sensores de presión absoluta del múltiple (MAP)"
+    vp-1-4-17-2:
+      name: "Resortes helicoidales"
+    vp-1-4-17-4:
+      name: "Ballestas"
     vp-1-4-18-5:
       name: "Frenos de acoplado"
     vp-1-4-18-6:
@@ -5665,14 +5707,40 @@ es-AR:
       name: "Luces del acoplado"
     vp-1-4-18-8:
       name: "Cableado del acoplado"
+    vp-1-4-19-12:
+      name: "Cubrepolvos de junta homocinética"
     vp-1-4-2:
       name: "Tapicería y alfombras para vehículos motorizados"
     vp-1-4-2-4:
       name: "Cubiertas de tablero"
+    vp-1-4-2-6:
+      name: "Revestimientos de techo"
     vp-1-4-2-7:
       name: "Alfombras para baúl"
+    vp-1-4-2-8:
+      name: "Tela de tapicería"
+    vp-1-4-20-1-1:
+      name: "Llantas y ruedas para automóviles"
+    vp-1-4-21-3:
+      name: "Burletes de ventanillas"
+    vp-1-4-3-1:
+      name: "Compresores de aire acondicionado"
+    vp-1-4-3-2:
+      name: "Condensadores de aire acondicionado"
+    vp-1-4-3-3:
+      name: "Evaporadores de aire acondicionado"
+    vp-1-4-3-4:
+      name: "Mangueras de aire acondicionado"
+    vp-1-4-3-8:
+      name: "Radiadores de calefacción"
     vp-1-4-9-1:
       name: "Paragolpes"
+    vp-1-4-9-13:
+      name: "Burletes de puerta"
+    vp-1-4-9-4:
+      name: "Parrillas"
+    vp-1-4-9-5:
+      name: "Capots"
     vp-1-5-1:
       name: "Bidones para combustible portátiles"
     vp-1-5-2-1:
