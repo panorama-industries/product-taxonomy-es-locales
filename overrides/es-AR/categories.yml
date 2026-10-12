@@ -2605,6 +2605,10 @@ es-AR:
       name: "Sopapas de bacha"
     ha-15-50-3:
       name: "Sopapas de inodoro"
+    ha-15-80:
+      name: "Llaves"
+    ha-15-80-2:
+      name: "Llaves tubo"
     ha-2-1:
       name: "Mesadas"
     ha-2-10-2:
@@ -2713,8 +2717,26 @@ es-AR:
       name: "Ropa interior y calzoncillos para incontinencia"
     hb-1-11-12:
       name: "Mingitorios portátiles"
+    hb-1-11-7:
+      name: "Protectores de cama"
+    hb-1-11-8:
+      name: "Apósitos para incontinencia"
+    hb-1-13-4:
+      name: "Sistemas de alarma con alfombra de piso"
+    hb-1-14:
+      name: "Etiquetas de identificación y joyería médica"
+    hb-1-15-2:
+      name: "Kits de pruebas de grupo sanguíneo"
+    hb-1-17-1-5:
+      name: "Accesorios para salvaescaleras"
     hb-1-17-3-2:
       name: "Barandas de seguridad para camas"
+    hb-1-17-4:
+      name: "Accesorios para ayudas para caminar"
+    hb-1-17-5:
+      name: "Ayudas para caminar"
+    hb-1-17-5-1:
+      name: "Bastones y bastones para caminar"
     hb-1-18-2:
       name: "Hamacas terapéuticas"
     hb-1-18-2-1:
@@ -2723,8 +2745,12 @@ es-AR:
       name: "Hamacas terapéuticas de plataforma"
     hb-1-18-2-3:
       name: "Hamacas terapéuticas tipo tubo"
+    hb-1-2:
+      name: "Chatas"
     hb-1-20-9:
       name: "Piezas de repuesto para máscaras PAP"
+    hb-1-21:
+      name: "Frascos para muestras"
     hb-1-24-2:
       name: "Fajas para la espalda"
     hb-1-26-1:
@@ -2735,12 +2761,36 @@ es-AR:
       name: "Barbijos quirúrgicos y de procedimiento"
     hb-1-29:
       name: "Accesorios para barbijos"
+    hb-1-3-2-3:
+      name: "Dispositivos de punción"
+    hb-1-3-4:
+      name: "Accesorios para balanzas de peso corporal"
+    hb-1-4-4-1:
+      name: "Plicómetros"
+    hb-1-4-4-2:
+      name: "Balanzas de grasa corporal"
+    hb-1-4-5:
+      name: "Balanzas de peso corporal"
+    hb-1-4-6:
+      name: "Alcoholímetros"
+    hb-1-4-9-2:
+      name: "Tiras de termómetro descartables"
     hb-1-8-2:
       name: "Protectores para yeso y vendajes"
+    hb-1-8-4:
+      name: "Botiquines de primeros auxilios"
     hb-1-8-6:
       name: "Telas adhesivas y vendas"
     hb-1-8-6-1:
       name: "Vendajes adhesivos y curitas"
+    hb-1-9-1:
+      name: "Barras nutricionales"
+    hb-1-9-2:
+      name: "Bebidas y shakes nutricionales"
+    hb-1-9-6:
+      name: "Vitaminas y suplementos"
+    hb-2-3-2:
+      name: "Exhibidores de joyas"
     hb-2-3-6:
       name: "Organizadores de aros"
     hb-3-1-1:
@@ -2801,10 +2851,22 @@ es-AR:
       name: "Correas para anteojos"
     hb-3-19-6:
       name: "Lentes para anteojos de sol"
+    hb-3-2-1-1:
+      name: "Jabón en barra"
+    hb-3-2-1-7-2:
+      name: "Toallitas personales descartables en el inodoro"
+    hb-3-2-2:
+      name: "Sets de regalo con productos de baño y cuidado corporal"
     hb-3-2-5-1-4:
       name: "Repuestos para arqueadores de pestañas"
     hb-3-2-5-1-5:
       name: "Arqueador de pestañas"
+    hb-3-2-5-1-6-3:
+      name: "Espejos de maquillaje de mesa"
+    hb-3-2-5-1-7:
+      name: "Papeles matificantes faciales"
+    hb-3-2-5-1-8-1:
+      name: "Adhesivo para pestañas postizas"
     hb-3-2-5-2-3:
       name: "Separadores de manicuría y pedicuría"
     hb-3-2-5-2-4:
