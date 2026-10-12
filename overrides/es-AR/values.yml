@@ -2375,5 +2375,59 @@ es-AR:
       name: "Castaña de cajú"
     whipped_cream_base__soy:
       name: "Soja"
+    window_glass_tint_level__clear_no_tint:
+      name: "Transparente (sin tinte)"
+    window_glass_tint_level__light_tint:
+      name: "Tinte claro"
+    window_glass_tint_level__medium_tint:
+      name: "Tinte medio"
+    windshield_coverage_area__full_front_windshield_and_hood:
+      name: "Frente completo (parabrisas y capot)"
+    windshield_coverage_area__windshield_and_hood_edge:
+      name: "Parabrisas y borde del capot"
+    windshield_mount_attachment_method__clip/bracket_glass_edge:
+      name: "Clip/soporte (borde de vidrio)"
+    woodwind_care_items_included__pad_paper:
+      name: "Papel para almohadillas"
+    wrestling_dummy_design__ground_bag:
+      name: "Saco de piso"
+    wrestling_dummy_design__ground_grappling:
+      name: "Piso (grappling)"
+    wrist_rest_type__keyboard_and_mouse_set:
+      name: "Conjunto de teclado y mouse"
+    wrist_rest_type__keyboard_wrist_rest:
+      name: "Apoyamuñecas para teclado"
+    wrist_rest_type__mouse_wrist_rest:
+      name: "Apoyamuñecas para mouse"
     yarn_weight_category__sock:
       name: "Media"
+    yo_yo_response_system__response_stickers:
+      name: "Stickers de respuesta"
+    yogurt_base_ingredient__cashew_milk:
+      name: "Leche de castañas de cajú"
+    yogurt_base_ingredient__pea_protein_base:
+      name: "Base de proteína de arveja"
+    zipper_opening_length__full_zip:
+      name: "Cierre completo"
+    zipper_opening_length__half_zip:
+      name: "Medio cierre"
+    zipper_opening_length__neck_zip:
+      name: "Cierre en el cuello"
+    zipper_opening_length__no_zip:
+      name: "Sin cierre"
+    zipper_opening_length__one_third_zip:
+      name: "Cierre de un tercio"
+    zipper_opening_length__quarter_zip:
+      name: "Cierre de un cuarto"
+    zipper_opening_length__three_quarter_zip:
+      name: "Cierre de tres cuartos"
+    zipper_style__full_zip:
+      name: "Cierre completo"
+    zipper_style__half_zip:
+      name: "Medio cierre"
+    zipper_style__quarter_zip:
+      name: "Cierre de un cuarto"
+    zipper_style__three_quarter_zip:
+      name: "Cierre de tres cuartos"
+    zipper_style__zipless:
+      name: "Sin cierre"

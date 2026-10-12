@@ -1,3 +1,41 @@
 ---
 es-AR:
-  return_reasons: {}
+  return_reasons:
+    barrel_size:
+      name: "Tamaño del barril"
+      description: "El diámetro de la buclera o herramienta no es el adecuado para el efecto que se desea."
+    budget:
+      description: "El costo del servicio supera las limitaciones financieras del cliente."
+    connectivity:
+      description: "La capacidad del dispositivo para vincularse con redes u otros dispositivos no es confiable ni suficiente."
+    cups_gaping:
+      description: "Las copas del corpiño no se adaptan al cuerpo y se crean huecos."
+    frame_too_small:
+      description: "Las medidas de la montura de los anteojos no se ajustan adecuadamente al rostro del cliente."
+    heel_too_high:
+      name: "Taco demasiado alto"
+      description: "La altura vertical del taco es demasiado alta para la comodidad o preferencia."
+    heel_too_low:
+      name: "Taco demasiado bajo"
+      description: "La altura vertical del taco es demasiado baja para el gusto del cliente."
+    heel_too_thick:
+      name: "Taco demasiado grueso"
+      description: "El ancho o volumen del taco es excesivo."
+    heel_too_thin:
+      name: "Taco demasiado fino"
+      description: "El ancho del taco carece de suficiente estabilidad o material."
+    laptop_fit:
+      name: "Compatibilidad con notebook"
+      description: "El compartimento o funda no se ajusta a la dimensión de la notebook del cliente."
+    lens_color:
+      description: "El tinte o tono de la lente de los anteojos no es adecuado para el estado visual o la actividad previstos."
+    low_light_performance:
+      description: "El dispositivo captura imágenes o videos de mala calidad en condiciones de poca iluminación."
+    straps_too_long:
+      name: "Breteles demasiado largos"
+    straps_too_short:
+      name: "Breteles demasiado cortos"
+    straps_too_thick:
+      name: "Breteles demasiado gruesos"
+    straps_too_thin:
+      name: "Breteles demasiado finos"

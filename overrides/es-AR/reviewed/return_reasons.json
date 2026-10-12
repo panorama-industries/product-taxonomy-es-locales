@@ -1,1 +1,22 @@
-{}
+{
+  "application": "dd1aa5614b:54c2bdf4b8",
+  "barrel_size": "a7aeee7e92:948e41fe72",
+  "blade_type": "8bf97383fc:ca8b493f18",
+  "budget": "9295970f63:b0d9c865cc",
+  "connectivity": "913bbcde41:2db9d40e45",
+  "cups_gaping": "a3915ab2c4:1ceb46a6c5",
+  "frame_too_small": "476f4c38b9:1f1da9198f",
+  "heel_too_high": "126895464b:ec6fa46c9b",
+  "heel_too_low": "4c66386bff:1ad9d32ad5",
+  "heel_too_thick": "629fdb331a:5622ae6636",
+  "heel_too_thin": "89a4056841:45bea75d91",
+  "laptop_fit": "48171c843a:b061805ec0",
+  "lens_color": "2b8298ea80:b58e318615",
+  "low_light_performance": "fa5d89e958:6e9dcf8268",
+  "mesh_size": "5ad61852c5:eb608b1300",
+  "not_suitable_for_terrain": "daea62c7fe:f58078b10b",
+  "straps_too_long": "cdbfdfcbce:062c0bac75",
+  "straps_too_short": "f4e240d15f:5a6dd46e0a",
+  "straps_too_thick": "832c12e808:400121e70e",
+  "straps_too_thin": "38a6cfdacb:98f2163c05"
+}
