@@ -1351,6 +1351,16 @@ es-AR:
       name: "Grabadores de video digitales"
     el-17-9:
       name: "Servidores de video"
+    el-18:
+      name: "Accesorios para consolas de videojuegos"
+    el-18-1:
+      name: "Bases de carga"
+    el-18-3:
+      name: "Accesorios para consolas de videojuegos para el hogar"
+    el-18-3-2:
+      name: "Skins para consolas de videojuegos"
+    el-19:
+      name: "Consolas de videojuegos"
     el-2-1-1:
       name: "Accesorios para receptores de video y audio"
     el-2-1-1-1:
@@ -1713,26 +1723,46 @@ es-AR:
       name: "Gabinetes para computadoras y servidores"
     el-8-2:
       name: "Soportes para GPS de vehículo"
+    fb:
+      name: "Alimentos, bebidas y tabaco"
+    fb-1-1-5-6:
+      name: "Shochu y soju"
     fb-1-10-2-1:
       name: "Bebidas de castañas de cajú"
     fb-1-10-6:
       name: "Bebidas de arvejas"
+    fb-1-11:
+      name: "Mezclas de bebidas en polvo"
+    fb-1-16-1:
+      name: "Agua con gas"
+    fb-1-16-4:
+      name: "Agua de manantial"
     fb-1-2:
       name: "Suero de manteca"
     fb-1-4:
       name: "Jarabes y bebidas a base de jarabe"
     fb-1-7:
       name: "Jugos, licuados y smoothies"
+    fb-1-7-2:
+      name: "Milkshakes"
     fb-1-7-3:
       name: "Licuados"
     fb-2-1-11:
       name: "Muffins"
+    fb-2-1-12:
+      name: "Facturas y scones"
+    fb-2-1-12-1:
+      name: "Rollos de canela"
     fb-2-1-12-4:
       name: "Hojaldres"
+    fb-2-1-12-9:
+      name: "Facturas danesas"
     fb-2-1-13:
       name: "Pies y tartas"
     fb-2-1-13-2:
       name: "Pies"
+    fb-2-1-14:
+      name: "Shells para tacos y tostadas"
     fb-2-1-16:
       name: "Tortas de luna"
     fb-2-1-17:
@@ -1755,6 +1785,8 @@ es-AR:
       name: "Tortas de frutas"
     fb-2-1-4-1-6:
       name: "Cheesecakes"
+    fb-2-1-5:
+      name: "Tortas para el café"
     fb-2-1-6:
       name: "Galletitas"
     fb-2-1-6-1:
@@ -1767,10 +1799,14 @@ es-AR:
       name: "Galletitas de jengibre y festivas"
     fb-2-1-8:
       name: "Donas"
+    fb-2-1-9:
+      name: "Fudge"
     fb-2-10-2-2:
       name: "Alcauciles enlatados"
     fb-2-10-2-5:
       name: "Morrones enlatados y en frasco"
+    fb-2-10-2-6:
+      name: "Choclo enlatado"
     fb-2-10-3:
       name: "Porotos en lata"
     fb-2-10-7-15:
@@ -1785,8 +1821,12 @@ es-AR:
       name: "Duraznos y pelones"
     fb-2-10-7-5:
       name: "Bananas"
+    fb-2-10-7-6-4:
+      name: "Moras"
     fb-2-10-7-6-7:
       name: "Frutillas"
+    fb-2-10-7-8:
+      name: "Tunas"
     fb-2-10-8-16:
       name: "Choclo"
     fb-2-10-8-2:
@@ -1887,12 +1927,28 @@ es-AR:
       name: "Rebanadas de panceta y embutidos de origen vegetal"
     fb-2-3:
       name: "Bombones y chocolatines"
+    fb-2-3-1:
+      name: "Golosinas"
+    fb-2-3-1-3:
+      name: "Chicles"
+    fb-2-3-1-7:
+      name: "Chupetines"
     fb-2-4-11:
       name: "Mayonesa"
+    fb-2-4-15:
+      name: "Frutas y verduras encurtidas"
+    fb-2-4-17:
+      name: "Relish y chutney"
     fb-2-4-18:
       name: "Aderezos para ensaladas"
+    fb-2-4-21:
+      name: "Salsas agridulces"
     fb-2-4-22:
       name: "Jarabe"
+    fb-2-4-3:
+      name: "Coberturas para postres"
+    fb-2-4-3-1:
+      name: "Coberturas de frutas"
     fb-2-4-3-2:
       name: "Salsa para helado"
     fb-2-5-11:
@@ -1911,22 +1967,42 @@ es-AR:
       name: "Masa para pancitos"
     fb-2-5-17-3:
       name: "Imágenes comestibles y adornos para tortas"
+    fb-2-5-19:
+      name: "Azúcar para algodón de azúcar"
     fb-2-5-22-1:
       name: "Glaseado de crema de manteca"
     fb-2-5-23:
       name: "Jugo de limón y lima"
+    fb-2-5-24:
+      name: "Marshmallows"
+    fb-2-5-27-4:
+      name: "Rellenos de crema y crema pastelera"
     fb-2-5-28:
       name: "Grasa vegetal y grasa de cerdo"
     fb-2-5-28-1:
       name: "Grasa de cerdo"
     fb-2-5-28-2:
       name: "Grasa vegetal"
+    fb-2-5-29:
+      name: "Cultivos iniciadores"
+    fb-2-5-30-2:
+      name: "Azúcar impalpable"
     fb-2-5-30-4:
       name: "Jarabes y néctares"
+    fb-2-5-30-5:
+      name: "Azúcar para algodón de azúcar"
+    fb-2-5-30-6:
+      name: "Azúcar negra"
+    fb-2-5-32:
+      name: "Concentrado de tomate"
     fb-2-5-35:
       name: "Preparados para waffles y panqueques"
+    fb-2-5-39:
+      name: "Crema de marshmallow"
     fb-2-5-40:
       name: "Mezclas para bases de tartas"
+    fb-2-5-5:
+      name: "Polvo de hornear"
     fb-2-5-8:
       name: "Salsas y pastas de porotos"
     fb-2-5-8-4:
@@ -1947,6 +2023,8 @@ es-AR:
       name: "Ghee y manteca clarificada"
     fb-2-6-1-7:
       name: "Manteca saborizada y compuesta"
+    fb-2-6-3:
+      name: "Crema para café"
     fb-2-6-5-1:
       name: "Crema fresca"
     fb-2-6-5-2:
@@ -1957,8 +2035,14 @@ es-AR:
       name: "Crema de manzana"
     fb-2-7-12:
       name: "Cremas de frutas y verduras"
+    fb-2-7-6:
+      name: "Mermeladas y jaleas"
+    fb-2-8:
+      name: "Canastas de comida de regalo"
     fb-2-9:
       name: "Golosinas y postres helados"
+    fb-2-9-2:
+      name: "Helados individuales"
     fb-2-9-2-2:
       name: "Tortas y tartas de helado"
     fb-2-9-3:
