@@ -355,22 +355,50 @@ es-AR:
       name: "Mats para ahormar de rejilla"
     ae-2-1-4-1-2:
       name: "Mats para ahormar entrelazados"
+    ae-2-1-4-10:
+      name: "Marcos, aros y bastidores"
+    ae-2-1-4-10-1:
+      name: "Bastidores para lienzos"
+    ae-2-1-4-10-2:
+      name: "Bastidores de punto de cruz"
     ae-2-1-4-10-5:
       name: "Marcos para patchwork"
+    ae-2-1-4-11:
+      name: "Pistolas de silicona"
+    ae-2-1-4-13:
+      name: "Agujas y ganchos"
     ae-2-1-4-13-1:
       name: "Agujas de crochet"
     ae-2-1-4-13-2-1:
       name: "Agujas para mostacillas"
+    ae-2-1-4-13-2-4:
+      name: "Agujas para acolchado"
+    ae-2-1-4-13-2-5:
+      name: "Agujas de punta aguda"
     ae-2-1-4-14:
       name: "Alfileres de gancho"
     ae-2-1-4-16-3-2:
       name: "Telares mecánicos de piso"
+    ae-2-1-4-16-4-1:
+      name: "Máquinas de coser computarizadas"
+    ae-2-1-4-16-4-4:
+      name: "Máquinas de coser overlock"
     ae-2-1-4-4-3:
       name: "Cutters"
     ae-2-1-4-4-6:
       name: "Biromes y stylus para gofrado"
     ae-2-1-4-4-6-1:
       name: "Biromes de gofrado"
+    ae-2-1-4-4-6-2:
+      name: "Punzones para gofrado"
+    ae-2-1-4-4-7:
+      name: "Descosedores"
+    ae-2-1-4-6-5:
+      name: "Rasquetas para serigrafía"
+    ae-2-1-4-6-7:
+      name: "Plantillas y troqueles"
+    ae-2-1-4-6-8:
+      name: "Marcadores y contadores de puntos"
     ae-2-1-4-6-8-1:
       name: "Marcadores y contadores de crochet"
     ae-2-1-4-6-8-2:
@@ -381,16 +409,56 @@ es-AR:
       name: "Bases de corte"
     ae-2-1-4-9:
       name: "Almohadillas y bases para enfurtido"
+    ae-2-1-5-1:
+      name: "Organizadores de agujas, alfileres y ganchos"
+    ae-2-1-5-1-1:
+      name: "Organizadores de ganchos"
     ae-2-1-5-1-4:
       name: "Alfileteros"
+    ae-2-1-6-1:
+      name: "Patrones para mostacillas"
+    ae-2-1-6-1-1:
+      name: "Patrones de accesorios con mostacillas"
+    ae-2-1-6-1-2:
+      name: "Patrones de joyería con mostacillas"
+    ae-2-1-6-5-1:
+      name: "Patrones de costura de accesorios"
+    ae-2-2-10-1:
+      name: "Accesorios para hinchas"
     ae-2-2-10-1-14:
       name: "Medias"
     ae-2-2-10-1-15:
       name: "Remeras de manga corta"
+    ae-2-2-10-1-2:
+      name: "Gorras"
     ae-2-2-10-1-7:
       name: "Buzos con capucha"
+    ae-2-2-12:
+      name: "Historietas"
+    ae-2-2-3:
+      name: "Cartas coleccionables"
+    ae-2-2-3-1:
+      name: "Cartas de entretenimiento"
+    ae-2-2-3-2:
+      name: "Cartas de juego"
+    ae-2-2-3-3:
+      name: "Cartas coleccionables no deportivas"
+    ae-2-2-3-4:
+      name: "Cartas coleccionables deportivas"
+    ae-2-2-5:
+      name: "Estampillas postales"
+    ae-2-2-5-1:
+      name: "Estampillas conmemorativas"
+    ae-2-2-5-2:
+      name: "Estampillas de serie básica"
+    ae-2-2-5-4:
+      name: "Estampillas individuales"
+    ae-2-2-5-6:
+      name: "Hojas de estampillas"
     ae-2-2-8-2:
       name: "Colectivos y micros"
+    ae-2-6-3-3:
+      name: "Trenes de carga"
     ae-2-7-12-5:
       name: "Soportes y banquetas para baterías"
     ae-2-7-13-1-10:
@@ -403,8 +471,14 @@ es-AR:
       name: "Abrazaderas y boquilleros Rovner"
     ae-2-7-14-5:
       name: "Accesorios para oboe y corno inglés"
+    ae-2-7-3:
+      name: "Afinadores electrónicos"
     ae-2-7-5:
       name: "Banquetas y banquitos"
+    ae-2-7-9-1:
+      name: "Gabinetes para amplificadores de instrumentos musicales"
+    ae-2-7-9-4:
+      name: "Perillas para amplificadores de instrumentos musicales"
     ae-2-8-5-10:
       name: "Redoblantes"
     ae-2-8-5-10-1:
