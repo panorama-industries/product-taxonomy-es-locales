@@ -1787,6 +1787,8 @@ es-AR:
       name: "Bananas"
     fb-2-10-7-6-7:
       name: "Frutillas"
+    fb-2-10-8-16:
+      name: "Choclo"
     fb-2-10-8-2:
       name: "Alcauciles"
     fb-2-10-8-26-7:
@@ -1821,6 +1823,14 @@ es-AR:
       name: "Granos de pochoclo"
     fb-2-11-3:
       name: "Trigo sarraceno"
+    fb-2-12:
+      name: "Carne, mariscos y huevos"
+    fb-2-12-2-2-1:
+      name: "Carne vacuna"
+    fb-2-12-3-1:
+      name: "Mariscos en lata"
+    fb-2-12-3-2:
+      name: "Mariscos frescos y congelados"
     fb-2-15-1:
       name: "Entradas y guarniciones"
     fb-2-15-1-1:
@@ -1835,12 +1845,18 @@ es-AR:
       name: "Adobos secos y sazonadores para parrilla"
     fb-2-17:
       name: "Entremeses y snacks"
+    fb-2-17-10:
+      name: "Chicharrones de cerdo"
     fb-2-17-12:
       name: "Budines y gelatinas"
     fb-2-17-12-1:
       name: "Snacks de budín"
     fb-2-17-13:
       name: "Galletas de arroz inflado"
+    fb-2-17-16:
+      name: "Bizcochuelos envasados"
+    fb-2-17-17:
+      name: "Tortas de arroz glutinoso"
     fb-2-17-17-2:
       name: "Tortas de arroz coreanas tteok y tteokbokki"
     fb-2-17-20:
@@ -1851,6 +1867,8 @@ es-AR:
       name: "Galletitas saladas"
     fb-2-17-6:
       name: "Croutons"
+    fb-2-17-8:
+      name: "Charqui"
     fb-2-17-9:
       name: "Pochoclo"
     fb-2-17-9-1:
@@ -1861,6 +1879,10 @@ es-AR:
       name: "Granos de maíz para pochoclo"
     fb-2-17-9-4:
       name: "Sazonadores y mezclas para pochoclo"
+    fb-2-19-1:
+      name: "Alternativas al queso"
+    fb-2-19-2:
+      name: "Alternativas a la carne"
     fb-2-19-2-3:
       name: "Rebanadas de panceta y embutidos de origen vegetal"
     fb-2-3:
@@ -1949,6 +1971,12 @@ es-AR:
       name: "Cigarros"
     fb-3-5:
       name: "Tabaco para armar"
+    fr:
+      name: "Muebles"
+    fr-1:
+      name: "Muebles para bebés y niños pequeños"
+    fr-1-1:
+      name: "Conjuntos de muebles para bebés y niños pequeños"
     fr-1-11:
       name: "Torres de aprendizaje y banquetas de ayuda para la cocina"
     fr-1-12:
@@ -1957,6 +1985,8 @@ es-AR:
       name: "Almohadones y cuñas de soporte para moisés"
     fr-1-3-12:
       name: "Reposeras y nidos para bebés"
+    fr-1-3-3:
+      name: "Moisés de colecho"
     fr-1-5-1-3:
       name: "Polleras para cunas"
     fr-1-6-4:
@@ -2003,10 +2033,14 @@ es-AR:
       name: "Almohadones para muebles de exterior"
     fr-2-1:
       name: "Accesorios para camas y sommiers"
+    fr-2-1-2:
+      name: "Barandas de cama"
     fr-2-2:
       name: "Camas y sommiers"
     fr-2-2-2:
       name: "Cuchetas y estructuras de cuchetas"
+    fr-2-3:
+      name: "Piecera"
     fr-2-4:
       name: "Respaldos"
     fr-2-5:
@@ -2015,6 +2049,8 @@ es-AR:
       name: "Sommiers de resortes"
     fr-2-5-3:
       name: "Tablas para cuchetas"
+    fr-2-6-3:
+      name: "Colchones de resortes"
     fr-24-6:
       name: "Mesas de luz"
     fr-3-2-10:
@@ -2111,6 +2147,8 @@ es-AR:
       name: "Placards para niños"
     fr-4-4-8:
       name: "Placards empotrados"
+    fr-4-5:
+      name: "Cómodas"
     fr-4-6:
       name: "Archiveros"
     fr-4-8:
