@@ -5777,6 +5777,8 @@ es-AR:
       name: "Llantas y ruedas para automóviles"
     vp-1-4-21-3:
       name: "Burletes de ventanillas"
+    vp-1-4-22-5:
+      name: "Racores para mangueras"
     vp-1-4-3-1:
       name: "Compresores de aire acondicionado"
     vp-1-4-3-2:
@@ -5805,10 +5807,14 @@ es-AR:
       name: "Shampoo para autos"
     vp-1-5-2-6-1:
       name: "Cera para autos"
+    vp-1-5-3-1:
+      name: "Cubiertas para carritos de golf"
     vp-1-5-3-3:
       name: "Cubiertas de caja para camionetas"
     vp-1-5-3-6-2:
       name: "Cubiertas para almacenamiento de carros de golf"
+    vp-1-5-3-6-5:
+      name: "Cubiertas para almacenamiento de embarcaciones"
     vp-1-5-4-1:
       name: "Stickers para paragolpes"
     vp-1-5-4-10:
@@ -5819,12 +5825,34 @@ es-AR:
       name: "Monturas y soportes para patentes de vehículos"
     vp-1-5-4-13:
       name: "Patentes de vehículos"
+    vp-1-5-4-16:
+      name: "Fundas para palancas de cambios de vehículos"
+    vp-1-5-4-17:
+      name: "Perillas para palancas de cambios de vehículos"
     vp-1-5-4-2:
       name: "Aromatizantes para vehículos"
     vp-1-5-4-4:
       name: "Accesorios para tablero de vehículos"
+    vp-1-5-4-8:
+      name: "Emblemas para vehículos y adornos para capot"
     vp-1-5-4-9:
       name: "Cubiertas para enganches de acoplados para vehículos"
+    vp-1-5-5-6:
+      name: "Grasas para vehículos"
+    vp-1-5-6-2:
+      name: "Pintura para pinzas de freno de vehículos motorizados"
+    vp-1-5-7-11-2:
+      name: "Caballetes para vehículos"
+    vp-1-5-7-4:
+      name: "Probadores de baterías para vehículos"
+    vp-1-5-7-8:
+      name: "Cables de arranque para vehículos"
+    vp-1-5-7-9-1-1:
+      name: "Rompe talones"
+    vp-1-5-7-9-1-7:
+      name: "Protectores de llantas"
+    vp-1-6-1-10:
+      name: "Protectores de cuello para motocicleta"
     vp-1-6-1-4:
       name: "Antiparras para motocicletas"
     vp-1-6-1-9:
@@ -5835,22 +5863,62 @@ es-AR:
       name: "Cepos para autos"
     vp-1-6-4-1:
       name: "Redes para ventanas de auto"
+    vp-1-6-4-2:
+      name: "Bengalas de emergencia para ruta"
     vp-1-6-7-10:
       name: "Antiparras de carreras"
+    vp-1-6-7-13:
+      name: "Pasamontañas de carreras"
     vp-1-6-7-14:
       name: "Shorts protectores para carreras"
     vp-1-6-7-3:
       name: "Antiparras para vehículos ATV y UTV"
+    vp-1-7-1-2:
+      name: "Redes de carga para caja de camioneta"
     vp-1-7-1-3:
       name: "Redes de carga para baúl"
     vp-1-7-3-7:
       name: "Portaequipajes para motocicletas y scooters"
     vp-1-7-5:
       name: "Acoplados para vehículos motorizados"
+    vp-1-7-5-4:
+      name: "Tráilers utilitarios y de carga"
     vp-1-7-6:
       name: "Bolsas y alforjas para motocicletas"
+    vp-1-7-7:
+      name: "Cajas de almacenamiento y organizadores para caja de camioneta"
     vp-1-7-8:
       name: "Colgadores y ganchos para apoyacabezas de vehículos"
+    vp-1-8-1:
+      name: "Amarre y anclaje"
+    vp-1-8-4-4:
+      name: "Piezas de encendido para embarcaciones"
+    vp-1-8-4-5:
+      name: "Impulsores para embarcaciones"
+    vp-1-8-4-6:
+      name: "Trabas para motores de embarcaciones"
+    vp-1-8-5:
+      name: "Motores para embarcaciones"
+    vp-1-8-5-3:
+      name: "Motores de trolling"
+    vp-1-8-6-1:
+      name: "Colectores para embarcaciones"
+    vp-1-8-9-2:
+      name: "Timones para embarcaciones"
+    vp-2-1:
+      name: "Aeronaves"
+    vp-2-1-1-10:
+      name: "Jets grandes"
+    vp-2-1-1-12:
+      name: "Aviones livianos"
+    vp-2-1-1-6:
+      name: "Jets livianos"
+    vp-2-1-1-7:
+      name: "Jets muy livianos"
+    vp-2-1-1-9:
+      name: "Super jets de tamaño mediano"
+    vp-2-1-2-1:
+      name: "Globos aerostáticos"
     vp-2-2-1:
       name: "Autos, camiones y utilitarios"
     vp-2-2-1-1-1:
@@ -5869,6 +5937,8 @@ es-AR:
       name: "Colectivos y micros"
     vp-2-2-7-1-1:
       name: "Colectivos urbanos"
+    vp-2-2-7-1-2:
+      name: "Micros de larga distancia"
     vp-2-2-7-1-3:
       name: "Micros escolares"
     vp-2-2-7-1-5:
@@ -5877,3 +5947,7 @@ es-AR:
       name: "Colectivos articulados"
     vp-2-2-8-1-3-3:
       name: "Utilitarios de policía"
+    vp-2-3:
+      name: "Embarcaciones"
+    vp-2-3-2:
+      name: "Motos de agua"

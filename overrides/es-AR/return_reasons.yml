@@ -1,11 +1,50 @@
 ---
 es-AR:
   return_reasons:
+    age:
+      description: "La edad, añada o fecha de producción del producto no es la esperada."
+    amperage:
+      description: "La corriente eléctrica nominal no es adecuada para los requisitos del dispositivo o sistema del cliente."
+    animal_didnt_like:
+      description: "El animal se negó a consumir o interactuar con el producto."
+    animal_refused:
+      description: "El animal no quiso usar ni consumir el producto."
+    arrived_late:
+      description: "La entrega se produjo después de la fecha prevista o del tiempo requerido."
+    assembly:
+      name: "Armado"
+      description: "El producto requiere armado pero el cliente esperaba que viniera ya armado."
+    baby_refused:
+      description: "El bebé no quiso usar el artículo ni lo aceptó."
+    balance:
+      description: "La distribución de peso del artículo afecta a su manejo o estabilidad de forma no deseable."
+    band_rolls_down:
+      name: "La banda se desliza hacia abajo"
+    band_rolls_up:
+      name: "La banda se desliza hacia arriba"
+    band_too_big:
+      description: "El talle de la banda es demasiado grande, lo que impide un ajuste seguro al cuerpo."
+    band_too_loose:
+      description: "El talle de la banda no se ajusta de forma segura."
+    band_too_small:
+      description: "El talle de la banda es demasiado pequeño, por lo que aprieta el cuerpo."
     barrel_size:
       name: "Tamaño del barril"
       description: "El diámetro de la buclera o herramienta no es el adecuado para el efecto que se desea."
     budget:
       description: "El costo del servicio supera las limitaciones financieras del cliente."
+    buttons_not_accessible:
+      description: "La funda o cubierta bloquea los controles del dispositivo y eso impide su uso."
+    caused_irritation:
+      description: "El producto provocó molestias físicas o en la piel."
+    changed_my_mind:
+      name: "Cambié de opinión"
+    closeness:
+      name: "Cercanía del afeitado"
+    collar_too_loose:
+      description: "El cuello de la prenda no se ajusta de manera segura alrededor del cuello."
+    color:
+      description: "El tono, el matiz o la apariencia visual del artículo no se ajusta a las preferencias o expectativas del cliente."
     connectivity:
       description: "La capacidad del dispositivo para vincularse con redes u otros dispositivos no es confiable ni suficiente."
     cups_gaping:
