@@ -5027,12 +5027,18 @@ es-AR:
       name: "Kites de kitesurf"
     sg-4-1-5-8-4:
       name: "Waveskis"
+    sg-4-1-6-16:
+      name: "Snorkels para natación"
     sg-4-1-6-2:
       name: "Paletas de natación"
     sg-4-1-6-8:
       name: "Accesorios para anteojos y máscaras de natación"
+    sg-4-1-6-8-1:
+      name: "Lentes para antiparras"
     sg-4-1-6-8-2:
       name: "Fundas para anteojos y máscaras de natación"
+    sg-4-1-6-8-3:
+      name: "Tratamientos antiempañantes"
     sg-4-1-6-8-4:
       name: "Correas para anteojos de natación"
     sg-4-1-6-9:
@@ -5043,10 +5049,20 @@ es-AR:
       name: "Cuerdas y manubrios para kneeboard"
     sg-4-1-7-2:
       name: "Lanchas inflables y botes remolcables"
+    sg-4-1-7-3:
+      name: "Guantes para deportes acuáticos remolcados"
+    sg-4-1-7-4:
+      name: "Wakeboarding"
+    sg-4-1-7-4-3:
+      name: "Tablas de wakeboard"
+    sg-4-1-7-5-4-2:
+      name: "Esquís acuáticos de slalom"
     sg-4-1-7-6-1:
       name: "Cuerdas y manubrios para esquí acuático"
     sg-4-1-7-6-2:
       name: "Cuerdas y manubrios para wakeboard y wakesurf"
+    sg-4-1-8-2:
+      name: "Estantes para almacenar tablas para deportes acuáticos"
     sg-4-10-8:
       name: "Sorbetes para sistemas de hidratación"
     sg-4-12-1-3:
@@ -5141,6 +5157,8 @@ es-AR:
       name: "Duchas e inodoros portátiles"
     sg-4-2-11-2:
       name: "Mingitorios e inodoros portátiles"
+    sg-4-2-11-2-2-4:
+      name: "Bolsas urinarias descartables"
     sg-4-2-11-3:
       name: "Canillas de agua portátiles"
     sg-4-2-11-5:
@@ -5203,16 +5221,40 @@ es-AR:
       name: "Carpas túnel"
     sg-4-2-19:
       name: "Accesorios para hamacas paraguayas de camping"
+    sg-4-2-2-6:
+      name: "Pavas de camping"
     sg-4-2-20:
       name: "Hamacas paraguayas de camping"
+    sg-4-2-22:
+      name: "Anafes de camping"
     sg-4-2-4-3:
       name: "Biromes para camping"
+    sg-4-2-4-5:
+      name: "Escarbadientes para camping"
+    sg-4-2-9:
+      name: "Mosquiteros"
+    sg-4-2-9-1:
+      name: "Mosquiteros tipo caja"
+    sg-4-2-9-2:
+      name: "Mosquiteros piramidales"
     sg-4-2-9-3:
       name: "Mosquiteros para hamacas paraguayas"
+    sg-4-3-1-1:
+      name: "Dispositivos de figura 8"
+    sg-4-3-11:
+      name: "Bolsas para cuerda de escalada"
+    sg-4-3-13-1:
+      name: "Piolets para escalada en hielo"
+    sg-4-3-13-3:
+      name: "Tornillos para escalada en hielo"
+    sg-4-3-16:
+      name: "Cintas express"
     sg-4-3-3-10:
       name: "Camperas de escalada"
     sg-4-3-3-9:
       name: "Anteojos de aseguramiento"
+    sg-4-3-4:
+      name: "Ascendedores y descensores para escalada"
     sg-4-4-1-1:
       name: "Bolsas y alforjas para bicicletas"
     sg-4-4-1-1-1-3:
@@ -5231,14 +5273,20 @@ es-AR:
       name: "Puños de manubrio para bicicleta"
     sg-4-4-1-12-4:
       name: "Tapones y tapas de extremo de manubrio para bicicleta"
+    sg-4-4-1-13-10:
+      name: "Precintos plásticos para bicicletas"
     sg-4-4-1-13-5:
       name: "Anclajes de piso para bicicletas"
     sg-4-4-1-15-6:
       name: "Bombas de piso para bicicleta"
     sg-4-4-1-16:
       name: "Almohadillas y fundas para asientos de bicicleta"
+    sg-4-4-1-17:
+      name: "Bombas para horquillas de bicicleta"
     sg-4-4-1-19-3:
       name: "Soportes de piso para bicicleta"
+    sg-4-4-1-2:
+      name: "Canastas para bicicletas"
     sg-4-4-1-22-1-1:
       name: "Pinzas para eslabones rápidos de bicicleta"
     sg-4-4-1-23:
@@ -5249,10 +5297,20 @@ es-AR:
       name: "Acoplados de bicicleta para niños"
     sg-4-4-1-23-4:
       name: "Acoplados de carga para bicicleta"
+    sg-4-4-1-24:
+      name: "Rodillos de entrenamiento para bicicletas"
+    sg-4-4-1-24-1:
+      name: "Rodillos de fluido para bicicleta"
+    sg-4-4-1-24-2:
+      name: "Rodillos magnéticos para bicicleta"
+    sg-4-4-1-24-4:
+      name: "Rodillos de viento para bicicleta"
     sg-4-4-1-26:
       name: "Valijas y bolsas de transporte para bicicletas"
     sg-4-4-1-27:
       name: "Soportes para tablas de deportes acuáticos para bicicletas"
+    sg-4-4-1-31:
+      name: "Soportes de celular para bicicleta"
     sg-4-4-1-37:
       name: "Piezas y accesorios para acoplados de bicicletas"
     sg-4-4-1-5-2:
@@ -5271,8 +5329,16 @@ es-AR:
       name: "Potencias para bicicletas"
     sg-4-4-2-23-1:
       name: "Apoyapiés para bicicletas"
+    sg-4-4-2-4:
+      name: "Piezas de transmisión para bicicletas"
+    sg-4-4-2-4-1:
+      name: "Cajas de pedalier para bicicletas"
+    sg-4-4-2-4-6:
+      name: "Desviadores para bicicletas"
     sg-4-4-2-4-8-2:
       name: "Palancas de cambio de extremo de manubrio"
+    sg-4-4-2-4-8-4:
+      name: "Palancas integradas de freno y cambio"
     sg-4-4-2-8:
       name: "Extensiones para manubrios de bicicleta"
     sg-4-4-2-9:
