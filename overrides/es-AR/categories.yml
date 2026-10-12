@@ -1409,18 +1409,34 @@ es-AR:
       name: "Rockolas"
     el-2-6-2:
       name: "Parlantes de instalación y locución"
+    el-3-2:
+      name: "Decodificadores y codificadores de circuitos"
+    el-3-3-1:
+      name: "Protoboards"
+    el-3-6:
+      name: "Placas de circuito impreso"
+    el-3-6-3:
+      name: "Placas de desarrollo"
+    el-3-6-5-3:
+      name: "Placas de circuito de secarropas"
+    el-3-6-5-5:
+      name: "Placas de circuito de horno y cocina"
     el-3-6-5-6:
       name: "Placas de circuito de heladera"
     el-3-6-5-7:
       name: "Placas de circuito de lavarropas"
     el-3-6-6:
       name: "Placas de circuitos para piletas y spa"
+    el-4-4-2:
+      name: "Radios de banda ciudadana (CB)"
     el-4-5-1:
       name: "Unidades de parlante"
     el-4-8-4:
       name: "Accesorios para celulares y teléfonos inteligentes"
     el-4-8-4-1:
       name: "Accesorios para cámaras de celulares"
+    el-4-8-4-1-3:
+      name: "Disparadores remotos"
     el-4-8-4-10:
       name: "Soportes y empuñaduras para celulares"
     el-4-8-4-11:
@@ -1477,6 +1493,14 @@ es-AR:
       name: "Soportes para celulares en el auto"
     el-4-8-5:
       name: "Celulares y smartphones"
+    el-5-2-1:
+      name: "Convertidores de audio"
+    el-5-5:
+      name: "Divisores"
+    el-6-2:
+      name: "Servidores"
+    el-6-3:
+      name: "Computadoras de escritorio"
     el-6-6:
       name: "Notebooks"
     el-6-7:
@@ -1513,6 +1537,8 @@ es-AR:
       name: "Cables de audio y video"
     el-7-7-1-10:
       name: "Cables de parlante"
+    el-7-7-4:
+      name: "Cables de red"
     el-7-8-13:
       name: "Stickers y calcomanías para teclado"
     el-7-8-2-2:
@@ -1525,12 +1551,18 @@ es-AR:
       name: "Almohadillas de enfriamiento para notebook"
     el-7-8-3-4:
       name: "Soportes para notebook"
+    el-7-8-4-3:
+      name: "Accesorios para tablets"
     el-7-8-5:
       name: "Apoyamuñecas para teclado y mouse"
     el-7-8-7:
       name: "Estaciones de conexión para notebooks"
     el-7-8-8:
       name: "Mouse pads"
+    el-7-8-9:
+      name: "Puntas y repuestos para lápiz óptico"
+    el-7-9-1-3:
+      name: "Kits de rieles para servidor"
     el-7-9-10-5:
       name: "Tarjetas de video"
     el-7-9-11-2:
@@ -1591,10 +1623,26 @@ es-AR:
       name: "Ventiladores de enfriamiento y disipadores de calor para notebook"
     el-7-9-15-2:
       name: "Parlantes de repuesto para tablets"
+    el-7-9-2-5:
+      name: "Protectores de entrada/salida de placa madre"
+    el-7-9-5:
+      name: "Racks y soportes para computadoras"
+    el-7-9-5-1:
+      name: "Rieles de montaje en rack y accesorios"
+    el-7-9-5-2:
+      name: "Paneles de rack"
+    el-7-9-5-3:
+      name: "Estantes y bandejas de rack"
+    el-7-9-6:
+      name: "Kits de inicio para computadoras"
     el-7-9-7-1:
       name: "Coolers de CPU líquidos todo en uno"
+    el-7-9-7-2:
+      name: "Ventiladores para gabinete de computadora"
     el-7-9-7-3:
       name: "Coolers de aire y disipadores de calor para CPU"
+    el-7-9-8:
+      name: "Gabinetes para computadoras y servidores"
     fb-1-10-2-1:
       name: "Bebidas de castañas de cajú"
     fb-1-10-6:
