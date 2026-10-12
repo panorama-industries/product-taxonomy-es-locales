@@ -731,6 +731,10 @@ es-AR:
       name: "Cornos ingleses"
     ae-2-8-8-9-2:
       name: "Oboes"
+    ae-3-1-1:
+      name: "Alfileres para corsages y flores de solapa"
+    ae-3-1-2:
+      name: "Corsages y flores de solapa"
     ae-3-2-11:
       name: "Sorbetes y agitadores"
     ae-3-2-12:
@@ -741,8 +745,22 @@ es-AR:
       name: "Espantasuegras y petardos"
     ae-3-2-17-4:
       name: "Espantasuegras"
+    ae-3-2-18:
+      name: "Souvenirs para fiestas"
+    ae-3-2-20:
+      name: "Gorros para fiestas"
+    ae-3-2-21:
+      name: "Cortinas y guirnaldas"
+    ae-3-2-21-1:
+      name: "Serpentinas de papel crepé"
     ae-3-2-6-1:
       name: "Lazos en forma de moño"
+    ap-2-1-1-1:
+      name: "Bañaderas para jaulas de pájaros"
+    ap-2-1-2:
+      name: "Jaulas y soportes para pájaros"
+    ap-2-1-5:
+      name: "Escaleras y perchas para pájaros"
     ap-2-1-5-2:
       name: "Hamacas y juguetes colgantes"
     ap-2-12:
@@ -767,12 +785,24 @@ es-AR:
       name: "Transportadoras que pueden rodar"
     ap-2-16-9:
       name: "Canguros y transportadoras portátiles"
+    ap-2-18-3:
+      name: "Corrales de ejercicio"
+    ap-2-19:
+      name: "Accesorios para puertas para mascotas"
     ap-2-2-4-2:
       name: "Alfombras para cajones de gatos"
     ap-2-23-3:
       name: "Shampoos contra pulgas y garrapatas"
+    ap-2-24-1:
+      name: "Tapas para latas"
+    ap-2-26-1-1:
+      name: "Cepillos"
     ap-2-26-2:
       name: "Sprays desodorantes y colonias para mascotas"
+    ap-2-26-3-2:
+      name: "Cuchillas para cortapelos"
+    ap-2-26-3-3:
+      name: "Cortapelos"
     ap-2-26-6:
       name: "Herramientas de manicuría para mascotas"
     ap-2-26-7:
@@ -781,10 +811,32 @@ es-AR:
       name: "Shampoo y acondicionadores 2 en 1"
     ap-2-26-7-3:
       name: "Shampoo"
+    ap-2-27:
+      name: "Accesorios de almohadillas calefactoras para mascotas"
+    ap-2-3-4:
+      name: "Cuchas para perros"
+    ap-2-3-5:
+      name: "Accesorios para cuchas y cercados para perros"
+    ap-2-3-6:
+      name: "Cuchas y cercados para perros"
+    ap-2-3-6-3:
+      name: "Cuchas para perros de interior"
+    ap-2-3-6-4:
+      name: "Cuchas para perros al aire libre"
+    ap-2-3-8:
+      name: "Cintas de correr para perros"
     ap-2-4-10-2:
       name: "Bases para gabinetes"
     ap-2-4-12-6:
       name: "Desintoxicantes de agua de la canilla"
+    ap-2-4-3-5:
+      name: "Sifones para limpiar la grava"
+    ap-2-4-3-6:
+      name: "Esponjas abrasivas"
+    ap-2-4-4-7:
+      name: "Troncos"
+    ap-2-4-5-1:
+      name: "Filtros de acuario externos y de canasta"
     ap-2-4-6-3:
       name: "Redes para medias"
     ap-2-41-2:
@@ -803,6 +855,14 @@ es-AR:
       name: "Galletitas y facturas"
     ap-2-48-2:
       name: "Barreras del baúl"
+    ap-2-5-1:
+      name: "Rampas en A"
+    ap-2-5-3:
+      name: "Pasarelas y rampas para perros"
+    ap-2-5-5:
+      name: "Mesas de pausa"
+    ap-2-5-8:
+      name: "Aros para saltos"
     ap-2-6-15:
       name: "Medias para mascotas"
     ap-2-6-16:
@@ -813,6 +873,8 @@ es-AR:
       name: "Buzos con capucha para mascotas"
     ap-2-6-9:
       name: "Camperas para mascotas"
+    ap-2-9-12:
+      name: "Camas para radiador"
     ap-2-9-5:
       name: "Donas"
     ap-2-9-6:
