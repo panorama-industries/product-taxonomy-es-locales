@@ -5329,10 +5329,24 @@ es-AR:
       name: "Abrazaderas de tija de asiento para bicicletas"
     sg-4-4-2-15:
       name: "Tijas de asiento para bicicletas"
+    sg-4-4-2-16-3:
+      name: "Niples para rayos de bicicleta"
     sg-4-4-2-17:
       name: "Potencias para bicicletas"
     sg-4-4-2-23-1:
       name: "Apoyapiés para bicicletas"
+    sg-4-4-2-23-2:
+      name: "Repuestos para bujes de bicicleta"
+    sg-4-4-2-23-2-3:
+      name: "Cierres rápidos"
+    sg-4-4-2-23-3:
+      name: "Bujes para bicicletas"
+    sg-4-4-2-23-5:
+      name: "Rayos para bicicletas"
+    sg-4-4-2-23-6:
+      name: "Ejes y cierres rápidos para bicicletas"
+    sg-4-4-2-23-7:
+      name: "Niples para ruedas de bicicleta"
     sg-4-4-2-4:
       name: "Piezas de transmisión para bicicletas"
     sg-4-4-2-4-1:
@@ -5347,6 +5361,20 @@ es-AR:
       name: "Extensiones para manubrios de bicicleta"
     sg-4-4-2-9:
       name: "Manubrios para bicicletas"
+    sg-4-4-3-11:
+      name: "Bicicletas de ruta"
+    sg-4-4-3-6:
+      name: "Fat bikes"
+    sg-4-4-4:
+      name: "Indumentaria y accesorios de ciclismo"
+    sg-4-4-4-1:
+      name: "Accesorios para calas de bicicleta"
+    sg-4-4-4-1-1:
+      name: "Tornillos para calas de bicicleta"
+    sg-4-4-4-1-2:
+      name: "Cubrecalas para bicicleta"
+    sg-4-4-4-1-3:
+      name: "Cuñas y separadores para calas de bicicleta"
     sg-4-4-4-12:
       name: "Medias de ciclismo"
     sg-4-4-4-13:
@@ -5359,20 +5387,64 @@ es-AR:
       name: "Shorts y culotes cortos de ciclismo"
     sg-4-4-4-6-3:
       name: "Canilleras para bicicleta"
+    sg-4-4-4-7:
+      name: "Cubrezapatillas de ciclismo"
     sg-4-4-4-9:
       name: "Camisetas de ciclismo"
+    sg-4-4-5-1:
+      name: "Canastos para triciclos"
     sg-4-5-1-3:
       name: "Alimento balanceado para caballos"
+    sg-4-5-1-5-2-3:
+      name: "Removedores de pelo muerto para caballos"
+    sg-4-5-1-5-2-5:
+      name: "Utensilios de aseo para caballos"
     sg-4-5-1-5-3:
       name: "Shampoos y acondicionadores para caballos"
     sg-4-5-2-1-3:
       name: "Bocados de filete para caballos"
+    sg-4-5-3:
+      name: "Accesorios para arreos de caballos"
+    sg-4-5-3-1:
+      name: "Cajas para arreos de caballos"
     sg-4-5-3-2-2:
       name: "Cubiertas y fundas para monturas"
+    sg-4-5-3-2-6:
+      name: "Correas de silla y látigos"
+    sg-4-5-4:
+      name: "Accesorios para volteo ecuestre"
+    sg-4-5-4-1:
+      name: "Cubiertas de volteo"
+    sg-4-5-4-2:
+      name: "Riendas de volteo"
+    sg-4-5-4-3:
+      name: "Soportes de volteo"
+    sg-4-5-5-3-2:
+      name: "Látigos para lonjear"
     sg-4-5-5-4-1:
       name: "Calzas de equitación"
+    sg-4-6-10-2:
+      name: "Soportes y estantes para cañas de pescar"
+    sg-4-6-11-1:
+      name: "Cañas de pescar baitcasting"
+    sg-4-6-11-8:
+      name: "Cañas de pescar de surfcasting"
+    sg-4-6-13-1:
+      name: "Carnadas y señuelos de pesca"
+    sg-4-6-13-1-10:
+      name: "Señuelos artificiales de plástico blando"
+    sg-4-6-13-1-13:
+      name: "Aditivos y atrayentes para carnadas de pesca"
+    sg-4-6-13-1-16:
+      name: "Carnadas molidas y mezclas en stick para pesca"
+    sg-4-6-13-1-4:
+      name: "Plugs artificiales de pesca"
     sg-4-6-13-1-6-1:
       name: "Cucharitas giratorias de pesca en línea"
+    sg-4-6-13-1-7:
+      name: "Cucharitas artificiales de pesca"
+    sg-4-6-13-1-8:
+      name: "Swimbaits artificiales de pesca"
     sg-4-6-13-5:
       name: "Mosquetones y destorcedores para pesca"
     sg-4-6-14-4:
@@ -5403,6 +5475,10 @@ es-AR:
       name: "Pececitos y peces ventosa vivos"
     sg-4-6-17:
       name: "Bolsas y cajas para aparejos de pesca"
+    sg-4-6-3-2:
+      name: "Bolsas para carnada molida"
+    sg-4-6-3-3:
+      name: "Cajas y recipientes para carnada"
     sg-4-6-3-4:
       name: "Baldes para cebo"
     sg-4-6-5-11:
@@ -5411,8 +5487,16 @@ es-AR:
       name: "Mechas para cebo"
     sg-4-6-5-21:
       name: "Pinzas y cortadores de línea de pesca"
+    sg-4-6-5-3:
+      name: "Pistolas para carnada"
     sg-4-6-6:
       name: "Tanzas y emerillones de pesca"
+    sg-4-6-7-2:
+      name: "Tarrafas"
+    sg-4-6-8-3:
+      name: "Bobinas de repuesto para carretes de pesca"
+    sg-4-6-9-1:
+      name: "Carretes de pesca baitcasting"
     sg-4-7-1:
       name: "Herramientas para divots"
     sg-4-7-14-2:
