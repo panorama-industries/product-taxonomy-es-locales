@@ -2353,8 +2353,16 @@ es-AR:
       name: "Plomería"
     ha-10-1:
       name: "Accesorios de plomería"
+    ha-10-1-1:
+      name: "Juntas y o-rings"
     ha-10-1-10:
       name: "Válvulas de plomería"
+    ha-10-1-10-2:
+      name: "Válvulas de retención"
+    ha-10-1-4:
+      name: "Adaptadores y bujes para tuberías"
+    ha-10-1-6-2:
+      name: "Uniones"
     ha-10-1-7:
       name: "Bridas para plomería"
     ha-10-1-9:
@@ -2373,6 +2381,12 @@ es-AR:
       name: "Canillas desviadoras"
     ha-10-2-1-3-2:
       name: "Canillas sin desvío"
+    ha-10-2-2-1:
+      name: "Tapas y coladores de desagüe"
+    ha-10-2-2-1-1:
+      name: "Tapas de desagüe"
+    ha-10-2-2-1-2:
+      name: "Coladores de desagüe"
     ha-10-2-2-4:
       name: "Destapacañerías"
     ha-10-2-2-7:
@@ -2387,16 +2401,32 @@ es-AR:
       name: "Aireadores para canillas"
     ha-10-2-4-2:
       name: "Manivelas para canillas"
+    ha-10-2-4-2-1:
+      name: "Manijas en cruz"
+    ha-10-2-4-2-2:
+      name: "Manijas de pomo"
+    ha-10-2-4-2-3:
+      name: "Manijas de palanca"
     ha-10-2-6-1:
       name: "Boquillas de chorro para bañaderas y duchas"
+    ha-10-2-6-2-2:
+      name: "Duchas a presión"
+    ha-10-2-6-4:
+      name: "Bases de ducha"
+    ha-10-2-6-5:
+      name: "Columnas de ducha"
     ha-10-2-7:
       name: "Accesorios de bacha"
     ha-10-2-7-1:
       name: "Patas de bacha"
+    ha-10-2-8:
+      name: "Accesorios para inodoro y bidé"
     ha-10-2-8-2:
       name: "Canillas y pulverizadores para bidés"
     ha-10-2-8-2-1:
       name: "Canillas para bidés"
+    ha-10-2-8-3:
+      name: "Asientos para inodoros y bidés"
     ha-10-3:
       name: "Piezas de plomería"
     ha-10-3-2:
@@ -2415,6 +2445,8 @@ es-AR:
       name: "Canillas para bañaderas y duchas"
     ha-10-3-3-3:
       name: "Canillas para bacha de cocina"
+    ha-10-3-4:
+      name: "Kits y bases de ducha"
     ha-10-3-5:
       name: "Bachas"
     ha-10-3-5-1:
@@ -2433,6 +2465,10 @@ es-AR:
       name: "Bachas de granja"
     ha-10-3-5-2-3:
       name: "Bachas bajo mesada"
+    ha-10-3-6:
+      name: "Inodoros y bidés"
+    ha-10-3-6-2:
+      name: "Inodoros"
     ha-10-3-6-3:
       name: "Mingitorios"
     ha-10-4-1:
@@ -2445,16 +2481,54 @@ es-AR:
       name: "Kits de reparación para plomería"
     ha-10-6-1:
       name: "Kits de reparación de canillas"
+    ha-10-7-5:
+      name: "Sal para ablandadores de agua"
+    ha-10-7-6:
+      name: "Ablandadores de agua"
+    ha-10-7-6-1:
+      name: "Ablandadores de agua a base de sal"
+    ha-10-7-6-2:
+      name: "Ablandadores de agua sin sal"
+    ha-11-10-1-1:
+      name: "Dimmers"
+    ha-11-10-2-1:
+      name: "Interruptores de final de carrera"
+    ha-11-12:
+      name: "Accesorios para alargues"
+    ha-11-13:
+      name: "Alargues eléctricos"
     ha-11-17:
       name: "Tomas telefónicas y de datos"
+    ha-11-2-1:
+      name: "Balastos electrónicos"
+    ha-11-2-2:
+      name: "Balastos magnéticos"
+    ha-11-21:
+      name: "Tomacorrientes y enchufes"
     ha-11-21-1:
       name: "Enchufes de piso"
+    ha-11-21-2:
+      name: "Tomacorrientes emergentes"
+    ha-11-21-3:
+      name: "Tomacorrientes de pared"
+    ha-11-25-2:
+      name: "Tapas para tomacorrientes"
+    ha-11-4:
+      name: "Tableros eléctricos"
+    ha-11-4-1:
+      name: "Tableros principales"
+    ha-11-4-2:
+      name: "Subtableros"
+    ha-14-1-1:
+      name: "Cabinas de arenado"
     ha-14-1-1-1:
       name: "Gabinetes para mesada"
     ha-14-1-1-2:
       name: "Gabinetes verticales"
     ha-14-10-2:
       name: "Plantillas de router"
+    ha-14-13-3:
+      name: "Accesorios para balanzas"
     ha-14-18-1:
       name: "Fresas para router"
     ha-14-18-1-1:
@@ -2477,6 +2551,18 @@ es-AR:
       name: "Extensiones para mechas de taladro"
     ha-14-4-3:
       name: "Afiladores para mechas"
+    ha-14-4-4:
+      name: "Portamechas"
+    ha-14-4-4-1:
+      name: "Portamechas con llave"
+    ha-14-4-4-2:
+      name: "Portamechas sin llave"
+    ha-14-4-6:
+      name: "Sierras copa"
+    ha-14-7:
+      name: "Accesorios para amoladoras"
+    ha-14-7-1:
+      name: "Muelas y puntas para amoladora"
     ha-14-9:
       name: "Grampas industriales"
     ha-15-1-1:
@@ -2567,8 +2653,28 @@ es-AR:
       name: "Portones de jardín"
     ha-3-6-3:
       name: "Portones de seguridad"
+    ha-5-1:
+      name: "Bidones de diésel"
     ha-5-3:
       name: "Bidones de nafta"
+    ha-5-4:
+      name: "Bidones de queroseno"
+    ha-6:
+      name: "Accesorios de ferretería"
+    ha-6-14-1:
+      name: "Anclajes para placas de yeso"
+    ha-6-14-2-11:
+      name: "Clavos de agrimensura"
+    ha-6-14-2-12:
+      name: "Clavos helicoidales"
+    ha-6-14-2-4:
+      name: "Clavos decorativos"
+    ha-6-14-2-9:
+      name: "Clavos para rieles"
+    ha-6-14-6-2:
+      name: "Tornillos para deck"
+    ha-6-14-6-3:
+      name: "Tornillos para placas de yeso"
     ha-6-2:
       name: "Ferretería para muebles"
     ha-6-2-1:
@@ -2581,16 +2687,28 @@ es-AR:
       name: "Puertas de muebles"
     ha-6-2-5:
       name: "Pomos y picaportes de muebles"
+    ha-6-22:
+      name: "Resortes"
     ha-6-24-5:
       name: "Gabinetes para herramientas"
     ha-6-24-5-1:
       name: "Gabinetes con ruedas"
     ha-6-24-5-2:
       name: "Gabinetes fijos"
+    ha-6-5-1:
+      name: "Espirales de compresión"
+    ha-6-5-2:
+      name: "Espirales de extensión"
+    ha-6-5-3:
+      name: "Espirales de torsión"
     ha-7-2:
       name: "Bombas para piletas, fuentes y estanques"
     ha-7-2-3:
       name: "Bombas para piletas"
+    ha-8-3-2:
+      name: "Humidostatos"
+    ha-9-4-1:
+      name: "Pasadores de barril"
     hb-1-11-10:
       name: "Ropa interior y calzoncillos para incontinencia"
     hb-1-11-12:
