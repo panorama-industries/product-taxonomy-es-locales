@@ -10,8 +10,22 @@ es-AR:
       description: "La capacidad del dispositivo para vincularse con redes u otros dispositivos no es confiable ni suficiente."
     cups_gaping:
       description: "Las copas del corpiño no se adaptan al cuerpo y se crean huecos."
+    cups_too_tight:
+      description: "Las copas comprimen o aprietan el pecho de manera incómoda."
+    damaged_packaging:
+      description: "El contenedor exterior llegó en malas condiciones."
+    difficult_to_assemble:
+      name: "Difícil de armar"
+      description: "El proceso de armado del producto es excesivamente difícil, complejo o las instrucciones no son claras."
+    fitment:
+      name: "Compatibilidad"
+    flange_size:
+      name: "Tamaño del embudo"
+      description: "El diámetro de la abertura del embudo del extractor de leche es incorrecto para el usuario, lo que afecta la comodidad o la extracción de leche."
     frame_too_small:
       description: "Las medidas de la montura de los anteojos no se ajustan adecuadamente al rostro del cliente."
+    heat:
+      name: "Picante"
     heel_too_high:
       name: "Taco demasiado alto"
       description: "La altura vertical del taco es demasiado alta para la comodidad o preferencia."
@@ -33,6 +47,24 @@ es-AR:
       description: "El dispositivo captura imágenes o videos de mala calidad en condiciones de poca iluminación."
     mesh_size:
       description: "La separación entre las aberturas de la red o de la malla es demasiado grande o demasiado pequeña."
+    pockets_too_shallow:
+      name: "Bolsillos poco profundos"
+    provider_unavailable:
+      description: "El proveedor del servicio no puede cumplir la solicitud en el momento o lugar deseados."
+    recoil:
+      description: "El movimiento hacia atrás o el golpe del dispositivo es más fuerte de lo que el cliente puede manejar cómodamente."
+    region:
+      description: "El servicio o producto está restringido a un área geográfica diferente a la ubicación del cliente."
+    scale:
+      description: "Las proporciones o relaciones de tamaño del artículo no se ajustan a las expectativas."
+    seal:
+      description: "El sello del artículo no es hermético ni estanco, tal como se requiere."
+    service_area:
+      description: "La zona donde se presta el servicio no cubre el domicilio del cliente."
+    size:
+      name: "Talle"
+    stone_setting:
+      description: "La forma en que las piedras decorativas o gemas se montan no es satisfactoria o no es segura."
     straps_too_long:
       name: "Breteles demasiado largos"
     straps_too_short:
@@ -41,3 +73,19 @@ es-AR:
       name: "Breteles demasiado gruesos"
     straps_too_thin:
       name: "Breteles demasiado finos"
+    temperature_regulation:
+      description: "El material atrapa demasiado calor corporal, lo que provoca que el usuario se sobrecaliente."
+    too_bulky:
+      description: "El artículo ocupa demasiado espacio o es difícil de manejar."
+    too_soft:
+      description: "La flexibilidad o falta de estructura del artículo es mayor de la esperada."
+    too_wide:
+      description: "El ancho del artículo es excesivo para el ajuste, el espacio o el uso previstos."
+    tooth_spacing:
+      description: "La distancia entre los dientes del peine o de la cuchilla no se adapta a las necesidades del cliente."
+    type_too_big:
+      description: "La fuente o el tamaño del carácter es más grande de lo deseado."
+    type_too_small:
+      description: "La fuente o el tamaño del carácter es demasiado pequeño para leerlo cómodamente."
+    warmth:
+      name: "Abrigo"
