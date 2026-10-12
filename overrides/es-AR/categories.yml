@@ -1013,16 +1013,50 @@ es-AR:
       name: "Gabinetes para salas de reconocimiento"
     bi-19-6-1-1:
       name: "Fórceps de curación"
+    bi-19-6-1-4:
+      name: "Pinzas para tejidos"
+    bi-19-7-1:
+      name: "Guantes descartables"
+    bi-19-7-4-1:
+      name: "Removedores de adhesivo"
+    bi-19-8-2-3:
+      name: "Estuches de transporte y traslado para simuladores"
+    bi-19-8-2-4:
+      name: "Insertos de tejido sintético y pieles de repuesto"
+    bi-20-1:
+      name: "Maquinaria para minería y canteras"
+    bi-22-4-2:
+      name: "Accesorios para terminales POS y cajas registradoras"
+    bi-22-4-3:
+      name: "Terminales POS y cajas registradoras"
     bi-22-5-4:
       name: "Bolsas camiseta para compras"
     bi-22-8:
       name: "Utilería y modelos para vidrieras de tiendas"
+    bi-23-2-2:
+      name: "Kits de disección para capacitación"
     bi-23-4-10-4:
       name: "Lamparitas de repuesto para microscopios"
     bi-23-4-6:
       name: "Freezers de laboratorio"
+    bi-23-6-1:
+      name: "Vasos de precipitados"
+    bi-23-6-6:
+      name: "Soportes para tubos de ensayo"
+    bi-24:
+      name: "Cartelería"
+    bi-24-10:
+      name: "Señales de ruta y tránsito"
     bi-24-13:
       name: "Señales para vereda y patio"
+    bi-24-2:
+      name: "Carteles digitales"
+    bi-24-3:
+      name: "Carteles eléctricos"
+    bi-24-3-1:
+      name: "Carteles LED"
+    bi-24-3-2:
+      name: "Carteles de neón"
     bi-24-7:
       name: "Señales de estacionamiento y de entrada de vehículos"
     bi-24-9:
@@ -1103,10 +1137,20 @@ es-AR:
       name: "Calentadores de mamaderas portátiles"
     bt-10-8-5:
       name: "Corpiños de bombeo manos libres"
+    bt-10-9-1:
+      name: "Sacaleches eléctricos dobles"
+    bt-10-9-2:
+      name: "Sacaleches eléctricos"
+    bt-10-9-3:
+      name: "Sacaleches manuales"
     bt-11-1:
       name: "Pelelas"
     bt-11-3:
       name: "Asientos de inodoro y banquitos"
+    bt-4-1-5:
+      name: "Soportes de pared"
+    bt-4-3:
+      name: "Monitores para bebés"
     bt-4-3-1:
       name: "Monitores de audio y video para bebés"
     bt-4-3-3:
@@ -1115,16 +1159,22 @@ es-AR:
       name: "Pulseras de goma y muñequeras absorbentes"
     bt-4-5-1:
       name: "Cerraduras de placard"
+    bt-4-5-5:
+      name: "Tapas para enchufes"
     bt-4-6:
       name: "Barandas de seguridad"
     bt-4-6-1:
       name: "Barandas de seguridad para camas"
     bt-4-6-2:
       name: "Barandas de seguridad para escaleras"
+    bt-5-3:
+      name: "Hamacas y mecedoras para bebés"
     bt-5-4:
       name: "Saltadores y hamacas para bebés"
     bt-5-4-2:
       name: "Hamacas para bebés"
+    bt-5-7:
+      name: "Productos para calmar bebés"
     bt-6-1:
       name: "Sillas para auto"
     bt-6-1-2:
@@ -1149,8 +1199,28 @@ es-AR:
       name: "Protectores de asientos para auto"
     bt-7-1-6:
       name: "Bolsas de viaje para asientos para auto"
+    bt-7-2:
+      name: "Accesorios para portabebés"
+    bt-7-3:
+      name: "Accesorios para cochecitos de bebé"
     bt-7-5:
       name: "Fundas para sillas de comer y changuitos"
+    bt-9-12-2:
+      name: "Pañales descartables"
+    bt-9-12-4:
+      name: "Pañales tipo calzoncito"
+    bt-9-2-2:
+      name: "Toallitas descartables para bebés"
+    bt-9-2-3:
+      name: "Toallitas para bebés descartables aptas para inodoro"
+    bt-9-3-2:
+      name: "Fundas para cambiadores de bandeja"
+    bt-9-6-2:
+      name: "Forros de pañales descartables"
+    bt-9-6-3:
+      name: "Forros para pañales descartables aptos para inodoro"
+    bt-9-8:
+      name: "Accesorios para tachos de pañales"
     bt-9-8-1:
       name: "Bolsas para tachos de pañales"
     bt-9-8-2:
@@ -1159,6 +1229,8 @@ es-AR:
       name: "Forros para tachos de pañales"
     bt-9-8-4:
       name: "Recargas de tachos de pañales"
+    bt-9-9:
+      name: "Tachos de pañales"
     bt-9-9-3:
       name: "Tachos de basura para pañales"
     co-1-1-1:
