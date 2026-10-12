@@ -4179,12 +4179,32 @@ es-AR:
       name: "Videos eróticos"
     ma-2-1-4:
       name: "Fundas y valijas para armas"
+    me-2:
+      name: "Revistas y diarios"
+    me-2-2:
+      name: "Diarios"
+    me-2-2-1:
+      name: "Diarios internacionales"
+    me-2-2-2:
+      name: "Diarios locales"
+    me-2-2-3:
+      name: "Diarios nacionales"
+    me-4:
+      name: "Podcasts y transmisiones en vivo"
+    me-4-1:
+      name: "Transmisiones en vivo"
     me-7:
       name: "Videos"
     os-10-8:
       name: "Relojes control"
+    os-10-9:
+      name: "Transcriptores y sistemas de dictado"
     os-11-10-1:
       name: "Recargas para fibras y marcadores"
+    os-11-10-2:
+      name: "Repuestos y tintas"
+    os-11-10-3:
+      name: "Repuestos para portaminas"
     os-11-11-1:
       name: "Carbonillas"
     os-11-11-1-1:
@@ -4221,6 +4241,10 @@ es-AR:
       name: "Biromes de gel"
     os-11-11-7-3-5:
       name: "Biromes de bola"
+    os-11-5-6:
+      name: "Estampillas"
+    os-11-7:
+      name: "Sacabroches"
     os-11-8:
       name: "Abrochadoras"
     os-11-8-1:
@@ -4241,18 +4265,52 @@ es-AR:
       name: "Abrochadoras de pinza"
     os-11-8-9:
       name: "Abrochadoras de caballete"
+    os-13-10:
+      name: "Presentadores inalámbricos"
+    os-13-2-1:
+      name: "Accesorios para carteleras"
+    os-13-2-1-1:
+      name: "Ribetes para carteleras"
+    os-13-2-1-2:
+      name: "Juegos de bordes para carteleras"
+    os-13-2-2:
+      name: "Carteleras"
+    os-13-3:
+      name: "Cámaras de documentos"
+    os-3-16:
+      name: "Cartucheras"
     os-3-18:
       name: "Archiveros de recetas"
+    os-3-2-1-1:
+      name: "Anillos de encuadernación"
     os-3-2-2:
       name: "Biblioratos"
+    os-3-2-3:
+      name: "Lomos y espirales de encuadernación"
+    os-3-2-4-1:
+      name: "Encuadernadoras eléctricas"
     os-3-6:
       name: "Archiveros para tarjetas"
+    os-4-1:
+      name: "Broches de latón"
     os-4-11:
       name: "Broches"
     os-4-12:
       name: "Chinches y tachuelas"
     os-4-2-2:
       name: "Biromes correctoras"
+    os-4-3-1:
+      name: "Gomas de borrar moldeables"
+    os-4-4-2:
+      name: "Pestañas para carpetas"
+    os-4-8:
+      name: "Clips y pinzas"
+    os-4-9-13:
+      name: "Papelería"
+    os-4-9-8:
+      name: "Fichas"
+    os-4-9-9-3:
+      name: "Diarios personales"
     os-8:
       name: "Alfombras para sillas y oficinas"
     os-8-2:
@@ -4261,14 +4319,32 @@ es-AR:
       name: "Alfombras para oficinas"
     os-9-3:
       name: "Carritos archiveros"
+    rc-3-2:
+      name: "Canastas para flores"
     rc-3-3:
       name: "Almohadones para anillos"
+    se-1:
+      name: "Servicios automotrices"
     se-2-4-3:
       name: "Techos y canaletas"
+    se-3-1:
+      name: "Recursos humanos y liquidación de sueldos"
     se-5-3:
       name: "Plomería"
+    se-7-6:
+      name: "Servicios inmobiliarios"
+    se-7-9:
+      name: "Servicios impositivos"
     sg-1-1-3:
       name: "Soportes para pelotas de fútbol americano"
+    sg-1-1-4-2-8:
+      name: "Herrajes y piezas para mentoneras de fútbol americano"
+    sg-1-1-4-5:
+      name: "Remeras y chalecos de protección de costillas de fútbol americano"
+    sg-1-1-4-7:
+      name: "Fundas para botines de fútbol americano"
+    sg-1-1-5-2:
+      name: "Redes y blancos de pase para fútbol americano"
     sg-1-1-6:
       name: "Pelotas de fútbol americano"
     sg-1-10-1-3:
@@ -4433,8 +4509,16 @@ es-AR:
       name: "Resinas de agarre para handball"
     sg-1-19-3:
       name: "Equipo de protección para handball"
+    sg-1-2-1:
+      name: "Bases de béisbol y sóftbol"
+    sg-1-2-2:
+      name: "Guantes para batear de béisbol y sóftbol"
+    sg-1-2-3:
+      name: "Guantes de béisbol y sóftbol"
     sg-1-2-5:
       name: "Alfombras de lanzamiento para béisbol y sóftbol"
+    sg-1-2-8-1:
+      name: "Cascos de béisbol y sóftbol"
     sg-1-2-8-10:
       name: "Accesorios para canilleras"
     sg-1-2-8-3:
