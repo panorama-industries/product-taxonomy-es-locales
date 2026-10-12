@@ -3583,6 +3583,8 @@ es-AR:
       name: "Macetas y maceteros"
     hg-12-1-16-2:
       name: "Macetas"
+    hg-12-1-19-4-5:
+      name: "Balastos para luces de cultivo"
     hg-12-1-19-4-6:
       name: "Lamparitas para cultivo"
     hg-12-1-4:
@@ -3605,6 +3607,12 @@ es-AR:
       name: "Tijeras de podar de mango largo"
     hg-12-1-7-7-2:
       name: "Rodillos para césped remolcados"
+    hg-12-2-1:
+      name: "Accesorios para toldos"
+    hg-12-2-1-16:
+      name: "Kits de sujeción para toldos"
+    hg-12-2-10:
+      name: "Hamacas de jardín"
     hg-12-2-3:
       name: "Piezas y accesorios para hamacas paraguayas"
     hg-12-2-3-1:
@@ -3627,8 +3635,14 @@ es-AR:
       name: "Resortes para hamacas paraguayas"
     hg-12-2-4:
       name: "Hamacas paraguayas"
+    hg-12-2-5:
+      name: "Mantas para exterior"
+    hg-12-2-5-3:
+      name: "Forros para poncho"
     hg-12-2-6-1:
       name: "Toldos y gazebos"
+    hg-12-2-6-1-1:
+      name: "Carpas"
     hg-12-2-6-1-2:
       name: "Gazebos"
     hg-12-2-6-2:
@@ -3645,10 +3659,14 @@ es-AR:
       name: "Pesos para gazebos"
     hg-12-2-6-3-1:
       name: "Pérgola"
+    hg-12-2-6-3-3:
+      name: "Pérgolas"
     hg-12-2-6-5:
       name: "Galpones, garajes y almacenes"
     hg-12-2-6-5-3:
       name: "Galpones"
+    hg-12-2-8-2:
+      name: "Parasoles"
     hg-12-2-9:
       name: "Accesorios de hamacas para porche"
     hg-12-2-9-1:
@@ -3663,12 +3681,26 @@ es-AR:
       name: "Soportes para hamacas de porche"
     hg-12-2-9-6:
       name: "Resortes para hamacas de porche"
+    hg-12-3-11:
+      name: "Motocultores y cultivadores"
+    hg-12-3-12:
+      name: "Hidrolavadoras"
+    hg-12-3-13:
+      name: "Sopladores de nieve"
     hg-12-3-15:
       name: "Bordeadoras"
+    hg-12-3-2:
+      name: "Bordeadoras de césped"
+    hg-12-3-4:
+      name: "Aireadores y escarificadores de césped"
+    hg-12-3-4-1:
+      name: "Escarificadores de césped"
     hg-12-3-5-1:
       name: "Tractores cortadores de césped"
     hg-12-3-5-2:
       name: "Robots cortadores de césped"
+    hg-12-3-5-5:
+      name: "Cortadoras de césped de carrete"
     hg-12-4-10-1-2:
       name: "Neumáticos para tractores cortadores de césped"
     hg-12-4-10-1-5:
@@ -3689,8 +3721,22 @@ es-AR:
       name: "Protectores para bordeadora"
     hg-12-4-11-4:
       name: "Cabezales para bordeadora"
+    hg-12-4-16:
+      name: "Accesorios para partidoras de leña"
+    hg-12-4-17:
+      name: "Accesorios para podadoras de altura"
+    hg-12-4-18:
+      name: "Accesorios para motocultores y cultivadores"
     hg-12-4-2:
       name: "Accesorios para bordeadoras"
+    hg-12-4-2-1:
+      name: "Correas para bordeadoras"
+    hg-12-4-4-1:
+      name: "Accesorios para desmalezadoras"
+    hg-12-4-4-1-4:
+      name: "Ejes"
+    hg-12-4-4-1-5:
+      name: "Cajas reductoras"
     hg-12-4-4-14:
       name: "Kits de enganche para cortadora de césped"
     hg-12-4-4-15:
@@ -3703,16 +3749,54 @@ es-AR:
       name: "Tapones de mulch para cortadora de césped"
     hg-12-4-4-7-2:
       name: "Placas de mulch para cortadora de césped"
+    hg-12-4-4-8:
+      name: "Poleas y tensores para cortadoras de césped"
+    hg-12-4-4-8-1:
+      name: "Tensores para cortadoras de césped"
     hg-12-4-4-9:
       name: "Cámaras de aire para neumáticos de cortadoras de césped"
+    hg-12-4-5-3:
+      name: "Arneses para sopladores de hojas"
+    hg-12-4-5-4:
+      name: "Boquillas para sopladores de hojas"
+    hg-12-4-6:
+      name: "Accesorios para equipos motorizados multifunción para uso exterior"
     hg-12-4-6-1:
       name: "Complementos para bordeadoras"
     hg-12-4-6-2:
       name: "Complementos para sopladores de piso y de hojas"
+    hg-12-4-6-3:
+      name: "Accesorios para cortasetos"
+    hg-12-4-6-4:
+      name: "Accesorios para podadoras de altura"
+    hg-12-4-6-5:
+      name: "Accesorios para motocultores y cultivadores"
     hg-12-4-6-6:
       name: "Complementos para bordeadoras"
     hg-12-4-6-7:
       name: "Accesorios para desmalezadora"
+    hg-12-4-8:
+      name: "Accesorios para hidrolavadoras"
+    hg-12-4-8-29:
+      name: "Arenadoras con agua"
+    hg-12-4-9:
+      name: "Accesorios de sopladores de nieve"
+    hg-12-5:
+      name: "Remoción de nieve"
+    hg-12-5-1:
+      name: "Raspadores de hielo y cepillos para nieve"
+    hg-12-5-1-1:
+      name: "Raspadores de hielo"
+    hg-12-5-1-2:
+      name: "Cepillos para nieve"
+    hg-12-6:
+      name: "Riego"
+    hg-12-6-9:
+      name: "Sistemas de riego"
+    hg-13-2:
+      name: "Luces flotantes y sumergibles"
+    hg-13-5-1:
+      name: "Veladores"
     hg-13-7:
       name: "Lamparitas"
     hg-13-7-3:
@@ -3723,20 +3807,40 @@ es-AR:
       name: "Lamparitas halógenas"
     hg-13-7-6:
       name: "Lamparitas de descarga de alta intensidad"
+    hg-13-9-2:
+      name: "Plafones"
     hg-14-1:
       name: "Bases para postes de luz"
     hg-14-2:
       name: "Soportes para postes de luz"
+    hg-15:
+      name: "Blanquería"
     hg-15-1-10:
       name: "Colchas y acolchados"
+    hg-15-1-12:
+      name: "Sobrecolchones"
+    hg-15-1-3:
+      name: "Cubresommiers"
+    hg-15-1-5:
+      name: "Fundas de duvet"
     hg-15-1-7:
       name: "Colchonetas para siesta"
     hg-15-1-8:
       name: "Fundas de almohada y de almohadones"
     hg-15-3-2:
       name: "Tapetes de crochet"
+    hg-15-3-4:
+      name: "Caminos de mesa"
     hg-15-3-5:
       name: "Faldones para mesas"
+    hg-15-4-1-2:
+      name: "Manoplas"
+    hg-15-4-3:
+      name: "Repasadores"
+    hg-17-3-1-2:
+      name: "Matorrales"
+    hg-17-3-3-2-1:
+      name: "Gramíneas ornamentales"
     hg-18:
       name: "Pileta y spa"
     hg-18-1:
@@ -3745,6 +3849,10 @@ es-AR:
       name: "Kits para terrazas con pileta"
     hg-18-1-11:
       name: "Colchonetas y flotadores para pileta"
+    hg-18-1-11-1:
+      name: "Flotadores"
+    hg-18-1-11-2:
+      name: "Reposeras inflables"
     hg-18-1-11-3:
       name: "Islas flotantes para pileta"
     hg-18-1-11-4:
@@ -3763,6 +3871,8 @@ es-AR:
       name: "Pasamanos para pileta"
     hg-18-1-14:
       name: "Lonas para piletas"
+    hg-18-1-15:
+      name: "Skimmers"
     hg-18-1-16:
       name: "Limpiafondos y aspiradores para piletas"
     hg-18-1-16-2:
@@ -3831,6 +3941,10 @@ es-AR:
       name: "Piletas inflables"
     hg-18-5-3:
       name: "Piletas para niños"
+    hg-19-10:
+      name: "Bandejas para armar cigarrillos"
+    hg-19-13:
+      name: "Picadores"
     hg-19-2:
       name: "Cajas para cigarros"
     hg-19-3:
@@ -3839,6 +3953,10 @@ es-AR:
       name: "Cortadores de cigarros"
     hg-19-3-2:
       name: "Perforadores de cigarros"
+    hg-19-4:
+      name: "Cigarreras"
+    hg-19-8:
+      name: "Limpiapipas"
     hg-2-1:
       name: "Cámaras de vigilancia falsas"
     hg-2-6-3:
@@ -4045,6 +4163,16 @@ es-AR:
       name: "Juegos de valijas de viaje"
     lb-15:
       name: "Bolsos para notebook"
+    lb-3-3:
+      name: "Cosmetiqueras"
+    lb-4:
+      name: "Bolsos maternales"
+    lb-6:
+      name: "Bolsos deportivos"
+    lb-6-1:
+      name: "Bolsos de lona para gimnasio"
+    lb-9-2:
+      name: "Fundas para valijas"
     lb-9-3:
       name: "Portaequipajes y bases para valijas"
     ma-1-5:
