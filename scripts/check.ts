@@ -1,14 +1,19 @@
 // Validates overrides and reports review progress per locale.
 //   --fix     drop overrides and review stamps for keys/fields that no longer exist upstream
 //   --strict  also fail when keys are stale or unreviewed
+// "glossary kept" = reviewed keys whose base still contains a glossary term with no override (deliberate or missed fix);
+// list them with `pnpm pending --glossary-kept`
 import { parseArgs } from "node:util"
 import {
   type Entries,
   TYPES,
   assertSynced,
+  glossaryKeptFields,
+  glossaryRegex,
   loadLocales,
   loadReviewed,
   overrideEntries,
+  resolveEntries,
   reviewStatuses,
   sourceEntries,
   writeOverrides,
@@ -22,10 +27,11 @@ const config = loadLocales()
 const errors: Array<string> = []
 let pendingTotal = 0
 
-console.log("| locale | type | overrides | reviewed | stale | unreviewed |")
-console.log("|---|---|---:|---:|---:|---:|")
+console.log("| locale | type | overrides | reviewed | stale | unreviewed | glossary kept |")
+console.log("|---|---|---:|---:|---:|---:|---:|")
 
 for (const locale of Object.keys(config)) {
+  const glossary = glossaryRegex(locale)
   for (const type of TYPES) {
     const source = sourceEntries(type)
     const overrides = overrideEntries(locale, type)
@@ -63,9 +69,14 @@ for (const locale of Object.keys(config)) {
     }
 
     const counts = { reviewed: 0, stale: 0, unreviewed: 0 }
-    for (const status of Object.values(reviewStatuses(locale, type, config))) counts[status]++
+    const base = resolveEntries(config[locale].base, type, config)
+    let kept = 0
+    for (const [key, status] of Object.entries(reviewStatuses(locale, type, config))) {
+      counts[status]++
+      if (status === "reviewed" && glossaryKeptFields(base[key], overrides[key], glossary).length > 0) kept++
+    }
     pendingTotal += counts.stale + counts.unreviewed
-    console.log(`| ${locale} | ${type} | ${Object.keys(overrides).length} | ${counts.reviewed} | ${counts.stale} | ${counts.unreviewed} |`)
+    console.log(`| ${locale} | ${type} | ${Object.keys(overrides).length} | ${counts.reviewed} | ${counts.stale} | ${counts.unreviewed} | ${kept} |`)
   }
 }
 

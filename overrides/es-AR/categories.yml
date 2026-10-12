@@ -1,3 +1,7 @@
 ---
 es-AR:
-  categories: {}
+  categories:
+    aa:
+      name: "Indumentaria y accesorios"
+    aa-1:
+      name: "Ropa"

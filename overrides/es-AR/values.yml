@@ -1,3 +1,7 @@
 ---
 es-AR:
-  values: {}
+  values:
+    baby_gift_items_included__clothing:
+      name: "Ropa"
+    cleaning_surfaces__clothing:
+      name: "Ropa"

@@ -27,7 +27,7 @@ Session prompts per phase: `prompts/`.
 
 Only apply a batch after deciding every row in it.
 
-Filters: `--key <regex>` (key range), `--match <regex>` (base/override text), `--match-glossary`, `--exclude-glossary`, `--status stale|unreviewed|reviewed|all`, `--dedupe`.
+Filters: `--key <regex>` (key range), `--match <regex>` (base/override text), `--match-glossary`, `--exclude-glossary`, `--glossary-kept` (QA: glossary term kept without override), `--status stale|unreviewed|reviewed|all`, `--dedupe`. Split a scope into files with `--out-dir <dir> [--batch-size 400]`.
 
 ## Glossary
 

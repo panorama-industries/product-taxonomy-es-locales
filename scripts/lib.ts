@@ -238,3 +238,7 @@ export const pickTypes = (requested: string | undefined): ReadonlyArray<Localiza
   if (invalid.length > 0) throw new Error(`--type must be from: ${TYPES.join(", ")}`)
   return types as Array<LocalizationType>
 }
+
+/** Fields whose base text contains a glossary term but have no override: either deliberately kept or a missed fix */
+export const glossaryKeptFields = (base: Entry | undefined, override: Entry | undefined, glossary: RegExp | undefined) =>
+  glossary ? Object.keys(base ?? {}).filter((field) => glossary.test(base![field]) && override?.[field] === undefined) : []

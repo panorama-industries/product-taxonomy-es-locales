@@ -8,6 +8,6 @@ Loop, 2000 words per chunk:
 
 Add a term only when the es word is not what Argentines use in e-commerce for that meaning (Spain-only words, words with another meaning or vulgar sense in Argentina). List every inflection found in the vocabulary in `match` (singular/plural, gender). `use` = es-AR word(s). `note` only for gender changes, ambiguity or exceptions (e.g. brand names that contain the word).
 When unsure what a word means here, check with: pnpm --silent pending --match '<word>' --status all --limit 20
-Skip words already marked ✓. Don't add neutral words that are fine in Argentina.
+Skip words already marked ✓ (the glossary has seed terms). Add missing inflections to the existing entry instead of a new one. Don't add neutral words that are fine in Argentina.
 
 When done: keep glossary.yml valid YAML (run pnpm --silent check), commit, open a PR titled "Glossary words <OFFSET>–<OFFSET + 8000>". No narration.

@@ -1,8 +1,155 @@
-# Base (es) terms that differ in es-AR. Used by `pnpm pending --match-glossary`.
+# Base (es) terms that differ in es-AR. Used by `pnpm pending --match-glossary` / `--glossary-kept`.
 # match: whole-word, case-insensitive forms to find in base text (list every inflection: singular, plural, gender)
 # use:   es-AR replacement; note: context, gender changes, exceptions
-#
-# - match: [camiseta, camisetas]
-#   use: remera(s)
-#   note: fem → fem
-terms: []
+terms:
+  # Clothing
+  - match: [prendas de vestir]
+    use: ropa
+    note: "Category/value names → Ropa (aa-1 is 'Ropa', aa is 'Indumentaria y accesorios'). Keep in running text where natural (telas para prendas de vestir)."
+  - match: [falda, faldas]
+    use: pollera(s)
+    note: "falda pantalón → pollera short. Keep geographic/anatomical sense (falda de montaña)."
+  - match: [calcetín, calcetines]
+    use: media(s)
+    note: "masc → fem. Ankle socks → soquetes. Hosiery stays 'medias' (use 'medias de nylon' if it must contrast with socks)."
+  - match: [pinkis]
+    use: medias invisibles
+  - match: [sujetador, sujetadores, sostén, sostenes]
+    use: corpiño(s)
+    note: "masc → masc. Keep 'sostén' in the sense of support (sostén lumbar)."
+  - match: [sudadera, sudaderas]
+    use: buzo(s)
+    note: "fem → masc: sudadera con capucha → buzo con capucha"
+  - match: [chaqueta, chaquetas, cazadora, cazadoras]
+    use: campera(s)
+    note: "Suit, tuxedo, kimono or blazer-style jackets → saco(s). Check en: 'Chaps' was mistranslated as cazadoras (→ zahones)."
+  - match: [americana, americanas]
+    use: saco(s)
+    note: "Only blazer sense; keep nationality adjective."
+  - match: [jersey, jerséis, jerseys]
+    use: suéter(es) / pulóver(es)
+    note: "Keep sports jersey sense → camiseta (de fútbol, etc.)."
+  - match: [vaquero, vaqueros, vaquera, vaqueras]
+    use: jean(s) / de jean
+    note: "Garment/fabric sense only. Cowboy sense: botas vaqueras → botas texanas; keep other cowboy uses."
+  - match: [mallas vaqueras]
+    use: jeggings
+  - match: [malla, mallas]
+    use: calza(s) for tights/leggings
+    note: "In AR 'malla' = swimsuit. Tights/leggings → calza(s). Keep mesh/net sense (malla metálica, malla de red, malla sombra) and swimsuit sense."
+  - match: [leggings, legging]
+    use: calza(s)
+  - match: [leotardo, leotardos]
+    use: malla(s) de gimnasia / body(s)
+  - match: [pantalones cortos, pantalón corto]
+    use: shorts
+    note: "masc pl → masc pl"
+  - match: [camiseta, camisetas]
+    use: remera(s)
+    note: "sin mangas → musculosa(s); interior → camiseta (AR keeps camiseta for undershirts and sports team jerseys: camiseta de fútbol)."
+  - match: [polo, polos]
+    use: chomba(s)
+    note: "Only the shirt. Keep sport (polo), brand names, geographic poles, ice pops, electrical poles."
+  - match: [tirante, tirantes]
+    use: bretel(es)
+    note: "Bra/top straps → breteles; suspenders → tiradores. Keep structural/engineering sense."
+  - match: [mono, monos]
+    use: enterito(s) / mameluco(s)
+    note: "Fashion jumpsuit or baby onesie → enterito; work coveralls/flight suits → mameluco. Keep monkey and audio mono sense."
+  - match: [peto]
+    use: jardinero (overoles con peto → jardineros)
+    note: "Keep armor/sports bib sense."
+  - match: [braga, bragas]
+    use: bombacha(s)
+    note: "Check en: 'Women's Underwear Slips' was mistranslated as bragas (→ combinaciones). Keep 'braga de cuello' → cuello/bandana tubular."
+  - match: [bañador, bañadores]
+    use: malla(s)
+    note: "masc → fem: bañador azul → malla azul"
+  - match: [albornoz, albornoces]
+    use: bata(s) / salida(s) de baño
+  - match: [chándal, chándales]
+    use: jogging / conjunto deportivo
+  - match: [estar por casa]
+    use: estar en casa
+  - match: [zapatillas de casa, zapatillas de estar en casa]
+    use: pantuflas
+  - match: [gafas]
+    use: anteojos (de sol) / lentes
+    note: "fem pl → masc pl: gafas oscuras → anteojos oscuros. Safety goggles → antiparras."
+  - match: [cremallera, cremalleras]
+    use: cierre(s)
+    note: "fem → masc"
+  # Electronics & home
+  - match: [móvil, móviles]
+    use: celular(es)
+    note: "Phone sense only. Keep 'mobile' adjective (unidad móvil, aplicación móvil → app para celular is fine but optional)."
+  - match: [ordenador, ordenadores]
+    use: computadora(s)
+    note: "masc → fem. Ordenador portátil → notebook."
+  - match: [portátil, portátiles]
+    use: notebook(s) when it's a laptop
+    note: "Keep 'portable' adjective sense."
+  - match: [nevera, neveras, frigorífico, frigoríficos]
+    use: heladera(s)
+    note: "Portable cooler → conservadora"
+  - match: [grifo, grifos]
+    use: canilla(s)
+    note: "masc → fem"
+  - match: [fregadero, fregaderos]
+    use: bacha(s) / pileta(s) de cocina
+  - match: [piscina, piscinas]
+    use: pileta(s)
+  - match: [bombilla, bombillas]
+    use: lamparita(s) / foco(s)
+    note: "In AR 'bombilla' = mate straw; never use it for light bulbs."
+  - match: [mechero, mecheros]
+    use: encendedor(es)
+  - match: [cubo, cubos]
+    use: balde(s)
+    note: "Bucket sense only; keep cube sense (cubo de Rubik). Cubo de basura → tacho de basura."
+  - match: [moqueta, moquetas]
+    use: alfombra(s) / moquette
+  - match: [bolígrafo, bolígrafos]
+    use: birome(s) / lapicera(s)
+  - match: [coche, coches]
+    use: auto(s)
+    note: "Baby stroller → cochecito; keep 'coche' in 'coche cama'."
+  - match: [aparcamiento, aparcar]
+    use: estacionamiento / estacionar
+  - match: [tirita, tiritas]
+    use: curita(s)
+  - match: [biberón, biberones]
+    use: mamadera(s)
+  - match: [coger]
+    use: agarrar / tomar
+    note: "Vulgar in AR; never use."
+  # Food
+  - match: [fresa, fresas]
+    use: frutilla(s)
+    note: "Fruit only; milling/dental cutter 'fresa' stays."
+  - match: [melocotón, melocotones]
+    use: durazno(s)
+  - match: [piña, piñas]
+    use: ananá(s)
+    note: "Fruit only; pine cone (piña de pino) stays."
+  - match: [aguacate, aguacates]
+    use: palta(s)
+    note: "masc → fem"
+  - match: [cacahuete, cacahuetes]
+    use: maní / maníes
+  - match: [zumo, zumos]
+    use: jugo(s)
+    note: "Keep brand/model names (Garmin Zumo)."
+  - match: [patata, patatas]
+    use: papa(s)
+  - match: [judía, judías]
+    use: poroto(s) / chaucha(s) (judías verdes)
+    note: "fem → masc for porotos"
+  - match: [guisante, guisantes]
+    use: arveja(s)
+    note: "masc → fem"
+  - match: [tarta, tartas]
+    use: torta(s)
+    note: "Sweet cake → torta; savory pie → tarta stays."
+  - match: [gamba, gambas]
+    use: langostino(s) / camarón(es)
