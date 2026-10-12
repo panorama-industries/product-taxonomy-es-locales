@@ -2085,8 +2085,12 @@ es-AR:
       name: "Sillas de comer y alzadores"
     fr-1-8-3:
       name: "Sillas de comer convertibles"
+    fr-10-4:
+      name: "Conjuntos de mobiliario para living"
     fr-11-1:
       name: "Bases para futones"
+    fr-11-2:
+      name: "Colchones para futón"
     fr-15-1-1:
       name: "Cuchetas"
     fr-15-1-4:
@@ -2099,6 +2103,8 @@ es-AR:
       name: "Hamacas"
     fr-15-3-3:
       name: "Apoyapiés"
+    fr-15-3-8:
+      name: "Puffs"
     fr-15-4-1-12:
       name: "Bancos hamaca"
     fr-15-4-2-16:
@@ -2115,6 +2121,20 @@ es-AR:
       name: "Mesas de metegol de exterior"
     fr-16-3:
       name: "Almohadones para muebles de exterior"
+    fr-19-1:
+      name: "Bibliotecas y estanterías"
+    fr-19-1-1:
+      name: "Bibliotecas y estanterías de esquina"
+    fr-19-1-2:
+      name: "Bibliotecas y estanterías flotantes"
+    fr-19-1-3:
+      name: "Bibliotecas y estanterías tipo escalera"
+    fr-19-1-4:
+      name: "Bibliotecas y estanterías modulares"
+    fr-19-1-5:
+      name: "Bibliotecas y estanterías abiertas"
+    fr-19-1-6:
+      name: "Bibliotecas y estanterías tipo barrister"
     fr-2-1:
       name: "Accesorios para camas y sommiers"
     fr-2-1-2:
@@ -2135,6 +2155,10 @@ es-AR:
       name: "Tablas para cuchetas"
     fr-2-6-3:
       name: "Colchones de resortes"
+    fr-20-1:
+      name: "Estantes de repuesto"
+    fr-22-8:
+      name: "Sofás puff"
     fr-24-6:
       name: "Mesas de luz"
     fr-3-2-10:
@@ -2279,6 +2303,8 @@ es-AR:
       name: "Banquetas de bar"
     fr-7-12-3:
       name: "Banquetas de mostrador"
+    fr-7-2:
+      name: "Puffs"
     fr-7-2-1:
       name: "Reposeras y sofás cama puff"
     fr-7-5:
@@ -2289,14 +2315,40 @@ es-AR:
       name: "Banquetas y sillas plegables"
     fr-7-6-2:
       name: "Banquetas plegables"
+    fr-7-9:
+      name: "Sillas de cocina y comedor"
     fr-8:
       name: "Divanes"
+    fr-9:
+      name: "Centros de entretenimiento y muebles para TV"
+    ha:
+      name: "Ferretería"
     ha-1-1-8:
       name: "Sprays congelantes para circuitos eléctricos"
+    ha-1-3:
+      name: "Cinta de ferretería"
+    ha-1-3-1:
+      name: "Cinta americana"
     ha-1-3-3:
       name: "Cinta de enmascarar"
+    ha-1-5-2:
+      name: "Mezclas de hormigón, cemento y mortero"
+    ha-1-5-2-2:
+      name: "Mortero cortafuegos"
+    ha-1-5-2-5:
+      name: "Mortero modificado con polímeros"
+    ha-1-5-2-6:
+      name: "Mortero puzolánico"
+    ha-1-5-2-7:
+      name: "Mortero Surkhi"
+    ha-1-5-3:
+      name: "Pastina"
+    ha-1-6-4:
+      name: "Tintes"
     ha-1-7:
       name: "Imprimador para plomería"
+    ha-1-9-3:
+      name: "Fundente de resina"
     ha-10:
       name: "Plomería"
     ha-10-1:
@@ -2469,16 +2521,52 @@ es-AR:
       name: "Sopapas de inodoro"
     ha-2-1:
       name: "Mesadas"
+    ha-2-10-2:
+      name: "Madera terciada"
     ha-2-13-1:
       name: "Accesorios para canaletas"
     ha-2-13-2:
       name: "Canaletas"
+    ha-2-17-5:
+      name: "Escaleras con escalones en abanico"
+    ha-2-19-1:
+      name: "Machimbre"
+    ha-2-2-6:
+      name: "Aldabas"
+    ha-2-2-7:
+      name: "Placas de empuje para puertas"
+    ha-2-2-9:
+      name: "Contrachapas"
+    ha-2-2-9-1:
+      name: "Contrachapas para cerrojo"
+    ha-2-2-9-2:
+      name: "Contrachapas para pestillo"
+    ha-2-21-2-1:
+      name: "Marcos de ventanas de toldo"
+    ha-2-21-2-4:
+      name: "Marcos de ventanales"
     ha-2-5:
       name: "Pisos y alfombras"
     ha-2-7:
       name: "Pasamanos y barandas"
     ha-2-7-1:
       name: "Barandas"
+    ha-2-8:
+      name: "Escotillas"
+    ha-3:
+      name: "Cercas y barreras"
+    ha-3-5-1:
+      name: "Cercas para bordes"
+    ha-3-5-2:
+      name: "Bordes"
+    ha-3-6:
+      name: "Portones"
+    ha-3-6-1:
+      name: "Portones para entrada de vehículos"
+    ha-3-6-2:
+      name: "Portones de jardín"
+    ha-3-6-3:
+      name: "Portones de seguridad"
     ha-5-3:
       name: "Bidones de nafta"
     ha-6-2:
