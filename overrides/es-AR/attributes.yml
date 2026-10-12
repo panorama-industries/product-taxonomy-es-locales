@@ -346,3 +346,81 @@ es-AR:
       description: "Define el tipo específico de accesorio o pieza de repuesto para asiento infantil (p. ej., almohadón de asiento, apoyapiés o adaptador de montaje), lo que permite a los compradores encontrar rápidamente el artículo que necesitan sin crear numerosas categorías específicas."
     child_seat_mounting_type:
       description: "Especifica cómo se fija el asiento infantil para bicicleta al cuadro, al portaequipajes o a la zona del manubrio."
+    wheel_hub_placement:
+      description: "Especifica la posición del cubo de rueda de patinetas, como en el centro o desplazada."
+    wheel_tread_style:
+      description: "Especifica el diseño de la banda de rodadura de la rueda, que afecta a la tracción, al nivel de ruido y a las posibles marcas en el piso."
+    whipped_cream_base:
+      description: "Identifica el ingrediente base principal utilizado para elaborar la crema batida, como por ejemplo la crema de leche o el coco."
+    whipped_cream_form:
+      name: "Forma de la crema batida"
+      description: "Indica el formato físico en el que se vende la crema batida."
+    window_component_location:
+      description: "Especifica a qué ventana/abertura dentro del vehículo se aplica la pieza (por ejemplo, parabrisas, vidrio de la puerta, luneta trasera o vidrio del cuarto delantero)."
+    window_glass_features:
+      description: "Indica si el vidrio ayuda a integrar tecnologías del vehículo (por ejemplo, sensor de lluvia, soporte para cámara)."
+    window_glass_tint_level:
+      name: "Nivel de polarizado del vidrio de la ventana"
+      description: "Indica el grado aproximado de oscurecimiento de fábrica/polarizado de privacidad del vidrio de la ventana (no se refiere a láminas instaladas postventa). Usá los niveles descriptivos cuando no se conozca el VLT exacto."
+    windshield_coverage_area:
+      description: "Especifica qué partes del exterior delantero del vehículo está diseñado para proteger la cubierta del parabrisas (por ejemplo, solo el parabrisas o incluye limpiaparabrisas, espejos, ventanas laterales o el borde del capot)."
+    wiper_blade_rubber_material:
+      description: "Material del elemento de limpieza (inserto/recambio) que entra en contacto con el vidrio."
+    wire_construction_type:
+      description: "Especifica la construcción física del alambre para bijouterie, como por ejemplo si es trenzado o sólido y si está recubierto."
+    wrist_rest_features:
+      name: "Características del apoyamuñecas"
+    wrist_rest_type:
+      name: "Tipo de apoyamuñecas"
+      description: "Identifica el emparejamiento de dispositivo previsto o configuración del conjunto del apoyamuñecas (p. ej., solo teclado, solo mouse, conjuntos combinados)."
+    zipper_application:
+      name: "Uso del cierre"
+      description: "Especifica el proyecto o el uso para el que está diseñado el cierre."
+    zipper_chain_type:
+      name: "Tipo de cadena del cierre"
+      description: "Especifica la construcción/tipo de la cadena/dientes del cierre."
+    zipper_end_type:
+      name: "Tipo de acabado del cierre"
+      description: "Indica cómo termina el cierre y si es de extremo abierto (separable) o de extremo cerrado (no separable), incluyendo hardware común de extremo separador utilizado en los cierres para manualidades."
+    zipper_gauge:
+      name: "Calibre del cierre"
+      description: "Indica el calibre/tamaño de la cadena del cierre, que normalmente se expresa como un número con un # (por ejemplo, #3 o #5), que se correlaciona con el ancho del diente/bobina y el uso previsto."
+    zipper_opening_length:
+      name: "Longitud de apertura del cierre"
+      description: "Define qué parte de la abertura frontal tiene cierre, distinguiendo entre los estilos con cierre completo, de medio cierre o de cuarto de cierre."
+    zipper_pull_material:
+      name: "Material del tirador del cierre"
+      description: "Especifica el material del tirador o lengüeta del cierre (la parte que se agarra), a diferencia de los dientes/cadena y la cinta del cierre."
+    zipper_pull_side:
+      name: "Lado del tirador del cierre"
+      description: "Especifica desde qué lado del cierre se puede acceder a la lengüeta de apertura."
+    zipper_pull_strap_cord_tab_material:
+      name: "Material de la correa/cordón/pestaña del cierre"
+      description: "Material de la correa/cordón/pestaña/borla que se adjunta al tirador del cierre (si lo hay), excluyendo el cuerpo/hardware principal del tirador del cierre."
+    zipper_pull_style:
+      name: "Estilo de tirador de cierre"
+      description: "Describe el diseño o acabado del tirador de un cierre, como texturizado o en relieve."
+    zipper_reversibility_mechanism:
+      name: "Mecanismo de reversibilidad del cierre"
+      description: "Especifica cómo es reversible el cierre (por ejemplo, cursor de doble cara o cursor reversible/de bloqueo automático diseñado para prendas reversibles)."
+    zipper_separating_type:
+      name: "Tipo de separación del cierre"
+      description: "Indica si el cierre se separa en la parte inferior/superior o si es de extremo cerrado, para que sea compatible con camperas, bolsas de dormir, mochilas, etc."
+    zipper_side:
+      name: "Lado del cierre"
+      description: "Indica el lado en el que se encuentra el cierre principal cuando la bolsa de dormir está colocada boca arriba."
+    zipper_slider_material:
+      name: "Material del deslizador del cierre"
+      description: "Especifica el material del deslizador del cierre (el mecanismo móvil), que puede influir en la resistencia y la corrosión."
+    zipper_slider_pull_configuration:
+      name: "Configuración del deslizador/tirador del cierre"
+      description: "Indica si el cierre tiene uno o dos tiradores/deslizadores, y si los tiradores están a uno o ambos lados del deslizador."
+    zipper_style:
+      name: "Estilo de cierre"
+      description: "Indica el largo del cierre o su presencia en la prenda (por ejemplo, sin cierre, con cierre de tres cuartos, con medio cierre, con cierre completo)."
+    zipper_tape_material:
+      name: "Material de la cinta del cierre"
+      description: "Especifica el material principal de la cinta del cierre (laterales de tela) que se cose al proyecto."
+    zipper_teeth_type:
+      name: "Tipo de dientes del cierre"
+      description: "Especifica el estilo de construcción de la cadena/dientes del cierre (por ejemplo, espiral, plástico moldeado, metal, invisible), que afecta a la flexibilidad, la resistencia y la aplicación típica."
