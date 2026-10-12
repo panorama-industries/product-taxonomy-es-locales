@@ -1113,6 +1113,12 @@ es-AR:
       name: "Bañaderas para bebé"
     bt-10-1-5:
       name: "Snacks para bebés"
+    bt-10-10:
+      name: "Paños para eructar"
+    bt-10-11:
+      name: "Cubre lactancia"
+    bt-10-13:
+      name: "Fundas para almohadas de lactancia"
     bt-10-16-5:
       name: "Tetinas y fundas para mamaderas"
     bt-10-16-5-1:
@@ -1239,10 +1245,24 @@ es-AR:
       name: "Cables de video compuesto"
     co-1-2-3:
       name: "Objetivos para cámaras de video"
+    co-1-4-10-5:
+      name: "Agarres para correa"
+    co-1-4-18-8:
+      name: "Correas de muñeca"
+    co-1-4-2-8:
+      name: "Bolsos tote para cámaras"
     co-1-4-25:
       name: "Luces de cámara de video"
+    co-1-5-1:
+      name: "Accesorios para binoculares y monoculares"
+    co-1-5-2-2:
+      name: "Fundas para binoculares"
     co-1-7-10:
       name: "Trípodes de video"
+    co-2-3:
+      name: "Cámaras de fotos descartables"
+    co-2-4:
+      name: "Cámaras de película"
     co-2-7:
       name: "Cámaras de video"
     co-2-7-1:
@@ -1255,10 +1275,40 @@ es-AR:
       name: "Cámaras de video para tablero"
     co-2-7-7:
       name: "Cámaras de video para drones"
+    co-3-1:
+      name: "Binoculares"
+    co-3-4-2-1:
+      name: "Telescopios catadióptricos"
+    co-3-4-2-2:
+      name: "Telescopios compuestos"
+    co-3-4-2-3:
+      name: "Telescopios dobsonianos"
+    co-3-4-2-4:
+      name: "Telescopios reflectores"
+    co-3-4-2-5:
+      name: "Telescopios refractores"
+    co-3-4-2-6:
+      name: "Telescopios solares"
+    co-4-1-1-2:
+      name: "Piletas para revelado"
+    co-4-1-1-4:
+      name: "Secadores, lavadores y bandejas de revelado"
+    co-4-1-1-4-2:
+      name: "Lavadoras de películas"
+    co-4-1-3-2:
+      name: "Reveladores de película"
+    co-4-1-3-4:
+      name: "Fijadores"
+    co-4-1-3-6:
+      name: "Reveladores de papel"
+    co-4-1-3-9:
+      name: "Viradores"
     el-1-1:
       name: "Juegos arcade de básquet"
     el-1-2-14:
       name: "Lamparitas de repuesto"
+    el-1-5-4:
+      name: "Marquesinas"
     el-11-2:
       name: "Receptores náuticos de audio y video"
     el-11-6:
@@ -1295,6 +1345,8 @@ es-AR:
       name: "Accesorios para receptores de video y audio"
     el-2-1-1-1:
       name: "Montajes en rack para receptores de audio y video"
+    el-2-1-4-3:
+      name: "Antivientos"
     el-2-1-6-1:
       name: "Juegos de accesorios para celulares y reproductores de MP3"
     el-2-1-8:
@@ -1321,6 +1373,8 @@ es-AR:
       name: "Almohadillas y pies de aislamiento de parlante"
     el-2-1-8-7:
       name: "Controles de volumen y control remoto de parlante"
+    el-2-1-9-1:
+      name: "Cápsulas"
     el-2-1-9-2-3:
       name: "Mats y almohadillas de limpieza de discos"
     el-2-1-9-4:
@@ -1339,10 +1393,20 @@ es-AR:
       name: "Parlantes Bluetooth portátiles"
     el-2-2-10-5:
       name: "Parlantes inteligentes"
+    el-2-2-2-2:
+      name: "Amplificadores de potencia"
     el-2-2-7-1-5:
       name: "Auriculares de vincha"
+    el-2-2-9-4:
+      name: "Sistemas de gestión de parlantes"
+    el-2-2-9-6:
+      name: "Compresores y noise gates"
+    el-2-2-9-7:
+      name: "Preamplificadores phono"
     el-2-3-13:
       name: "Partes y accesorios de rockola"
+    el-2-3-4:
+      name: "Rockolas"
     el-2-6-2:
       name: "Parlantes de instalación y locución"
     el-3-6-5-6:
