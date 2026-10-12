@@ -108,7 +108,8 @@ export const overrideEntries = (locale: string, type: LocalizationType) =>
   })
 
 export const writeOverrides = (locale: string, type: LocalizationType, entries: Entries) => {
-  writeYaml(overridesPath(locale, type), { [locale]: { [type]: entries } })
+  const sorted = Object.fromEntries(Object.entries(entries).sort(([a], [b]) => a.localeCompare(b)))
+  writeYaml(overridesPath(locale, type), { [locale]: { [type]: sorted } })
   cache.delete(`overrides:${locale}:${type}`)
 }
 
@@ -171,4 +172,69 @@ export const reviewStatuses = (locale: string, type: LocalizationType, config = 
     statuses[key] = stamp === undefined ? "unreviewed" : stamp === reviewStamp(locale, type, key, config) ? "reviewed" : "stale"
   }
   return statuses
+}
+
+// ---------- glossary ----------
+
+/** Base-locale terms that differ in the target locale. `match` forms are matched as whole words, case-insensitive */
+export type GlossaryTerm = { match: Array<string>; use: string; note?: string }
+
+export const glossaryPath = (locale: string) => join(ROOT, "overrides", locale, "glossary.yml")
+
+export const loadGlossary = (locale: string): Array<GlossaryTerm> => {
+  const path = glossaryPath(locale)
+  if (!existsSync(path)) return []
+  const doc = readYaml(path)
+  const terms = isRecord(doc) ? doc.terms : undefined
+  if (terms === undefined || terms === null) return []
+  if (!Array.isArray(terms)) throw new Error(`${path}: terms must be a list`)
+  return terms.map((term, i) => {
+    const match = isRecord(term) ? term.match : undefined
+    const forms = typeof match === "string" ? [match] : match
+    if (!isRecord(term) || !Array.isArray(forms) || !forms.every((f) => typeof f === "string" && f.trim() !== "") || typeof term.use !== "string") {
+      throw new Error(`${path}: terms[${i}] needs match (string or list) and use (string)`)
+    }
+    return { match: forms, use: term.use, note: typeof term.note === "string" ? term.note : undefined }
+  })
+}
+
+const escapeRegex = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+
+/** Whole-word, case-insensitive regex for a list of terms; undefined when empty */
+export const wordsRegex = (terms: ReadonlyArray<string>) =>
+  terms.length === 0
+    ? undefined
+    : new RegExp(`(?<![\\p{L}\\p{N}])(?:${[...terms].sort((a, b) => b.length - a.length).map(escapeRegex).join("|")})(?![\\p{L}\\p{N}])`, "iu")
+
+export const glossaryRegex = (locale: string) => wordsRegex(loadGlossary(locale).flatMap((t) => t.match))
+
+// ---------- TSV ----------
+
+export const tsvEscape = (s: string) => s.replace(/\\/g, "\\\\").replace(/\t/g, "\\t").replace(/\r?\n/g, "\\n")
+export const tsvUnescape = (s: string) => s.replace(/\\(\\|t|n)/g, (_, c: string) => (c === "t" ? "\t" : c === "n" ? "\n" : "\\"))
+
+/** Non-empty, non-comment rows split on tabs */
+export const readTsv = (path: string) =>
+  readFileSync(path, "utf8")
+    .split("\n")
+    .map((line, i) => ({ line: i + 1, cells: line.replace(/\r$/, "").split("\t") }))
+    .filter(({ cells }) => !(cells.length === 1 && cells[0].trim() === "") && !cells[0].startsWith("#"))
+
+// ---------- CLI ----------
+
+export const pickLocale = (requested: string | undefined, config = loadLocales()) => {
+  const locales = Object.keys(config)
+  const locale = requested ?? (locales.length === 1 ? locales[0] : undefined)
+  if (!locale || !config[locale]) throw new Error(`--locale must be one of: ${locales.join(", ")}`)
+  return locale
+}
+
+export const isType = (s: string): s is LocalizationType => (TYPES as ReadonlyArray<string>).includes(s)
+
+export const pickTypes = (requested: string | undefined): ReadonlyArray<LocalizationType> => {
+  if (requested === undefined) return TYPES
+  const types = requested.split(",")
+  const invalid = types.filter((t) => !isType(t))
+  if (invalid.length > 0) throw new Error(`--type must be from: ${TYPES.join(", ")}`)
+  return types as Array<LocalizationType>
 }

@@ -40,7 +40,9 @@ Requires Node 24+, pnpm, Ruby (version in `.upstream/dev/.ruby-version`).
 pnpm install
 pnpm sync                    # download UPSTREAM_VERSION into .upstream/
 pnpm check                   # validate overrides, show review progress (--fix drops removed keys)
-pnpm pending --type values   # pending keys as JSON (--locale, --status stale|unreviewed, --limit)
+pnpm vocab                   # distinct base words by frequency, to build the glossary
+pnpm pending --type values   # pending keys as TSV (filters: --key, --match, --match-glossary, --dedupe, ...)
+pnpm apply batch.tsv changes.tsv   # write overrides from a batch, mark the batch reviewed
 pnpm mark-reviewed --type values key1 key2   # or `-` to read keys from stdin
 pnpm build                   # generate dist/<locale>/ with Shopify's generator
 pnpm stage                   # gzip dist/ into release-assets/
@@ -60,7 +62,7 @@ Locales can build on each other, e.g. a shared `es-419` layer with `es-AR: { bas
 
 ## Contributing
 
-See [AGENTS.md](AGENTS.md) for translation rules. Report wrong translations in issues.
+See [AGENTS.md](AGENTS.md) for the batch workflow and translation rules, [prompts/](prompts/) for agent session prompts. Report wrong translations in issues.
 
 ## License
 

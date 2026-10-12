@@ -1,45 +1,66 @@
 # Translating
 
-Goal: each key of each locale ends up **reviewed**. Reviewing a key = deciding if the base text is right for the locale; override only when it isn't.
+Each locale = base locale + overrides. Goal: every key **reviewed**, i.e. someone decided whether the base text is right for the locale. Override only when it isn't.
 
-## Loop
+Setup: `pnpm install && pnpm sync`. Ruby is only needed for `pnpm build` (CI runs it).
 
-1. `pnpm pending --locale es-AR --type <type> --limit 200` → JSON items with `en`, `base`, current `override`
-2. For each item, decide:
-   - base is correct for the locale → no override
-   - base is wrong or not the local term → add/edit override in `overrides/<locale>/<type>.yml`
-   - existing override no longer needed (base now matches) → delete it
-3. `pnpm mark-reviewed --locale es-AR --type <type> <keys...>` for every key decided in the batch, override or not
-4. `pnpm check`
+Session prompts per phase: `prompts/`.
 
-Types: `categories`, `values`, `attributes`, `return_reasons`. Keys are Shopify IDs (`aa-1-1`, `color__black`). Never invent or rename keys.
+## Batch loop
 
-## Override format
+1. Get a batch:
+   ```bash
+   pnpm --silent pending --type <type> [filters] --limit 400 --out /tmp/batch.tsv
+   ```
+   Rows: `type⇥keys⇥field⇥en⇥base⇥override`. With `--dedupe`, `keys` is a comma list of keys sharing the same text; one decision covers all of them.
+2. Read `/tmp/batch.tsv`. Write `/tmp/changes.tsv` with **only rows that change**:
+   ```
+   type⇥keys⇥field⇥text
+   ```
+   Copy `type`, `keys` and `field` exactly from the batch row. `text` = new es-AR text, or `-` to delete an existing override. Text equal to base also deletes the override.
+3. Apply and mark the whole batch reviewed:
+   ```bash
+   pnpm --silent apply /tmp/batch.tsv /tmp/changes.tsv   # omit changes.tsv if nothing changes
+   ```
+   On errors nothing is written; fix `changes.tsv` and rerun.
+4. Repeat. `pending` only returns keys not yet reviewed, so a new session continues where the last stopped.
 
-Same as Shopify's localization files. Only include fields that differ from base:
+Only apply a batch after deciding every row in it.
+
+Filters: `--key <regex>` (key range), `--match <regex>` (base/override text), `--match-glossary`, `--exclude-glossary`, `--status stale|unreviewed|reviewed|all`, `--dedupe`.
+
+## Glossary
+
+`overrides/<locale>/glossary.yml` lists base terms that differ in the locale:
 
 ```yaml
----
-es-AR:
-  categories:
-    aa-1-13-8:
-      name: "Remeras"
+terms:
+  - match: [camiseta, camisetas] # whole-word, case-insensitive forms found in base text
+    use: remera(s)
+    note: fem → fem
 ```
 
-`categories` and `values` have `name`. `attributes` and `return_reasons` have `name` and `description`.
+`pnpm --silent vocab --offset 0 --limit 2000 --out /tmp/vocab.tsv` lists distinct base words (`word⇥count⇥example⇥in glossary`) to build it.
 
 ## es-AR rules
 
-- Use Argentine Spanish as used in Argentine e-commerce: remera, campera, pollera, buzo, zapatillas, malla, anteojos, heladera, birome, celular, computadora, auto, frutilla, palta, durazno, etc.
+- Argentine Spanish as used in Argentine e-commerce (Mercado Libre, local retailers): remera, campera, pollera, buzo, zapatillas, malla, anteojos, heladera, birome, celular, computadora, auto, frutilla, palta, durazno, ananá, maní, jugo, etc.
 - Keep base text when it's neutral and natural in Argentina. Don't rewrite for style.
-- Address the reader as `vos` if a description needs second person; prefer impersonal phrasing like base.
-- Match base style: capitalization, punctuation, units, brand names unchanged.
-- Category names are part of breadcrumbs (`Indumentaria y accesorios > Ropa > Pantalones > Jeans`); keep them short nouns consistent with siblings and parents.
-- Same term across categories, attributes and values (if `camiseta` → `remera` in categories, also in values like `Remera de fútbol`).
-- Check `en` for meaning, not just base: base may be a mistranslation (e.g. false friends). Fix those too.
+- Check `en` for meaning: base may be a mistranslation or false friend. Fix those too.
+- Fix grammar when a term changes gender or number (el bañador azul → la malla azul).
+- Match base style: capitalization, punctuation, units, brand and model names unchanged (`Garmin Zumo` stays).
+- Category names appear in breadcrumbs (`Indumentaria y accesorios > Ropa > Pantalones > Jeans`): short nouns, consistent with parent and siblings.
+- Same term everywhere: if `camiseta` → `remera` in categories, also in attributes and values.
+- Descriptions: impersonal like base; if second person is needed, use `vos`.
+- Avoid words with vulgar meaning in Argentina (e.g. `coger` → `tomar`, `agarrar`).
+
+## Output
+
+- No narration, no per-batch summaries. Write files and run commands.
+- After the last batch: `pnpm --silent check`, commit, open a PR.
 
 ## Don'ts
 
-- Don't edit `.upstream/`, `dist/`, `release-assets/`
-- Don't edit `reviewed/*.json` by hand; use `pnpm mark-reviewed`
-- Don't mark keys reviewed without looking at them
+- Don't edit `.upstream/`, `dist/`, `release-assets/`, `reviewed/*.json`
+- Don't commit batch/changes files
+- Don't invent or rename keys

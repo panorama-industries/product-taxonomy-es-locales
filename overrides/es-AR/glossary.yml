@@ -1,0 +1,8 @@
+# Base (es) terms that differ in es-AR. Used by `pnpm pending --match-glossary`.
+# match: whole-word, case-insensitive forms to find in base text (list every inflection: singular, plural, gender)
+# use:   es-AR replacement; note: context, gender changes, exceptions
+#
+# - match: [camiseta, camisetas]
+#   use: remera(s)
+#   note: fem → fem
+terms: []

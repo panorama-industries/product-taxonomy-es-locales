@@ -10,7 +10,9 @@
   "scripts": {
     "sync": "node scripts/sync.ts",
     "check": "node scripts/check.ts",
+    "vocab": "node scripts/vocab.ts",
     "pending": "node scripts/pending.ts",
+    "apply": "node scripts/apply.ts",
     "mark-reviewed": "node scripts/mark-reviewed.ts",
     "build": "node scripts/build.ts",
     "stage": "node scripts/stage.ts",
