@@ -5073,8 +5073,26 @@ es-AR:
       name: "Rulemanes para patines en línea"
     sg-4-12-2-5:
       name: "Botas interiores para patines en línea"
+    sg-4-12-3-2:
+      name: "Patines en línea de competencia"
+    sg-4-12-5-2:
+      name: "Patines de cuatro ruedas de competencia"
+    sg-4-12-5-3:
+      name: "Patines de cuatro ruedas de recreación"
+    sg-4-12-6-2:
+      name: "Esquís sobre ruedas para competencia"
     sg-4-13-3:
       name: "Kites para kite buggy"
+    sg-4-14-1-3:
+      name: "Volantes"
+    sg-4-14-4:
+      name: "Juegos de césped"
+    sg-4-14-4-1:
+      name: "Juegos de bochas"
+    sg-4-14-4-5:
+      name: "Sets de bolos sobre césped"
+    sg-4-14-5:
+      name: "Juegos de paletas con pelota"
     sg-4-15:
       name: "Monopatines"
     sg-4-15-1:
@@ -5091,6 +5109,8 @@ es-AR:
       name: "Monopatines"
     sg-4-15-3:
       name: "Piezas para monopatines eléctricos"
+    sg-4-15-3-2-3:
+      name: "Cubiertas para scooters eléctricos"
     sg-4-15-3-4:
       name: "Manubrios y comandos"
     sg-4-15-3-4-2:
@@ -5129,6 +5149,10 @@ es-AR:
       name: "Ruedas de la patineta"
     sg-4-16-5-5:
       name: "Shorts protectores para patinetas"
+    sg-4-17-1-1:
+      name: "Sondas para avalanchas"
+    sg-4-17-2-13-3:
+      name: "Esquíes de montaña y travesía"
     sg-4-17-2-2:
       name: "Accesorios para antiparras de esquí y snowboard"
     sg-4-17-2-2-1:
@@ -5565,6 +5589,8 @@ es-AR:
       name: "Accesorios para antiparras y máscaras de airsoft"
     so-1-10-9:
       name: "Software de edición de video"
+    so-1-7:
+      name: "Software financiero, de impuestos y contabilidad"
     so-2-6:
       name: "Fotografía y video de stock"
     tg-2-14:
@@ -5581,16 +5607,36 @@ es-AR:
       name: "Hamacas y balancines"
     tg-3-4:
       name: "Carpas y túneles de juego"
+    tg-3-7:
+      name: "Areneros"
+    tg-3-7-2:
+      name: "Tapas para areneros"
     tg-4-12:
       name: "Rompecabezas de madera y con agarrador"
+    tg-4-13:
+      name: "Alfombras y tableros para rompecabezas"
     tg-4-6:
       name: "Accesorios para rompecabezas"
     tg-4-7:
       name: "Rompecabezas"
+    tg-4-9:
+      name: "Rompecabezas mecánicos"
     tg-5-1-10:
       name: "Payana"
+    tg-5-1-4:
+      name: "Juguetes para hacer burbujas"
+    tg-5-1-4-1:
+      name: "Sopladores de burbujas"
+    tg-5-1-4-2:
+      name: "Pistolas de burbujas"
+    tg-5-1-4-3:
+      name: "Máquinas de burbujas"
+    tg-5-1-5:
+      name: "Resortes mágicos"
     tg-5-1-6:
       name: "Bolitas"
+    tg-5-1-7:
+      name: "Juguetes de paletas con pelota"
     tg-5-1-9:
       name: "Trompos"
     tg-5-12-3:
@@ -5607,6 +5653,10 @@ es-AR:
       name: "Kits de fabricación de joyas y mostacillas"
     tg-5-2-10:
       name: "Stickers y máquinas de stickers"
+    tg-5-2-11:
+      name: "Tablets de dibujo"
+    tg-5-2-6-6:
+      name: "Juguetes de slime y masilla"
     tg-5-20-5:
       name: "Carritos"
     tg-5-21:
@@ -5635,8 +5685,12 @@ es-AR:
       name: "Baldes de playa"
     tg-5-6-3:
       name: "Balsas y flotadores inflables"
+    tg-5-6-8:
+      name: "Palas de arena"
     tg-5-7-13:
       name: "Circuitos de bolitas"
+    tg-5-8:
+      name: "Muñecas, sets de juego y figuras de juguete"
     tg-5-8-12:
       name: "Sets de juego"
     tg-5-8-12-2:
