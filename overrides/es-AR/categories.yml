@@ -3225,20 +3225,40 @@ es-AR:
       name: "Conservadoras y enfriadores de bebidas"
     hg-11-1-4-2:
       name: "Conservadoras de bebidas"
+    hg-11-10-10:
+      name: "Posafuentes"
+    hg-11-10-3-1:
+      name: "Espolvoreadores de queso"
+    hg-11-10-3-4:
+      name: "Juegos de espolvoreadores"
+    hg-11-10-5-3:
+      name: "Platitos de café y té"
+    hg-11-10-5-5:
+      name: "Mugs"
     hg-11-10-5-6:
       name: "Vasos de shot"
+    hg-11-10-5-7:
+      name: "Copas"
+    hg-11-10-5-7-2-2:
+      name: "Copas de martini"
     hg-11-10-6-4:
       name: "Juegos de cubiertos"
     hg-11-10-6-5-6:
       name: "Tenedores para bocaditos"
     hg-11-10-6-6-1:
       name: "Cucharitas de té"
+    hg-11-10-6-6-2:
+      name: "Cucharas de mesa"
     hg-11-10-7-1:
       name: "Platos para manteca"
+    hg-11-10-7-14:
+      name: "Bowls para servir"
     hg-11-10-7-2:
       name: "Bandejas para tortas"
     hg-11-10-7-3:
       name: "Bases para torta"
+    hg-11-10-7-4:
+      name: "Hueveras"
     hg-11-2-1-10:
       name: "Ramequines y fuentes para soufflé"
     hg-11-2-1-2:
@@ -3413,22 +3433,38 @@ es-AR:
       name: "Pavas y calentadores de agua"
     hg-11-7-26:
       name: "Máquinas de helados"
+    hg-11-7-30-2:
+      name: "Chairas de afilar"
     hg-11-7-34:
       name: "Parrillas"
     hg-11-7-37:
       name: "Máquinas de pochoclo"
+    hg-11-7-38-4:
+      name: "Anafes eléctricos"
     hg-11-7-41:
       name: "Heladeras"
     hg-11-7-41-1:
       name: "Heladeras comerciales"
     hg-11-7-41-2:
       name: "Mini heladeras"
+    hg-11-7-43:
+      name: "Máquinas para hacer soda"
+    hg-11-7-45:
+      name: "Máquinas para hacer té"
     hg-11-7-46-10:
       name: "Wafleras"
     hg-11-7-46-2:
       name: "Máquinas de donas"
     hg-11-7-46-3:
       name: "Máquinas para hacer muffins"
+    hg-11-7-46-9:
+      name: "Máquinas para hacer tortillas y panes planos"
+    hg-11-7-47:
+      name: "Compactadores de basura"
+    hg-11-7-48:
+      name: "Envasadoras al vacío"
+    hg-11-7-48-2:
+      name: "Selladoras al vacío externas"
     hg-11-7-5:
       name: "Anafes"
     hg-11-7-50-1:
@@ -3439,16 +3475,36 @@ es-AR:
       name: "Heladeras para vino"
     hg-11-7-6:
       name: "Máquinas de algodón de azúcar"
+    hg-11-8-12:
+      name: "Escurridores y coladores"
+    hg-11-8-12-1:
+      name: "Escurridores"
+    hg-11-8-12-2:
+      name: "Coladores"
     hg-11-8-14:
       name: "Moldes de galletitas"
     hg-11-8-15:
       name: "Prensa para galletitas"
+    hg-11-8-18:
+      name: "Temporizadores de cocina"
+    hg-11-8-19:
+      name: "Sopletes de cocina"
+    hg-11-8-20:
+      name: "Rejillas para enfriar"
     hg-11-8-22:
+      name: "Escurridores de platos"
+    hg-11-8-22-1:
       name: "Escurridores de platos"
     hg-11-8-22-3:
       name: "Secaplatos"
+    hg-11-8-28-2-5:
+      name: "Pinchos para nueces"
+    hg-11-8-30-2:
+      name: "Ralladores de cítricos"
     hg-11-8-37:
       name: "Cubeteras"
+    hg-11-8-38:
+      name: "Pistolas para charqui"
     hg-11-8-41-11:
       name: "Dispensadores y soportes de sorbetes"
     hg-11-8-41-11-1:
@@ -3459,6 +3515,10 @@ es-AR:
       name: "Recipientes para terrones de azúcar"
     hg-11-8-41-13:
       name: "Porta escarbadientes y dispensadores de escarbadientes"
+    hg-11-8-41-13-1:
+      name: "Dispensadores de escarbadientes"
+    hg-11-8-41-13-2:
+      name: "Porta escarbadientes"
     hg-11-8-41-3:
       name: "Organizadores de muebles de cocina"
     hg-11-8-41-3-1:
@@ -3469,6 +3529,16 @@ es-AR:
       name: "Organizadores para debajo de la bacha"
     hg-11-8-41-4:
       name: "Mesadas y organizadores de bebidas"
+    hg-11-8-47:
+      name: "Pisapapas"
+    hg-11-8-50:
+      name: "Bowls para mezclar"
+    hg-11-8-52:
+      name: "Aceiteras y vinagreras"
+    hg-11-8-54:
+      name: "Guantes y agarraderas para horno"
+    hg-11-8-56:
+      name: "Mezcladores de masa"
     hg-11-8-6:
       name: "Productos para la decoración de tortas"
     hg-11-8-6-4:
@@ -3499,16 +3569,40 @@ es-AR:
       name: "Apoyacucharas"
     hg-11-8-78:
       name: "Dispensadores de manteca"
+    hg-11-8-80:
+      name: "Balanzas de cocina"
     hg-12-1-11-1:
       name: "Ganchos y grampas para mallas antihierbas"
     hg-12-1-11-1-1:
       name: "Ganchos para mallas antihierbas"
     hg-12-1-11-1-2:
       name: "Grampas para mallas antihierbas"
+    hg-12-1-15:
+      name: "Fundas para macetas y maceteros"
     hg-12-1-16:
       name: "Macetas y maceteros"
+    hg-12-1-16-2:
+      name: "Macetas"
     hg-12-1-19-4-6:
       name: "Lamparitas para cultivo"
+    hg-12-1-4:
+      name: "Platillos y bandejas para macetas"
+    hg-12-1-5-1:
+      name: "Almohadillas, asientos y carritos de jardinería"
+    hg-12-1-5-1-1:
+      name: "Almohadillas de jardinería para arrodillarse"
+    hg-12-1-5-1-2:
+      name: "Carritos de jardinería con asiento"
+    hg-12-1-6-3-4:
+      name: "Cámaras para carretillas"
+    hg-12-1-7-11:
+      name: "Palas"
+    hg-12-1-7-11-1:
+      name: "Palas de punta"
+    hg-12-1-7-11-2:
+      name: "Palas rectas"
+    hg-12-1-7-14:
+      name: "Tijeras de podar de mango largo"
     hg-12-1-7-7-2:
       name: "Rodillos para césped remolcados"
     hg-12-2-3:
