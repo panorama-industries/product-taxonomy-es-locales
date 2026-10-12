@@ -3165,6 +3165,8 @@ es-AR:
       name: "Sacacorchos para mozos"
     hg-11-1-15:
       name: "Hieleras"
+    hg-11-1-18:
+      name: "Alfombras para barra"
     hg-11-1-2:
       name: "Canillas y dispensadores de cerveza"
     hg-11-1-2-4:
@@ -3187,6 +3189,8 @@ es-AR:
       name: "Bandejas para tortas"
     hg-11-10-7-3:
       name: "Bases para torta"
+    hg-11-2-1-10:
+      name: "Ramequines y fuentes para soufflé"
     hg-11-2-1-2:
       name: "Bandejas para hornear galletitas"
     hg-11-2-1-5:
@@ -3215,6 +3219,10 @@ es-AR:
       name: "Baldes de caramelos"
     hg-11-4-3:
       name: "Frascos para galletitas"
+    hg-11-4-4:
+      name: "Tapas para táperes"
+    hg-11-4-7-2:
+      name: "Papel manteca"
     hg-11-4-8:
       name: "Frascos de miel"
     hg-11-6-12:
@@ -3231,14 +3239,20 @@ es-AR:
       name: "Cestas para freezer"
     hg-11-6-12-7:
       name: "Cajones del freezer"
+    hg-11-6-14:
+      name: "Accesorios para máquinas de helados"
     hg-11-6-14-1:
       name: "Cuencos de freezer para máquinas de helado"
+    hg-11-6-16-6:
+      name: "Filtros de agua para máquinas de hielo"
     hg-11-6-17-3:
       name: "Recolectores de jugo"
     hg-11-6-19:
       name: "Accesorios para parrillas"
     hg-11-6-19-1:
       name: "Briquetas para parrilla"
+    hg-11-6-19-11:
+      name: "Láminas para parrilla"
     hg-11-6-19-3:
       name: "Carros para parrillas"
     hg-11-6-19-4:
@@ -3267,12 +3281,20 @@ es-AR:
       name: "Asadores para parrillas exteriores"
     hg-11-6-19-8:
       name: "Tablas para parrilla"
+    hg-11-6-2-15:
+      name: "Bases para compactar café"
+    hg-11-6-2-7-23:
+      name: "Perillas"
     hg-11-6-21:
       name: "Accesorios para máquinas de pochoclo"
     hg-11-6-21-1:
       name: "Bolsas para pochoclo"
     hg-11-6-22:
       name: "Accesorios para anafes portátiles"
+    hg-11-6-22-5:
+      name: "Bases para anafes"
+    hg-11-6-22-7:
+      name: "Cortavientos"
     hg-11-6-24:
       name: "Accesorios de heladera"
     hg-11-6-24-2:
@@ -3289,6 +3311,14 @@ es-AR:
       name: "Accesorios para wafleras"
     hg-11-6-29-3:
       name: "Platos para waffles"
+    hg-11-6-3:
+      name: "Accesorios para anafes, hornos y cocinas a gas"
+    hg-11-6-3-1:
+      name: "Kits de limpieza para anafes"
+    hg-11-6-3-10:
+      name: "Bandejas recolectoras del anafe"
+    hg-11-6-3-2:
+      name: "Protectores de anafes"
     hg-11-6-30:
       name: "Accesorios para dispensadores de agua"
     hg-11-6-30-1:
@@ -3303,6 +3333,10 @@ es-AR:
       name: "Filtros para heladeras de vino"
     hg-11-6-31-3:
       name: "Estantes para heladera de vino"
+    hg-11-6-33-2:
+      name: "Revestimientos y láminas para freidoras de aire"
+    hg-11-6-4:
+      name: "Accesorios para máquina de algodón de azúcar"
     hg-11-6-7:
       name: "Accesorios para pavas eléctricas"
     hg-11-6-7-1:
@@ -3327,6 +3361,8 @@ es-AR:
       name: "Freezers verticales"
     hg-11-7-24-2:
       name: "Pavas y calentadores de agua"
+    hg-11-7-26:
+      name: "Máquinas de helados"
     hg-11-7-34:
       name: "Parrillas"
     hg-11-7-37:
@@ -3343,12 +3379,16 @@ es-AR:
       name: "Máquinas de donas"
     hg-11-7-46-3:
       name: "Máquinas para hacer muffins"
+    hg-11-7-5:
+      name: "Anafes"
     hg-11-7-50-1:
       name: "Filtros de agua para mesada"
     hg-11-7-50-2:
       name: "Filtros de agua para canilla"
     hg-11-7-51:
       name: "Heladeras para vino"
+    hg-11-7-6:
+      name: "Máquinas de algodón de azúcar"
     hg-11-8-14:
       name: "Moldes de galletitas"
     hg-11-8-15:
