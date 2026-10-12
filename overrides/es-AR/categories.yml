@@ -2537,8 +2537,24 @@ es-AR:
       name: "Fresas de corte al ras"
     ha-14-18-1-3:
       name: "Fresas rectas"
+    ha-14-19-1-9:
+      name: "Lana de acero"
     ha-14-23-1:
       name: "Hojas de espátula y cutter"
+    ha-14-23-2-2:
+      name: "Hojas de sierra de vaivén"
+    ha-14-23-2-3:
+      name: "Hojas de sierra sable"
+    ha-14-24:
+      name: "Cuñas para herramientas"
+    ha-14-24-1:
+      name: "Cuñas para hacha"
+    ha-14-24-2:
+      name: "Cuñas para martillo"
+    ha-14-26:
+      name: "Bocallaves para herramientas"
+    ha-14-28-3:
+      name: "Cuñas para partir"
     ha-14-3:
       name: "Accesorios para cutters"
     ha-14-4-1:
@@ -2565,30 +2581,116 @@ es-AR:
       name: "Muelas y puntas para amoladora"
     ha-14-9:
       name: "Grampas industriales"
+    ha-15-1:
+      name: "Arenadoras"
     ha-15-1-1:
       name: "Arenadoras de gabinete"
     ha-15-10:
       name: "Cepillos para pisos de cemento"
+    ha-15-11-8:
+      name: "Cutters"
+    ha-15-11-8-1:
+      name: "Cutters de hoja fija"
+    ha-15-11-8-2:
+      name: "Cutters de hoja retráctil"
     ha-15-14-2:
       name: "Agujereadoras de banco"
+    ha-15-16-1-1:
+      name: "Linternas de mano"
     ha-15-19-1:
       name: "Empuñaduras de manubrio"
     ha-15-19-3:
       name: "Empuñaduras de pinzas"
+    ha-15-24:
+      name: "Atornilladores y llaves de impacto"
+    ha-15-24-1:
+      name: "Atornilladores de impacto"
+    ha-15-27-2-3:
+      name: "Escaleras de tijera"
     ha-15-27-4:
       name: "Banquitos escalera"
     ha-15-29:
       name: "Cambiadores de lamparitas"
+    ha-15-3-2:
+      name: "Hachas de mano"
+    ha-15-3-3:
+      name: "Hachas para partir"
     ha-15-30:
       name: "Encendedores y fósforos"
+    ha-15-31:
+      name: "Partidoras de leña"
+    ha-15-31-1:
+      name: "Partidoras de leña manuales"
+    ha-15-31-2:
+      name: "Partidoras de leña eléctricas"
+    ha-15-32:
+      name: "Barredoras magnéticas"
+    ha-15-32-1:
+      name: "Barredoras magnéticas de mano"
+    ha-15-32-2:
+      name: "Barredoras magnéticas con ruedas"
+    ha-15-34-2-1:
+      name: "Mezcladoras de cemento de mano"
     ha-15-34-5:
       name: "Esponjas para pastina"
+    ha-15-34-7:
+      name: "Juntaras"
+    ha-15-34-7-1:
+      name: "Juntaras para bloques"
+    ha-15-34-7-2:
+      name: "Juntaras para ladrillos"
+    ha-15-36-17-1-3:
+      name: "Niveles torpedo"
+    ha-15-36-17-3-2:
+      name: "Niveles ópticos con trípode"
+    ha-15-36-18:
+      name: "Balanzas"
+    ha-15-36-18-1:
+      name: "Balanzas digitales"
+    ha-15-36-18-2:
+      name: "Balanzas mecánicas"
+    ha-15-36-19:
+      name: "Ruedas medidoras"
+    ha-15-36-22-2:
+      name: "Buscadores de montantes"
+    ha-15-36-28-1:
+      name: "Escuadras de albañil"
+    ha-15-36-28-2:
+      name: "Escuadras triangulares"
+    ha-15-36-28-3:
+      name: "Escuadras de carpintero"
+    ha-15-36-29:
+      name: "Reglas de canto recto"
+    ha-15-36-30:
+      name: "Sensores de montantes"
+    ha-15-36-31:
+      name: "Cintas métricas"
+    ha-15-36-38:
+      name: "Pronósticos y estaciones meteorológicas"
+    ha-15-36-6:
+      name: "Varas de medición"
+    ha-15-36-7:
+      name: "Medidores de distancia"
+    ha-15-36-8:
+      name: "Compases de puntas"
     ha-15-40:
       name: "Clavadoras y engrampadoras"
+    ha-15-40-2:
+      name: "Clavadoras para estructuras"
     ha-15-40-3:
       name: "Pistolas engrampadoras"
     ha-15-40-4:
       name: "Engrampadoras de alta resistencia"
+    ha-15-42-5-1:
+      name: "Agitadoras eléctricas"
+    ha-15-42-7-3:
+      name: "Pulverizadores HVLP"
+    ha-15-45-2:
+      name: "Limpiadores eléctricos"
+    ha-15-48-1:
+      name: "Cepillos de banco"
+    ha-15-48-2:
+      name: "Cepillos de bloque"
     ha-15-48-3:
       name: "Cepilladoras de router"
     ha-15-49:
@@ -2599,12 +2701,62 @@ es-AR:
       name: "Pinzas de punta de aguja"
     ha-15-49-3:
       name: "Pinzas para juntas deslizantes"
+    ha-15-5:
+      name: "Formones y gubias"
+    ha-15-5-1:
+      name: "Formones rectos"
     ha-15-50:
       name: "Sopapas"
     ha-15-50-2:
       name: "Sopapas de bacha"
     ha-15-50-3:
       name: "Sopapas de inodoro"
+    ha-15-54:
+      name: "Punzones y leznas"
+    ha-15-54-1:
+      name: "Punzones de centro"
+    ha-15-54-2:
+      name: "Botadores"
+    ha-15-54-3:
+      name: "Punzones de trazar"
+    ha-15-55-1:
+      name: "Espátulas flexibles"
+    ha-15-55-3:
+      name: "Espátulas rígidas"
+    ha-15-58:
+      name: "Fresadoras tupí"
+    ha-15-62-2:
+      name: "Sierras de corte"
+    ha-15-62-3-1:
+      name: "Serruchos de costilla"
+    ha-15-62-3-2:
+      name: "Sierras de marquetería"
+    ha-15-62-8:
+      name: "Sierras para paneles"
+    ha-15-65:
+      name: "Afiladores"
+    ha-15-66:
+      name: "Llaves tubo"
+    ha-15-67:
+      name: "Soldadores"
+    ha-15-69:
+      name: "Machos y terrajas"
+    ha-15-69-1:
+      name: "Terrajas hexagonales"
+    ha-15-7:
+      name: "Cepillos para chimenea"
+    ha-15-71:
+      name: "Prensas y morsas"
+    ha-15-71-1:
+      name: "Prensas de barra"
+    ha-15-71-2:
+      name: "Morsas de banco"
+    ha-15-71-3:
+      name: "Prensas en C"
+    ha-15-74:
+      name: "Cuchillos"
+    ha-15-8-2:
+      name: "Compactadores de pisón"
     ha-15-80:
       name: "Llaves"
     ha-15-80-2:
