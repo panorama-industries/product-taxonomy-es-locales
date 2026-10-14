@@ -912,3 +912,194 @@ terms:
   - match: [concha, conchas]
     use: caracol(es) / cáscara(s) / casco(s)
     note: "Vulgar in AR; never use. Seashell → caracol marino; coconut shell → cáscara de coco; drum shell → casco; programming shell → shell."
+  # Terms fixed during the category review (phase C1), applied everywhere
+  - match: [desechable, desechables]
+    use: descartable(s)
+  - match: [contrachapado, contrachapada, contrachapados, contrachapadas]
+    use: terciado / multilaminado
+    note: "Plywood: madera contrachapada → madera terciada / terciado."
+  - match: [tienda de campaña, tiendas de campaña]
+    use: carpa(s)
+  - match: [hierba]
+    use: césped / pasto
+    note: "Lawn/turf sense only (hierba sintética → pasto sintético). Keep herbs (hierbas aromáticas) and hierba mate / gatera."
+  - match: [bolos]
+    use: bowling
+    note: "Bowling sense (bolera, bolos de bowling → pinos de bowling). Keep 'bolos' for lawn skittles/toy pins if not bowling."
+  - match: [recambio, recambios]
+    use: repuesto(s)
+  - match: [báscula, básculas]
+    use: balanza(s)
+    note: "masc → fem"
+  - match: [purpurina]
+    use: brillantina
+  - match: [caseta, casetas]
+    use: cucha(s)
+    note: "Dog house sense. Keep booth/kiosk sense (caseta de feria → stand/puesto)."
+  - match: [periódico, periódicos]
+    use: diario(s)
+    note: "Newspaper sense only; keep 'periodic' adjective (mantenimiento periódico)."
+  - match: [competición, competiciones]
+    use: competencia(s)
+  - match: [sello, sellos]
+    use: estampilla(s)
+    note: "Postage stamp sense only. Keep seal/stamp (sello de goma, sello hermético) sense; car/door seals → burletes."
+  - match: [muelle, muelles]
+    use: resorte(s)
+    note: "Spring sense: muelles de ballesta → ballestas. Keep dock/pier sense."
+  - match: [jarrón, jarrones]
+    use: florero(s)
+  - match: [prismáticos]
+    use: binoculares
+  - match: [descalcificador, descalcificadores]
+    use: ablandador(es) de agua
+  - match: [enchufe, enchufes]
+    use: tomacorriente(s)
+    note: "Wall socket/outlet sense only (enchufe de pared). Plug sense stays 'enchufe' / 'ficha'."
+  - match: [palillo, palillos]
+    use: escarbadientes
+    note: "Toothpick sense only. Keep chopsticks (palillos chinos), drumsticks and knitting needles."
+  - match: [carretera, carreteras]
+    use: ruta(s)
+    note: "Road cycling: bicicleta de carretera → bicicleta de ruta."
+  - match: [extractor de leche, extractores de leche]
+    use: sacaleches
+  - match: [mosquitera, mosquiteras]
+    use: mosquitero(s)
+    note: "fem → masc"
+  - match: [ligero, ligera, ligeros, ligeras]
+    use: liviano(s) / liviana(s)
+    note: "Weight sense only (peso ligero → liviano). Keep 'light' in other senses (cocción ligera → suave, ligero aroma → leve)."
+  - match: [videoconsola, videoconsolas]
+    use: consola(s) de videojuegos
+  - match: [secadora, secadoras]
+    use: secarropas
+    note: "Clothes dryer only: fem → masc (invariable). Hair dryers (secador) and dish/hand dryers stay."
+  - match: [pedicura]
+    use: pedicuría
+  - match: [pomo, pomos]
+    use: perilla(s)
+    note: "Door/drawer knob sense; masc → fem. Sword pommel stays."
+  - match: [vellón]
+    use: polar
+    note: "Fleece fabric sense. Raw wool fleece stays."
+  - match: [cómic, cómics]
+    use: historieta(s)
+    note: "masc → fem. Comic-book style may stay as 'cómic' when it names an art style."
+  - match: [zarzamora, zarzamoras]
+    use: mora(s)
+  - match: [higo chumbo, higos chumbos]
+    use: tuna(s)
+  - match: [goma de mascar]
+    use: chicle(s)
+  - match: [confitura, confituras]
+    use: mermelada(s)
+  - match: [cable de extensión, cables de extensión, alargador, alargadores]
+    use: alargue(s)
+  - match: [llamador, llamadores]
+    use: aldaba(s)
+    note: "Door knocker sense."
+  - match: [loseta, losetas]
+    use: baldosa(s)
+  - match: [pértiga, pértigas]
+    use: garrocha(s)
+    note: "Pole vault sense (salto con pértiga → salto con garrocha)."
+  - match: [halterofilia]
+    use: levantamiento de pesas
+  - match: [comba, combas]
+    use: soga(s) para saltar
+  - match: [antivaho]
+    use: antiempañante
+  - match: [rodamiento, rodamientos]
+    use: rulemán / rulemanes
+    note: "Ball bearing: rodamiento de bolas → rulemán a bolillas."
+  - match: [engodo, engodos]
+    use: carnada molida
+  - match: [cebo, cebos]
+    use: carnada(s) / señuelo(s)
+    note: "Live/natural bait → carnada; artificial lure → señuelo. Rodent/insect bait → cebo stays."
+  - match: [cajón de arena, cajones de arena]
+    use: arenero(s)
+  - match: [pompa, pompas]
+    use: burbuja(s)
+    note: "Soap bubbles: pompas de jabón → burbujas."
+  - match: [radiocasete, radiocasetes, casete, casetes]
+    use: cassette(s) / reproductor(es) de cassette
+  - match: [intermitente, intermitentes]
+    use: luz / luces de giro
+    note: "Car turn signal sense; keep 'intermittent' adjective."
+  - match: [bodi, bodis]
+    use: body(s)
+  - match: [traje de baño, trajes de baño]
+    use: malla(s)
+    note: "masc → fem: traje de baño entero → malla entera."
+  - match: [gorro de camionero, gorros de camionero]
+    use: gorra(s) trucker
+  - match: [cabrestante, cabrestantes]
+    use: guinche(s)
+  - match: [tráfico]
+    use: tránsito
+    note: "Road traffic sense only. Keep network/web traffic."
+  - match: [restauración]
+    use: gastronomía
+    note: "Food-service industry sense only. Keep restoration sense (restauración de muebles)."
+  - match: [perfilador, perfiladores]
+    use: delineador(es)
+    note: "Lip/eye liner sense."
+  - match: [aplique de techo, apliques de techo]
+    use: plafón / plafones
+  - match: [ropa de casa]
+    use: blanquería
+  - match: [paño de cocina, paños de cocina]
+    use: repasador(es)
+  - match: [copa para huevos, copas para huevos]
+    use: huevera(s)
+  - match: [placa de cocción, placas de cocción, placa de cocina, placas de cocina]
+    use: anafe(s)
+    note: "Cooktop sense. fem → masc."
+  - match: [copa atlética, copas atléticas]
+    use: coquilla(s)
+  - match: [malvavisco, malvaviscos]
+    use: marshmallow(s)
+  - match: [nube, nubes]
+    use: marshmallow(s)
+    note: "Candy sense only; keep cloud sense (nube, almacenamiento en la nube)."
+  - match: [tapete, tapetes]
+    use: alfombra(s) / mantel(es) / base(s)
+    note: "Rug → alfombra; table runner → camino de mesa; card table felt → paño; mats → base/colchoneta. Check en."
+  - match: [bol, boles, cuenco, cuencos]
+    use: bowl(s)
+  - match: [mezcla para juntas]
+    use: pastina
+  - match: [rompecabezas]
+    use: sierra de vaivén
+    note: "Only the jigsaw (power tool) sense. Puzzles stay 'rompecabezas'."
+  - match: [cajas claras, caja clara]
+    use: redoblante(s)
+  - match: [sintonizador, sintonizadores]
+    use: afinador(es)
+    note: "Instrument tuner sense only. Radio/TV tuners stay."
+  - match: [anilla, anillas]
+    use: argolla(s)
+    note: "Ring/loop sense (anillas de cierre → argollas). Gymnastics rings → argollas. Check en."
+  - match: [cinturón, cinturones]
+    use: correa(s)
+    note: "Only drive/machine belts (cinturón del motor → correa). Clothing, seat and tool belts stay."
+  - match: [bolso, bolsos]
+    use: cartera(s)
+    note: "Handbag/purse sense only (bolso de mano, bolso bandolera → cartera). Gym, travel, duffel, diaper and tote bags stay 'bolso'."
+  - match: [bola, bolas]
+    use: pelota(s)
+    note: "Sports/toy balls (bola de tenis → pelota de tenis). 'Bolas' alone can be vulgar in AR. Keep billiard balls, bowling balls, Christmas baubles, crystal/snow balls, petanque (→ bochas); bearings → bolillas."
+  - match: [tableta, tabletas]
+    use: tablet(s)
+    note: "Tablet computer sense only. Keep chocolate bar, pill and graphics drawing tablet (tableta gráfica)."
+  - match: [cesta, cestas]
+    use: canasta(s) / canasto(s)
+  - match: [constantes vitales]
+    use: signos vitales
+  - match: [juntas tóricas, junta tórica]
+    use: o-rings / o-ring
+  - match: [sobremesa]
+    use: escritorio
+    note: "Desktop sense (ordenador de sobremesa → computadora de escritorio). Tabletop/board game sense → de mesa."
