@@ -28,6 +28,8 @@ Each locale is a base locale + overrides. `es-AR` = Shopify `es` + `overrides/es
 | `locales.yml`                             | Locale → base locale (a Shopify locale or another locale here)                       |
 | `overrides/<locale>/<type>.yml`           | Overridden fields, same format as Shopify's `data/localizations/<type>/<locale>.yml` |
 | `overrides/<locale>/reviewed/<type>.json` | Key → hash of en + base text when reviewed                                           |
+| `overrides/<locale>/glossary.yml`         | Base terms that differ in the locale                                                 |
+| `overrides/<locale>/harvest-ignore.yml`   | Words replaced in some override that are not glossary terms (one-off fixes)          |
 | `.upstream/`                              | Sparse checkout of Shopify's `data/` + `dev/` (gitignored)                           |
 
 A key is **reviewed** when its hash matches the current en + base text, **stale** when either changed upstream since review, **unreviewed** when never reviewed. Pending keys fall back to the base text, so builds always succeed.
@@ -43,7 +45,8 @@ pnpm run check                   # validate overrides, show review progress (--f
 pnpm run vocab                   # distinct base words by frequency, to build the glossary
 pnpm run pending --type values   # pending keys as TSV (filters: --key, --match, --match-glossary, --dedupe, ...)
 pnpm run apply batch.tsv changes.tsv   # write overrides from a batch, mark the batch reviewed
-pnpm run mark-reviewed --type values key1 key2   # or `-` to read keys from stdin
+pnpm run harvest                 # replaced words not yet in the glossary that other keys still use
+pnpm run mark-reviewed --type values key1 key2   # or `-` to read keys from stdin (refuses while harvest has open rows)
 pnpm run build                   # generate dist/<locale>/ with Shopify's generator
 pnpm run stage                   # gzip dist/ into release-assets/
 ```

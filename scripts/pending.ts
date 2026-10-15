@@ -7,8 +7,8 @@
 //   --match <regex>        base or override text filter (case-insensitive)
 //   --match-glossary       only keys whose base text contains a glossary term
 //   --exclude-glossary     only keys whose base text contains no glossary term
-//   --glossary-kept        only keys with a field whose base contains a glossary term and no override (QA for missed fixes;
-//                          defaults --status to reviewed)
+//   --glossary-kept        only keys with a field whose current text (override, else base) contains a glossary term
+//                          (QA for missed fixes; defaults --status to reviewed)
 //   --dedupe               group keys with identical en + base + override text into one row (keys comma-separated)
 //   --limit n              max rows (0 = no limit; default 400, or 0 with --out-dir)
 // Output: --format tsv (default) | json | keys; --out <file> (default stdout)

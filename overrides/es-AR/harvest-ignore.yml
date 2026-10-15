@@ -1,0 +1,1047 @@
+# Word swaps from `pnpm run harvest` that are NOT glossary terms: one-off context fixes, mistranslations of a
+# specific key, rewording or spelling variants. Listed forms stop showing as open harvest candidates.
+# match: the removed words exactly as harvest lists them (case-insensitive); note: why it is not a term.
+# Seeded 2026-10 after triaging every swap made through the category review and the category-term gap fix.
+ignore:
+  - match: ["abrazaderas"]
+    note: "Context-specific fix: prensas (3)"
+  - match: ["abridores"]
+    note: "Context-specific fix: destapadores (1)"
+  - match: ["accesorios"]
+    note: "Context-specific fix: indumentaria (1)"
+  - match: ["aceite"]
+    note: "Context-specific fix: grasas (1)"
+  - match: ["acolchado"]
+    note: "Context-specific fix: bases (1)"
+  - match: ["adecuado"]
+    note: "Context-specific fix: apto (6)"
+  - match: ["adhesiva"]
+    note: "Context-specific fix: americana (1)"
+  - match: ["aerosol"]
+    note: "Context-specific fix: spray (1)"
+  - match: ["aficionados a los deportes"]
+    note: "Context-specific fix: hinchas (1)"
+  - match: ["agrícolas"]
+    note: "Context-specific fix: cultivos en hilera (1)"
+  - match: ["aguas"]
+    note: "Context-specific fix: eau (2)"
+  - match: ["ajusta"]
+    note: "Context-specific fix: ajustan (1)"
+  - match: ["ajustado"]
+    note: "Context-specific fix: bastidor (1)"
+  - match: ["alimentos"]
+    note: "Context-specific fix: cítricos (1)"
+  - match: ["almohadilla"]
+    note: "Context-specific fix: acolchado (1)"
+  - match: ["almohadillas"]
+    note: "Context-specific fix: almohadas (1); puntas (1); inflados (1); alfombras sanitarias (1)"
+  - match: ["almohadillas de limpieza"]
+    note: "Context-specific fix: esponjas abrasivas (1)"
+  - match: ["alta presión"]
+    note: "Context-specific fix: hvlp (1)"
+  - match: ["alternativa"]
+    note: "Context-specific fix: sable (1)"
+  - match: ["andar"]
+    note: "Context-specific fix: caminar (3)"
+  - match: ["anillos"]
+    note: "Context-specific fix: aros (1)"
+  - match: ["animación"]
+    note: "Context-specific fix: deportivos (1)"
+  - match: ["antorchas"]
+    note: "Context-specific fix: linternas (1)"
+  - match: ["análisis"]
+    note: "Context-specific fix: sondas (1)"
+  - match: ["apartadores"]
+    note: "Context-specific fix: posafuentes (1)"
+  - match: ["arados"]
+    note: "Context-specific fix: motocultores (1)"
+  - match: ["arañazos"]
+    note: "Context-specific fix: rayones (1)"
+  - match: ["arbitraje"]
+    note: "Context-specific fix: penalización (1)"
+  - match: ["arena"]
+    note: "Context-specific fix: sanitarias (1)"
+  - match: ["areneros"]
+    note: "Context-specific fix: moldes de arena (1)"
+  - match: ["armaduras"]
+    note: "Context-specific fix: protectores corporales (1)"
+  - match: ["arrastre"]
+    note: "Context-specific fix: remolcados (1); trolling (1)"
+  - match: ["artículo"]
+    note: "Context-specific fix: instrumento (1)"
+  - match: ["artículos"]
+    note: "Context-specific fix: souvenirs (1)"
+  - match: ["astilladoras"]
+    note: "Context-specific fix: partidoras (1)"
+  - match: ["avena"]
+    note: "Context-specific fix: porridge (1)"
+  - match: ["avión"]
+    note: "Context-specific fix: aeronaves (1)"
+  - match: ["ayuda"]
+    note: "Context-specific fix: soporte (1)"
+  - match: ["azul"]
+    note: "Context-specific fix: dorado (1)"
+  - match: ["baberos"]
+    note: "Context-specific fix: paños (1)"
+  - match: ["balancines"]
+    note: "Context-specific fix: hamacas (1)"
+  - match: ["bandas para el cabello"]
+    note: "Context-specific fix: vinchas (1)"
+  - match: ["barbilla"]
+    note: "Context-specific fix: piernas (1)"
+  - match: ["barcas"]
+    note: "Context-specific fix: embarcaciones (1)"
+  - match: ["barras"]
+    note: "Context-specific fix: vigas (1)"
+  - match: ["base"]
+    note: "Context-specific fix: madre (2)"
+  - match: ["bastidor"]
+    note: "Context-specific fix: rack (4)"
+  - match: ["bastidores"]
+    note: "Context-specific fix: soportes (1)"
+  - match: ["bastón"]
+    note: "Context-specific fix: varillas (1); palo (1)"
+  - match: ["batas"]
+    note: "Context-specific fix: salidas de playa (3)"
+  - match: ["bate de béisbol"]
+    note: "Context-specific fix: barril (1)"
+  - match: ["baño"]
+    note: "Context-specific fix: malla (2); inodoro (1)"
+  - match: ["baños"]
+    note: "Context-specific fix: inodoros (2); spas (1)"
+  - match: ["baúles"]
+    note: "Context-specific fix: trunks (2)"
+  - match: ["bebidas con gas"]
+    note: "Context-specific fix: soda (1)"
+  - match: ["bebé"]
+    note: "Context-specific fix: maternales (1)"
+  - match: ["bebés"]
+    note: "Context-specific fix: cochecitos de bebé (1)"
+  - match: ["bga"]
+    note: "Context-specific fix: lga (1)"
+  - match: ["bicicletas"]
+    note: "Context-specific fix: calas de bicicleta (3); bujes de bicicleta (1)"
+  - match: ["billar"]
+    note: "Context-specific fix: pileta (1)"
+  - match: ["blanco"]
+    note: "Context-specific fix: white (1)"
+  - match: ["bloqueables"]
+    note: "Context-specific fix: cerradura (1)"
+  - match: ["bobinas"]
+    note: "Context-specific fix: espirales (3)"
+  - match: ["boca"]
+    note: "Context-specific fix: boquilla (1)"
+  - match: ["bolsas"]
+    note: "Context-specific fix: carteras (2); bolsitos (1)"
+  - match: ["bolsas de viaje"]
+    note: "Context-specific fix: bolsos tote (1)"
+  - match: ["bolsillo"]
+    note: "Context-specific fix: billetera (1)"
+  - match: ["bomba"]
+    note: "Context-specific fix: inflador (2)"
+  - match: ["bombacho"]
+    note: "Context-specific fix: bombachudo (1)"
+  - match: ["bombones"]
+    note: "Context-specific fix: golosinas (1)"
+  - match: ["boquillas"]
+    note: "Context-specific fix: bujes para tuberías (1)"
+  - match: ["botas"]
+    note: "Context-specific fix: cubrepolvos (1)"
+  - match: ["botellas"]
+    note: "Context-specific fix: pulverizadores (1); tanques (1)"
+  - match: ["bricolaje"]
+    note: "Context-specific fix: ferretería (3)"
+  - match: ["brida"]
+    note: "Context-specific fix: embudo (1)"
+  - match: ["bridas"]
+    note: "Context-specific fix: precintos plásticos (1)"
+  - match: ["buceo"]
+    note: "Context-specific fix: secos (1)"
+  - match: ["béisbol"]
+    note: "Context-specific fix: lanzamientos (1)"
+  - match: ["ca"]
+    note: "Context-specific fix: aire acondicionado (4)"
+  - match: ["cabezales"]
+    note: "Context-specific fix: puntas (1)"
+  - match: ["cable"]
+    note: "Context-specific fix: hilo (4)"
+  - match: ["cableado"]
+    note: "Context-specific fix: cables (1)"
+  - match: ["cables"]
+    note: "Context-specific fix: correas (1)"
+  - match: ["cadenas"]
+    note: "Context-specific fix: transmisión (1)"
+  - match: ["caja"]
+    note: "Context-specific fix: funda (1)"
+  - match: ["cajas"]
+    note: "Context-specific fix: mesas (1); gabinetes para fuentes (1); gabinetes (1)"
+  - match: ["calar"]
+    note: "Context-specific fix: marquetería (1)"
+  - match: ["calentador"]
+    note: "Context-specific fix: estufas (1)"
+  - match: ["calibradores"]
+    note: "Context-specific fix: clavijas (1)"
+  - match: ["calidez"]
+    note: "Context-specific fix: abrigo (1)"
+  - match: ["calor"]
+    note: "Context-specific fix: picante (1)"
+  - match: ["calzoncillos"]
+    note: "Context-specific fix: bombachas (3); bombachas tipo (1)"
+  - match: ["cambios"]
+    note: "Context-specific fix: reductoras (1)"
+  - match: ["caminar"]
+    note: "Context-specific fix: correr (1)"
+  - match: ["camiones"]
+    note: "Context-specific fix: caja de camioneta (1)"
+  - match: ["camisas"]
+    note: "Context-specific fix: remeras (1)"
+  - match: ["camión"]
+    note: "Context-specific fix: camioneta (1)"
+  - match: ["campaña"]
+    note: "Context-specific fix: carpa (1)"
+  - match: ["campo"]
+    note: "Context-specific fix: fildeo (1)"
+  - match: ["campos"]
+    note: "Context-specific fix: canchas (1)"
+  - match: ["carbonatada"]
+    note: "Context-specific fix: gas (1)"
+  - match: ["carcasa"]
+    note: "Context-specific fix: gabinete (1)"
+  - match: ["carcasas"]
+    note: "Context-specific fix: racks y soportes (1)"
+  - match: ["carpas"]
+    note: "Context-specific fix: marquesinas (1); vestíbulos (1)"
+  - match: ["cartuchos"]
+    note: "Context-specific fix: cápsulas (1)"
+  - match: ["casa"]
+    note: "Context-specific fix: cucha (1)"
+  - match: ["casos"]
+    note: "Context-specific fix: estuches blandos (1)"
+  - match: ["casquillos"]
+    note: "Context-specific fix: suelas (2); bocallaves (1); bujes (1)"
+  - match: ["cebolla"]
+    note: "Context-specific fix: crepé (1)"
+  - match: ["cenefa"]
+    note: "Context-specific fix: bordes (1)"
+  - match: ["centro"]
+    note: "Context-specific fix: protectores (1)"
+  - match: ["centrocampista"]
+    note: "Context-specific fix: mediocampista (1)"
+  - match: ["cepilladoras"]
+    note: "Context-specific fix: cepillos (2)"
+  - match: ["cepillos"]
+    note: "Context-specific fix: cabezales (1)"
+  - match: ["cercado"]
+    note: "Context-specific fix: esgrima (1)"
+  - match: ["cerdas"]
+    note: "Context-specific fix: dientes (1)"
+  - match: ["cerraduras"]
+    note: "Context-specific fix: contrachapas (2)"
+  - match: ["chimeneas"]
+    note: "Context-specific fix: estufas (1)"
+  - match: ["chuletas"]
+    note: "Context-specific fix: divots (1)"
+  - match: ["cilindros"]
+    note: "Context-specific fix: resortes (1); tanques (1)"
+  - match: ["cine"]
+    note: "Context-specific fix: película (1)"
+  - match: ["cinta"]
+    note: "Context-specific fix: seguridad para cintas (1)"
+  - match: ["cintas"]
+    note: "Context-specific fix: correas (1)"
+  - match: ["clave"]
+    note: "Context-specific fix: llaves (1)"
+  - match: ["co2"]
+    note: "Context-specific fix: aire (1)"
+  - match: ["coctelera"]
+    note: "Context-specific fix: espolvoreadores (1)"
+  - match: ["cojinete"]
+    note: "Context-specific fix: rulemán (1)"
+  - match: ["cola"]
+    note: "Context-specific fix: silicona (1); adhesivo (1)"
+  - match: ["coladores"]
+    note: "Context-specific fix: escurridores (2)"
+  - match: ["colchonetas"]
+    note: "Context-specific fix: flotadores (1); alfombras (1)"
+  - match: ["colchonetas de ejercicio"]
+    note: "Context-specific fix: alfombras o bases (1)"
+  - match: ["colector"]
+    note: "Context-specific fix: múltiple (1)"
+  - match: ["colgantes"]
+    note: "Context-specific fix: paraguayas de camping (2)"
+  - match: ["collar"]
+    note: "Context-specific fix: cuello de la prenda (1)"
+  - match: ["colonia"]
+    note: "Context-specific fix: toilette (1)"
+  - match: ["columna"]
+    note: "Context-specific fix: banco (1)"
+  - match: ["combate"]
+    note: "Context-specific fix: sparring (1)"
+  - match: ["complementos"]
+    note: "Context-specific fix: accesorios (5); accesorios de ropa (1); suplementos (1)"
+  - match: ["compra"]
+    note: "Context-specific fix: comer y changuitos (1)"
+  - match: ["concentra"]
+    note: "Context-specific fix: demasiado (1)"
+  - match: ["concentradores"]
+    note: "Context-specific fix: bujes (1)"
+  - match: ["conectores"]
+    note: "Context-specific fix: niples (1)"
+  - match: ["configuración"]
+    note: "Context-specific fix: entorno (1)"
+  - match: ["construcción"]
+    note: "Context-specific fix: utilitarios (1)"
+  - match: ["contadores"]
+    note: "Context-specific fix: clickers (1)"
+  - match: ["contenedores"]
+    note: "Context-specific fix: tachos (2)"
+  - match: ["contenedores de almacenamiento"]
+    note: "Context-specific fix: soportes y estantes (1)"
+  - match: ["controladores"]
+    note: "Context-specific fix: atornilladores (1)"
+  - match: ["conversores"]
+    note: "Context-specific fix: convertidores (1)"
+  - match: ["copa"]
+    note: "Context-specific fix: coquilla (1)"
+  - match: ["cordones"]
+    note: "Context-specific fix: cables (1)"
+  - match: ["corno inglés"]
+    note: "Context-specific fix: cornos ingleses (1)"
+  - match: ["corpiños"]
+    note: "Context-specific fix: corsages (1); flores de solapa (1)"
+  - match: ["correderas"]
+    note: "Context-specific fix: corredizas (1)"
+  - match: ["corta"]
+    note: "Context-specific fix: baja (1)"
+  - match: ["cortadas"]
+    note: "Context-specific fix: corte (1)"
+  - match: ["cortadoras"]
+    note: "Context-specific fix: partidoras (3)"
+  - match: ["corteza"]
+    note: "Context-specific fix: masa (1)"
+  - match: ["cortezas"]
+    note: "Context-specific fix: chicharrones (1)"
+  - match: ["cricket"]
+    note: "Spelling variant, not a regional term; replaced with críquet (5)"
+  - match: ["cronómetros"]
+    note: "Context-specific fix: temporizadores (1)"
+  - match: ["cuadrados"]
+    note: "Context-specific fix: escuadras (2)"
+  - match: ["cual está destinado"]
+    note: "Context-specific fix: previstos (1)"
+  - match: ["cubetas"]
+    note: "Context-specific fix: bandejas (1)"
+  - match: ["cubierta"]
+    note: "Context-specific fix: deck (1)"
+  - match: ["cubiertas"]
+    note: "Context-specific fix: tapas (2)"
+  - match: ["cubrecolchones"]
+    note: "Context-specific fix: sobrecolchones (1)"
+  - match: ["cucharas"]
+    note: "Context-specific fix: cucharitas (1)"
+  - match: ["cuchillas"]
+    note: "Context-specific fix: hojas (1); entrenadores (1)"
+  - match: ["cucuruchos"]
+    note: "Context-specific fix: helados individuales (1)"
+  - match: ["cuentas"]
+    note: "Context-specific fix: mostacillas (2); talones (1)"
+  - match: ["cuerda"]
+    note: "Context-specific fix: soga (1)"
+  - match: ["cuerdas"]
+    note: "Context-specific fix: cargadores de cuerda (1); sogas (1)"
+  - match: ["cuñas"]
+    note: "Context-specific fix: chatas (1)"
+  - match: ["cácher"]
+    note: "Spelling variant, not a regional term; replaced with receptores (4)"
+  - match: ["danza"]
+    note: "Context-specific fix: baile (1)"
+  - match: ["dar cuerda"]
+    note: "Context-specific fix: lonjear (1)"
+  - match: ["dardos"]
+    note: "Context-specific fix: virotes (2)"
+  - match: ["decoraciones"]
+    note: "Context-specific fix: adornos (1)"
+  - match: ["delantales"]
+    note: "Context-specific fix: cubre (1)"
+  - match: ["dentales"]
+    note: "Context-specific fix: bucales (1)"
+  - match: ["diales"]
+    note: "Context-specific fix: perillas (1)"
+  - match: ["dientes"]
+    note: "Context-specific fix: dental (3)"
+  - match: ["directo"]
+    note: "Context-specific fix: vivo (2)"
+  - match: ["distribuidores"]
+    note: "Context-specific fix: colectores (1)"
+  - match: ["división"]
+    note: "Context-specific fix: partir (1)"
+  - match: ["divisores"]
+    note: "Context-specific fix: compases de puntas (1)"
+  - match: ["diábolos"]
+    note: "Context-specific fix: yoyós (1)"
+  - match: ["diámetro"]
+    note: "Context-specific fix: tamaño (1)"
+  - match: ["domésticos"]
+    note: "Context-specific fix: hogareños (1)"
+  - match: ["dulce"]
+    note: "Context-specific fix: azúcar (3)"
+  - match: ["duplicadores"]
+    note: "Context-specific fix: divisores (1)"
+  - match: ["economía"]
+    note: "Context-specific fix: negocios (1)"
+  - match: ["efecto"]
+    note: "Context-specific fix: golpe (1)"
+  - match: ["electricidad"]
+    note: "Context-specific fix: alimentación (1)"
+  - match: ["electricista"]
+    note: "Context-specific fix: simulación (1)"
+  - match: ["eliminadores"]
+    note: "Context-specific fix: removedores (1)"
+  - match: ["eléctricas"]
+    note: "Context-specific fix: presión (1)"
+  - match: ["empalme"]
+    note: "Context-specific fix: arranque (1)"
+  - match: ["empujadores"]
+    note: "Context-specific fix: paletas (1)"
+  - match: ["encuadre"]
+    note: "Context-specific fix: albañil (1)"
+  - match: ["encuesta"]
+    note: "Context-specific fix: agrimensura (1)"
+  - match: ["energéticos"]
+    note: "Context-specific fix: eléctricos (1)"
+  - match: ["enfriador"]
+    note: "Context-specific fix: conservadora (1)"
+  - match: ["engranajes"]
+    note: "Context-specific fix: vehículos (1)"
+  - match: ["enrolla"]
+    note: "Context-specific fix: desliza hacia abajo (1); desliza hacia arriba (1)"
+  - match: ["enrollables"]
+    note: "Context-specific fix: escalones en abanico (1)"
+  - match: ["entrenadores"]
+    note: "Context-specific fix: rodillos (1)"
+  - match: ["envasados"]
+    note: "Context-specific fix: envasadoras (1)"
+  - match: ["equipamiento"]
+    note: "Context-specific fix: indumentaria (1)"
+  - match: ["equipo informático"]
+    note: "Context-specific fix: computadora (4)"
+  - match: ["equipos"]
+    note: "Context-specific fix: radios (1)"
+  - match: ["eructos"]
+    note: "Context-specific fix: eructar (1)"
+  - match: ["escalas"]
+    note: "Context-specific fix: balanzas (1)"
+  - match: ["escobillas"]
+    note: "Context-specific fix: cepillos (1)"
+  - match: ["escurridores"]
+    note: "Context-specific fix: rasquetas (1)"
+  - match: ["espuma"]
+    note: "Context-specific fix: goma eva (1)"
+  - match: ["espátulas"]
+    note: "Context-specific fix: cuchillos (1)"
+  - match: ["estanterías"]
+    note: "Context-specific fix: estantes (1)"
+  - match: ["estantes"]
+    note: "Context-specific fix: escurridores (1)"
+  - match: ["esteras"]
+    note: "Context-specific fix: mats (1); colchonetas (1)"
+  - match: ["estilo"]
+    note: "Context-specific fix: punzones (1); apoyapiés (1)"
+  - match: ["estribo"]
+    note: "Context-specific fix: pie de cama (1)"
+  - match: ["estribos"]
+    note: "Context-specific fix: piecera (1)"
+  - match: ["estuche"]
+    note: "Context-specific fix: pinos (1)"
+  - match: ["estuches"]
+    note: "Context-specific fix: cartucheras (1)"
+  - match: ["estudios"]
+    note: "Context-specific fix: montantes (1)"
+  - match: ["estufa"]
+    note: "Context-specific fix: cocina (2)"
+  - match: ["estufas"]
+    note: "Context-specific fix: anafes (2)"
+  - match: ["estéreo"]
+    note: "Context-specific fix: potencia (1)"
+  - match: ["extraíbles"]
+    note: "Context-specific fix: tipo calzoncito (1)"
+  - match: ["filtros"]
+    note: "Context-specific fix: coladores (2)"
+  - match: ["fiscales"]
+    note: "Context-specific fix: impositivos (1)"
+  - match: ["flecos"]
+    note: "Context-specific fix: cabezales (1)"
+  - match: ["flotadores"]
+    note: "Context-specific fix: reposeras inflables (1)"
+  - match: ["flujo"]
+    note: "Context-specific fix: fundente (2)"
+  - match: ["formación"]
+    note: "Context-specific fix: capacitación (1)"
+  - match: ["formulario"]
+    note: "Context-specific fix: forma (2)"
+  - match: ["franela"]
+    note: "Context-specific fix: friza (2)"
+  - match: ["freno"]
+    note: "Context-specific fix: bocado (1)"
+  - match: ["fresadoras"]
+    note: "Context-specific fix: sopladores (2)"
+  - match: ["fuentes"]
+    note: "Context-specific fix: bowls (1)"
+  - match: ["functions"]
+    note: "Context-specific fix: funciones (1)"
+  - match: ["funda"]
+    note: "Context-specific fix: cubierta (1)"
+  - match: ["fundas"]
+    note: "Context-specific fix: estuches (2); tapas (1); colchones (1)"
+  - match: ["fundas para asientos"]
+    note: "Context-specific fix: cubiertas (1)"
+  - match: ["fórceps"]
+    note: "Context-specific fix: pinzas (1)"
+  - match: ["fórmula"]
+    note: "Context-specific fix: forma (1)"
+  - match: ["ganchos"]
+    note: "Context-specific fix: grampas (1)"
+  - match: ["gelatinas"]
+    note: "Context-specific fix: jaleas (1)"
+  - match: ["gestionar"]
+    note: "Context-specific fix: manejar (2)"
+  - match: ["gestión"]
+    note: "Context-specific fix: manejo (1)"
+  - match: ["gimnasia"]
+    note: "Context-specific fix: fitness (1); ejercicio (1)"
+  - match: ["glas"]
+    note: "Context-specific fix: impalpable (1)"
+  - match: ["graduadas"]
+    note: "Context-specific fix: receta (1)"
+  - match: ["guarniciones"]
+    note: "Context-specific fix: coberturas (1)"
+  - match: ["ha llegado"]
+    note: "Context-specific fix: llegó (1)"
+  - match: ["ha producido"]
+    note: "Context-specific fix: produjo (1)"
+  - match: ["ha provocado"]
+    note: "Context-specific fix: provocó (1)"
+  - match: ["hachas"]
+    note: "Context-specific fix: piolets (1)"
+  - match: ["hardware"]
+    note: "Context-specific fix: accesorios (1)"
+  - match: ["hebillas"]
+    note: "Context-specific fix: cierres (1)"
+  - match: ["helado"]
+    note: "Context-specific fix: hielo (1)"
+  - match: ["herramienta"]
+    note: "Context-specific fix: goma (1)"
+  - match: ["herramientas"]
+    note: "Context-specific fix: herrajes (1)"
+  - match: ["hierbas"]
+    note: "Context-specific fix: gramíneas (1)"
+  - match: ["hija"]
+    note: "Context-specific fix: riser (1)"
+  - match: ["hilo"]
+    note: "Context-specific fix: lanas e hilados (1)"
+  - match: ["hormas"]
+    note: "Context-specific fix: moldeadores (1)"
+  - match: ["hueso"]
+    note: "Context-specific fix: carozo (1)"
+  - match: ["ignición"]
+    note: "Context-specific fix: encendido (1)"
+  - match: ["imprimador"]
+    note: "Context-specific fix: imprimación (1)"
+  - match: ["inserciones"]
+    note: "Context-specific fix: insertos (1)"
+  - match: ["insignias deportivas"]
+    note: "Context-specific fix: alfileres (1)"
+  - match: ["interfaces"]
+    note: "Context-specific fix: entretelas (1)"
+  - match: ["interruptores"]
+    note: "Context-specific fix: conmutadores (4)"
+  - match: ["jabón"]
+    note: "Context-specific fix: burbujas (1)"
+  - match: ["jarabes de fruta"]
+    note: "Context-specific fix: matorrales (1)"
+  - match: ["jardines"]
+    note: "Context-specific fix: patios (1)"
+  - match: ["jaulas"]
+    note: "Context-specific fix: corrales (1); casas (1)"
+  - match: ["joyería"]
+    note: "Context-specific fix: joyas (1)"
+  - match: ["juguetes colgantes"]
+    note: "Context-specific fix: perchas (1)"
+  - match: ["juntas"]
+    note: "Context-specific fix: uniones (1); pastina (1); burletes (1)"
+  - match: ["laboratorio"]
+    note: "Context-specific fix: precipitados (1)"
+  - match: ["lancetas"]
+    note: "Context-specific fix: dispositivos de punción (1)"
+  - match: ["lanzamientos"]
+    note: "Context-specific fix: balas (1); cierres (1)"
+  - match: ["latas"]
+    note: "Context-specific fix: bidones (3)"
+  - match: ["lavado"]
+    note: "Context-specific fix: lavadoras (1)"
+  - match: ["leche"]
+    note: "Context-specific fix: crema (1); manteca (1)"
+  - match: ["leche de soja"]
+    note: "Context-specific fix: soda (1)"
+  - match: ["lentes"]
+    note: "Context-specific fix: anteojos (1)"
+  - match: ["ligereza"]
+    note: "Context-specific fix: liviandad (1)"
+  - match: ["limo"]
+    note: "Context-specific fix: slime (1)"
+  - match: ["limpieza"]
+    note: "Context-specific fix: mucama (1)"
+  - match: ["listas"]
+    note: "Context-specific fix: enumera (1)"
+  - match: ["llantas"]
+    note: "Context-specific fix: cubiertas (1)"
+  - match: ["longitud"]
+    note: "Context-specific fix: ancho (1)"
+  - match: ["límite"]
+    note: "Context-specific fix: final de carrera (1)"
+  - match: ["manchas"]
+    note: "Context-specific fix: tintes (1)"
+  - match: ["manecillas"]
+    note: "Context-specific fix: agujas (1)"
+  - match: ["manetas"]
+    note: "Context-specific fix: palancas (1)"
+  - match: ["mangos"]
+    note: "Context-specific fix: manijas (1)"
+  - match: ["manijas"]
+    note: "Context-specific fix: placas de empuje (1)"
+  - match: ["manivelas"]
+    note: "Context-specific fix: manijas (2)"
+  - match: ["mano"]
+    note: "Context-specific fix: tote (3); tijera (1)"
+  - match: ["manoplas"]
+    note: "Context-specific fix: guantes (1)"
+  - match: ["manta"]
+    note: "Context-specific fix: funda (1)"
+  - match: ["manta de montar"]
+    note: "Context-specific fix: funda del asiento (1)"
+  - match: ["mantas eléctricas"]
+    note: "Context-specific fix: almohadillas calefactoras (1)"
+  - match: ["manteca"]
+    note: "Context-specific fix: grasa (3)"
+  - match: ["marcos"]
+    note: "Context-specific fix: estructuras (1)"
+  - match: ["masilla"]
+    note: "Context-specific fix: masa (1)"
+  - match: ["maíz"]
+    note: "Context-specific fix: choclo (2)"
+  - match: ["mecanismo de cambio"]
+    note: "Context-specific fix: desviadores (1)"
+  - match: ["mecedoras"]
+    note: "Context-specific fix: hamacas (1)"
+  - match: ["megafonía"]
+    note: "Context-specific fix: parlantes (1)"
+  - match: ["mesita"]
+    note: "Context-specific fix: mesa (3)"
+  - match: ["metas"]
+    note: "Context-specific fix: arcos (1)"
+  - match: ["metros"]
+    note: "Context-specific fix: medidores (1)"
+  - match: ["mineral"]
+    note: "Context-specific fix: manantial (1)"
+  - match: ["mitones"]
+    note: "Context-specific fix: manoplas de foco (1)"
+  - match: ["mobiliario"]
+    note: "Context-specific fix: muebles (3)"
+  - match: ["mochilas"]
+    note: "Context-specific fix: valijas (1); bolsas (1)"
+  - match: ["montaje"]
+    note: "Context-specific fix: atado (11); armado (3); compatibilidad (1)"
+  - match: ["montar"]
+    note: "Context-specific fix: batir (1); armar (1)"
+  - match: ["montura"]
+    note: "Context-specific fix: asiento (2)"
+  - match: ["monturas"]
+    note: "Context-specific fix: soportes (1)"
+  - match: ["mordazas"]
+    note: "Context-specific fix: pinzas (1)"
+  - match: ["mordedores"]
+    note: "Context-specific fix: productos (1)"
+  - match: ["motocultivadores"]
+    note: "Context-specific fix: motocultores y cultivadores (1)"
+  - match: ["motosierras"]
+    note: "Context-specific fix: podadoras (1)"
+  - match: ["muebles"]
+    note: "Context-specific fix: gabinetes (2)"
+  - match: ["multimedia"]
+    note: "Context-specific fix: muebles para tv (1)"
+  - match: ["muñequeras"]
+    note: "Context-specific fix: correas de muñeca (1)"
+  - match: ["máquina de afeitar"]
+    note: "Context-specific fix: afeitadoras (1)"
+  - match: ["máquina de tiro al plato"]
+    note: "Context-specific fix: lanzaplatos (1)"
+  - match: ["máscaras"]
+    note: "Context-specific fix: skins (1)"
+  - match: ["natillas"]
+    note: "Context-specific fix: crema pastelera (1)"
+  - match: ["ni"]
+    note: "Context-specific fix: no es (1)"
+  - match: ["noche"]
+    note: "Context-specific fix: luz (6); colecho (1)"
+  - match: ["nórdico"]
+    note: "Context-specific fix: duvet (1)"
+  - match: ["núcleos"]
+    note: "Context-specific fix: radiadores (1)"
+  - match: ["objetivos"]
+    note: "Context-specific fix: blancos (3); dianas (1)"
+  - match: ["objetos"]
+    note: "Context-specific fix: herramientas (1)"
+  - match: ["objetos punzantes"]
+    note: "Context-specific fix: agujas de punta aguda (1)"
+  - match: ["oboe"]
+    note: "Context-specific fix: oboes (1)"
+  - match: ["ojales"]
+    note: "Context-specific fix: flores de solapa (1)"
+  - match: ["ollas"]
+    note: "Context-specific fix: macetas (1)"
+  - match: ["oro"]
+    note: "Context-specific fix: gold (1)"
+  - match: ["palas"]
+    note: "Context-specific fix: paletas (1); paletas y juegos (1)"
+  - match: ["palos"]
+    note: "Context-specific fix: tacos (2)"
+  - match: ["paneles"]
+    note: "Context-specific fix: columnas (1); placas (1)"
+  - match: ["paneles de interruptores"]
+    note: "Context-specific fix: tableros (1)"
+  - match: ["pantalones"]
+    note: "Context-specific fix: shorts (1)"
+  - match: ["pantalones para entrenamientos"]
+    note: "Context-specific fix: calzoncitos de entrenamiento (1)"
+  - match: ["pantalón"]
+    note: "Context-specific fix: nylon (1)"
+  - match: ["panty moldeador"]
+    note: "Context-specific fix: bombachas estilo short (2)"
+  - match: ["paquetes"]
+    note: "Context-specific fix: mochilas (1)"
+  - match: ["parabrisas"]
+    note: "Context-specific fix: antivientos (1); cortavientos (1)"
+  - match: ["parrillas"]
+    note: "Context-specific fix: grillas (1)"
+  - match: ["partidas"]
+    note: "Context-specific fix: partir (1)"
+  - match: ["pasadores"]
+    note: "Context-specific fix: alfileres (1); broches (1)"
+  - match: ["pasta"]
+    note: "Context-specific fix: masa (1); concentrado (1)"
+  - match: ["patillas"]
+    note: "Context-specific fix: varillas (1)"
+  - match: ["patio"]
+    note: "Context-specific fix: exteriores (3)"
+  - match: ["peldaños"]
+    note: "Context-specific fix: piedras de paso (1)"
+  - match: ["pelota"]
+    note: "Context-specific fix: juguetes (1)"
+  - match: ["pelotas de pádel"]
+    note: "Context-specific fix: paletas con pelota (1)"
+  - match: ["perforadoras"]
+    note: "Context-specific fix: copa (1); pulidoras (1)"
+  - match: ["perfume"]
+    note: "Context-specific fix: parfum (1)"
+  - match: ["pernos"]
+    note: "Context-specific fix: pasadores (1)"
+  - match: ["peso"]
+    note: "Context-specific fix: bala (1)"
+  - match: ["pesos"]
+    note: "Context-specific fix: balanzas (1)"
+  - match: ["picos"]
+    note: "Context-specific fix: palas rectas (1); zapatillas (1)"
+  - match: ["pies"]
+    note: "Context-specific fix: patas (1); varas (1)"
+  - match: ["pijama quirúrgica"]
+    note: "Context-specific fix: ambo (3); ambo quirúrgico (1)"
+  - match: ["pilas"]
+    note: "Context-specific fix: piletas (1); lavadores (1)"
+  - match: ["pintado"]
+    note: "Context-specific fix: tapiz (2)"
+  - match: ["pinzas"]
+    note: "Context-specific fix: broches (1)"
+  - match: ["pista"]
+    note: "Context-specific fix: atletismo con clavos (1)"
+  - match: ["pistas"]
+    note: "Context-specific fix: canchas (1)"
+  - match: ["placa de identificación"]
+    note: "Context-specific fix: patente (1)"
+  - match: ["placas para calentar"]
+    note: "Context-specific fix: anafes eléctricos (1)"
+  - match: ["planchas"]
+    note: "Context-specific fix: planchitas (2); tablas (2)"
+  - match: ["plataformas"]
+    note: "Context-specific fix: caja (1)"
+  - match: ["platos"]
+    note: "Context-specific fix: bases (2); platitos (1)"
+  - match: ["plomo"]
+    note: "Context-specific fix: caballo con arcos (1)"
+  - match: ["pluma"]
+    note: "Context-specific fix: birome (1)"
+  - match: ["plumas"]
+    note: "Context-specific fix: volantes (1)"
+  - match: ["polvo"]
+    note: "Context-specific fix: impalpable (1)"
+  - match: ["porta"]
+    note: "Context-specific fix: soportes (1)"
+  - match: ["potencia"]
+    note: "Context-specific fix: energía (1)"
+  - match: ["preparar"]
+    note: "Context-specific fix: cumplir (1)"
+  - match: ["previsiones"]
+    note: "Context-specific fix: pronósticos (1)"
+  - match: ["protector"]
+    note: "Context-specific fix: embudo (1)"
+  - match: ["protectores"]
+    note: "Context-specific fix: mantas (1); fundas para cabezas (1)"
+  - match: ["prueba"]
+    note: "Context-specific fix: carpintero (1)"
+  - match: ["puerta"]
+    note: "Context-specific fix: felpudo (1)"
+  - match: ["puertas"]
+    note: "Context-specific fix: portones (4)"
+  - match: ["puestos"]
+    note: "Context-specific fix: exhibidores (1)"
+  - match: ["puestos temporales"]
+    note: "Context-specific fix: pop up (2)"
+  - match: ["puntería"]
+    note: "Context-specific fix: asistencia (1)"
+  - match: ["puños"]
+    note: "Context-specific fix: correa (1); grips (1)"
+  - match: ["que se esperaba"]
+    note: "Context-specific fix: esperada (1)"
+  - match: ["quitanieves"]
+    note: "Context-specific fix: remoción de nieve (1)"
+  - match: ["radios"]
+    note: "Context-specific fix: rayos (1)"
+  - match: ["raso"]
+    note: "Context-specific fix: gasa (1)"
+  - match: ["rasquetas"]
+    note: "Context-specific fix: raspadores (2); cepillos (1)"
+  - match: ["recipientes"]
+    note: "Context-specific fix: conservadoras (1); fundas (1)"
+  - match: ["recogedores"]
+    note: "Context-specific fix: palas recogedoras (1)"
+  - match: ["recogida"]
+    note: "Context-specific fix: recolección (1)"
+  - match: ["reconocimiento"]
+    note: "Context-specific fix: examen (6)"
+  - match: ["recortadoras"]
+    note: "Context-specific fix: bordeadoras (1)"
+  - match: ["rectificado"]
+    note: "Context-specific fix: amoladora (1)"
+  - match: ["red"]
+    note: "Context-specific fix: computadora (1); pelota (1)"
+  - match: ["rejillas"]
+    note: "Context-specific fix: parrillas (1)"
+  - match: ["relleno"]
+    note: "Context-specific fix: acolchado (1)"
+  - match: ["remeras"]
+    note: "Context-specific fix: emplumados (1)"
+  - match: ["respaldo"]
+    note: "Context-specific fix: retroceso (1)"
+  - match: ["revestimiento"]
+    note: "Context-specific fix: recubrimiento (1)"
+  - match: ["revisión"]
+    note: "Context-specific fix: retención (1)"
+  - match: ["revistas"]
+    note: "Context-specific fix: diarios personales (1)"
+  - match: ["riendas"]
+    note: "Context-specific fix: arreos (2)"
+  - match: ["rizado"]
+    note: "Context-specific fix: curling (1)"
+  - match: ["rodillo"]
+    note: "Context-specific fix: moldeables (1)"
+  - match: ["roles"]
+    note: "Context-specific fix: rollos (1)"
+  - match: ["ropa"]
+    note: "Context-specific fix: indumentaria (1); lavado (1)"
+  - match: ["roscas"]
+    note: "Context-specific fix: machos y terrajas (1)"
+  - match: ["rotores"]
+    note: "Context-specific fix: discos (1)"
+  - match: ["rápidas"]
+    note: "Context-specific fix: resorte (1)"
+  - match: ["rótulos"]
+    note: "Context-specific fix: carteles (1)"
+  - match: ["saco"]
+    note: "Context-specific fix: bolsa (1)"
+  - match: ["salida"]
+    note: "Context-specific fix: tomacorrientes (1)"
+  - match: ["salto"]
+    note: "Context-specific fix: volteo (2); saltar (1)"
+  - match: ["satinado"]
+    note: "Context-specific fix: satén (1)"
+  - match: ["scooters"]
+    note: "Context-specific fix: carritos (2); monopatines (2)"
+  - match: ["secador"]
+    note: "Context-specific fix: secarropas (1)"
+  - match: ["seguridad"]
+    note: "Context-specific fix: fuertes (1); estacionamiento (1)"
+  - match: ["serie"]
+    note: "Context-specific fix: seriales (1)"
+  - match: ["servilleteros"]
+    note: "Context-specific fix: argollas para servilletas (1)"
+  - match: ["señales"]
+    note: "Context-specific fix: carteles (2)"
+  - match: ["shuffleboard"]
+    note: "Context-specific fix: tejo (1)"
+  - match: ["sierras"]
+    note: "Context-specific fix: podadoras (1)"
+  - match: ["sillas"]
+    note: "Context-specific fix: mecedoras (1)"
+  - match: ["softball"]
+    note: "Spelling variant, not a regional term; replaced with sóftbol (4)"
+  - match: ["sombra"]
+    note: "Context-specific fix: matiz (1)"
+  - match: ["sombreros"]
+    note: "Context-specific fix: gorros (3)"
+  - match: ["sombrillas"]
+    note: "Context-specific fix: parasoles (1)"
+  - match: ["sonido"]
+    note: "Context-specific fix: phono (1)"
+  - match: ["sopladores"]
+    note: "Context-specific fix: escarificadores (2)"
+  - match: ["soportes"]
+    note: "Context-specific fix: cerramientos (1)"
+  - match: ["stemware"]
+    note: "Context-specific fix: copas (1)"
+  - match: ["steps"]
+    note: "Context-specific fix: escaladoras y steppers (1)"
+  - match: ["sucursal"]
+    note: "Context-specific fix: lugar (1); ubicación (1); zona (1)"
+  - match: ["suficiente"]
+    note: "Context-specific fix: excesivo (1)"
+  - match: ["sujeciones"]
+    note: "Context-specific fix: esposas (2); brazaletes (1)"
+  - match: ["suministros"]
+    note: "Context-specific fix: productos (1)"
+  - match: ["superficie"]
+    note: "Context-specific fix: surfcasting (1)"
+  - match: ["surf"]
+    note: "Context-specific fix: deportes acuáticos (1)"
+  - match: ["sábanas"]
+    note: "Context-specific fix: láminas (1)"
+  - match: ["tacos"]
+    note: "Context-specific fix: botines (2); tarugos (1)"
+  - match: ["talla"]
+    note: "Context-specific fix: tamaño (1)"
+  - match: ["talle"]
+    note: "Context-specific fix: tiro (1)"
+  - match: ["tamaño"]
+    note: "Context-specific fix: talle (1)"
+  - match: ["tapa"]
+    note: "Context-specific fix: cubierta (1)"
+  - match: ["tapas"]
+    note: "Context-specific fix: filtros de agua (1)"
+  - match: ["tapones"]
+    note: "Context-specific fix: gorras (1); tapas (1); plugs artificiales (1)"
+  - match: ["tarjetas"]
+    note: "Context-specific fix: placas (2)"
+  - match: ["tazas"]
+    note: "Context-specific fix: soportes (1)"
+  - match: ["teclas"]
+    note: "Context-specific fix: llaves (1)"
+  - match: ["tejido"]
+    note: "Context-specific fix: tela (3); telas (1)"
+  - match: ["telas"]
+    note: "Context-specific fix: paños (1)"
+  - match: ["teléfono"]
+    note: "Context-specific fix: celular (2)"
+  - match: ["tensores"]
+    note: "Context-specific fix: bastidores (2)"
+  - match: ["terminales"]
+    note: "Context-specific fix: mechas (1)"
+  - match: ["teteras"]
+    note: "Context-specific fix: pavas (1)"
+  - match: ["tijeras para mascotas"]
+    note: "Context-specific fix: cortapelos (1)"
+  - match: ["tintes"]
+    note: "Context-specific fix: troqueles (1)"
+  - match: ["tipo"]
+    note: "Context-specific fix: forma (1)"
+  - match: ["tira"]
+    note: "Context-specific fix: bretel (1)"
+  - match: ["tiradores"]
+    note: "Context-specific fix: manijas (1)"
+  - match: ["toallas"]
+    note: "Context-specific fix: apósitos (1)"
+  - match: ["toallitas"]
+    note: "Context-specific fix: manoplas (1)"
+  - match: ["tobilleras"]
+    note: "Context-specific fix: largas (1)"
+  - match: ["tocón"]
+    note: "Context-specific fix: stumps (1)"
+  - match: ["torcidos"]
+    note: "Context-specific fix: helicoidales (1)"
+  - match: ["tornillos"]
+    note: "Context-specific fix: morsas (2)"
+  - match: ["tortas"]
+    note: "Context-specific fix: shells (1)"
+  - match: ["trabajo"]
+    note: "Context-specific fix: golpeo (1)"
+  - match: ["trampa"]
+    note: "Context-specific fix: sifón (1)"
+  - match: ["trampas"]
+    note: "Context-specific fix: escotillas (1)"
+  - match: ["transporte"]
+    note: "Context-specific fix: traslado para simuladores (1); carga (1)"
+  - match: ["trituradoras"]
+    note: "Context-specific fix: picadores (1)"
+  - match: ["trituradores"]
+    note: "Context-specific fix: compactadores (1); ralladores (1); pisapapas (1)"
+  - match: ["troncos"]
+    note: "Context-specific fix: leña (3)"
+  - match: ["troqueles"]
+    note: "Context-specific fix: terrajas (1)"
+  - match: ["tubos"]
+    note: "Context-specific fix: cámaras (1)"
+  - match: ["tuercas"]
+    note: "Context-specific fix: tubo (1)"
+  - match: ["tóner"]
+    note: "Context-specific fix: viradores (1); tónicos (1)"
+  - match: ["tórica"]
+    note: "Context-specific fix: ring (1)"
+  - match: ["unidades"]
+    note: "Context-specific fix: lavasecarropas (1)"
+  - match: ["unitardos"]
+    note: "Context-specific fix: mallas enterizas (1)"
+  - match: ["utensilios"]
+    note: "Context-specific fix: ayudas (2)"
+  - match: ["utiliza"]
+    note: "Context-specific fix: usá (1)"
+  - match: ["vaca"]
+    note: "Context-specific fix: leche (1)"
+  - match: ["vacío"]
+    note: "Context-specific fix: aspiradora (1)"
+  - match: ["variación"]
+    note: "Context-specific fix: tratamiento (1)"
+  - match: ["vaso"]
+    note: "Context-specific fix: tubo (1)"
+  - match: ["vasos"]
+    note: "Context-specific fix: frascos (1); copas (1)"
+  - match: ["vegetal"]
+    note: "Context-specific fix: manteca (1)"
+  - match: ["veletas"]
+    note: "Context-specific fix: aletas (1)"
+  - match: ["vendas"]
+    note: "Context-specific fix: curación (1)"
+  - match: ["ventanas"]
+    note: "Context-specific fix: ventanillas (1)"
+  - match: ["verticales"]
+    note: "Context-specific fix: tipo escoba (1)"
+  - match: ["vestidores"]
+    note: "Context-specific fix: placard (1)"
+  - match: ["vestuario"]
+    note: "Context-specific fix: disfraces (1)"
+  - match: ["viga"]
+    note: "Context-specific fix: montantes (1)"
+  - match: ["visión"]
+    note: "Context-specific fix: ópticos (1)"
+  - match: ["vuelo"]
+    note: "Context-specific fix: bragueta (1)"
+  - match: ["yoyós"]
+    note: "Context-specific fix: moños (1)"
+  - match: ["zapatillas"]
+    note: "Context-specific fix: entrenadores (7); pantuflas (2); rodillos (1); rodillos magnéticos (1)"

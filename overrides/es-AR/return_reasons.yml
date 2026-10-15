@@ -60,7 +60,7 @@ es-AR:
       name: "Compatibilidad"
     flange_size:
       name: "Tamaño del embudo"
-      description: "El diámetro de la abertura del embudo del extractor de leche es incorrecto para el usuario, lo que afecta la comodidad o la extracción de leche."
+      description: "El diámetro de la abertura del embudo del sacaleches es incorrecto para el usuario, lo que afecta la comodidad o la extracción de leche."
     frame_too_small:
       description: "Las medidas de la montura de los anteojos no se ajustan adecuadamente al rostro del cliente."
     heat:
@@ -86,6 +86,8 @@ es-AR:
       description: "El dispositivo captura imágenes o videos de mala calidad en condiciones de poca iluminación."
     mesh_size:
       description: "La separación entre las aberturas de la red o de la malla es demasiado grande o demasiado pequeña."
+    pilling:
+      description: "La tela forma prematuramente bolitas de fibras o pelusas no deseadas durante el uso o el lavado."
     pockets_too_shallow:
       name: "Bolsillos poco profundos"
     provider_unavailable:
@@ -94,6 +96,8 @@ es-AR:
       description: "El movimiento hacia atrás o el golpe del dispositivo es más fuerte de lo que el cliente puede manejar cómodamente."
     region:
       description: "El servicio o producto está restringido a un área geográfica diferente a la ubicación del cliente."
+    rod_power:
+      description: "La resistencia o fuerza de elevación de la caña de pescar es demasiado liviana o demasiado pesada para el uso previsto."
     scale:
       description: "Las proporciones o relaciones de tamaño del artículo no se ajustan a las expectativas."
     seal:

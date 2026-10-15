@@ -8,7 +8,7 @@ Read AGENTS.md and prompts/README.md (Models section) first. Then follow the ste
 - Only you run `pnpm run apply`, edit glossary.yml, and use git. Subagents only write their output file.
 - Run at most 4 subagents at a time. Apply each result as soon as its subagent finishes, one apply at a time.
 - If `pnpm run apply` fails: dispatch a new subagent for that batch with the error output appended to its prompt. If it fails again, skip the batch and note it for the final report.
-- No narration to the user between steps. Report only at the two stops and at the end.
+- No narration to the user between steps. Report only at the stops and at the end.
 - Resuming: `pending` only returns unreviewed keys, so rerunning a step continues where it stopped. If the user says the glossary is approved, start at step 2.
 
 ## Step 0: Setup
@@ -46,7 +46,7 @@ When all are applied: `pnpm --silent run check`, commit "es-AR glossary matches"
 pnpm --silent run pending --glossary-kept --dedupe --out-dir /tmp/qa1
 ```
 
-Same as step 2 with MODE = "Every row was reviewed but still contains a glossary term without override. Keep base only for another meaning, a brand/model name or an exception the term's note lists; otherwise write the es-AR text." If a keep reason repeats across many rows, add it to that term's note in glossary.yml. Commit "es-AR QA glossary kept", push. Skip the step when pending writes 0 batches.
+Same as step 2 with MODE = "Every row was reviewed but its current text (override if any, else base) still contains a glossary term. Keep base only for another meaning, a brand/model name or an exception the term's note lists; otherwise write the es-AR text." If a keep reason repeats across many rows, add it to that term's note in glossary.yml. Commit "es-AR QA glossary kept", push. Skip the step when pending writes 0 batches.
 
 ## Step 4: Full pass on categories and return reasons (subagent model: sonnet)
 
@@ -54,11 +54,29 @@ Same as step 2 with MODE = "Every row was reviewed but still contains a glossary
 pnpm --silent run pending --type categories,return_reasons --out-dir /tmp/c1
 ```
 
-Same dispatch with MODE = "Review every row. Most rows need no change. Look for Spain-only terms missing from the glossary, mistranslations vs en (false friends), and consistency with parent/sibling categories in the batch (aa-1-13-8 is a child of aa-1-13)." Commit and push after every 10 applied batches ("es-AR categories review (n/N)"). Then repeat step 3 with --out-dir /tmp/qa2.
+Same dispatch with MODE = "Review every row. Most rows need no change. Look for Spain-only terms missing from the glossary, mistranslations vs en (false friends), and consistency with parent/sibling categories in the batch (aa-1-13-8 is a child of aa-1-13)." Commit and push after every 10 applied batches ("es-AR categories review (n/N)").
+
+## Step 4b: Harvest new glossary terms (subagent model: opus)
+
+Reviewers fix Spain-only words row by row, and those fixes only reach other keys through the glossary. Find the swaps the glossary doesn't cover yet:
+
+```bash
+pnpm --silent run harvest --out /tmp/harvest.tsv
+```
+
+Skip to step 4c when it writes 0 rows. Otherwise dispatch one subagent with prompt HARVEST below. Merge its proposals: terms into glossary.yml (as in step 1.3), ignore entries into overrides/es-AR/harvest-ignore.yml. Then:
+
+1. `pnpm --silent run harvest --format count` must print 0. If not, dispatch HARVEST again for the remaining rows.
+2. For each new term, count its keys as in step 1.5. **STOP.** Send the user every new term as one line `match → use (N keys) — note`, plus the number of ignore entries. Apply their edits, commit "es-AR harvest", push.
+3. Review the new terms' matches (already-reviewed keys included): `pnpm --silent run pending --glossary-kept --match '<regex of the new terms' match forms>' --dedupe --out-dir /tmp/h`, then dispatch as in step 3. Commit "es-AR harvest matches", push.
+
+## Step 4c: QA
+
+Repeat step 3 with --out-dir /tmp/qa2.
 
 ## Step 5: Remaining attributes and values
 
-**STOP.** Run `pnpm --silent run check` and send the user the table. Ask: "Mark the remaining N attributes/values without glossary matches as reviewed (base text kept, not read one by one)? yes/no". If yes:
+`pnpm --silent run check` must report 0 open harvest candidates (`mark-reviewed` refuses otherwise); if not, run step 4b again. **STOP.** Send the user the check table. Ask: "Mark the remaining N attributes/values without glossary matches as reviewed (base text kept, not read one by one)? yes/no". If yes:
 
 ```bash
 for t in attributes values; do
@@ -105,3 +123,17 @@ Reply only: done <number of rows written>
 ```
 
 `<ERROR>` is empty, or on retry: "The previous attempt failed `pnpm run apply` with: <error output>. Fix those rows."
+
+### HARVEST
+
+```
+Propose es-AR glossary terms from word swaps reviewers already made. Don't run git or pnpm run apply; don't edit repo files.
+Read the "es-AR rules" and "Glossary" sections of AGENTS.md and the whole overrides/es-AR/glossary.yml.
+Read /tmp/harvest.tsv. Each row is a word or phrase some override replaced that other keys still contain. Columns: removed, replacements (count), swaps, residual keys, status, examples.
+Decide every row:
+- Regional word choice (Spain-only, other or vulgar meaning in Argentina, false friend): propose a glossary term. In match, list every inflection; note: senses to keep, gender changes.
+- One-off fix (mistranslation of one key, context-specific wording, rewording, spelling variant): propose an ignore entry.
+Check usage when unsure: pnpm --silent run pending --match '<word>' --status all --limit 20
+Write /tmp/harvest-terms.yml (`terms:` list in the glossary format) and /tmp/harvest-ignore.yml (`ignore:` list of `match: ["<removed exactly as listed>"]` and `note`).
+Reply only: done <terms> terms, <ignores> ignores
+```
