@@ -2187,6 +2187,8 @@ es-AR:
       name: "Bibliotecas y estanterías abiertas"
     fr-19-1-6:
       name: "Bibliotecas y estanterías tipo barrister"
+    fr-19-1-7:
+      name: "Bibliotecas y estanterías de cubos"
     fr-2-1:
       name: "Accesorios para camas y sommiers"
     fr-2-1-2:
@@ -3243,6 +3245,8 @@ es-AR:
       name: "Cabezales para cepillos de limpieza y repuestos"
     hg-10-6-16:
       name: "Paños de taller y de limpieza general"
+    hg-10-6-17-3:
+      name: "Lana de acero"
     hg-10-6-18:
       name: "Espátulas limpiavidrios"
     hg-10-6-2:

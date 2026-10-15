@@ -239,6 +239,145 @@ export const pickTypes = (requested: string | undefined): ReadonlyArray<Localiza
   return types as Array<LocalizationType>
 }
 
-/** Fields whose base text contains a glossary term but have no override: either deliberately kept or a missed fix */
+/** Fields whose current text (override, else base) still contains a glossary term: either deliberately kept or a missed fix */
 export const glossaryKeptFields = (base: Entry | undefined, override: Entry | undefined, glossary: RegExp | undefined) =>
-  glossary ? Object.keys(base ?? {}).filter((field) => glossary.test(base![field]) && override?.[field] === undefined) : []
+  glossary ? Object.keys(base ?? {}).filter((field) => glossary.test(override?.[field] ?? base![field])) : []
+
+// ---------- harvest ----------
+// Word swaps reviewers made in overrides (base "desechables" → override "descartables") whose removed words are not
+// glossary terms. If the removed words still appear in other keys, the fix never spread: add a glossary term, or record
+// the swap in harvest-ignore.yml when it was a one-off (context-specific fix, mistranslation).
+
+export const harvestIgnorePath = (locale: string) => join(ROOT, "overrides", locale, "harvest-ignore.yml")
+
+/** Removed words decided not to be glossary terms. Unlike glossary terms, `match` must equal the whole removed span */
+export const loadHarvestIgnore = (locale: string): Array<{ match: Array<string>; note?: string }> => {
+  const path = harvestIgnorePath(locale)
+  if (!existsSync(path)) return []
+  const doc = readYaml(path)
+  const items = isRecord(doc) ? doc.ignore : undefined
+  if (items === undefined || items === null) return []
+  if (!Array.isArray(items)) throw new Error(`${path}: ignore must be a list`)
+  return items.map((item, i) => {
+    const match = isRecord(item) ? item.match : undefined
+    const forms = typeof match === "string" ? [match] : match
+    if (!Array.isArray(forms) || !forms.every((f) => typeof f === "string" && f.trim() !== "")) throw new Error(`${path}: ignore[${i}] needs match`)
+    return { match: forms, note: isRecord(item) && typeof item.note === "string" ? item.note : undefined }
+  })
+}
+
+export type HarvestCandidate = {
+  /** Removed words, lowercase */
+  removed: string
+  /** Replacement → number of swaps */
+  replacements: Record<string, number>
+  swaps: number
+  /** Keys (all types) whose current text still contains `removed` */
+  residual: number
+  examples: Array<string>
+  status: "open" | "glossary" | "ignored"
+}
+
+const words = (s: string) => s.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []
+const STOPWORDS = new Set("a al con de del e el en la las lo los o para por sin u un una unas unos y".split(" "))
+const trimStopwords = (ws: Array<string>) => {
+  let i = 0
+  let j = ws.length
+  while (i < j && STOPWORDS.has(ws[i])) i++
+  while (j > i && STOPWORDS.has(ws[j - 1])) j--
+  return ws.slice(i, j)
+}
+/** Same words up to accents, plural and gender endings (soporte/soportes, diseñado/diseñada) */
+const stem = (s: string) =>
+  s
+    .normalize("NFD")
+    .replace(/\p{M}/gu, "")
+    .split(" ")
+    .map((w) => w.replace(/(es|s)$/, "").replace(/[aeo]$/, ""))
+    .join(" ")
+
+/** Contiguous [removed, added] word spans between two texts (LCS diff) */
+const replacedSpans = (from: Array<string>, to: Array<string>) => {
+  const n = from.length
+  const m = to.length
+  const lcs = Array.from({ length: n + 1 }, () => new Array<number>(m + 1).fill(0))
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) lcs[i][j] = from[i] === to[j] ? lcs[i + 1][j + 1] + 1 : Math.max(lcs[i + 1][j], lcs[i][j + 1])
+  const spans: Array<[Array<string>, Array<string>]> = []
+  let removed: Array<string> = []
+  let added: Array<string> = []
+  const flush = () => {
+    if (removed.length > 0 || added.length > 0) spans.push([removed, added])
+    removed = []
+    added = []
+  }
+  let i = 0
+  let j = 0
+  while (i < n || j < m) {
+    if (i < n && j < m && from[i] === to[j]) {
+      flush()
+      i++
+      j++
+    } else if (j >= m || (i < n && lcs[i + 1][j] >= lcs[i][j + 1])) removed.push(from[i++])
+    else added.push(to[j++])
+  }
+  flush()
+  return spans
+}
+
+export const harvestCandidates = (locale: string, config = loadLocales()): Array<HarvestCandidate> => {
+  const glossary = glossaryRegex(locale)
+  const ignore = new Set(loadHarvestIgnore(locale).flatMap((i) => i.match.map((m) => words(m).join(" "))))
+  const byRemoved = new Map<string, HarvestCandidate>()
+
+  for (const type of TYPES) {
+    const base = resolveEntries(config[locale].base, type, config)
+    for (const [key, entry] of Object.entries(overrideEntries(locale, type))) {
+      for (const [field, text] of Object.entries(entry)) {
+        const baseText = base[key]?.[field]
+        if (!baseText) continue
+        for (const [rawRemoved, rawAdded] of replacedSpans(words(baseText), words(text))) {
+          const removedWords = trimStopwords(rawRemoved)
+          const addedWords = trimStopwords(rawAdded)
+          // Pure deletions/insertions are rewording, not a word choice
+          if (removedWords.length === 0 || addedWords.length === 0) continue
+          const removed = removedWords.join(" ")
+          const added = addedWords.join(" ")
+          if (stem(removed) === stem(added)) continue
+          let candidate = byRemoved.get(removed)
+          if (!candidate) {
+            const status = glossary?.test(removed) ? "glossary" : ignore.has(removed) ? "ignored" : "open"
+            candidate = { removed, replacements: {}, swaps: 0, residual: 0, examples: [], status }
+            byRemoved.set(removed, candidate)
+          }
+          candidate.swaps++
+          candidate.replacements[added] = (candidate.replacements[added] ?? 0) + 1
+          if (candidate.examples.length < 3) candidate.examples.push(`${type}/${key}: ${baseText} → ${text}`)
+        }
+      }
+    }
+  }
+
+  // Residual: count keys whose current text contains each removed span (n-gram lookup, one pass over all texts)
+  const maxLength = Math.max(0, ...[...byRemoved.keys()].map((r) => r.split(" ").length))
+  for (const type of TYPES) {
+    for (const entry of Object.values(resolveEntries(locale, type, config))) {
+      const found = new Set<HarvestCandidate>()
+      for (const text of Object.values(entry)) {
+        const ws = words(text)
+        for (let i = 0; i < ws.length; i++) {
+          for (let len = 1; len <= maxLength && i + len <= ws.length; len++) {
+            const candidate = byRemoved.get(ws.slice(i, i + len).join(" "))
+            if (candidate) found.add(candidate)
+          }
+        }
+      }
+      for (const candidate of found) candidate.residual++
+    }
+  }
+
+  return [...byRemoved.values()].sort((a, b) => b.swaps - a.swaps || b.residual - a.residual || a.removed.localeCompare(b.removed))
+}
+
+/** Swaps not covered by the glossary or harvest-ignore.yml whose removed words still appear elsewhere */
+export const openHarvestCandidates = (locale: string, config = loadLocales()) =>
+  harvestCandidates(locale, config).filter((c) => c.status === "open" && c.residual > 0)

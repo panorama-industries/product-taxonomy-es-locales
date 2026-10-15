@@ -560,6 +560,8 @@ es-AR:
       description: "Identifica el tipo de vehículo de juego para el que es adecuado el producto, como un auto o un barco."
     compatible_player:
       description: "Identifica los dispositivos que se pueden utilizar con un adaptador de cassette, por ejemplo, un iPad o una notebook."
+    compatible_recipes:
+      description: "Especifica las recetas adecuadas para el producto, normalmente para máquinas de helados, como, por ejemplo, sorbetes o helados."
     compatible_refrigerator_compartment:
       name: "Compartimento de heladera compatible"
       description: "Especifica en qué parte de la heladera se debe utilizar el accesorio."
@@ -1023,6 +1025,8 @@ es-AR:
     freezer_configuration:
       name: "Configuración del freezer"
       description: "Identifica la orientación física/estilo de diseño de la unidad del freezer."
+    freezing_method:
+      description: "Especifica la tecnología utilizada para congelar la mezcla en una máquina de helados, ayudando a los compradores a distinguir entre modelos con compresor, unidades con recipiente precongelado, tipos manuales de manivela con sal y hielo, y otros diseños."
     front_button_configuration:
       description: "Indica el estilo de los botones delanteros de un saco, y especifica si es de botonadura simple o doble y el número de botones delanteros."
     front_closure_style:
@@ -1207,6 +1211,8 @@ es-AR:
     ice_bucket_insulation:
       name: "Aislamiento de la hielera"
       description: "Indica la estructura de la pared o el nivel de aislamiento de la hielera, lo que afecta al tiempo que el hielo permanece congelado."
+    ice_cream_maker_accessories_included:
+      name: "Accesorios para máquina de helados incluidos"
     ignition_coil_configuration:
       description: "Especifica el formato de la bobina de encendido (bobina simple o bobina sobre bujía, paquete de bobinas multiterminal según la cantidad de cilindros, riel o cassette de bobinas o estilo distribuidor)."
     included_mounting_accessories:
@@ -1793,6 +1799,8 @@ es-AR:
     recliner_control_type:
       name: "Tipo de control del sillón reclinable"
       description: "Especifica cómo se acciona el mecanismo de reclinación (por ejemplo, palanca manual, panel de botones eléctrico, control remoto)."
+    recommended_food_pairing:
+      description: "Identifica las proteínas o platos principales para los que está destinada la salsa (por ejemplo, pollo, cerdo, carne vacuna, pescado, verduras)."
     recorder_specialized_features:
       description: "Identifica funciones avanzadas de las grabadoras de video, por ejemplo, las funciones inteligentes o la compatibilidad con Dolby Atmos."
     recreational_vehicle_holding_tank_type:

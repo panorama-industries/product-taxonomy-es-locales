@@ -1103,3 +1103,27 @@ terms:
   - match: [sobremesa]
     use: escritorio
     note: "Desktop sense (ordenador de sobremesa → computadora de escritorio). Tabletop/board game sense → de mesa."
+  - match: [heladera, heladeras]
+    use: máquina(s) de helados
+    note: "False friend: in base 'heladera' can mean ice cream maker (check en). In AR it means fridge: keep that sense."
+  - match: [ternera]
+    use: carne vacuna
+    note: "Beef sense only. Keep for veal."
+  - match: [cecina, cecinas]
+    use: charqui
+  - match: [librero, libreros]
+    use: biblioteca(s)
+    note: "Bookcase sense (masc → fem)."
+  - match: [zapatos planos, zapato plano]
+    use: chatas / chata
+  - match: [pocillo, pocillos]
+    use: tazón / tazones / mug(s)
+    note: "In AR 'pocillo' is a small coffee cup; mugs → tazones."
+  - match: [estropajo, estropajos]
+    use: esponja(s) / lana de acero
+    note: "Steel wool → lana de acero; scouring pad → esponja."
+  - match: [azúcar moreno, azúcar morena]
+    use: azúcar negra / azúcar rubia
+    note: "Dark brown → negra; light brown → rubia."
+  - match: [maíz dulce]
+    use: choclo

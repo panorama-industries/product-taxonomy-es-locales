@@ -1,6 +1,6 @@
 # Translation sessions
 
-**Recommended: one coordinator session.** Start an Opus session with [coordinator.md](coordinator.md). It runs every phase below with subagents (Opus for the glossary, Sonnet for batches; one fresh subagent per batch), commits each phase to one PR, and stops twice for you: to approve the glossary and to approve bulk-marking attributes/values.
+**Recommended: one coordinator session.** Start an Opus session with [coordinator.md](coordinator.md). It runs every phase below with subagents (Opus for the glossary, Sonnet for batches; one fresh subagent per batch), commits each phase to one PR, and stops for you to approve the glossary, the terms harvested from the category review, and bulk-marking attributes/values.
 
 The rest of this file is for running phases by hand, or one slice at a time.
 
@@ -15,7 +15,8 @@ Run phases in order. One session per row; sessions in the same phase can run in 
 | B. Glossary matches | [phase-b-glossary-matches.md](phase-b-glossary-matches.md) | Sonnet | Scopes below |
 | QA after B | [phase-qa-glossary-kept.md](phase-qa-glossary-kept.md) | Sonnet | 1 |
 | C1. Full pass: categories + return reasons | [phase-c-categories.md](phase-c-categories.md) | Sonnet | 4 scopes below |
-| QA after C1 | [phase-qa-glossary-kept.md](phase-qa-glossary-kept.md) | Sonnet | 1 |
+| Harvest after C1 | [phase-harvest.md](phase-harvest.md) | Opus | 1, then review the new terms yourself |
+| QA after harvest | [phase-qa-glossary-kept.md](phase-qa-glossary-kept.md) | Sonnet | 1 |
 | C2. Bulk-mark the rest | [phase-c-bulk.md](phase-c-bulk.md) | none (command) | — |
 
 The glossary starts with 53 seed terms (clothing, home, electronics, food). Phase A extends it.
@@ -24,7 +25,9 @@ The glossary starts with 53 seed terms (clothing, home, electronics, food). Phas
 
 Don't use Haiku. On a 300-row apparel test batch, Haiku changed 92 rows and Sonnet 144, using about the same number of tokens. Haiku skipped faldas→polleras (12/12 rows), calcetines→medias (14/15), tights mistranslated as "mallas" (swimsuit in AR), leggings→calzas, polos→chombas, and introduced a Spain-only term ("Ropa de estar por casa"). Skipped rows don't show in a PR diff.
 
-`pnpm run check` column **glossary kept** counts reviewed keys whose base still contains a glossary term without an override. Some are deliberate (other meaning, brand names); the QA session checks them.
+`pnpm run check` column **glossary kept** counts reviewed keys whose current text (override, else base) still contains a glossary term. Some are deliberate (other meaning, brand names); the QA session checks them.
+
+`pnpm run check` also prints **open harvest candidates**: words reviewers replaced somewhere that other keys still use and the glossary doesn't cover. Fixes made in one batch only reach other keys through the glossary, so every phase that writes overrides should end with this at 0. Bulk-marking (C2) refuses to run otherwise.
 
 Check how many keys a scope has before splitting:
 

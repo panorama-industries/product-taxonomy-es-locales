@@ -13,6 +13,7 @@
     "vocab": "tsx scripts/vocab.ts",
     "pending": "tsx scripts/pending.ts",
     "apply": "tsx scripts/apply.ts",
+    "harvest": "tsx scripts/harvest.ts",
     "mark-reviewed": "tsx scripts/mark-reviewed.ts",
     "build": "tsx scripts/build.ts",
     "stage": "tsx scripts/stage.ts",

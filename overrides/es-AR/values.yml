@@ -5,6 +5,8 @@ es-AR:
       name: "Descartable de papel"
     3d_printer_cleaning_kit_components_included__nozzle_drill_bit:
       name: "Mecha para boquilla"
+    abrasive_material__steel_wool:
+      name: "Lana de acero"
     absorbent_hygiene_product_features__flushable:
       name: "Descartable en el inodoro"
     accessories_included__footstool:
@@ -1115,6 +1117,8 @@ es-AR:
       name: "Choclo desgranado"
     corn_variety__popcorn:
       name: "Maíz para pochoclo"
+    corn_variety__sweet_corn:
+      name: "Choclo"
     cosmetic_finish__glitter:
       name: "Brillantina"
     costume_components_included__jumpsuit:
@@ -1233,6 +1237,8 @@ es-AR:
       name: "Apto para freezer"
     dinnerware_pieces_included__butter_dish:
       name: "Plato para manteca"
+    dinnerware_pieces_included__mugs:
+      name: "Tazones"
     dishwasher_accessory_type__cutlery_basket:
       name: "Canasta para cubiertos"
     dishwasher_accessory_type__utensil_basket:
@@ -1601,6 +1607,8 @@ es-AR:
       name: "Apoyapiés removible"
     footwear_material__fleece:
       name: "Polar"
+    footwear_type_compatibility__flats:
+      name: "Chatas"
     footwear_type_compatibility__high_heels:
       name: "Tacos altos"
     foundation_material__plywood:
@@ -2281,8 +2289,12 @@ es-AR:
       name: "Balanza digital"
     meat_cut__hock:
       name: "Garrón"
+    meat_cut__jerky:
+      name: "Charqui"
     meat_cut__shank:
       name: "Osobuco"
+    meat_type__beef:
+      name: "Carne vacuna"
     mechanical_puzzle_solution_format__mobile_app:
       name: "App para celular"
     medal_attachment_style__safety_pin:
@@ -2651,6 +2663,8 @@ es-AR:
       name: "Panceta"
     pet_food_flavor__banana:
       name: "Banana"
+    pet_food_flavor__beef:
+      name: "Carne vacuna"
     pet_food_flavor__grass:
       name: "Pasto"
     pet_food_flavor__peanut_butter:
@@ -2975,6 +2989,8 @@ es-AR:
       name: "Canilleras"
     protective_pad_components_included__shin_guards:
       name: "Canilleras"
+    protein_source__beef:
+      name: "Carne vacuna"
     protein_source__pea:
       name: "Arveja"
     puck_type__goalie_training:
@@ -3345,6 +3361,8 @@ es-AR:
       name: "Abrazadera de manubrio 23,8-24,2 mm"
     shifter_mounting_interface__bar_end_19_21_mm:
       name: "Extremo de manubrio 19-21 mm"
+    shochu_base_ingredient__brown_sugar_kokuto:
+      name: "Azúcar negra (kokuto)"
     shoe_organizer_design__hanging_closet_shelf:
       name: "Estante colgante para placard"
     shoe_tree_design__pump/high_heel_shaper:
@@ -3643,12 +3661,18 @@ es-AR:
       name: "Máscara desprendible"
     stroller_features__adjustable_handlebar:
       name: "Manubrio ajustable"
+    sugar_refinement_level__dark_brown:
+      name: "Negra"
+    sugar_refinement_level__light_brown:
+      name: "Rubia"
     suitable_for_bird_type__macaw:
       name: "Guacamayo"
     suitable_for_chair_type__stool:
       name: "Banqueta"
     suitable_for_furniture_type__footstool:
       name: "Apoyapiés"
+    suitable_for_hair_type__brunette:
+      name: "Morocho"
     suitable_for_material_type__grout:
       name: "Pastina"
     suitable_for_material_type__plywood:
@@ -3693,6 +3717,8 @@ es-AR:
       name: "Viga o baranda"
     sweatshirt_pocket_type__zip_pocket:
       name: "Bolsillo con cierre"
+    sweetener_type__brown_sugar:
+      name: "Azúcar negra"
     swim_bottom_length__full_length/legging:
       name: "Largo completo/calzas"
     swim_cap_style__ponytail_design:

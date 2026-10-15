@@ -27,7 +27,7 @@ Session prompts per phase: `prompts/`.
 
 Only apply a batch after deciding every row in it.
 
-Filters: `--key <regex>` (key range), `--match <regex>` (base/override text), `--match-glossary`, `--exclude-glossary`, `--glossary-kept` (QA: glossary term kept without override), `--status stale|unreviewed|reviewed|all`, `--dedupe`. Split a scope into files with `--out-dir <dir> [--batch-size 400]`.
+Filters: `--key <regex>` (key range), `--match <regex>` (base/override text), `--match-glossary`, `--exclude-glossary`, `--glossary-kept` (QA: current text still contains a glossary term), `--status stale|unreviewed|reviewed|all`, `--dedupe`. Split a scope into files with `--out-dir <dir> [--batch-size 400]`.
 
 ## Glossary
 
@@ -41,6 +41,10 @@ terms:
 ```
 
 `pnpm --silent run vocab --offset 0 --limit 2000 --out /tmp/vocab.tsv` lists distinct base words (`word⇥count⇥example⇥in glossary`) to build it.
+
+A fix you make in one row reaches other keys only through the glossary. When you replace a base word that is not a glossary term because it's wrong for the locale (not a one-off mistranslation), add a term for it.
+
+`pnpm --silent run harvest` is the safety net: it lists words replaced in any override that still appear in other keys and are neither glossary terms nor in `overrides/<locale>/harvest-ignore.yml` (`removed⇥replacements⇥swaps⇥residual keys⇥status⇥examples`). Resolve each row: add a glossary term and review its matches, or add the removed words to `harvest-ignore.yml` with a note when the swap was a one-off. `mark-reviewed` refuses to run while candidates are open, and `check` reports the count.
 
 ## es-AR rules
 
